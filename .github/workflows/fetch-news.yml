@@ -1,0 +1,56 @@
+# GitHub Actions 工作流：定时采集国际新闻
+# ============================================
+# 触发方式：
+#   1. 定时: 每天 UTC 02:00 / 08:00 / 14:00 / 20:00
+#      (对应北京时间 10:00 / 16:00 / 22:00 / 04:00)
+#      确保每天早上本地 08:00 运行前已拉取最新新闻
+#   2. 手动: 可在 Actions 页面点击 "Run workflow" 手动触发
+#
+# 工作原理：
+#   在 GitHub 服务器（境外）上运行 fetch_news.py
+#   通过 Google News RSS（无需 API Key）搜索国际新闻
+#   结果保存到 cache/ 目录并自动提交回仓库
+
+name: Fetch International News
+
+on:
+  schedule:
+    # 每天 4 次，覆盖所有时区
+    - cron: '0 2 * * *'   # UTC 02:00 → CST 10:00
+    - cron: '0 8 * * *'   # UTC 08:00 → CST 16:00
+    - cron: '0 14 * * *'  # UTC 14:00 → CST 22:00
+    - cron: '0 20 * * *'  # UTC 20:00 → CST 04:00
+  workflow_dispatch:        # 支持手动触发
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch international news
+        run: python fetch_news.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "news-relay-bot"
+          git config user.email "bot@news-relay.local"
+          git add cache/
+          # 只有有变更时才提交
+          if git diff --cached --quiet; then
+            echo "No new news to commit"
+          else
+            git commit -m "chore: update news cache $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

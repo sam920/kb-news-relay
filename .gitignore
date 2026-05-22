@@ -1,0 +1,7 @@
+# 缓存目录保留，但其中的 .gitkeep 除外
+cache/*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo

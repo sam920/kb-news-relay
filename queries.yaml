@@ -1,0 +1,15 @@
+# 国际新闻搜索关键词配置
+# fetch_news.py 会在 GitHub Actions 上据此搜索 Google News RSS
+# 修改此文件后 push 即可生效，无需修改 Python 代码
+
+鹦鹉养殖:
+  - "parrot CITES conservation"
+  - "parrot breeding news"
+  - "psittacine artificial insemination"
+  - "parrot genetic research"
+
+肽类产品:
+  - "GLP-1 drug FDA approval"
+  - "peptide therapeutic clinical trial"
+  - "semaglutide tirzepatide news"
+  - "GLP-1 obesity diabetes new indication"
