@@ -1,5 +1,5 @@
 # 缓存目录保留，但其中的 .gitkeep 除外
-cache/*.json
+# cache/*.json  — 不移除：JSON 文件需要被 commit 到仓库
 
 # Python
 __pycache__/

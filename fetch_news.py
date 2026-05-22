@@ -9,113 +9,76 @@
   3. 去重后保存为 cache/YYYY-MM-DD_{topic}.json
 
 注意：
-  - Google News RSS 无需 API Key，但需能从境外服务器访问
-  - GitHub Actions 的 Ubuntu 运行环境满足此条件
-  - 此脚本不在本地运行，只在 GitHub Actions 上执行
+  - 使用 feedparser（而非手写 XML 解析），兼容 Atom/RSS 多种格式
+  - Google News RSS 无需 API Key
 =================================================="""  # noqa: E501
 
-import os, json, hashlib, re
+import os
+import json
+import hashlib
+import re
 from datetime import datetime
-from xml.etree import ElementTree
+
+import feedparser
 
 CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cache")
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 
 def fetch_google_news_rss(query, max_items=5):
-    """通过 Google News RSS 搜索新闻（无需 API Key）"""
-    import urllib.request
-
+    """通过 feedparser 解析 Google News RSS"""
     results = []
+    import urllib.parse
+
     encoded_query = urllib.parse.quote(query)
     url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en&gl=US&ceid=US:en"
 
     try:
-        req = urllib.request.Request(
-            url,
-            headers={"User-Agent": "Mozilla/5.0 (compatible; NewsRelay/1.0)"},
-        )
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            xml_data = resp.read().decode("utf-8", errors="ignore")
+        fp = feedparser.parse(url)
+        if fp.bozo and fp.bozo_exception:
+            err = str(fp.bozo_exception)
+            # "not modified" 不算错误
+            if "not modified" not in err.lower():
+                print(f"    feedparser bozo: {err[:100]}")
 
-        root = ElementTree.fromstring(xml_data)
-        ns = {"": "http://www.w3.org/2005/Atom"}
+        for entry in fp.entries[:max_items]:
+            source = ""
+            if hasattr(entry, "source") and entry.source:
+                source = getattr(entry.source, "title", "") or ""
+            if not source and hasattr(entry, "author_detail"):
+                source = getattr(entry.author_detail, "name", "") or ""
+            if not source:
+                source = getattr(entry, "author", "") or "Google News"
 
-        # Try Atom format first
-        entries = root.findall(".//{http://www.w3.org/2005/Atom}entry")
-        if not entries:
-            entries = root.findall(".//item")
+            snippet = getattr(entry, "summary", "") or getattr(entry, "description", "") or ""
+            snippet = re.sub(r"<[^>]+>", "", snippet).strip()[:300]
 
-        for entry in entries:
-            if len(results) >= max_items:
-                break
-
-            title = _get_text(entry, "title")
-            link = _get_text(entry, "link") or _get_attr(entry, "link", "href")
-            pubdate = _get_text(entry, "published") or _get_text(entry, "pubDate")
-            source = _get_source(entry)
-            snippet = _get_text(entry, "description") or ""
-
-            if not title or len(title) < 10:
-                continue
+            pubdate = getattr(entry, "published", "") or getattr(entry, "pubDate", "") or ""
+            link = getattr(entry, "link", "") or ""
 
             results.append({
-                "title": title,
+                "title": (getattr(entry, "title", "") or "").strip(),
                 "source": source,
                 "date": pubdate,
                 "url": link,
-                "snippet": re.sub(r"<[^>]+>", "", snippet).strip()[:300],
+                "snippet": snippet,
                 "matched_query": query,
             })
     except Exception as e:
-        print(f"  [WARN] Google News RSS failed for '{query[:30]}': {e}")
+        print(f"  [WARN] feedparser failed for '{query[:30]}': {e}")
 
     return results
 
 
-def _get_text(element, tag):
-    """安全获取子标签文本"""
-    child = element.find(tag)
-    if child is not None and child.text:
-        return child.text.strip()
-    # Try with namespace
-    child = element.find(f"{{http://www.w3.org/2005/Atom}}{tag}")
-    if child is not None and child.text:
-        return child.text.strip()
-    return ""
-
-
-def _get_attr(element, tag, attr):
-    """安全获取子标签属性"""
-    child = element.find(tag)
-    if child is not None:
-        return child.get(attr, "")
-    child = element.find(f"{{http://www.w3.org/2005/Atom}}{tag}")
-    if child is not None:
-        return child.get(attr, "")
-    return ""
-
-
-def _get_source(entry):
-    """提取新闻来源名称"""
-    source = entry.find("source")
-    if source is not None and source.text:
-        return source.text.strip()
-    # Try <author> or <name>
-    author = entry.find("author")
-    if author is not None:
-        name = author.find("name") or author.find("{http://www.w3.org/2005/Atom}name")
-        if name is not None and name.text:
-            return name.text.strip()
-    return "Google News"
-
-
 def dedup(items):
-    """基于标题去重（简单哈希）"""
+    """基于标题去重"""
     seen = set()
     result = []
     for item in items:
-        key = hashlib.md5(item["title"].encode()).hexdigest()[:12]
+        title = item.get("title", "")
+        if not title or len(title) < 5:
+            continue
+        key = hashlib.md5(title.encode("utf-8")).hexdigest()[:12]
         if key not in seen:
             seen.add(key)
             result.append(item)
@@ -123,10 +86,10 @@ def dedup(items):
 
 
 def run():
+    import yaml
+
     date_str = datetime.utcnow().strftime("%Y-%m-%d")
 
-    # 读取 queries.yaml
-    import yaml
     queries_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "queries.yaml")
     with open(queries_path, "r", encoding="utf-8") as f:
         all_queries = yaml.safe_load(f)
@@ -139,34 +102,40 @@ def run():
         all_items = []
         for kw in keywords:
             items = fetch_google_news_rss(kw, max_items=5)
-            print(f"  '{kw[:30]}': {len(items)} 条")
-            all_items.extend(items)
+            if items:
+                print(f"  '{kw[:40]}': {len(items)} 条")
+                all_items.extend(items)
+            else:
+                print(f"  '{kw[:40]}': 0 条")
 
-        # 去重
         unique = dedup(all_items)
-        print(f"  → 去重后: {len(unique)} 条 (原始 {len(all_items)} 条)")
+        print(f"  → 去重后: {len(unique)} 条")
 
-        # 保存
         cache_file = os.path.join(CACHE_DIR, f"{date_str}_{topic}.json")
         with open(cache_file, "w", encoding="utf-8") as f:
-            json.dump({
-                "date": date_str,
-                "topic": topic,
-                "total": len(unique),
-                "items": unique[:10],
-            }, f, ensure_ascii=False, indent=2)
+            json.dump(
+                {
+                    "date": date_str,
+                    "topic": topic,
+                    "total": len(unique),
+                    "items": unique[:10],
+                },
+                f,
+                ensure_ascii=False,
+                indent=2,
+            )
         print(f"  ✅ 已保存: {cache_file}")
         print()
 
-    # 写入状态摘要
-    summary_file = os.path.join(CACHE_DIR, f"{date_str}_summary.json")
+    # 摘要
     summary = {"date": date_str}
     for topic in all_queries:
         cf = os.path.join(CACHE_DIR, f"{date_str}_{topic}.json")
         if os.path.exists(cf):
-            with open(cf, "r") as f:
+            with open(cf, "r", encoding="utf-8") as f:
                 data = json.load(f)
             summary[topic] = {"count": data["total"]}
+    summary_file = os.path.join(CACHE_DIR, f"{date_str}_summary.json")
     with open(summary_file, "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
     print(f"Summary: {json.dumps(summary, ensure_ascii=False)}")
