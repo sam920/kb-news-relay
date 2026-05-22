@@ -13,6 +13,10 @@
 
 name: Fetch International News
 
+# 显式授予 write 权限，使 git push 可以写入仓库
+permissions:
+  contents: write
+
 on:
   schedule:
     # 每天 4 次，覆盖所有时区
