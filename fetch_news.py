@@ -26,12 +26,19 @@ os.makedirs(CACHE_DIR, exist_ok=True)
 
 
 def fetch_google_news_rss(query, max_items=5):
-    """通过 feedparser 解析 Google News RSS"""
+    """通过 feedparser 解析 Google News RSS，自动检测中英文"""
     results = []
     import urllib.parse
 
+    # 自动检测是否含中文，选择对应的语言参数
+    has_chinese = any('\u4e00' <= c <= '\u9fff' for c in query)
+    if has_chinese:
+        locale = "hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    else:
+        locale = "hl=en&gl=US&ceid=US:en"
+
     encoded_query = urllib.parse.quote(query)
-    url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en&gl=US&ceid=US:en"
+    url = f"https://news.google.com/rss/search?q={encoded_query}&{locale}"
 
     try:
         fp = feedparser.parse(url)
