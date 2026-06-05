@@ -1,8 +1,16 @@
 {
   "date": "2026-06-05",
   "topic": "肽类产品",
-  "total": 24,
+  "total": 23,
   "items": [
+    {
+      "title": "FAQ: What Does the Medicare GLP-1 Bridge Mean for Pharma? - Pharmaceutical Commerce",
+      "source": "Pharmaceutical Commerce",
+      "date": "Fri, 05 Jun 2026 13:21:17 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNXy10RGtUVGs4UVlmamZPWEFadG9lTTZoUG5yVGgtRmh0OWdWNTNrZXlMTWo4NDQ1LUdOQjJLRXZmWHZCQmdlY2sxbGlMN1dITXRkWkdMdmF1X1RPeDd4amJ5LUlFNldEWl9jVVFWNC1ERlZwQlhvYkp0NmlKMDZZYV9oSWV3U3pRNFl1TUtqNktqTWJ1bXkxeUR6VjUyNFlvUlE?oc=5",
+      "snippet": "FAQ: What Does the Medicare GLP-1 Bridge Mean for Pharma?&nbsp;&nbsp;Pharmaceutical Commerce",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
     {
       "title": "Pharmalittle: We're reading about GLP-1 drugs and knees, FDA cell and gene therapy guidance, and more - statnews.com",
       "source": "statnews.com",
@@ -20,36 +28,20 @@
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
+      "title": "The Peptide Reclassification Everyone's Talking About: A Pharmacist's Take on What RFK Jr's Announcement Actually Means - Pharmacy Times",
+      "source": "Pharmacy Times",
+      "date": "Thu, 04 Jun 2026 17:58:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS0VUVHZjMlBKTjgtR3JOb2JtckJueS01eklHSkZmNW04WnU1WDFJSE1UOHEtZEJlVjdTS1FGeWhJNFp5ekxOY0FnenkzdXVPQ3lOWGRLZnZudnluMEdHcmxJcFItMWFFLVRwVmFucG5MYlFhNXRqdnFRU2lWWkxhN0xveWtScVhFV1ZUa25Kd1I1R1E4WDFlVllFTTRjUDdvOUVWQ0IyVW5fbnI5cGo0d1h3aHlhT3F2RnkzWnlxdzZlMURfZHFKUXVZUkI1QzFmYkEyNm0yRFBvUEpzbkdBRzZJMkhDemkw?oc=5",
+      "snippet": "The Peptide Reclassification Everyone's Talking About: A Pharmacist's Take on What RFK Jr's Announcement Actually Means&nbsp;&nbsp;Pharmacy Times",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
       "title": "An Experimental Weight Loss Drug Could Outperform Ozempic. Here’s What Makes It Different. - Health: Trusted and Empathetic Health and Wellness Information",
       "source": "Health: Trusted and Empathetic Health and Wellness Information",
       "date": "Wed, 03 Jun 2026 19:29:48 GMT",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOUVaUXJnTWtrdW9LN21uMHJ3TGJuUV9hT24tZDlvMWxLbVptdWdQWVVNQWdVOHdMVWFDcGNpYTdDeE5zcEtPanFmd3BqMlpGdmlPdHI4WHhnenBOR1pnUmozNmdVeWFfSjhvbmFYcjRUN1l2bTNCejFxZWIzalI1SlZ3?oc=5",
       "snippet": "An Experimental Weight Loss Drug Could Outperform Ozempic. Here’s What Makes It Different.&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information",
       "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "FDA approves Lilly's Foundayo™ (orforglipron), the only GLP-1 pill for weight loss that can be taken any time of day without food or water restrictions - investor.lilly.com",
-      "source": "investor.lilly.com",
-      "date": "Wed, 01 Apr 2026 15:33:55 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOay1xOERpNzdtOUpGbklyMHNtRnkyaDNxTVJRcHFwUVBmRFN2UjRsV3B4OGRzdlYzdjNvdVpEYTFselBRYmFkSVZUUUFGT0MzQVNjQUJtT3dlbjRvcmN0YW54SDJ0YmtaUDFkdTBKM0FTN1FKc3h5RWEweTRVWVVNd0diSWdkZkJRWW1HTTk5RVBpMVRuQm5HV2pvcl84VWxrWGhfaHlOLUVlcGx6UmVuTWxUZk15WWRRZXlocmR3?oc=5",
-      "snippet": "FDA approves Lilly's Foundayo™ (orforglipron), the only GLP-1 pill for weight loss that can be taken any time of day without food or water restrictions&nbsp;&nbsp;investor.lilly.com",
-      "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "Telehealth booms as demand for GLP-1s surges and questions mount about safety, oversight - Fierce Healthcare",
-      "source": "Fierce Healthcare",
-      "date": "Mon, 01 Jun 2026 16:39:54 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmE1ejkyRjRxb2ZZXy1MSVV4eUZleUU1c2pfSXdfWHZZMDl6Vk43anJ4cEZGMk11M3RibGE3MEtnNk5tTUdzb0ZiQWlZU1VQbGZHOVRCM2JYNjZiWWRWZzc0ZFRuUVJmNUhHbTlRcnAxWndJdzFjTldhdTBMempaNk1yOFA0TUVVUkhQeU40dURGOXhXeXNUaFhKNC13M1hHT01MZ1FnQ0xBY296bDgtMFlKY2xnSGd6UXY5VzFmQjFOZw?oc=5",
-      "snippet": "Telehealth booms as demand for GLP-1s surges and questions mount about safety, oversight&nbsp;&nbsp;Fierce Healthcare",
-      "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "The Peptide Reclassification Everyone's Talking About: A Pharmacist's Take on What RFK Jr's Announcement Actually Means - Pharmacy Times",
-      "source": "Pharmacy Times",
-      "date": "Thu, 04 Jun 2026 17:58:41 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS0VUVHZjMlBKTjgtR3JOb2JtckJueS01eklHSkZmNW04WnU1WDFJSE1UOHEtZEJlVjdTS1FGeWhJNFp5ekxOY0FnenkzdXVPQ3lOWGRLZnZudnluMEdHcmxJcFItMWFFLVRwVmFucG5MYlFhNXRqdnFRU2lWWkxhN0xveWtScVhFV1ZUa25Kd1I1R1E4WDFlVllFTTRjUDdvOUVWQ0IyVW5fbnI5cGo0d1h3aHlhT3F2RnkzWnlxdzZlMURfZHFKUXVZUkI1QzFmYkEyNm0yRFBvUEpzbkdBRzZJMkhDemkw?oc=5",
-      "snippet": "The Peptide Reclassification Everyone's Talking About: A Pharmacist's Take on What RFK Jr's Announcement Actually Means&nbsp;&nbsp;Pharmacy Times",
-      "matched_query": "peptide therapeutic clinical trial"
     },
     {
       "title": "FDA grants TearSolutions' NK peptide therapy two FDA designations - Eyes On Eyecare",
@@ -68,19 +60,27 @@
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "Peptides in practice: what it takes to advance these therapies to clinic - Drug Target Review",
-      "source": "Drug Target Review",
-      "date": "Wed, 24 Dec 2025 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbWtheUVnX1lLa3ZoRHRXemF0dGJ2d01JWG5rX0w2QWE1dXUzbXJzWF84MHFfVlNLSjV5WEQ4VGE5S2hQWk9VTzNybl90VlFaNzFsbGotbFpYbGJWTW12ODZtOXdmeDNDRlRCeExCVmlZMmxmdEE0X28zcmx0T2d4bTBjc2J0YVJjTEp0UE5lM3RIRVZ5N3BfcXJ0aThhQUFzV0xJX3IwZ3hJWVVQZWxGYTkyRFN6ZG5wV3pz?oc=5",
-      "snippet": "Peptides in practice: what it takes to advance these therapies to clinic&nbsp;&nbsp;Drug Target Review",
+      "title": "Peptide Therapeutics Market Size, Industry Share, Forecast, 2034 - Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "date": "Mon, 18 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3RvYVA2NFlvSGNsaEV0XzZlc1FZenJCOVJWU2ptMXUybXNOSlM5SEw0WF9LbFFzTEJxRUxKRnJnQUlZaS12Rnk1RndTOW94WDdDdDB5TzJzS19XN085OXN1Q2IyaEM2YTlXNmxnNW11TVB4bWZfbWxiNWlxSkVJZ3dxRU01MFJGdU1pbE9FN0duU1c4M2c?oc=5",
+      "snippet": "Peptide Therapeutics Market Size, Industry Share, Forecast, 2034&nbsp;&nbsp;Fortune Business Insights",
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "FDA wants to exclude weight loss drugs from a compounding list - statnews.com",
-      "source": "statnews.com",
-      "date": "Thu, 30 Apr 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZkcwV0JwOHI2UWo4enVJZ3poUTlKLVhLZVBIcEZhQTNEUmtOQWlPQzRiLWw2bGptX2Y0Qmh2SW9DU0s5bFlMQ0RGNkF1TXFVN1dLd3hXeTFNWmdPM1N4ejZoQ2RDRHRUYW1RMlZlU2U0VUxhUFBHN003dkFOMUl1cF8yenZWYzVsb3Z1OUdiSTlMZGx1cVhMdGRMaC1aekEwMmtGRFc0cnp5a29MM2ZDMw?oc=5",
-      "snippet": "FDA wants to exclude weight loss drugs from a compounding list&nbsp;&nbsp;statnews.com",
+      "title": "FDA Moves to Permanently Close the Door on Compounded GLP-1s - Pharmacy Times",
+      "source": "Pharmacy Times",
+      "date": "Fri, 01 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkZROTRTZDdRWVFfcmJyNU0zT2xnTTJGYUhfX2RVbURFd0F3WmxYa25hLVN2VGtQRVVMeFpEZnBmeV8tYlQ5TENaNUVYaXI2eFJ4QnpwQWktYW5Va2M5bkFFRXNhWGszdWlteFBhMzJvSmRvMk5KbURXQ3ZrbWRwdlBuelZ3YWRGUmhiRVVBa1JqUWlrTHlVcTNDQQ?oc=5",
+      "snippet": "FDA Moves to Permanently Close the Door on Compounded GLP-1s&nbsp;&nbsp;Pharmacy Times",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "Semaglutide vs. Tirzepatide: Which Is Better for Weight Loss? | U.S. News - US News Health",
+      "source": "US News Health",
+      "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTYzM0U1cW5GWXUxVGtHZjFQMnJLU0hKdVRUNW9wOHNBUUhRZkRza3o1Sk9sdlU3cWdla2tLRVd0MERGLUNyZHMxSUhFbjRTak03TVhjMGgyYW41ZWctZ2xYN1p3YlVjc3JDYjBobm5yTHVrdkhpc3lvV2xPbGp1UWdtaXlVd09hY2c?oc=5",
+      "snippet": "Semaglutide vs. Tirzepatide: Which Is Better for Weight Loss? | U.S. News&nbsp;&nbsp;US News Health",
       "matched_query": "semaglutide tirzepatide news"
     }
   ]
