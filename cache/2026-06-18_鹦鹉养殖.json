@@ -1,48 +1,8 @@
 {
   "date": "2026-06-18",
   "topic": "鹦鹉养殖",
-  "total": 37,
+  "total": 31,
   "items": [
-    {
-      "title": "Nearly a million birds shipped from Africa to Asia in 15 years; canaries top the list - news - Mongabay",
-      "source": "news - Mongabay",
-      "date": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa1RrUnRGdmhmUGJ5ckJORS1yalBudmhTek1BbmxaeDRTQkp4NTctX2Z1WkJHcGk5NFJleXZjTllOUERxQmV1WWV2bndObnR3ajRobWh1bzVzSU1MQW01aHI3Y3pla01UNmNVY1B4MFFXUlpvVGYzWWpjekx0dm00RTBtbjByLWEtOEpEWGRLVnEtcExnVUFsRXlPZUtjdXd6SE9JS2JjS2hGSmpiV01iTUEzMEVfV2JKaVBR0gHAAUFVX3lxTE10a01lcWhwVTJfWlhQcjVUaTg5Q3pZNUpxQkFJUDdjNkxVTWZleUJQaEhHTS1vNVlNc2Jlb2MtbnMzc2JBMHlHMDJ5S2VYMFZ3Uy1OY05RR0steXRic1lVT1p6OW9lTkZVV3lKWDdzN2h1ZnpSRG5CTUJUTDBfZjZoQko4Qjk4bFFOMV83bFZSN2doS3VJVVkxUVZMeXRXQ3Y5MjhHSmNxdm5LWjY2M1NlSnNYUkM0QnViS3ZXTjUwLQ?oc=5",
-      "snippet": "Nearly a million birds shipped from Africa to Asia in 15 years; canaries top the list&nbsp;&nbsp;news - Mongabay",
-      "matched_query": "parrot CITES conservation"
-    },
-    {
-      "title": "Global trade in wild birds is poorly monitored – the risks to wildlife, ecosystems and human health - The Conversation",
-      "source": "The Conversation",
-      "date": "Wed, 08 Apr 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUR6VWc0SnhyTk91ZjRZNk1HOFNfa1R2c1k1Wkl4d29QcThwaE5XRGR0QjhKdzA5ZkE0UTVuRGdvdWxSUEdUZi1FZ0lVRzFKZnVzX1RSSmxvWjR3ZDd0aklJUkFKUzhvQS1tTmhqYm53Z1lScWNfWGZxTkRkZmZEdmdvQnFjTFlySFFldHZITng2V081RWloLXZHalBOLTk3MlpkWmFmWHYxLWZsMVdhMkdYQ01CRXBveG56NGtHLUdTZlY5VmhUZjRMQQ?oc=5",
-      "snippet": "Global trade in wild birds is poorly monitored – the risks to wildlife, ecosystems and human health&nbsp;&nbsp;The Conversation",
-      "matched_query": "parrot CITES conservation"
-    },
-    {
-      "title": "Saving Africa's grey parrots from the illegal wildlife trade - International Fund for Animal Welfare | IFAW",
-      "source": "International Fund for Animal Welfare | IFAW",
-      "date": "Wed, 20 Aug 2025 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQekFZUlpBOHd2SFZGUXY1Y2hVMGFrcE9YRXh1WHAzc3VCTThObGpKX0pxZTlieDFOUXA3QkpkbzRwSWI5dDVsLS11NW1kdF9vVEdSTkNQaW9majZxRDFrLUF0YjJHaE5xUjNxSXhqUFVBZkVDc1JubHdfOWhoZTZFd3R0R1c?oc=5",
-      "snippet": "Saving Africa's grey parrots from the illegal wildlife trade&nbsp;&nbsp;International Fund for Animal Welfare | IFAW",
-      "matched_query": "parrot CITES conservation"
-    },
-    {
-      "title": "Feathers fly in dispute over Ambani zoo's pursuit of rare parrot - Reuters",
-      "source": "Reuters",
-      "date": "Sat, 20 Sep 2025 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTFJvcGFCVnVMcjM1QzhBTkppQ050X09QWmZxTkRQNjdiS2hKVHlGcG5jWi1BQkFsRDNVTVA5TXlpTUdmNUNuUi1ob3BuOUIycDlVaFBGUXBPOFRDdmhMZkc1cGdTY3BRZks0UF9WZURBSnAwMnAzRjhFQUktY00wVDhpWjZCaG9OaUxKU21ScGZ4OW9NclJnM0dpZ25iRzg4MXViOTdpNGQxc2l2aWlvai1rTmFOYlcwOW5sTU9JS3Y0ME4yUFh2TnVYOTVUZw?oc=5",
-      "snippet": "Feathers fly in dispute over Ambani zoo's pursuit of rare parrot&nbsp;&nbsp;Reuters",
-      "matched_query": "parrot CITES conservation"
-    },
-    {
-      "title": "DRC finally moves to protect African gray parrots from unsustainable trade - news - Mongabay",
-      "source": "news - Mongabay",
-      "date": "Tue, 23 Sep 2025 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcEp5R3N4ZUV6YnJNcnEteVc5bUZWX0xrX0l6WHVhZWU4M0psQWFHRTJvYmh0WVQ3WlgwSGVRNEpiYTUyTk4takZwcnFQQkxhNnR5OG9BcDY1UlUzanE5WThZMUlJSUgxYkVPbFpET2tVOElkYUhZaWVhVXppd3NuSUJRQjhvaG9LMTlLN3NaMTM4MzdOS0tnNTlMSnRmenptdFBKZVh1dF9vV1g5QUVGTjdQYTRWOHJDaHItaVprMNIBxAFBVV95cUxNb2wwYXhvOFJPRE9OMC14QmVmRkVvTnUxRUcxVDRqVVZRNVdGa3ozSUlNQTh3dkpsdWcxaUxDb29Xc0J2X1dqaEhIei05UXFuUUFuQ0JvNXAxTlFGeTlVTXBkZHQ5M1hOQlpCNEpncXN4YndzZVo4dDF0ZXgtRUNIdWR5bllNQUxndDJRNGczN3VFdmVhTGZCYmt5NU1Ibnp4S3I5cHhVdmM1czAtNHU4VmFqMml6NXhWckNVb3ZQZV95M011?oc=5",
-      "snippet": "DRC finally moves to protect African gray parrots from unsustainable trade&nbsp;&nbsp;news - Mongabay",
-      "matched_query": "parrot CITES conservation"
-    },
     {
       "title": "Hirakud wetland sees rise in bird breeding - The New Indian Express",
       "source": "The New Indian Express",
@@ -68,6 +28,14 @@
       "matched_query": "parrot breeding news"
     },
     {
+      "title": "Public Needed for California Bird Breeding Map - Mirage News",
+      "source": "Mirage News",
+      "date": "Sat, 30 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUHhnR0dOUW9uWExWVlY4RXFrbl9YZl9zbDdvNzJZcFplYUhFRE5WNDZhWkJqbXRIRHFCdVBFVjBFVkZMbzVQMHg1MUdUWUZXRlJKZFpxQzFWd2JTMERJV01waUZQRk5zRF9haVprdjRobXI0Ty1qM0lqU2FUMGM0dTQtUnBNVDJGWkE?oc=5",
+      "snippet": "Public Needed for California Bird Breeding Map&nbsp;&nbsp;Mirage News",
+      "matched_query": "parrot breeding news"
+    },
+    {
       "title": "A bumper berry harvest has New Zealand's weird flightless parrot in a rare mood for romance - AP News",
       "source": "AP News",
       "date": "Tue, 24 Feb 2026 08:00:00 GMT",
@@ -76,12 +44,44 @@
       "matched_query": "parrot breeding news"
     },
     {
-      "title": "Invasion of the Parakeets review — Chris Packham’s defence of our noisiest birds - The Times",
-      "source": "The Times",
-      "date": "Mon, 15 Jun 2026 19:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON3BkeG1TTW8zbFNvQTIzVHZmS25rd2tSSk9uS0xzaFRqc1FWNW1JVVFOZUhvLWM1aU5PY1RNSzNKa0FydC1sSzZ5d0F4ZDRsSlBNTTRNVXEtbjlfSlhMTkR0aUZPdG1BSWpqM3N4ZW1SbW52VGdVU0pQSnpUdEQ3N0Y5cDZPWG5RWXdhZklDemNMVmNweFBWa1BwMThlUkFNSVhNR0x5eUNSeHRlUlJiRmh6NjNFREhCUm9kZDFjU3ZzWlJ6WVN3VEFR?oc=5",
-      "snippet": "Invasion of the Parakeets review — Chris Packham’s defence of our noisiest birds&nbsp;&nbsp;The Times",
-      "matched_query": "parrot breeding news"
+      "title": "A novel method for semen collection and artificial insemination in large parrots (Psittaciformes) - Nature",
+      "source": "Nature",
+      "date": "Tue, 25 Jun 2013 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1WEkwclNSUGJfelZ4STM3LWl3cFFLNXpHd1c5VXlMY0Q4ZFd6LUFlcFd6clBlTlJYZ1pKM3pyRmh0elcySTQyZm1rZEJzRzhSZ3dr?oc=5",
+      "snippet": "A novel method for semen collection and artificial insemination in large parrots (Psittaciformes)&nbsp;&nbsp;Nature",
+      "matched_query": "psittacine artificial insemination"
+    },
+    {
+      "title": "Ancient DNA and spatial modeling reveal a pre-Inca trans-Andean parrot trade - Nature",
+      "source": "Nature",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRN21KSm1UaHFlNTZ4NWVCRkNHNkVJbS1fdFlsdTdqdkJQYlE0TFk0eDBVMXNqNkJsM3Yzekx2QVowb2NWY1FEVzA1RlU0ZDl6bXhOQURybGRwXzlaYW13?oc=5",
+      "snippet": "Ancient DNA and spatial modeling reveal a pre-Inca trans-Andean parrot trade&nbsp;&nbsp;Nature",
+      "matched_query": "parrot genetic research"
+    },
+    {
+      "title": "Analysis of ancient parrot DNA reveals sophisticated, long-distance animal trade network that pre-dates the Inca Empire - EurekAlert!",
+      "source": "EurekAlert!",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CeEstSFBKMDljZXprWDUwdTBFSEdfRGpaOGFJclAwRnlKNWo2RzNBMEw4WVBkSnVYc1h6c2lxZFlUTmVrdS1TbldjMnVwdnBMeFFjQWNoTzFkRUg3aGc?oc=5",
+      "snippet": "Analysis of ancient parrot DNA reveals sophisticated, long-distance animal trade network that pre-dates the Inca Empire&nbsp;&nbsp;EurekAlert!",
+      "matched_query": "parrot genetic research"
+    },
+    {
+      "title": "To save its unique and rare birds, New Zealand is turning to AI and genetic research - NPR",
+      "source": "NPR",
+      "date": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGRibThqUDl4aFFhS29MbVdmQkM5OVdPcV9hdVFQc0g2OHJrX3VFQW44YnUtY0hDMXF2RXQxZjQ3eFVXMFFobHByakFvUkxJVzE1ekdyczFRWjE5T2hzMFdLN2M0MHFaMjFOT3hWQUx3WkRPZktUQVotSWYwWlRYWVJLdE53ODdtT21NMG5GWklYeUl6aVc0LTFEQmVqZVhTOXF0ODZVTjhKUXJiZ2RRckdFNG1GUDRPWXc?oc=5",
+      "snippet": "To save its unique and rare birds, New Zealand is turning to AI and genetic research&nbsp;&nbsp;NPR",
+      "matched_query": "parrot genetic research"
+    },
+    {
+      "title": "Phase 2 of NMSU professor’s bird genome research reveals new methods - New Mexico State University",
+      "source": "New Mexico State University",
+      "date": "Fri, 10 May 2024 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnYwZ2JYbDM3cjhuY1QyUkJLUFBrWEFCdGNza242QkxkN2JsWm1mQWx1WVg4RWhrRU1RVDFKblNwNEpaTldQYW5UVDQ4dVV5UUJkYkQ0c1Z0YTNOdm8yeUFaS1JDS0tQOTBwakpDR2Z1ZGtsQzNQWFpacmR3d0lkTFZmdGxrQkFRckRsUmxOWm9Ydk5JZTBCX3l4Umx2bC1aZnI1NFducjdnSXpTQ0o0cTVnbGtycjZfakpkLXZjX0VMemJZZF9pN1ZqREVRZXM4bXZOMw?oc=5",
+      "snippet": "Phase 2 of NMSU professor’s bird genome research reveals new methods&nbsp;&nbsp;New Mexico State University",
+      "matched_query": "parrot genetic research"
     }
   ]
 }
