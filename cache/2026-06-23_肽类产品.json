@@ -1,6 +1,87 @@
 {
   "date": "2026-06-23",
   "topic": "肽类产品",
-  "total": 0,
-  "items": []
+  "total": 25,
+  "items": [
+    {
+      "title": "Eli Lilly gave extraordinary obesity drug access to a 79-year-old patient. Who was it? - statnews.com",
+      "source": "statnews.com",
+      "date": "Tue, 23 Jun 2026 08:41:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaW95MjB3ZHFsVEgyRlFhQzFnTUluQjFnT2YybzdyM2hucGxEVFAzcXBZbGdRODJ1dUN5OFZJd3FPNHk2ajRCaHhYejVydUNfaUJERU1kUkRFRENRcThkV01EQU5WZlFzM09lVGQwQk9fblIxS211bWt4eG9qdlNqOU00MEtQUTAzMXNEb3BGNUNGYUpHX05aVkNIUHRNN0RqOThnLUR0YnNRdTdZQmU0ZWduRQ?oc=5",
+      "snippet": "Eli Lilly gave extraordinary obesity drug access to a 79-year-old patient. Who was it?&nbsp;&nbsp;statnews.com",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "GLP-1s took drug compounding to a new level. Empower Pharmacy cashed in. - Houston Chronicle",
+      "source": "Houston Chronicle",
+      "date": "Tue, 23 Jun 2026 11:05:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUxBSVR0cFc2M1hSYWRUdmFHcDh1QkxScXBOdFhuMmVhTGxEY0NUd1I5SUx1RDdMM1ZFRXdVdE5KRlJfNll3RnRMNWQ3NEREUjk1U2w4YldXd0xIaXNiX2UzWWlMZ2dSWVQ4OE9kYjNRcjZlNi1wN3U1TXZfT0JfaGV0Y01hSnRTNUp6U3hwQS1GTmVwVktpUGRYaGVnSlFSTkl2UFE4ZVpLRjJvaTRjaWNB?oc=5",
+      "snippet": "GLP-1s took drug compounding to a new level. Empower Pharmacy cashed in.&nbsp;&nbsp;Houston Chronicle",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Weighing the risks and benefits of GLP-1 drugs for kids struggling with obesity - CBS News",
+      "source": "CBS News",
+      "date": "Tue, 23 Jun 2026 12:15:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWpHZkU3R0hkTTlXMVJob09HcTlGaThpZjFqZGhBRmVxaXN6bUU3bURleHVFbUQ1TUJhOHpkREE4TG9SRDAxTnBGdTlRWWd6QnZuc3ZZaHBneU1jTlpjcC1QTC1jLWRYTXB6YU9JVmhJbE8zVEdzMkVBZ1RrTUMyVW5nOUQ3SUZoVGFUN0RBR2FoMURLb3I2NlZlWGJYX2pWbGFOSUdxTUowU1pqOXJj?oc=5",
+      "snippet": "Weighing the risks and benefits of GLP-1 drugs for kids struggling with obesity&nbsp;&nbsp;CBS News",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "FDA’s Focus Returns to Compounding and Telehealth: Another Wave of Warning Letters - JD Supra",
+      "source": "JD Supra",
+      "date": "Mon, 22 Jun 2026 17:52:52 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHBEOWNvN1lkZUtreTc3M3BFMXhPY2dTeVhiLVgwdFFrZkpZZjdLN3JEalg1WWxGSXRaOFJVOEJ3Y2liNTI3NFlUWTlnR19LVGJ2ay01cDlfZ0pIcjR1Y1FsWTBWeDlyNU1xdHhmUEh5RHBocnVnb3EyR1g1U2tKYzBFYk51b3Fh?oc=5",
+      "snippet": "FDA’s Focus Returns to Compounding and Telehealth: Another Wave of Warning Letters&nbsp;&nbsp;JD Supra",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Which GLP-1 medication is most effective for weight loss? - UGA Today",
+      "source": "UGA Today",
+      "date": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRemcxTFR3U0ZoS2xiNTN5b1o4eFVuNVRLMG9PTmFlMjNYZWhIUGFTN21Oc09qYkk5RU1MYnhTSHhyUUs2SVdoVHRFYUlTU0xEMjk0NHI2TFdiQjBpSnB0d2I2bDZ2R0YwVmdkdTY3NHZocDNLVWc?oc=5",
+      "snippet": "Which GLP-1 medication is most effective for weight loss?&nbsp;&nbsp;UGA Today",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "LG AI Research, D&D Pharmatech Partner to Advance AI-Driven Oral Peptide Drug Discovery - BioPharm International",
+      "source": "BioPharm International",
+      "date": "Wed, 17 Jun 2026 15:56:12 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORnE2R2Z5UTk2M1hOamRKMGhHcGl1SGVfd0FDZzljRFVfZkcxN0pyTmtBLUtvdjFCQjcxUzRaalpHM2dnRkxtQll2NnhSQXdlWUV2VUhBblV4RlNzVE1KSHNNVmQxQ3VRX3RmR0JGRUxJREwzQWZnSVNWUjIwOFRpWC1abkhlOGVwSE1YWENnUEVLcTFmZ1BYSHFkRzNzNkUzd3BWS0poeVJDXzV0bTN0R1RwaHVCOUhrXzF5UGR3ZEJLb3RCTWwxRg?oc=5",
+      "snippet": "LG AI Research, D&amp;D Pharmatech Partner to Advance AI-Driven Oral Peptide Drug Discovery&nbsp;&nbsp;BioPharm International",
+      "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "Kither Biotech successfully completes Phase 1 clinical - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "date": "Fri, 19 Jun 2026 07:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNXNRQ2tST3RkNzNYckZHWWlNWmhEa1dueWVEVm1UQTFXNVNUczlZcEotYzJOLVM1cU5EVDdHY01LWE1IMFBvMzB4YWZWalhWX0VJUjQ4S1BaanJMUkV3cHVocG5TUS1rNW9ZckpyanBqWUhwUEdlOGlkNlBGY0NIX1hReFJQX1VMUk04VlJhSVhhR3NCMDVIa0RqMEk5Vy0xVHg4SXo0ZlVqQml1SEsxeXpoYmhCVWhTV0hrRzZRUm1IMVhwWWkyVURMYXRnQTRQNDRsRzNkc1poRE5icURqcG1Qb3dWcHZvTlgzNy0yLVRFQU4zUkNiaWxPWDFKZ0hDVklBU3pIanIza01xQU1ZNlREczUzOENyWEt5aXl2eUFoakVYN0tj?oc=5",
+      "snippet": "Kither Biotech successfully completes Phase 1 clinical&nbsp;&nbsp;GlobeNewswire",
+      "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "Peptide drug conjugates: How the Indena and Chemi partnership is delivering - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
+      "date": "Fri, 12 Jun 2026 10:12:43 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb2VvRlpSSEFRT3V1OVFCM0ZHaXVuRVFDMVRkWlNGcl9GdGN4NnB1WEpZdnd2dHZoeXdMdFFkWVh3T21pZjlCRjB4elVycG9PY0tUWGJyX0FTdjRCYzJURGFadkQ5d2RSQ3hKeEszemFvSDk4bHpfNGVlSllOVl9PLU1NN2c3NndaemUxVEQ5Vy1oT2prWHNxUWFXbnJWRTNKT3dEbmZZV0JKNXZjNkVmS1loa290LVZxTWNnR1BR?oc=5",
+      "snippet": "Peptide drug conjugates: How the Indena and Chemi partnership is delivering&nbsp;&nbsp;Clinical Trials Arena",
+      "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "FDA grants TearSolutions' NK peptide therapy two FDA designations - Eyes On Eyecare",
+      "source": "Eyes On Eyecare",
+      "date": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2o2RGJxclRuSXBPSE1nZlZ4cUpUVVZzWGNMUGxMdjItVXp6aGhaQlphNWdJaXZoMlZJczR1b29SV3hUYkhrUHlXZGhLM3RNT2NqV3dwVjJkT2ppVW1SRGE1OWxkLUhnem1IUmI3Y1o2c29teGYyNnZTVlhmTDIxalYtOWlrZXBpSTBZcTBYR2pWekQydUg0ajJHY3FoZWNILWRGeWxLR1l2Q0pxc2dDTlp0MGxDRzI5?oc=5",
+      "snippet": "FDA grants TearSolutions' NK peptide therapy two FDA designations&nbsp;&nbsp;Eyes On Eyecare",
+      "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "Peptide Therapy for Weight Loss: Separating Clinical Promise From Social Media Hype - Pharmacy Times",
+      "source": "Pharmacy Times",
+      "date": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONk0wSUoyWFlNSmlPemxvckZnNjh3TzZsYjBLeERrUG5ZaGRpOHJfRzlZeTM1b3dGNEI0eWduTktJZjZ5UDYyc2x3d3lQVDBVTjZGTzVpNjJacFVEQ2hOUXI3VTJacnhEMmNJcm45T213dW1QU2tZYkgwQWw5bnd4dXlYZTZxYS1FemFRaERHcmVXSl9OZlBxT1Qwbi1nMGk2SDdiYkdBUFVULXFoQlM1LUViNVRCRGc5?oc=5",
+      "snippet": "Peptide Therapy for Weight Loss: Separating Clinical Promise From Social Media Hype&nbsp;&nbsp;Pharmacy Times",
+      "matched_query": "peptide therapeutic clinical trial"
+    }
+  ]
 }
