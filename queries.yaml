@@ -23,6 +23,23 @@
   # 中文搜索
   - "GLP-1 多肽药物 审批"
 
+蛋白质产品:
+  # 抗体与重组蛋白
+  - "monoclonal antibody FDA approval"
+  - "bispecific antibody clinical trial"
+  - "ADC antibody drug conjugate news"
+  - "recombinant protein therapeutic approval"
+  - "biosimilar approval"
+  # 多肽与GLP-1（保留）
+  - "GLP-1 drug FDA approval"
+  - "semaglutide tirzepatide news"
+  - "peptide therapeutic clinical trial"
+  # 中文
+  - "抗体药物 审批 临床 2026"
+  - "生物类似药 上市 进展"
+  - "重组蛋白 药物 研发"
+  - "GLP-1 多肽药物 审批"
+
 疫苗产品:
   # 审批与管线
   - "vaccine FDA approval clinical trial"
