@@ -1,8 +1,24 @@
 {
   "date": "2026-07-01",
   "topic": "疫苗产品",
-  "total": 66,
+  "total": 67,
   "items": [
+    {
+      "title": "FDA Moves to Real-Time Clinical Trial Patient Monitoring, Faster Drug Review - Vaccine Advisor",
+      "source": "Vaccine Advisor",
+      "date": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPREdYUW1fZXNpdWtucGxYWG5CZGtmSHl5ZTdzbGVVZ293V3JqTFB0amVEejYwM2t0cWdJdDEweExoSXJwOVgzQnY2czFITnNuVE9QR0lpRFRuYUU2eV9PeGNOZk5ndzIxbVhweWNuc1ZLXzVxUXc2S1czbVpSSDNhdTB2WXNiS3hGd09tZTE0ZjVHMXFFZllHeF9PZW1VWXRXcG9wdHU2YVZHRTFtTXM0Mmpn?oc=5",
+      "snippet": "FDA Moves to Real-Time Clinical Trial Patient Monitoring, Faster Drug Review&nbsp;&nbsp;Vaccine Advisor",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials - National Foundation for Infectious Diseases",
+      "source": "National Foundation for Infectious Diseases",
+      "date": "Mon, 13 Apr 2026 17:41:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT001QWxiSzFoVEhjcE9kTlVVMXJwYkl5N0hqVjZfZ3ZFQW4wTlNCOWJrNWp2TXljd0NqODRISEZCMDBYVGlvS0xld3hhaE1xQS15dm5ibTJkZTFZd2Y2UEh3MldSa0Q2T0JPXzc3Y0NUWEFqd01Za19hMHBwNEJXX0Q5X29meDVMb2RDR0pxazZxdXM?oc=5",
+      "snippet": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials&nbsp;&nbsp;National Foundation for Infectious Diseases",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
     {
       "title": "Former FDA Commissioners Warn New Vaccine Policies Could Undermine Longstanding Regulatory Framework - Applied Clinical Trials Online",
       "source": "Applied Clinical Trials Online",
@@ -20,14 +36,6 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "FDA To Offer Cash Bonuses for Faster Drug Reviews - Vaccine Advisor",
-      "source": "Vaccine Advisor",
-      "date": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUV9FcHNWZWZacFlRMnZQeVgyWVRuamVtTUhjRjFIT3M0ZnhsZkMzREVRUlgtenBSTVkwcDNHZm9ja3dJWUx5RUdqaHhhYldqaWh4TEVKUWhjZ0lMU0w5ZnZfcEJBSnluSWtDM0JQd2phb3AwZkl1NGZ5cGRYRFhQcXo3aE5zTkhVQWhIa1Mzdw?oc=5",
-      "snippet": "FDA To Offer Cash Bonuses for Faster Drug Reviews&nbsp;&nbsp;Vaccine Advisor",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
       "title": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss - CNBC",
       "source": "CNBC",
       "date": "Mon, 23 Mar 2026 07:00:00 GMT",
@@ -36,12 +44,20 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Lyme Disease Vaccine - Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "date": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tNjlKWWliNVIzSHlDRVB6alhSd3RKeTRlQy1nc19MTTBkRnNoMVlrVHBxNWtRRHp3d2VWOWY4UnRjeFpQb3FKVmtfV3BuaVZZS2VaUnNnUWxvYkdMN3lFRG5ib2x3eHM?oc=5",
-      "snippet": "Lyme Disease Vaccine&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)",
-      "matched_query": "vaccine FDA approval clinical trial"
+      "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
+      "source": "Nature",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
+      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
+      "title": "mRNA vaccine - Encyclopedia Britannica",
+      "source": "Encyclopedia Britannica",
+      "date": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QSWVxRERHcDFCMUNiWDEtdzF4QWVrc1NTX3ZDWGcyMnBFemxUZTRLa2xWSVJQcVdNU3RNNktpUXFxYXpYZUUtamNUcm9WY09oZVgtc3ZHSHdPNGM?oc=5",
+      "snippet": "mRNA vaccine&nbsp;&nbsp;Encyclopedia Britannica",
+      "matched_query": "mRNA vaccine new development"
     },
     {
       "title": "mRNA vaccines follow unconventional immune path to destroy tumors - WashU Medicine",
@@ -52,35 +68,19 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
+      "title": "U.S. rejection of new mRNA flu vaccine 'sends chills,' epidemiologist says - PBS",
+      "source": "PBS",
+      "date": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUF95dl92RjVUNDRXeUUyN3JvMTMxaUEwc01TVDhiSTk2X003YVhaaUZzLUZlVEw2QVdkUnZHcl9yTjQ0Q2FtMjcyTVM3eXNzZzIyb3BBRmxjUmVBZ0VFNDBHU1JkdE5pNDFNN1JmeURqZE1rYU1Ga01OOFoxcDJ6OGdSLUI2RERUNkpTdHQxaWtMLUVJdmV1cElOT2EwanNYUWU1MVBuaw?oc=5",
+      "snippet": "U.S. rejection of new mRNA flu vaccine 'sends chills,' epidemiologist says&nbsp;&nbsp;PBS",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
       "title": "Risks of Cuts to mRNA Vaccine Development - Johns Hopkins Bloomberg School of Public Health",
       "source": "Johns Hopkins Bloomberg School of Public Health",
       "date": "Wed, 13 Aug 2025 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcWpUZ1RUbkk5ZTBrSmNHb0NVWFZRYXlBWEo1MWlIRkhQak5zazRMbFBfNmZHcEY3akphTHRJWlkyTEZvUmNqUXdNVHpVeG44ZExuSW9BcnVObUUwVTFyYjQ4TWhSWFVmYkN2NUl4b3dfQWppSFpVbkJKX1ZwYllNdg?oc=5",
       "snippet": "Risks of Cuts to mRNA Vaccine Development&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public Health",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "Slashing of funding for mRNA vaccine development raises concern - Harvard T.H. Chan School of Public Health",
-      "source": "Harvard T.H. Chan School of Public Health",
-      "date": "Thu, 25 Sep 2025 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMko3SlptaExsU2ZWTGJFMjEzNFVVN3BBRnkyX1JROVVTZFZiajk5VkVhSGpONW0teWdVQlN2Q0NkTnNFXzE3cU1lZ0IxU2tTQTQtdi1TNTREVFFXMFVXVnJ5VDhqWDZ6dk1YZTZWdm03Q21yeXhQdXpGMkhvZ3p5NklJTkhjYm1tbDB3aGhqcnZ2NUlHSHA3RmF3?oc=5",
-      "snippet": "Slashing of funding for mRNA vaccine development raises concern&nbsp;&nbsp;Harvard T.H. Chan School of Public Health",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "FDA reverses course, refuses to review Moderna’s application for new mRNA flu vaccine - CIDRAP",
-      "source": "CIDRAP",
-      "date": "Wed, 11 Feb 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORDJSVkdDWHMwamQtYmN3dzRUTEVfWTJnaUp4bGpTWHFQeEFiV3d6X3pRaWZlejR0cGx3OFU5YWctUEhUUWdpMVZUcWZ0b3NyYWFacTNhdGlVRUpVN0xlRUg5U2RhWXZaaFBycUhnZV9DUThxaEs3NXBBd0dFUUE2aDVpWFJ5bTlfamJNX0ZzbWx0TmxZNE5OWFNhU1lUU2lDSVplLTFsZ3VWMXFUMTVDaFpPY05SalpEbmExdV9FUl8?oc=5",
-      "snippet": "FDA reverses course, refuses to review Moderna’s application for new mRNA flu vaccine&nbsp;&nbsp;CIDRAP",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "What are the biggest vaccine breakthroughs coming in 2026? We asked five experts - Gavi, the Vaccine Alliance",
-      "source": "Gavi, the Vaccine Alliance",
-      "date": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEEtM285eThTeElBR3JGdzdQb2QzQ3N4Y20xWFlIcGZ5cEIzaUFlNHNQeHZJTVlLbDZzYWZYTDl0dzkyZnRoM2tDZ1lmWU9jaEFhNHZPSl9lbjhaWndWdE94bUFycXY4NUp3S1NOVURySGF3VG1NUkhhYV9GUWNNd19VbWJBaUtkQ2JZLVdxazU1VW93WVdOb2FNT0dTckJRTkNvQjlWcEY?oc=5",
-      "snippet": "What are the biggest vaccine breakthroughs coming in 2026? We asked five experts&nbsp;&nbsp;Gavi, the Vaccine Alliance",
       "matched_query": "mRNA vaccine new development"
     }
   ]
