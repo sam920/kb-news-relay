@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "topic": "疫苗产品",
-  "total": 69,
+  "total": 68,
   "items": [
     {
       "title": "FDA Moves to Real-Time Clinical Trial Patient Monitoring, Faster Drug Review - Vaccine Advisor",
@@ -9,6 +9,14 @@
       "date": "Wed, 29 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPREdYUW1fZXNpdWtucGxYWG5CZGtmSHl5ZTdzbGVVZ293V3JqTFB0amVEejYwM2t0cWdJdDEweExoSXJwOVgzQnY2czFITnNuVE9QR0lpRFRuYUU2eV9PeGNOZk5ndzIxbVhweWNuc1ZLXzVxUXc2S1czbVpSSDNhdTB2WXNiS3hGd09tZTE0ZjVHMXFFZllHeF9PZW1VWXRXcG9wdHU2YVZHRTFtTXM0Mmpn?oc=5",
       "snippet": "FDA Moves to Real-Time Clinical Trial Patient Monitoring, Faster Drug Review&nbsp;&nbsp;Vaccine Advisor",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials - National Foundation for Infectious Diseases",
+      "source": "National Foundation for Infectious Diseases",
+      "date": "Mon, 13 Apr 2026 17:41:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT001QWxiSzFoVEhjcE9kTlVVMXJwYkl5N0hqVjZfZ3ZFQW4wTlNCOWJrNWp2TXljd0NqODRISEZCMDBYVGlvS0xld3hhaE1xQS15dm5ibTJkZTFZd2Y2UEh3MldSa0Q2T0JPXzc3Y0NUWEFqd01Za19hMHBwNEJXX0Q5X29meDVMb2RDR0pxazZxdXM?oc=5",
+      "snippet": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials&nbsp;&nbsp;National Foundation for Infectious Diseases",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -20,14 +28,6 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "FDA official proposes ‘impossible’ standards for vaccine testing that could curtail access to immunizations - CIDRAP",
-      "source": "CIDRAP",
-      "date": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkRVcnI5M295d0dnYVpjVmlqQUVjbzlBeUkwRUZUWnFoeEZodEF4dmFxV05ZeGlDamhtVGdZeUt3bGRIQThRODFIS285RFhXYUpTZ3liZERNeWx5Q3h5cTJfYkVxbU9QRXdaVGYxY193UWhhbHJlejJZem5oZHByWTFINmpfbEg2TlJwUmpSVmRmSUtDWlFWUjdEcElwanBrTWt3S2tkNXhHTVphQlNBQ1haUTJRMWJuUzdFRzV5dEJzS0U?oc=5",
-      "snippet": "FDA official proposes ‘impossible’ standards for vaccine testing that could curtail access to immunizations&nbsp;&nbsp;CIDRAP",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
       "title": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss - CNBC",
       "source": "CNBC",
       "date": "Mon, 23 Mar 2026 07:00:00 GMT",
@@ -36,11 +36,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Lyme Disease Vaccine - Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "date": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tNjlKWWliNVIzSHlDRVB6alhSd3RKeTRlQy1nc19MTTBkRnNoMVlrVHBxNWtRRHp3d2VWOWY4UnRjeFpQb3FKVmtfV3BuaVZZS2VaUnNnUWxvYkdMN3lFRG5ib2x3eHM?oc=5",
-      "snippet": "Lyme Disease Vaccine&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)",
+      "title": "FDA official proposes ‘impossible’ standards for vaccine testing that could curtail access to immunizations - CIDRAP",
+      "source": "CIDRAP",
+      "date": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkRVcnI5M295d0dnYVpjVmlqQUVjbzlBeUkwRUZUWnFoeEZodEF4dmFxV05ZeGlDamhtVGdZeUt3bGRIQThRODFIS285RFhXYUpTZ3liZERNeWx5Q3h5cTJfYkVxbU9QRXdaVGYxY193UWhhbHJlejJZem5oZHByWTFINmpfbEg2TlJwUmpSVmRmSUtDWlFWUjdEcElwanBrTWt3S2tkNXhHTVphQlNBQ1haUTJRMWJuUzdFRzV5dEJzS0U?oc=5",
+      "snippet": "FDA official proposes ‘impossible’ standards for vaccine testing that could curtail access to immunizations&nbsp;&nbsp;CIDRAP",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
