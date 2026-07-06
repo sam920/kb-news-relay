@@ -4,16 +4,28 @@
 # 注意：Google News RSS 支持多语言，hl=zh-CN 可以搜中文内容
 
 鹦鹉养殖:
+  # 国际保护与政策
   - "parrot CITES conservation"
   - "parrot breeding news"
   - "psittacine artificial insemination"
   - "parrot genetic research"
-  # 中文搜索（Google News 也支持中文搜索）
+  # 市场行情（新增）
+  - "parrot price market 2026"
+  - "pet bird price trend 2026"
+  # 繁育技术（新增）
+  - "parrot incubation breeding technology"
+  - "psittacine genomics genome breeding"
+  - "artificial nest box parrot conservation"
+  - "avian semen cryopreservation artificial insemination"
+  # 中文搜索
   - "鹦鹉养殖 政策 市场"
   - "鹦鹉 人工繁育 标识 2026"
   - "鹦鹉 合法饲养 标识"
   - "China parrot farming policy"
   - "China parrot breeding market"
+  # 中文市场与繁育技术（新增）
+  - "鹦鹉 价格 市场 行情 2026"
+  - "鹦鹉 繁育 技术 创新 2026"
 
 肽类产品:
   - "GLP-1 drug FDA approval"
@@ -48,14 +60,26 @@
   # 佐剂
   - "vaccine adjuvant novel adjuvant system"
   - "AS01 AS03 MF59 CpG adjuvant"
-  # 专利 — 独立分组
+  # 专利
   - "mRNA vaccine patent lipid nanoparticle"
   - "vaccine adjuvant patent"
   - "vaccine patent infringement lawsuit"
   - "vaccine patent expiration"
+  # 专利诉讼（新增）
+  - "Moderna LNP patent settlement Arbutus Genevant"
+  - "Pfizer BioNTech LNP patent litigation 2026"
+  # 中国佐剂专利（新增）
+  - "vaccine adjuvant China patent authorization"
+  # 市场趋势（新增）
+  - "mRNA vaccine market size forecast 2026"
+  - "self-amplifying mRNA vaccine approval"
+  - "circular RNA vaccine therapeutic"
   # 中文
   - "疫苗 审批 临床试验 2026"
   - "mRNA疫苗 重组蛋白疫苗 新型疫苗"
   - "疫苗佐剂 新型佐剂"
   - "疫苗 佐剂 专利 授权 2026"
   - "mRNA 疫苗 专利 诉讼"
+  # 中文专利与中国市场（新增）
+  - "疫苗佐剂 专利 授权 天康 依思康"
+  - "mRNA 疫苗 市场 规模 2026"
