@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "topic": "疫苗产品",
-  "total": 93,
+  "total": 94,
   "items": [
     {
       "title": "FDA Moves to Real-Time Clinical Trial Patient Monitoring, Faster Drug Review - Vaccine Advisor",
@@ -20,6 +20,14 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
+      "title": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials - National Foundation for Infectious Diseases",
+      "source": "National Foundation for Infectious Diseases",
+      "date": "Mon, 13 Apr 2026 17:41:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT001QWxiSzFoVEhjcE9kTlVVMXJwYkl5N0hqVjZfZ3ZFQW4wTlNCOWJrNWp2TXljd0NqODRISEZCMDBYVGlvS0xld3hhaE1xQS15dm5ibTJkZTFZd2Y2UEh3MldSa0Q2T0JPXzc3Y0NUWEFqd01Za19hMHBwNEJXX0Q5X29meDVMb2RDR0pxazZxdXM?oc=5",
+      "snippet": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials&nbsp;&nbsp;National Foundation for Infectious Diseases",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
       "title": "Former FDA Commissioners Warn New Vaccine Policies Could Undermine Longstanding Regulatory Framework - Applied Clinical Trials Online",
       "source": "Applied Clinical Trials Online",
       "date": "Thu, 04 Dec 2025 08:00:00 GMT",
@@ -34,22 +42,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbElBOTZhSkJZX2p5VUFNcmRROFhVaF91cl93QU1yVkZxb1BFMWtuMFQyOW8yR09zbWphVGJ4VHZUOFRhX0xNdEdOcm5Ib1JBZWVIRkQ2UmFkcUZmbGMtQ1Z3WGoya3VIZUxROXpjbjRIYjdxQzdidHlyTzREYnRrbVVMeEdia294TER30gGQAUFVX3lxTFA4WDJUMk1CZU94bWZ2TEx3ZEt6emVDUXRPbFpJUnFRR1B2OGlKY1FyVEkzMVhsSmNjV2trQ1pORm9wYmNBUV9oVll5ZzB4MUEtX0lsZkc4R3ozVkJScnhjV3VGTkY0NzNrTVFxTkR3ZENfOHJUdW4zdTdoUkhTU0JPZm1DcFB1dGZPUE51X1Z6dw?oc=5",
       "snippet": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss&nbsp;&nbsp;CNBC",
       "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "FDA official proposes ‘impossible’ standards for vaccine testing that could curtail access to immunizations - CIDRAP",
-      "source": "CIDRAP",
-      "date": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkRVcnI5M295d0dnYVpjVmlqQUVjbzlBeUkwRUZUWnFoeEZodEF4dmFxV05ZeGlDamhtVGdZeUt3bGRIQThRODFIS285RFhXYUpTZ3liZERNeWx5Q3h5cTJfYkVxbU9QRXdaVGYxY193UWhhbHJlejJZem5oZHByWTFINmpfbEg2TlJwUmpSVmRmSUtDWlFWUjdEcElwanBrTWt3S2tkNXhHTVphQlNBQ1haUTJRMWJuUzdFRzV5dEJzS0U?oc=5",
-      "snippet": "FDA official proposes ‘impossible’ standards for vaccine testing that could curtail access to immunizations&nbsp;&nbsp;CIDRAP",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "New sa‑mRNA and LNP Platform to Support Korea’s Hantavirus Vaccine Initiative - Genetic Engineering and Biotechnology News",
-      "source": "Genetic Engineering and Biotechnology News",
-      "date": "Tue, 07 Jul 2026 01:35:33 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOenoyUHlBNE1vV1ByVnk1YjhGeDJmcjA2Ui1PWWRSWmxQVEpxOXcySUlmOFdtMXpDTzRYalNMeVJLM3V5WkdzR19sOFlwZWcxczcxMjBpcW5VTmhJQXRFaFUzc3hsUHBEUXAyTFhmaFdTYXpzRF9ER21WQUN0Zy1GRzBqQnBFUGM5YWg3bjBMeFBrbl9JNEhNT3BjaHV5b2hCMFRCbTNvSC1yTFEzVjhWbGZXSS1vZEZSbmk4M1dlYkZqWDF4THhaN2xRTQ?oc=5",
-      "snippet": "New sa‑mRNA and LNP Platform to Support Korea’s Hantavirus Vaccine Initiative&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
-      "matched_query": "mRNA vaccine new development"
     },
     {
       "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
@@ -81,6 +73,14 @@
       "date": "Thu, 18 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlVrMHBJNVZscW43aGRuT3ExdGlJdVRjUG1QdFlYZ3hGVy1ka0JKT2xFaGFSVktsZGd4Q3hvbUMwZldiWmlMVDB0T2VhSU5RQlJiRVJSSlpteHl4eno5aUc4S0hkTmxwUmhTZjZQX0lhLUdjeklfME9uOGZ2QXphUnpEV2x4YmJiOHdBaVFaV2JVbmFXclN5VEVWM2E3dndXcHZYTDcwN2N3QjdNUUVyS0RTSGY?oc=5",
       "snippet": "New mRNA vaccine shrinks neuroblastoma tumors in preclinical study&nbsp;&nbsp;News-Medical",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
+      "title": "Current and future uses of RNA, including mRNA vaccines - The World Economic Forum",
+      "source": "The World Economic Forum",
+      "date": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDhSMDFTV2ZZTTFZeGpEei1zZ3RjZ3BLZ2lYU3N5d1pSQUk3SFpuNVM3S2MwbTNOQnJMRUx2VG1UQ1hFNkhHM19HdEpvR0FNWEQwNjRlc3JoMjJfVEw0OF9aSkk5WS1Za2xnRTJ4OTJwSGtUbWtaNl80OEh3SU4zSldB?oc=5",
+      "snippet": "Current and future uses of RNA, including mRNA vaccines&nbsp;&nbsp;The World Economic Forum",
       "matched_query": "mRNA vaccine new development"
     }
   ]
