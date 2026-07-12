@@ -1,6 +1,87 @@
 {
   "date": "2026-07-12",
   "topic": "蛋白质产品",
-  "total": 0,
-  "items": []
+  "total": 60,
+  "items": [
+    {
+      "title": "FDA Approves Subcutaneous Isatuximab for Multiple Myeloma - Targeted Oncology",
+      "source": "Targeted Oncology",
+      "date": "Fri, 10 Jul 2026 12:58:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUtvR3J4Nmk2bm5XWktJRnFtOEVOQ0xacW9lalhLRFpxY1FGYkI2V0hyeEZHU2JWelNwc3B3WVB2NXVZc2xNWHlNTlI3S2E0SmR0VnpaWUNOMkI0cklqTlhJTnktTldVM0hyb2RtaVdENmhuU1phUjZFOGZTOFJVbHVfTHFvalRSWE1ucnM2cEVTTENj?oc=5",
+      "snippet": "FDA Approves Subcutaneous Isatuximab for Multiple Myeloma&nbsp;&nbsp;Targeted Oncology",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "Isatuximab Wins FDA Approval, Becoming Second Subcutaneous Anti-CD38 for Multiple Myeloma - Pharmacy Times – Pharmacy Practice News and Expert Insights",
+      "source": "Pharmacy Times – Pharmacy Practice News and Expert Insights",
+      "date": "Fri, 10 Jul 2026 15:54:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkNXWjg3WUV1UkJjelFnbmhSajktQmVEOWhRdmxBaXRoU1ktVkgwUERrM1Y0NzFxSDVtcWxSVkgydzNHZE8teDdOWDNYRkoyZzFxUk9ZWFRqS185dlZmNWxTcXRYbzB3V1RnMmRjbjNuUFdmd1JZT2t2a29QR1h2dDc0a2U5THhlTDBucGNUcjVkZDZwTDUtYk9zTFdPWjJTd0E5Z04wM0Q3ZVB0enBOU1R6UjBxN1ZLN1NyeWg5eFI?oc=5",
+      "snippet": "Isatuximab Wins FDA Approval, Becoming Second Subcutaneous Anti-CD38 for Multiple Myeloma&nbsp;&nbsp;Pharmacy Times – Pharmacy Practice News and Expert Insights",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "FDA Approved Subcutaneous Isatuximab: Advancing Anti-CD38 Therapy Delivery in Multiple Myeloma - Oncodaily",
+      "source": "Oncodaily",
+      "date": "Fri, 10 Jul 2026 23:23:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ucTlIeEg3X3BiR1QyalNRNDdzZm5uM1dDNDdwc2VyNE5VUk14QnZDZ05UMjBUSjZhV2VFX3M1YW5SMDZaUVBUZ3VqekFHWlRmWmFNT3FtUTVaSnZSclNHVmFSNXBHQVd0Wmx1a0hFM2d2WlR1eWt4LWpn?oc=5",
+      "snippet": "FDA Approved Subcutaneous Isatuximab: Advancing Anti-CD38 Therapy Delivery in Multiple Myeloma&nbsp;&nbsp;Oncodaily",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "Vera Therapeutics’ First-in-Class Kidney Disease Drug Lands Speedy FDA Approval - MedCity News",
+      "source": "MedCity News",
+      "date": "Wed, 08 Jul 2026 22:57:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlhMeU9jWHd6U3lIXzNpY2M2WDBkMnhyZTBOLVBqR0c5VHljNUR3VklGN3FJWnhoOXpuLUhfdG5zOEJBcVVOZDdjUlFXZkJIOUFOQVJkQURPY1FVcXVOT3B3elZIbnlSa0dLdEhCT1ZQaERlODc0T19aS2QzSTFnaDBsV3RQTC13NDdRUG9JUzBQYWNWcGhLMnA2dnRZVFJ4MS1Vdm9rUnJrWXpyb0c4RS05NVE?oc=5",
+      "snippet": "Vera Therapeutics’ First-in-Class Kidney Disease Drug Lands Speedy FDA Approval&nbsp;&nbsp;MedCity News",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "The Implications of Isatuximab-irfc’s FDA Approval for Multiple Myeloma - PharmTech.com",
+      "source": "PharmTech.com",
+      "date": "Fri, 10 Jul 2026 15:03:13 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkRfLUI4akU4RkpSYk1TeHI4eFdlLTM3bGQxUjJqcjZYNFN1TC0yQUMxRTVETUx6OHZXbkYzT29KVTkyYV8yRUs4d3BGblh6NkRPeF9ISDE4VEhuaUp3YVpPVU5MNDhia1RDem1sc3ZleXJ3RG93bTF0MkxWV0xtc0ppTV9KMWhvSDZESlpabGtfZUU1YVA0dm9R?oc=5",
+      "snippet": "The Implications of Isatuximab-irfc’s FDA Approval for Multiple Myeloma&nbsp;&nbsp;PharmTech.com",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "Bispecific 10E8.4/iMab broadly neutralizing antibody in people with or without HIV-1: a partially randomized phase 1 trial - Nature",
+      "source": "Nature",
+      "date": "Tue, 07 Jul 2026 09:29:28 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TX1lidThVTl9KYWd4ZmhtOHB4VV8ydjRMLWRtdnNOTTRFX3dTWTFrOEJkeEY4Sm9TQWhtTk5fVTNlR2xRc25VTTY1RmFsTHJTTWRiOVFPTVpjQ3piUFQ4?oc=5",
+      "snippet": "Bispecific 10E8.4/iMab broadly neutralizing antibody in people with or without HIV-1: a partially randomized phase 1 trial&nbsp;&nbsp;Nature",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "The Two-Fisted Antibody: What the 10E8.4/iMab Phase 1 Trial Teaches Us About Designing for Complexity - The Clinical Trial Vanguard",
+      "source": "The Clinical Trial Vanguard",
+      "date": "Wed, 08 Jul 2026 06:49:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc0NraW9qTm9PY2dnUlhDQnJyRkRQRFFFNVpxRS1JSkIzNjVsWGQ4NENrcHMxV0JtUmJGZUJKRHpCYjJ0ZUhTeDNVMjRILU9QQlJIWGYtVHF3eVdhWDFlRXhxZk1ZUkl1RzJpNzAtSGtORkNPRU9WTGRaQW1xWnZvWVZXVHVMQlhNVXJid1lkdVdXaV9Jd2o1SjI4SE13Y0pmVVBPaGNqMi1zX2F3Q2xsTW8xUXJmX05ybzFjbkFtMk9JSG5mUnVreXBMalJYRkt1QXZReEY1NURwQ1RRTXdKVA?oc=5",
+      "snippet": "The Two-Fisted Antibody: What the 10E8.4/iMab Phase 1 Trial Teaches Us About Designing for Complexity&nbsp;&nbsp;The Clinical Trial Vanguard",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "Tovecimig (CTX-009), a Bispecific Antibody Targeting DLL4 and VEGF-A: Perspectives From the Field of Biliary Tract Cancer - ASCO Daily News",
+      "source": "ASCO Daily News",
+      "date": "Fri, 03 Apr 2026 03:27:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzFoVVQxWTk3R3FnUXRJVzZna0lwXzg1SFJ4eG04X3hBZTJLMEJGeXJ6VzFXTE9EcTd5X0dBenVzZjdwSnRnSWg2dktKek1xb3NmYlZSZzNuT2xwSENxMXJTUzZpYTFwbDFFSHJrMDVURnVTOGdnRTNjN2E2NzZ3LXMyVzJmYnh2Rzh5VXR1V1NBMXJVM0wxZVNHR2d3NUM0d3liMFphbEVYVFhjZmw0Q29qVFR1aDQ?oc=5",
+      "snippet": "Tovecimig (CTX-009), a Bispecific Antibody Targeting DLL4 and VEGF-A: Perspectives From the Field of Biliary Tract Cancer&nbsp;&nbsp;ASCO Daily News",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "Decoding the landscape of bispecific antibodies in breast cancer: insights from a comprehensive trial analysis - Frontiers",
+      "source": "Frontiers",
+      "date": "Fri, 22 May 2026 18:27:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZGtZdXRFTjNPZU9tZTdoN1lQeVNWSGNqWTc0dWFZSnlTVHRSblNRQjUwd0J3UUZuMmR5bk1QNFB6aVFueGoxTzQ0VUN6ZENzZnVWVGZSYTg0UFBpNkFXUTdMSGlWM1d4YVp4TjZvcVlUajhtLW5kV2NRUm5SZHRCM0VZVWlkejJIODRYMmtCWkhBdw?oc=5",
+      "snippet": "Decoding the landscape of bispecific antibodies in breast cancer: insights from a comprehensive trial analysis&nbsp;&nbsp;Frontiers",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "Efficacy of Bispecific Antibodies in Relapsed or Refractory Multiple Myeloma With Extramedullary Disease: A Systematic Review and Meta-Analysis - Cureus",
+      "source": "Cureus",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQ3p0cjdLcm5DTVBYaXdtd0JLV09JU2dHYWgzSVl3Q3h5Q1RKZmozZmc3UGlZMFJtc2tGTmxtZnVGLXVLekx1dFpGTlF6ZmZvTjh2dXZIajdTYU1XUDNZYmFjcVhzT1JhWWlWbFVfTm1rU3NiQ182Z2JUWG1NX2pFVzFEdDM5eW1xYTNpd09YTjhkRlFXX3p1amVIRVhEV0VuTkxuUndzWkJGNlFqR09qaHNOLXFpbjdWQjN4UVFOWnl6X2NrM3NhMnZUOGlPalNGaFROb3FZQ1g4YTFuS3N4Uy1mUmg2Q0pNb1BHZnIwSHZDengtRkFCWmtMNHk4VVBydnFOdVpZUlV5VDNYUkE?oc=5",
+      "snippet": "Efficacy of Bispecific Antibodies in Relapsed or Refractory Multiple Myeloma With Extramedullary Disease: A Systematic Review and Meta-Analysis&nbsp;&nbsp;Cureus",
+      "matched_query": "bispecific antibody clinical trial"
+    }
+  ]
 }
