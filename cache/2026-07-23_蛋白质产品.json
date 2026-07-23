@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "topic": "蛋白质产品",
-  "total": 58,
+  "total": 59,
   "items": [
     {
       "title": "FDA Approves At-Home Starter Dose of Alzheimer's Drug - MedPage Today",
@@ -12,19 +12,19 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
-      "title": "FDA Approves Enlicitide, First Oral PCSK9 for High Cholesterol - The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care",
-      "date": "Thu, 16 Jul 2026 17:17:23 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmxmTlBGbElNNkItMFdXcVVYUDVJY1JPeW9WZHJzTTVXWHZTSTA1RHoyRnV0OUo2UkN0cENtaUtLakJ2VnBPMk1xS1FiRzg3UHBfTWJKTDd0bWhaWjh0SDRFX085U3hQNnlCTzdjcDFicm1wRFRMdkU4UDBiZEZGN2pLRXVzaldpLVQxc2dLSUo?oc=5",
-      "snippet": "FDA Approves Enlicitide, First Oral PCSK9 for High Cholesterol&nbsp;&nbsp;The American Journal of Managed Care",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
       "title": "FDA Approves LEQEMBI IQLIK® (lecanemab-irmb) Subcutaneous Injection as an Initiation Dose for Early Alzheimer’s Disease - Biogen",
       "source": "Biogen",
       "date": "Mon, 13 Jul 2026 21:41:54 GMT",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUkxT1BlZDFLOUFrTkN4UXRqQjBpbXVJclZiU3BabzNCQW5zVnVxUjlGWkc4STlpNXpFYUJZU3VsYndNU2NUZHNMVWltZG5mYXNnVHJKMW4wODUtRUZVZjJIbnRHdHc2dVVBcldHWElRTVdsMWJUUUtLczBreUFpV3FYc0JoTWQ5XzI0SEZQQkw0Z0xUcm5scFRzb0Y5SFpjb1ZoVmNOOTY4SEpkRzJhVWo2cVpFSXJLSlBZ?oc=5",
       "snippet": "FDA Approves LEQEMBI IQLIK® (lecanemab-irmb) Subcutaneous Injection as an Initiation Dose for Early Alzheimer’s Disease&nbsp;&nbsp;Biogen",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "FDA Approves Enlicitide, First Oral PCSK9 for High Cholesterol - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
+      "date": "Thu, 16 Jul 2026 17:17:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmxmTlBGbElNNkItMFdXcVVYUDVJY1JPeW9WZHJzTTVXWHZTSTA1RHoyRnV0OUo2UkN0cENtaUtLakJ2VnBPMk1xS1FiRzg3UHBfTWJKTDd0bWhaWjh0SDRFX085U3hQNnlCTzdjcDFicm1wRFRMdkU4UDBiZEZGN2pLRXVzaldpLVQxc2dLSUo?oc=5",
+      "snippet": "FDA Approves Enlicitide, First Oral PCSK9 for High Cholesterol&nbsp;&nbsp;The American Journal of Managed Care",
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
@@ -44,19 +44,27 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
+      "title": "Bridging CAR T-Cell and Bispecific Therapy Access in Community Oncology - CancerNetwork",
+      "source": "CancerNetwork",
+      "date": "Thu, 23 Jul 2026 12:07:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRVdtQkNodjBITlg4d2k4UWJtQ0prVEE5a3F4dXZoNGFSUVZwS20wQVZTdlVuQ1RlUG9zbnZ6Mm8yVzZmZVItNTBMcHdJTm1hb29SejlzVXNid0VzM2U4ZVI1YVByVm9TcldqdU9JM2ctOGhvWFFBTnkzV0pqc20wQkh6bENKQjBrcUZnY1JtZGdnNFU5OVIwZmx6d0RkRWZVU0tyOWo0cWJrZw?oc=5",
+      "snippet": "Bridging CAR T-Cell and Bispecific Therapy Access in Community Oncology&nbsp;&nbsp;CancerNetwork",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial - nature.com",
+      "source": "nature.com",
+      "date": "Wed, 22 Jul 2026 10:50:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9md0l5T1h6ZmJLRWtlVXUwRTRQZVNabmJvTnkzcUh0QXdjLTFpR3dMeHhHU1BMSEM1T0R0NlozcEY3SFpOSkNQdlpncDNxVGIxdEhrTDVXd3RIZ0FRYnZZ?oc=5",
+      "snippet": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial&nbsp;&nbsp;nature.com",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
       "title": "New therapeutic target expands options for multiple myeloma - Medical Xpress",
       "source": "Medical Xpress",
       "date": "Wed, 22 Jul 2026 20:20:03 GMT",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQndQUHZCeVRreTlUa3VNeE1EeTVwN2FrajU0NjRER2RQYUdETzFTN2F4aURYQTRoR3BDMW5KTXp1ZmRnSlVqa2NEbDVkblA0NDFnODhEWFdrRUh4WG9lVmd5M1BLeE9KYU5NZVBJT1hyUUhqMnFsT09rN1dvcndveGxTQkNkemM?oc=5",
       "snippet": "New therapeutic target expands options for multiple myeloma&nbsp;&nbsp;Medical Xpress",
-      "matched_query": "bispecific antibody clinical trial"
-    },
-    {
-      "title": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial - Nature",
-      "source": "Nature",
-      "date": "Wed, 22 Jul 2026 10:50:23 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9md0l5T1h6ZmJLRWtlVXUwRTRQZVNabmJvTnkzcUh0QXdjLTFpR3dMeHhHU1BMSEM1T0R0NlozcEY3SFpOSkNQdlpncDNxVGIxdEhrTDVXd3RIZ0FRYnZZ?oc=5",
-      "snippet": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial&nbsp;&nbsp;Nature",
       "matched_query": "bispecific antibody clinical trial"
     },
     {
@@ -73,14 +81,6 @@
       "date": "Wed, 22 Jul 2026 20:30:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQZk82c3FNSVZEamtFM21IeFVmZ1lhWEV5UjAzUlltNmR1TTdDTFJIa0l2RHhKSzBfRFViRnBQeWxLbGxld3B5MExEVHl0SlpzQmp6V3V2VldGX3ZUNF83aWhOd1l1SVZ1N29RUTJwbVppNFBHZ3dHYnlaUEV4enQ2c3hiVlJ4WFBEWWZUNWZrMHliU2hnZk1pRm5wNHVHV2hKQ28yMGRxTFVCVVpLSDZJM2RKYnhsQUhwU2p6WTU2Z2pmN05BdGFqb0lGT3FUOHpvWjFIb2ZwX2Z5Q3hjS0QzRzhuWVo4ZUJ6dU1hb3hFX2VHNUt6Q1dKY1gtZmZOUzV3azl6N0I5bEswVjVlRzJjc2pzcFdONVViZW5FeXRVT0xGc0h0SUhQOFplQUE?oc=5",
       "snippet": "Arcus Biosciences and Summit Therapeutics Enter into Clinical Trial Collaboration to Evaluate Casdatifan Combined with Ivonescimab in Kidney Cancer&nbsp;&nbsp;Business Wire",
-      "matched_query": "bispecific antibody clinical trial"
-    },
-    {
-      "title": "Akeso Doses First Patient in Phase II Study of Novel TROP2/Nectin-4 Bispecific ADC (AK146D1) in Combination with Ivonescimab for Advanced NSCLC - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "date": "Mon, 20 Jul 2026 05:32:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlM4WkV0aTg3YVloLURFX2xVTC1ZVE9teWc0MGdfaEd2TW1rb294ajZGNHNnUWdJV3NLTmVjRVRhSkFteGJGTkVMNVlHOEpURzhJMW5kUFlWZ25XTS0zT2dqNHpBWGV0VnltSEVHc202dUxscG1PRFE4VTVTdnVKUnBZdHZLbXM?oc=5",
-      "snippet": "Akeso Doses First Patient in Phase II Study of Novel TROP2/Nectin-4 Bispecific ADC (AK146D1) in Combination with Ivonescimab for Advanced NSCLC&nbsp;&nbsp;Yahoo Finance Singapore",
       "matched_query": "bispecific antibody clinical trial"
     }
   ]
