@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "topic": "蛋白质产品",
-  "total": 59,
+  "total": 58,
   "items": [
     {
       "title": "FDA Approves At-Home Starter Dose of Alzheimer's Drug - MedPage Today",
@@ -44,6 +44,14 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
+      "title": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial - Nature",
+      "source": "Nature",
+      "date": "Wed, 22 Jul 2026 10:50:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9md0l5T1h6ZmJLRWtlVXUwRTRQZVNabmJvTnkzcUh0QXdjLTFpR3dMeHhHU1BMSEM1T0R0NlozcEY3SFpOSkNQdlpncDNxVGIxdEhrTDVXd3RIZ0FRYnZZ?oc=5",
+      "snippet": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial&nbsp;&nbsp;Nature",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
       "title": "Bridging CAR T-Cell and Bispecific Therapy Access in Community Oncology - CancerNetwork",
       "source": "CancerNetwork",
       "date": "Thu, 23 Jul 2026 12:07:50 GMT",
@@ -52,19 +60,19 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial - nature.com",
-      "source": "nature.com",
-      "date": "Wed, 22 Jul 2026 10:50:23 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9md0l5T1h6ZmJLRWtlVXUwRTRQZVNabmJvTnkzcUh0QXdjLTFpR3dMeHhHU1BMSEM1T0R0NlozcEY3SFpOSkNQdlpncDNxVGIxdEhrTDVXd3RIZ0FRYnZZ?oc=5",
-      "snippet": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial&nbsp;&nbsp;nature.com",
+      "title": "New therapeutic target expands options for multiple myeloma - Penn Medicine",
+      "source": "Penn Medicine",
+      "date": "Wed, 22 Jul 2026 14:53:52 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnA4YUU5UHhvUUd3ZHlURUtMeVVjbG1iRnNGMnhPbGhpcmN1c1c0dFIwUlE4QkhRUG5NaTVBbjFqOE9Odm9ocTdqZ01XYUJqQVdaTUk5b2FmdlZLUXpsdnpla054MDhQN3FpNkQ4ZF9NWVhEc0hUNkNuellYREhUMUNrWGVRTFNXRmZRZDYwSV91M1NtbVR1Zg?oc=5",
+      "snippet": "New therapeutic target expands options for multiple myeloma&nbsp;&nbsp;Penn Medicine",
       "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "New therapeutic target expands options for multiple myeloma - Medical Xpress",
-      "source": "Medical Xpress",
-      "date": "Wed, 22 Jul 2026 20:20:03 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQndQUHZCeVRreTlUa3VNeE1EeTVwN2FrajU0NjRER2RQYUdETzFTN2F4aURYQTRoR3BDMW5KTXp1ZmRnSlVqa2NEbDVkblA0NDFnODhEWFdrRUh4WG9lVmd5M1BLeE9KYU5NZVBJT1hyUUhqMnFsT09rN1dvcndveGxTQkNkemM?oc=5",
-      "snippet": "New therapeutic target expands options for multiple myeloma&nbsp;&nbsp;Medical Xpress",
+      "title": "J&J’s bispecific combo slashes myeloma progression risk by 89% in phase 3 trial - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "date": "Thu, 23 Jul 2026 12:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenJrWHkzSTZpLWpMcENYTkh5UXZKMFM0SVE5LTZMNFlKVUkwbW5na2lsajJzWjhyMEMyeUNZMnZCOFpzNGxDQnhSOGZxQnU5YWstUGFKLVBOZS1EUUVUcHNEYlRjVUY2LUZ4UnNET0RhR01BMTlNQXJ6X2hVZEtuTDVBN1d2eHdmbnBhcHJJMmFrTWV3QnVHTXR5c1ZCUV92NTJRU3c3R04?oc=5",
+      "snippet": "J&amp;J’s bispecific combo slashes myeloma progression risk by 89% in phase 3 trial&nbsp;&nbsp;Fierce Pharma",
       "matched_query": "bispecific antibody clinical trial"
     },
     {
@@ -73,14 +81,6 @@
       "date": "Tue, 21 Jul 2026 06:48:30 GMT",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZFhSYjZxMUZsTzRjTHJKcXRuYTJrYjJzakRITmFzU21iS3NTb01SQnJtVXZ5WFVKRlBBYzVmdWtsaUE3SEJnSWtHMV9mZUM5c2N0YVpJTzVjSGxnTThBYTZaa0h2cW96cXJrUG1uYlMtbHYwNWJ6WGhlMmFjX3gwRzBTZXRvZzJhdWN3RlB6VWJSUTBMRFptLV9JM0lLcVU0aDdiT0twTlZQbGhkRnF6eFNQbkpZQVFrQWx6cW94eFdMc01rSFFmMk52WkdWUVg0YVBjVk5KNDRIX3NvZ1RtV1ZnSURudw?oc=5",
       "snippet": "Glofitamab Plus Englumafusp Alfa: When Phase 1 Data Rewrites the Combination Therapy Playbook&nbsp;&nbsp;The Clinical Trial Vanguard",
-      "matched_query": "bispecific antibody clinical trial"
-    },
-    {
-      "title": "Arcus Biosciences and Summit Therapeutics Enter into Clinical Trial Collaboration to Evaluate Casdatifan Combined with Ivonescimab in Kidney Cancer - Business Wire",
-      "source": "Business Wire",
-      "date": "Wed, 22 Jul 2026 20:30:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQZk82c3FNSVZEamtFM21IeFVmZ1lhWEV5UjAzUlltNmR1TTdDTFJIa0l2RHhKSzBfRFViRnBQeWxLbGxld3B5MExEVHl0SlpzQmp6V3V2VldGX3ZUNF83aWhOd1l1SVZ1N29RUTJwbVppNFBHZ3dHYnlaUEV4enQ2c3hiVlJ4WFBEWWZUNWZrMHliU2hnZk1pRm5wNHVHV2hKQ28yMGRxTFVCVVpLSDZJM2RKYnhsQUhwU2p6WTU2Z2pmN05BdGFqb0lGT3FUOHpvWjFIb2ZwX2Z5Q3hjS0QzRzhuWVo4ZUJ6dU1hb3hFX2VHNUt6Q1dKY1gtZmZOUzV3azl6N0I5bEswVjVlRzJjc2pzcFdONVViZW5FeXRVT0xGc0h0SUhQOFplQUE?oc=5",
-      "snippet": "Arcus Biosciences and Summit Therapeutics Enter into Clinical Trial Collaboration to Evaluate Casdatifan Combined with Ivonescimab in Kidney Cancer&nbsp;&nbsp;Business Wire",
       "matched_query": "bispecific antibody clinical trial"
     }
   ]

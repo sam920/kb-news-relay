@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "topic": "疫苗产品",
-  "total": 93,
+  "total": 88,
   "items": [
     {
       "title": "FDA Moves to Real-Time Clinical Trial Patient Monitoring, Faster Drug Review - Vaccine Advisor",
@@ -44,11 +44,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Programming the immunological properties of mRNA vaccines for cancer - nature.com",
-      "source": "nature.com",
+      "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
+      "source": "Nature",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
-      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;nature.com",
+      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -57,6 +57,14 @@
       "date": "Tue, 23 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3BPZ0RNdTJndmR6NG9NOU9zc1RNblNLbVg0Z0VPamh1VzZWaXVScl8yRTM1SWR4UGV2R0N2bTR0TDNHY2FKUmJuVWRkU3NVOFp2TlNQdF9uNVBPM1pOZGZ1bWE0MDR5YXFGMlRGT0NUb3BwSlF4b1A5VHdWZHNLT2lNamMwWW15UGJIWWNKMHIzUXA1R0UyeVdB?oc=5",
       "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;Penn Medicine",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
+      "title": "New sa‑mRNA and LNP Platform to Support Korea’s Hantavirus Vaccine Initiative - Genetic Engineering and Biotechnology News",
+      "source": "Genetic Engineering and Biotechnology News",
+      "date": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOenoyUHlBNE1vV1ByVnk1YjhGeDJmcjA2Ui1PWWRSWmxQVEpxOXcySUlmOFdtMXpDTzRYalNMeVJLM3V5WkdzR19sOFlwZWcxczcxMjBpcW5VTmhJQXRFaFUzc3hsUHBEUXAyTFhmaFdTYXpzRF9ER21WQUN0Zy1GRzBqQnBFUGM5YWg3bjBMeFBrbl9JNEhNT3BjaHV5b2hCMFRCbTNvSC1yTFEzVjhWbGZXSS1vZEZSbmk4M1dlYkZqWDF4THhaN2xRTQ?oc=5",
+      "snippet": "New sa‑mRNA and LNP Platform to Support Korea’s Hantavirus Vaccine Initiative&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -73,14 +81,6 @@
       "date": "Fri, 10 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGQya0hVUDcwMUp4UnFGaG0wNElPVUJRclM2UXcxWU1iTUFJTjdBNjV5ZE9WUG5LeGNxdnAtWm1WVHBmZWlkMWphV25QeFgzR3RwUTQ5Ung2bzE3b0xWNzFWVnc0azVPS2pQZ2pSU1pEYURDOExYZEFZcXB4N2ZyQkdSMTNDeXJoMWIweVl2ZjBHVEF6VTVxWlM3ZEw?oc=5",
       "snippet": "5 Vaccines Under Development That Would Change the World As We Know It&nbsp;&nbsp;The American Journal of Managed Care",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "New mRNA vaccine shrinks neuroblastoma tumors in preclinical study - News-Medical",
-      "source": "News-Medical",
-      "date": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlVrMHBJNVZscW43aGRuT3ExdGlJdVRjUG1QdFlYZ3hGVy1ka0JKT2xFaGFSVktsZGd4Q3hvbUMwZldiWmlMVDB0T2VhSU5RQlJiRVJSSlpteHl4eno5aUc4S0hkTmxwUmhTZjZQX0lhLUdjeklfME9uOGZ2QXphUnpEV2x4YmJiOHdBaVFaV2JVbmFXclN5VEVWM2E3dndXcHZYTDcwN2N3QjdNUUVyS0RTSGY?oc=5",
-      "snippet": "New mRNA vaccine shrinks neuroblastoma tumors in preclinical study&nbsp;&nbsp;News-Medical",
       "matched_query": "mRNA vaccine new development"
     }
   ]
