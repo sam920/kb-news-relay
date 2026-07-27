@@ -4,14 +4,6 @@
   "total": 59,
   "items": [
     {
-      "title": "FDA approves veligrotug-vvze (Lumvoa) for thyroid eye disease across active and chronic stages - Ophthalmology Times Europe",
-      "source": "Ophthalmology Times Europe",
-      "date": "Thu, 23 Jul 2026 11:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWm1NaVhPd2w1ZV94QUUtakl2Q2pLdEJfQ2stNmFLbGFmOGsyQ3BpZHpjMW5fOVk0TnBob09TZVdnRjEwYlR5WDEzUk9pekFySVdXMnhXNmRXeVRwOE9WeWFnMWhTVEZuWjQ3V0J6SS1nOTVTZVdlbFMwMWZaenVCbURPb0NCS3ctYVhWUGI4ODVCV3BfNEtVb2V4NVBqNHoxLXpNS2ljV2lXb0NCSnFxYm1sV1JXWFEtOGdXSQ?oc=5",
-      "snippet": "FDA approves veligrotug-vvze (Lumvoa) for thyroid eye disease across active and chronic stages&nbsp;&nbsp;Ophthalmology Times Europe",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
       "title": "FDA Approves At-Home Starter Dose of Alzheimer's Drug - MedPage Today",
       "source": "MedPage Today",
       "date": "Tue, 14 Jul 2026 07:00:00 GMT",
@@ -41,6 +33,14 @@
       "date": "Mon, 29 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOXzBtRTZWbmc3ZHVCWndrUXBLa0xTcHA4UXk2OENud0YwZHFyZGJ4UlhVVUdPRmxyQW1aUlpORVFvdmswbmRLNTQtWmJKOWYtVnlCNXo2em0xNzFHLUpVX2h0U3lKLTlJY09WMWdsYks2LWRXQmhqM0g3UnVLNEUySmJNSFlELVZlNEE?oc=5",
       "snippet": "FDA Approves Lumvoa for Active and Chronic Thyroid Eye Disease&nbsp;&nbsp;Medical Professionals Reference",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "FDA Approves Teclistamab and Daratumumab For Relapsed or Refractory Multiple Myeloma - The ASCO Post",
+      "source": "The ASCO Post",
+      "date": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWmZlSmE2czNnYXNTSlY5dmVjY0dOZXg3UGt6ODYyQTA3NEloUHZyOUVyZ0VhUS1JM2ttNmg5Mll3VmtkaGR5WXZVRkwxMTRvb3VCQ1VvU0FsemItM1NFaTQwbW5pRFQySmVTWVFMQVVRc21RV1dncnk2TFRPNG5HMDE3TkRjT1lHNFZEZUpYLTlHX1RGV0lra1Q5U1hLNHE4UWNHWDA2WE52bVhhaXlFZUhiSkRISEpaN3MxRXgydXpxVnhhYUE?oc=5",
+      "snippet": "FDA Approves Teclistamab and Daratumumab For Relapsed or Refractory Multiple Myeloma&nbsp;&nbsp;The ASCO Post",
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
@@ -76,11 +76,11 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "Glofitamab Plus Englumafusp Alfa: When Phase 1 Data Rewrites the Combination Therapy Playbook - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "date": "Tue, 21 Jul 2026 06:48:30 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZFhSYjZxMUZsTzRjTHJKcXRuYTJrYjJzakRITmFzU21iS3NTb01SQnJtVXZ5WFVKRlBBYzVmdWtsaUE3SEJnSWtHMV9mZUM5c2N0YVpJTzVjSGxnTThBYTZaa0h2cW96cXJrUG1uYlMtbHYwNWJ6WGhlMmFjX3gwRzBTZXRvZzJhdWN3RlB6VWJSUTBMRFptLV9JM0lLcVU0aDdiT0twTlZQbGhkRnF6eFNQbkpZQVFrQWx6cW94eFdMc01rSFFmMk52WkdWUVg0YVBjVk5KNDRIX3NvZ1RtV1ZnSURudw?oc=5",
-      "snippet": "Glofitamab Plus Englumafusp Alfa: When Phase 1 Data Rewrites the Combination Therapy Playbook&nbsp;&nbsp;The Clinical Trial Vanguard",
+      "title": "Phanes Therapeutics Announces Expansion of Clinical Trial Collaboration and Supply Agreement with Merck to Evaluate Spevatamig in Combination with KEYTRUDA® (Pembrolizumab) and Chemotherapy for Treatment of Biliary Tract Cancer - PR Newswire",
+      "source": "PR Newswire",
+      "date": "Tue, 21 Jul 2026 10:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPQUM1bldwbzVZSlZRQVhwSWkzMVJfaE9qa0s4Y1pnbGJ5UWhfWmUwcTZOYzdIV1JIRVA1ZEVHcjJGdU1XbDlGV1gwR0gzZ2ZUXzZpVUFuSm9SUExQVTdIZ3ZHY2FWWHZWdmtIVm9fN19tcjBfdWwtUXo5TEo3OWw4VU9EbzZyOEtsRlgtcWNiajFrTTZvcEtWVlhZeEZnUXNQWGVJMmxfektWZ1BRLVM0alNyd2pIYXJ1eXotWmI0X2JyOGhTZ3RpNTg5R25FNkEwb2pUdWVsUUNKaGRva0sySVRCeWliUWpaZkRzeGtMR2EyRWFCY1gwcWNjZ2dvVnJjdmFMSkZvc2FTZFVfZTV5SWJBT0MyeklmT2J4WkZiR1FOd3Z3eHU2S3hmRm1jMjhHUWlFbWJ2MDByRENqNzFpcDUxMERwT0xZLTYwVFcyaWpoa3FPSG5yY3ktMHhaS3RrUWdaZ1ktRU5MQUtnblJrRnhIUXV3enJadmVVS1JoWGxkanVoZkpoOGI5TzNMUzJvRUE?oc=5",
+      "snippet": "Phanes Therapeutics Announces Expansion of Clinical Trial Collaboration and Supply Agreement with Merck to Evaluate Spevatamig in Combination with KEYTRUDA® (Pembrolizumab) and Chemotherapy for Treatment of Biliary Tract Cancer&nbsp;&nbsp;PR Newswire",
       "matched_query": "bispecific antibody clinical trial"
     }
   ]
