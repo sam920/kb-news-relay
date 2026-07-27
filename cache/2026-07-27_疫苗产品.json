@@ -1,16 +1,8 @@
 {
   "date": "2026-07-27",
   "topic": "疫苗产品",
-  "total": 94,
+  "total": 92,
   "items": [
-    {
-      "title": "Personalized cancer vaccines: bridging immune-oncology and precision medicine for advanced therapeutics - Nature",
-      "source": "Nature",
-      "date": "Wed, 22 Jul 2026 01:09:56 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KVjRQdHpYLUlnOF9MMkN3dFMwcXIzRHVDZjNrNHc3djlaR0QzWHFBY3lpSExLcE5ucXh0MnpuOGprcHJwajd1Vnd6WWlsT1ZCZmE2dkVUdmpjck1Mb1U4?oc=5",
-      "snippet": "Personalized cancer vaccines: bridging immune-oncology and precision medicine for advanced therapeutics&nbsp;&nbsp;Nature",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
     {
       "title": "FDA Moves to Real-Time Clinical Trial Patient Monitoring, Faster Drug Review - Vaccine Advisor",
       "source": "Vaccine Advisor",
@@ -41,6 +33,14 @@
       "date": "Thu, 04 Dec 2025 08:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM1c1bmhhSWFHaDNacDdiUUpCeEgwdXUzTUktUEV0bWhIOC1iNTQ4SGFJejdUS21JbTV1Rk45R1lUcTFmd0RxY0pzU1ZYM1oxS0NGdlFIZlliNHpnVkZ1SF9tSV8wQ0lERjJHMWROYVlMb2V1cTBSZ2RadGNiRlRYRHVVZ3FPcjFKaWNJZHd1N3NJZDk5NXJBa01IOGJ4V2FycGhPTFZwNFZxbVNnV2hJOURQcS1NbGtPVUdMSjRvNU9BcDRqU1YyNkIyWE1tU29ELVZjX2RleFY1T0U?oc=5",
       "snippet": "Former FDA Commissioners Warn New Vaccine Policies Could Undermine Longstanding Regulatory Framework&nbsp;&nbsp;Applied Clinical Trials Online",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "FDA official proposes ‘impossible’ standards for vaccine testing that could curtail access to immunizations - CIDRAP",
+      "source": "CIDRAP",
+      "date": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkRVcnI5M295d0dnYVpjVmlqQUVjbzlBeUkwRUZUWnFoeEZodEF4dmFxV05ZeGlDamhtVGdZeUt3bGRIQThRODFIS285RFhXYUpTZ3liZERNeWx5Q3h5cTJfYkVxbU9QRXdaVGYxY193UWhhbHJlejJZem5oZHByWTFINmpfbEg2TlJwUmpSVmRmSUtDWlFWUjdEcElwanBrTWt3S2tkNXhHTVphQlNBQ1haUTJRMWJuUzdFRzV5dEJzS0U?oc=5",
+      "snippet": "FDA official proposes ‘impossible’ standards for vaccine testing that could curtail access to immunizations&nbsp;&nbsp;CIDRAP",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
