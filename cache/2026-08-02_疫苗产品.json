@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
   "topic": "疫苗产品",
-  "total": 96,
+  "total": 95,
   "items": [
     {
       "title": "FDA Moves to Real-Time Clinical Trial Patient Monitoring, Faster Drug Review - Vaccine Advisor",
@@ -60,11 +60,19 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - WashU Medicine",
-      "source": "WashU Medicine",
+      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - medicine.washu.edu",
+      "source": "medicine.washu.edu",
       "date": "Wed, 15 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWFCNmRZZGJ1bkNraUczNFd4RWRKT3ZlSXlPRWFYRFZBMWRaN0hJdFFQeXVzV1loaGVHXzZxTi00VDA4N3h5RnVnVFJIS0hrZmMzQVlQSWxmcXNVVXkwNkRyNkVyLTZjYUMzUDY5aHY5RFQwV0NsdXNkQmswVjdtQnBpOHZLNE11Qkl4dlV6Vk95emJhMFdmdVpGdUptSVU?oc=5",
-      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;WashU Medicine",
+      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;medicine.washu.edu",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
+      "title": "5 Vaccines Under Development That Would Change the World As We Know It - ajmc.com",
+      "source": "ajmc.com",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGQya0hVUDcwMUp4UnFGaG0wNElPVUJRclM2UXcxWU1iTUFJTjdBNjV5ZE9WUG5LeGNxdnAtWm1WVHBmZWlkMWphV25QeFgzR3RwUTQ5Ung2bzE3b0xWNzFWVnc0azVPS2pQZ2pSU1pEYURDOExYZEFZcXB4N2ZyQkdSMTNDeXJoMWIweVl2ZjBHVEF6VTVxWlM3ZEw?oc=5",
+      "snippet": "5 Vaccines Under Development That Would Change the World As We Know It&nbsp;&nbsp;ajmc.com",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -73,14 +81,6 @@
       "date": "Tue, 19 May 2026 09:25:42 GMT",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUZMUkxTR1BPcHJ0T2FCWWtJcU1xelBOZnBRMUNFMTdBMm5SZkZ6QTloRzFfSHVjbzdWVlZLMHc5NVlRT2UtNnhVRFpEUTVKN0lvYmtSeXZIV1ZndVFWU211OUVzMGNRYU9pODZoNmRRT292aFFRd1NJWXVJMVdoZDQ3Q1A0ckJDTUNzY2dZQWN3dw?oc=5",
       "snippet": "Development of Nipah virus mRNA vaccine for pandemic preparedness&nbsp;&nbsp;Frontiers",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "New anticancer vaccine shows early success in targeting neuroblastoma - Medical Xpress",
-      "source": "Medical Xpress",
-      "date": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRzNUV3dG90RFFNVEFLZnY3VWhoNXh4YU9wVUJVbDgtYUdUTUxjSUdKNEVsNlZnWkw1dEdIRDhJNVQ4VkI4SzRLalpnbjBWVEpDZ2hGSXNfMnY2TExocVJxWUR0WTBubldndEFTTm1ldzVpZTJEMFVHS0UycEVfdnBxdlZINkp0aWhkc1VYTDRjVmlK?oc=5",
-      "snippet": "New anticancer vaccine shows early success in targeting neuroblastoma&nbsp;&nbsp;Medical Xpress",
       "matched_query": "mRNA vaccine new development"
     }
   ]
