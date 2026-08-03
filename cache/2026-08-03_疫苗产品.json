@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "topic": "疫苗产品",
-  "total": 93,
+  "total": 95,
   "items": [
     {
       "title": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials - National Foundation for Infectious Diseases",
@@ -36,20 +36,12 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "FDA To Offer Cash Bonuses for Faster Drug Reviews - vaccineadvisor.com",
-      "source": "vaccineadvisor.com",
+      "title": "FDA To Offer Cash Bonuses for Faster Drug Reviews - Vaccine Advisor",
+      "source": "Vaccine Advisor",
       "date": "Wed, 04 Mar 2026 08:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUV9FcHNWZWZacFlRMnZQeVgyWVRuamVtTUhjRjFIT3M0ZnhsZkMzREVRUlgtenBSTVkwcDNHZm9ja3dJWUx5RUdqaHhhYldqaWh4TEVKUWhjZ0lMU0w5ZnZfcEJBSnluSWtDM0JQd2phb3AwZkl1NGZ5cGRYRFhQcXo3aE5zTkhVQWhIa1Mzdw?oc=5",
-      "snippet": "FDA To Offer Cash Bonuses for Faster Drug Reviews&nbsp;&nbsp;vaccineadvisor.com",
+      "snippet": "FDA To Offer Cash Bonuses for Faster Drug Reviews&nbsp;&nbsp;Vaccine Advisor",
       "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "New mRNA vaccine platform could expand global vaccine access - Penn Medicine",
-      "source": "Penn Medicine",
-      "date": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3BPZ0RNdTJndmR6NG9NOU9zc1RNblNLbVg0Z0VPamh1VzZWaXVScl8yRTM1SWR4UGV2R0N2bTR0TDNHY2FKUmJuVWRkU3NVOFp2TlNQdF9uNVBPM1pOZGZ1bWE0MDR5YXFGMlRGT0NUb3BwSlF4b1A5VHdWZHNLT2lNamMwWW15UGJIWWNKMHIzUXA1R0UyeVdB?oc=5",
-      "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;Penn Medicine",
-      "matched_query": "mRNA vaccine new development"
     },
     {
       "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
@@ -57,6 +49,14 @@
       "date": "Fri, 19 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
       "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
+      "title": "New mRNA vaccine platform could expand global vaccine access - Penn Medicine",
+      "source": "Penn Medicine",
+      "date": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3BPZ0RNdTJndmR6NG9NOU9zc1RNblNLbVg0Z0VPamh1VzZWaXVScl8yRTM1SWR4UGV2R0N2bTR0TDNHY2FKUmJuVWRkU3NVOFp2TlNQdF9uNVBPM1pOZGZ1bWE0MDR5YXFGMlRGT0NUb3BwSlF4b1A5VHdWZHNLT2lNamMwWW15UGJIWWNKMHIzUXA1R0UyeVdB?oc=5",
+      "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;Penn Medicine",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -76,11 +76,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "New anticancer vaccine shows early success in targeting neuroblastoma - Medical Xpress",
-      "source": "Medical Xpress",
-      "date": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRzNUV3dG90RFFNVEFLZnY3VWhoNXh4YU9wVUJVbDgtYUdUTUxjSUdKNEVsNlZnWkw1dEdIRDhJNVQ4VkI4SzRLalpnbjBWVEpDZ2hGSXNfMnY2TExocVJxWUR0WTBubldndEFTTm1ldzVpZTJEMFVHS0UycEVfdnBxdlZINkp0aWhkc1VYTDRjVmlK?oc=5",
-      "snippet": "New anticancer vaccine shows early success in targeting neuroblastoma&nbsp;&nbsp;Medical Xpress",
+      "title": "U.S. rejection of new mRNA flu vaccine 'sends chills,' epidemiologist says - PBS",
+      "source": "PBS",
+      "date": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUF95dl92RjVUNDRXeUUyN3JvMTMxaUEwc01TVDhiSTk2X003YVhaaUZzLUZlVEw2QVdkUnZHcl9yTjQ0Q2FtMjcyTVM3eXNzZzIyb3BBRmxjUmVBZ0VFNDBHU1JkdE5pNDFNN1JmeURqZE1rYU1Ga01OOFoxcDJ6OGdSLUI2RERUNkpTdHQxaWtMLUVJdmV1cElOT2EwanNYUWU1MVBuaw?oc=5",
+      "snippet": "U.S. rejection of new mRNA flu vaccine 'sends chills,' epidemiologist says&nbsp;&nbsp;PBS",
       "matched_query": "mRNA vaccine new development"
     }
   ]
