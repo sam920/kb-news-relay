@@ -4,19 +4,19 @@
   "total": 59,
   "items": [
     {
-      "title": "Tonix Plans Two-Dose Antibody Study; Protection Expected in 2 Days - Stock Titan",
-      "source": "Stock Titan",
-      "date": "Mon, 03 Aug 2026 11:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU5zWHR4NzB5Wm4zTW9USGE0N0U2NEJWSHNGN3lNUzBFVEZhVWZkRzJ6aWc4QTNwTVI2WUNOM0xPdjdEaDJNQTgwem15STVlY08wVXlESWZXQUJEa2xtWHBNUV9qMVpfVWVIUHBsWmNwcWcxQ2JMQ0gzeEZIQjN0V0NZRXU3ZWdMZDlFLTF5Y3QtbnBYVGhsblFhNW0zdkRlSHFuR0d4TjVtQ3UzX3J6SGZGcnBCRzVXV1ZN?oc=5",
-      "snippet": "Tonix Plans Two-Dose Antibody Study; Protection Expected in 2 Days&nbsp;&nbsp;Stock Titan",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
       "title": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market - Business Wire",
       "source": "Business Wire",
       "date": "Mon, 03 Aug 2026 20:09:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaTE5U3MzdktLS2VqUGdIbkFSOVFDclFoRmZhSWRjcFNfZFhaU3RsNUhVN0Y2bGw4NUw4UHlqY3kwa0pLSFJqUnQ1UGNNNUdoZThBS1VMVnEyQ3l4LTRKVi1UM0xkdjl6ZURmelVrdTRqWl84MmcwbEp6M21CLWR5QU1xRldob3VfNWtKeGJrNEt3bGJXbGxOcFZuRG5iT09SdDk2dVI3RHlLSF93R1VsVHN0bTRlNG5ad3JfdHpiZGUwMGhGcU9EbThmaERydw?oc=5",
       "snippet": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market&nbsp;&nbsp;Business Wire",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "Tonix Plans Two-Dose Antibody Study; Protection Expected in 2 Days - Stock Titan",
+      "source": "Stock Titan",
+      "date": "Mon, 03 Aug 2026 11:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU5zWHR4NzB5Wm4zTW9USGE0N0U2NEJWSHNGN3lNUzBFVEZhVWZkRzJ6aWc4QTNwTVI2WUNOM0xPdjdEaDJNQTgwem15STVlY08wVXlESWZXQUJEa2xtWHBNUV9qMVpfVWVIUHBsWmNwcWcxQ2JMQ0gzeEZIQjN0V0NZRXU3ZWdMZDlFLTF5Y3QtbnBYVGhsblFhNW0zdkRlSHFuR0d4TjVtQ3UzX3J6SGZGcnBCRzVXV1ZN?oc=5",
+      "snippet": "Tonix Plans Two-Dose Antibody Study; Protection Expected in 2 Days&nbsp;&nbsp;Stock Titan",
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
@@ -44,11 +44,11 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
-      "title": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial - Nature",
-      "source": "Nature",
+      "title": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial - nature.com",
+      "source": "nature.com",
       "date": "Wed, 22 Jul 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9md0l5T1h6ZmJLRWtlVXUwRTRQZVNabmJvTnkzcUh0QXdjLTFpR3dMeHhHU1BMSEM1T0R0NlozcEY3SFpOSkNQdlpncDNxVGIxdEhrTDVXd3RIZ0FRYnZZ?oc=5",
-      "snippet": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial&nbsp;&nbsp;Nature",
+      "snippet": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial&nbsp;&nbsp;nature.com",
       "matched_query": "bispecific antibody clinical trial"
     },
     {
@@ -60,11 +60,19 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "Beyond the Trial: Real-World Evidence for Bispecific Antibodies Across a Broad RRFL Population - AJMC",
-      "source": "AJMC",
+      "title": "Beyond the Trial: Real-World Evidence for Bispecific Antibodies Across a Broad RRFL Population - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
       "date": "Thu, 30 Jul 2026 12:18:47 GMT",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZDFwT2t2V3lhWlFMNmZyWEJ4R01PQkZxWlVOZlNNODVjZWZDZzBMblBOZzEwaEEzRmYxM1Fkc2RvZDF4T0VlWXRQYW9aUjB2c2ZIX0RjaHJlX1J1TGxBNGlqUXhLeEtQVWRBUjU1WW4wU0s0bHBlU0xpU2l4Y1Rfend0Nkg3UjAwR3pPM2pqYlNCa3J5ei1yVWdyY041SXB4a2Nfa1NmSFRwcnhodFN3Q0FsVjBZWFZrWTA0?oc=5",
-      "snippet": "Beyond the Trial: Real-World Evidence for Bispecific Antibodies Across a Broad RRFL Population&nbsp;&nbsp;AJMC",
+      "snippet": "Beyond the Trial: Real-World Evidence for Bispecific Antibodies Across a Broad RRFL Population&nbsp;&nbsp;The American Journal of Managed Care",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "Pathos AI Secures Up to $2.2 Billion Global Licensing Deal for Alphamab's First-in-Class Bispecific ADC - BioPharma APAC",
+      "source": "BioPharma APAC",
+      "date": "Wed, 05 Aug 2026 18:30:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMENGeXNLZHl3NXVRQlZXRmVjZktQMWZGQlBBQ2xkSWRVbVBST0Vrd3R1TDUxM2V0b0pCMk9vbDlNR0U1VjJ1X2djV2JnU0RQVTlUY29hZlE2ZXZwZjhVT2R4cTZldkFfUTFHR2lLek1jNWxlejN6RENnc001Q0R3c1BrdXU0cDdKWmk5eUpYMTcyVHIzWmVIdkpxNFBsLTJESGU1WnJ0TXloaUEyckRFYW5hSzJhYU0wWGF2TGJLMFBiX3JlaHpZWHRsbm5qYVlUV3NZeWxiMWRsdFZtMHgw?oc=5",
+      "snippet": "Pathos AI Secures Up to $2.2 Billion Global Licensing Deal for Alphamab's First-in-Class Bispecific ADC&nbsp;&nbsp;BioPharma APAC",
       "matched_query": "bispecific antibody clinical trial"
     },
     {
@@ -73,14 +81,6 @@
       "date": "Wed, 29 Jul 2026 19:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnplaTc4bjlsS3ROWHU5MEt6UFVDS0NCUUt2RDJiZjQtdno1OWFUQTZ5THYxS3VJRGQxYW1vTi1iYm1YV0QzSjg5QkpwTnpTX2lPM2FvaF9hZzBZZU54cjBLV3FCeUJYZkhGdjUwNUhHUEhRY1V2NzJIVGhhMW5Bc2JsSFBmNVYzMWtqS1NSNGdHZDE3RUdvMUw1cG9jb19hWXpBOGU4b3owVlk?oc=5",
       "snippet": "Merck posts—then pulls—trial plan for PD-1xVEGF and TROP2 ADC combination&nbsp;&nbsp;Fierce Biotech",
-      "matched_query": "bispecific antibody clinical trial"
-    },
-    {
-      "title": "Pfizer Plans Late-Stage Trials for ADCs, Bispecifics While Oncology Revenue Continues Growth - Precision Medicine Online",
-      "source": "Precision Medicine Online",
-      "date": "Tue, 04 Aug 2026 18:38:01 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOVVFQUVjQmhvSkFnWE9sb0hzUnVwOWxIeXgyR1pHRmJpa0dzU1NXX2h4ZVpndVpxS3N6YWZqaGFYeHJlNlpjY2pUdlJxdFpycmNyQnRtRGg0SnJqZjF0NUh5Q1Z1dE5oeDM2VXpHbmxtRk1sVWNLN2RhNDFUY0Rxb0hWeFVCeEI4bHlKb0F5U3hkRnNhWFN2OGlrMnhzRFNBVkRIVnlUZzRJWWhmSlVzbnJPeVBWSWc1V3ZOemRVM1lpV1NZcWM4QmV6TEE1YVJXeTJxMXZn?oc=5",
-      "snippet": "Pfizer Plans Late-Stage Trials for ADCs, Bispecifics While Oncology Revenue Continues Growth&nbsp;&nbsp;Precision Medicine Online",
       "matched_query": "bispecific antibody clinical trial"
     }
   ]
