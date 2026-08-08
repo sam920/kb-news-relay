@@ -4,27 +4,19 @@
   "total": 94,
   "items": [
     {
-      "title": "FDA Approves mRNA-Based Flu Vaccine - The Presidential Prayer Team",
-      "source": "The Presidential Prayer Team",
-      "date": "Sat, 08 Aug 2026 09:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzBQX2wwb21zWkFLUUlqaGlOdUwxcHE4U2hYYnB3WXhKVkYzV19CMWxRT2dRbWF2U3p6VHZtMHRZTk5ndjVZenhLNk1NNlZFMFYwc1NHZUpEQlBTYkJSOFFLSmhoRFZqb1FJbGp3NHpYUlh5VDBrbDBYeEItNkRkM1ZrS3JiT1Q0M003aThnWQ?oc=5",
-      "snippet": "FDA Approves mRNA-Based Flu Vaccine&nbsp;&nbsp;The Presidential Prayer Team",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "FDA Approves First mRNA Flu Vaccine - respiratory-therapy.com",
-      "source": "respiratory-therapy.com",
-      "date": "Fri, 07 Aug 2026 20:33:54 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeTVFeURycElzS1RUQldPTVpsbXNqd1VVeXBNVnVac2pJQjhjYmtDN0NCUDdDRHI1bUJ5WENGSFRldnRuMEZrZXpUQ1UwQUlyZUxhdkJSZ0YwUW5CRUM3VGlWV3VjWUpVeTZ1SFZkcEdWMVktbmE0bFlnWm9yaF9QU1NhTjNld2NKbk9lNXowYTdOMjZBSTl4bWdiV0FrMDNzQWdvcmVURkFaRnIwMlhqVV9pYm1tcTAzbHNpbERVdw?oc=5",
-      "snippet": "FDA Approves First mRNA Flu Vaccine&nbsp;&nbsp;respiratory-therapy.com",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
       "title": "FDA approves first mRNA flu vaccine - The Hill",
       "source": "The Hill",
       "date": "Thu, 06 Aug 2026 10:39:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUy00Ty12SUhIYnJDNWw2YU52eFBzOUNtSE5wRXRDN3dpWXF1V1pHZ1R6bkZuQm5DUkNuWDJVeHkwaXF2Ri1KanYwaVZMMXU3OHpmTjlMeEdSa3F5WldtbHlReHZJWk1uN1Yyc3E2Z2duZXVTaGZvQS1zT1BTSW9MbkZjWXJ0a291YzZYV0VB0gGTAUFVX3lxTE0yLXk3dWtieGIwWExyLW5UR1ZuTXZwVnBOLWxmZWN6RVkyNzVmWElYU0NxRm5RbXIxVTk0T08wdFR6V01PZUF4VHcxaGlKS2U0NVB4QkRYUXIya1ZIQ3JjNFo1NVl5cEVpMTd6YnM4TE9RT0ljUEtIRHR0U1J0b0htWVdCTWVJbmNNUUVZZ2p5X01kbw?oc=5",
       "snippet": "FDA approves first mRNA flu vaccine&nbsp;&nbsp;The Hill",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "FDA Approves mRNA-Based Flu Vaccine - The Presidential Prayer Team",
+      "source": "The Presidential Prayer Team",
+      "date": "Sat, 08 Aug 2026 09:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzBQX2wwb21zWkFLUUlqaGlOdUwxcHE4U2hYYnB3WXhKVkYzV19CMWxRT2dRbWF2U3p6VHZtMHRZTk5ndjVZenhLNk1NNlZFMFYwc1NHZUpEQlBTYkJSOFFLSmhoRFZqb1FJbGp3NHpYUlh5VDBrbDBYeEItNkRkM1ZrS3JiT1Q0M003aThnWQ?oc=5",
+      "snippet": "FDA Approves mRNA-Based Flu Vaccine&nbsp;&nbsp;The Presidential Prayer Team",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -44,6 +36,14 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
+      "title": "FDA Approves Moderna’s mRNA Flu Vaccine After Phase 3 Success - The American Journal of Managed Care® (AJMC®)",
+      "source": "The American Journal of Managed Care® (AJMC®)",
+      "date": "Thu, 06 Aug 2026 14:27:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOHpjMWRoRUw3dXRXZ2ZZcWxsTnJYRGdpejJPa3JrVERRVC1zRG9JR0t6Q09jN3pRRkxHT1RfWE80aE1FQU1kQTNMRW5vdDUwT3JFRzV6Wjd1V2oxbnB5SmJPZ0UzSTkyUnRiYTFYUzR5YUNRQzh2LUd4TmRWMm5sdWhvRkJvR21QbEprVWFzZHA?oc=5",
+      "snippet": "FDA Approves Moderna’s mRNA Flu Vaccine After Phase 3 Success&nbsp;&nbsp;The American Journal of Managed Care® (AJMC®)",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
       "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - The Conversation",
       "source": "The Conversation",
       "date": "Thu, 06 Aug 2026 18:16:43 GMT",
@@ -60,11 +60,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
-      "source": "Nature",
-      "date": "Fri, 19 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
-      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
+      "title": "Are mRNA vaccines safe? What scientists know so far - LSHTM",
+      "source": "LSHTM",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGpiT1I0T3FZV2JtblVmSURfaUI5Y0lGdVc4eVVJRjJMcEZ0dl9VMWNuNThFWlNwWm5qdF9reEV3OEE4Nl9ieHVGb0lvUzBJTkVYVlZsbU1kd3FONDJYcXQ1TjQ4V0JEOXJ2OGhQUTUzOXlEeUdXODJ1N1pXdUtTZkJ2Wlp6MEhhQThrdFRTZnMtTVU3RWYwM0xKYkJsczFnMG9NX1FocEJrWTc4QWpGU0Z1RERKZVYyV0E?oc=5",
+      "snippet": "Are mRNA vaccines safe? What scientists know so far&nbsp;&nbsp;LSHTM",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -76,11 +76,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - WashU Medicine",
-      "source": "WashU Medicine",
-      "date": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWFCNmRZZGJ1bkNraUczNFd4RWRKT3ZlSXlPRWFYRFZBMWRaN0hJdFFQeXVzV1loaGVHXzZxTi00VDA4N3h5RnVnVFJIS0hrZmMzQVlQSWxmcXNVVXkwNkRyNkVyLTZjYUMzUDY5aHY5RFQwV0NsdXNkQmswVjdtQnBpOHZLNE11Qkl4dlV6Vk95emJhMFdmdVpGdUptSVU?oc=5",
-      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;WashU Medicine",
+      "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
+      "source": "Nature",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
+      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
       "matched_query": "mRNA vaccine new development"
     }
   ]
