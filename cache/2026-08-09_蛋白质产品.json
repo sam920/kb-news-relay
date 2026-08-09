@@ -1,24 +1,8 @@
 {
   "date": "2026-08-09",
   "topic": "蛋白质产品",
-  "total": 58,
+  "total": 59,
   "items": [
-    {
-      "title": "Analytical Characterization Supports Confidence in Monoclonal Antibody Biosimilars - Center for Biosimilars",
-      "source": "Center for Biosimilars",
-      "date": "Thu, 06 Aug 2026 13:05:04 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUJVM3N0YlBjYVdLUHgwU3hsSEp2MmZ3bDcwUEhkZ1RTaTFyRFpvYnZ3bWItamhEZTRZWkQxNjFGTGE1czBEZThvSjhMdXVkWExNMXhFSWJ1RDZweE1odm9ZT1lyNmQxVDZjc3RyaWpCdDFSSzJSaW1lNElCajdWc0MwWFB0a041MkNDU19CYUItSl9UQWVsN0lHalJhajE0b0hoRUlIRmNYZlYwZDV0bTNaR0Jqc0NlbUJPdmpHbTJRUQ?oc=5",
-      "snippet": "Analytical Characterization Supports Confidence in Monoclonal Antibody Biosimilars&nbsp;&nbsp;Center for Biosimilars",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
-      "title": "FDA accepts application to expand Merck's RSV antibody ENFLONSIA into new season - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "date": "Thu, 06 Aug 2026 14:35:24 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEM1LWR5dTJTNC14c0RsWi1CT0hMX3p3aW9HeC16QVc1VHR5MnJPT1l1NVdFTWlUTzM0T1JPcHR5MnZwNkNPdE56cUJRSUUtV2c1eGhSQk9iZ1lpcEw4QUdsaFF3bXcyRTFSam4zZ3pyTlZsbDAwZFh1dnZ3NEdNZ3k0UTdCT0Q2bE1WeHZTNFBZMWs5eEZ6cHVCZHcxZHZra1J4R1lpdkU1S2UwQ1lncEJGLW1kUmNLSGhwX2xLUHpETmc?oc=5",
-      "snippet": "FDA accepts application to expand Merck's RSV antibody ENFLONSIA into new season&nbsp;&nbsp;The Pharma Letter",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
     {
       "title": "FDA Green-Lights Five New Treatment Options for Breast Cancer - Cancer Health",
       "source": "Cancer Health",
@@ -36,11 +20,27 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
-      "title": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market - businesswire.com",
-      "source": "businesswire.com",
+      "title": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market - Business Wire",
+      "source": "Business Wire",
       "date": "Mon, 03 Aug 2026 20:09:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaTE5U3MzdktLS2VqUGdIbkFSOVFDclFoRmZhSWRjcFNfZFhaU3RsNUhVN0Y2bGw4NUw4UHlqY3kwa0pLSFJqUnQ1UGNNNUdoZThBS1VMVnEyQ3l4LTRKVi1UM0xkdjl6ZURmelVrdTRqWl84MmcwbEp6M21CLWR5QU1xRldob3VfNWtKeGJrNEt3bGJXbGxOcFZuRG5iT09SdDk2dVI3RHlLSF93R1VsVHN0bTRlNG5ad3JfdHpiZGUwMGhGcU9EbThmaERydw?oc=5",
-      "snippet": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market&nbsp;&nbsp;businesswire.com",
+      "snippet": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market&nbsp;&nbsp;Business Wire",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "FDA Approves Expanded Access for Daraxonrasib in Pancreatic Cancer - Oncology News Central",
+      "source": "Oncology News Central",
+      "date": "Wed, 06 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZG5hR1JFcVlCS3RpLXNvQ2dZaXB3R1NmdTMwY3IwTkQtbmhPekp5RV80LVlYbjJrQlRUY0M4eU9FTDRVSVEtbTJ5dlhaM0Y5MlV0QU1fVU9UYUxVR2R2YzZjN0JvNWtxRXdlZ3kzTFhqdmNHN19EaTdZR1pISDNSLThiY1pPVTc1cS1NeGZpVTBYOUZSQlc5eFpteGZHMldXYUEzZFBuaXJFUQ?oc=5",
+      "snippet": "FDA Approves Expanded Access for Daraxonrasib in Pancreatic Cancer&nbsp;&nbsp;Oncology News Central",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "FDA Approves Subcutaneous Isatuximab for Multiple Myeloma - Targeted Oncology",
+      "source": "Targeted Oncology",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUtvR3J4Nmk2bm5XWktJRnFtOEVOQ0xacW9lalhLRFpxY1FGYkI2V0hyeEZHU2JWelNwc3B3WVB2NXVZc2xNWHlNTlI3S2E0SmR0VnpaWUNOMkI0cklqTlhJTnktTldVM0hyb2RtaVdENmhuU1phUjZFOGZTOFJVbHVfTHFvalRSWE1ucnM2cEVTTENj?oc=5",
+      "snippet": "FDA Approves Subcutaneous Isatuximab for Multiple Myeloma&nbsp;&nbsp;Targeted Oncology",
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
@@ -52,11 +52,11 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "Relapsed or Refractory Multiple Myeloma: Early-Phase Trial Investigates Novel Bispecific Antibody - The ASCO Post",
-      "source": "The ASCO Post",
+      "title": "Relapsed or Refractory Multiple Myeloma: Early-Phase Trial Investigates Novel Bispecific Antibody - ascopost.com",
+      "source": "ascopost.com",
       "date": "Mon, 27 Jul 2026 15:08:53 GMT",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLXZlaVJtLWttc2pYaTNLX0RzYjg0a3dxakhUdGZlbFhCVUtVZjFOMUd3bG9hMzdYTWM2TkJUX21nUldJdFZzQ25hcHJrbUo2S3JvZ1pMWHUzOVV6OVRoY0tRenpVMVZ6dk4xMWxnUmJqR1VicVRIbFlFckYwSDlVUDRUZnhLMXFWcHVNRGt3Qlc1TVVZTEp1WlBxTnk5RmxWTkZ1bmFObnNfYXd6bUl3d2NYRnAyNU1MdTYzN0NsWE9OQWdZLWFVNkVScTQ1UQ?oc=5",
-      "snippet": "Relapsed or Refractory Multiple Myeloma: Early-Phase Trial Investigates Novel Bispecific Antibody&nbsp;&nbsp;The ASCO Post",
+      "snippet": "Relapsed or Refractory Multiple Myeloma: Early-Phase Trial Investigates Novel Bispecific Antibody&nbsp;&nbsp;ascopost.com",
       "matched_query": "bispecific antibody clinical trial"
     },
     {
