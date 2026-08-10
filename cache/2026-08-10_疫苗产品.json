@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "topic": "疫苗产品",
-  "total": 92,
+  "total": 93,
   "items": [
     {
       "title": "FDA approval of mFLUSIVA highlights Moderna’s position in mRNA market - Clinical Trials Arena",
@@ -9,14 +9,6 @@
       "date": "Mon, 10 Aug 2026 15:02:41 GMT",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWhjOHYyNE5jME1wWDV2V3BRTjFaTXNYN0FTem0yR2pEa1dYNjRDeEpzN1hqcG1rcjI5dVVyWUdjVlZMTERkeVFIMkNjUGc2MGdqZTV1MnFZWFFoVGNoNThnMnVNZ3YtbVR4TjNNVnNoV1l0ZE1jdE9raWk4c28yenBNc3VtM19rbmJoQlBLamxmN1RBRzh1TmJ3?oc=5",
       "snippet": "FDA approval of mFLUSIVA highlights Moderna’s position in mRNA market&nbsp;&nbsp;Clinical Trials Arena",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "FDA approves Moderna’s flu shot in first for mRNA vaccines - BioXconomy",
-      "source": "BioXconomy",
-      "date": "Mon, 10 Aug 2026 15:06:12 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0Z3Njl0M2pjU3lxdUVzQmdFOU5YNENIU1lwSjh3M25pZF9IY2NsQlVaVHVuTncyT1o4N0JLWm4zTVBNek1OaWtfdU1kTU1iZW9ycGVPTVRBVWYwcGl6TUtFWU9xOUJsUl9DVFlZejJXWm9pTkNydGNqcXY1ajVCRzRaaUNaY0lnZ2tITDVnVnlQcmFaYTVaWlVFNEE?oc=5",
-      "snippet": "FDA approves Moderna’s flu shot in first for mRNA vaccines&nbsp;&nbsp;BioXconomy",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -28,14 +20,6 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "FDA Approves New Flu Shot Using COVID-Era Tech—Here’s Who Can Get It - Newsweek",
-      "source": "Newsweek",
-      "date": "Mon, 10 Aug 2026 14:24:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaHh6bEJFTkk3QkhlU0pMTHpwTjVDenRNN1VFVmlkaW1BUXJJeFdIendlcFBUSk5PX004S0tRZlByYnZmZHQ2eWNUcWRQS1d2RlFHTkktbnhXN2lFb1FtbVZlTG84SEFzbWVBSDVfdWItMTlLalV6QTQ2Qy13Nm1JLVhia1hTVE91WFlQZjkwWFp4Mk1xVkN5UmtKSjJVYUJDTHVV?oc=5",
-      "snippet": "FDA Approves New Flu Shot Using COVID-Era Tech—Here’s Who Can Get It&nbsp;&nbsp;Newsweek",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
       "title": "FDA approves first mRNA flu vaccine - The Hill",
       "source": "The Hill",
       "date": "Thu, 06 Aug 2026 10:39:00 GMT",
@@ -44,19 +28,35 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "FDA Approves First mRNA Flu Vaccine After High-Profile Reversal - U.S. News & World Report",
-      "source": "U.S. News & World Report",
+      "title": "FDA approves Moderna’s flu shot in first for mRNA vaccines - BioXconomy",
+      "source": "BioXconomy",
+      "date": "Mon, 10 Aug 2026 15:06:12 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0Z3Njl0M2pjU3lxdUVzQmdFOU5YNENIU1lwSjh3M25pZF9IY2NsQlVaVHVuTncyT1o4N0JLWm4zTVBNek1OaWtfdU1kTU1iZW9ycGVPTVRBVWYwcGl6TUtFWU9xOUJsUl9DVFlZejJXWm9pTkNydGNqcXY1ajVCRzRaaUNaY0lnZ2tITDVnVnlQcmFaYTVaWlVFNEE?oc=5",
+      "snippet": "FDA approves Moderna’s flu shot in first for mRNA vaccines&nbsp;&nbsp;BioXconomy",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "FDA approves 1st mRNA flu shot, from Moderna - NBC News",
+      "source": "NBC News",
+      "date": "Thu, 06 Aug 2026 18:06:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkdLSVJGMUlhVTVLUGhRa0Y1c05DVkRFNElwbVJ4YmFJbk5Fb0NSeWtzeWo3czdsZE1aMk1JUU91VkhlOGtSUl9uaFJZTENTdW94VzA5TkRsTkRINl9HQUJRUlhoV290QmhDNDJrdVQ0WVNjblJZVm1LYzRvNUtyb3dsX29vVEhheTZDdUJud1RoYU9WUXkw?oc=5",
+      "snippet": "FDA approves 1st mRNA flu shot, from Moderna&nbsp;&nbsp;NBC News",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "FDA Approves First mRNA Flu Vaccine After High-Profile Reversal - usnews.com",
+      "source": "usnews.com",
       "date": "Thu, 06 Aug 2026 19:19:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcnFjTFVkSzl6SldnR1Ayb0FyckJRMnhrSXAtbU13YW5Gc09NOFNnSUE5WXNhVnVvRXlRNjFKWWJtQzF3MEdSUEwzamxKMDdBcFR0RUN2Q0hVY1NZTzg0WlBNRU5qS0xNcFcxcWgtYlI4QUtsY2FvTmtKekNYeXJDUGRMVzhISjhoNW1xWmZldW5xWEZfdTltc3IwcGlMeGMyOXVuX2FXWS1kLUlicF9nUng0V2FaZHZia3VFc0hRWXE0RXc?oc=5",
-      "snippet": "FDA Approves First mRNA Flu Vaccine After High-Profile Reversal&nbsp;&nbsp;U.S. News & World Report",
+      "snippet": "FDA Approves First mRNA Flu Vaccine After High-Profile Reversal&nbsp;&nbsp;usnews.com",
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - theconversation.com",
-      "source": "theconversation.com",
+      "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - The Conversation",
+      "source": "The Conversation",
       "date": "Thu, 06 Aug 2026 18:16:43 GMT",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZTBtaklRLURsclQ5MnNwVmNqb3VlWXdxVnJTd2ljSlpDZlVQdm1EeGd1Q3lWU2R1V3dXTDQ3eGV3VGxKanhHTEw2Wi1aMXVtU3BSc250SXFEOWZNd1JZdDJ1TEVIMlVQaW5ENC1fVE9vR0pocHNSalJfeTJJLTlvZF9BQ0FqSnFuZk9XQ2hYUWRzT2Jxai1sOUFGbUJIakZTcmJkNG92WC1BQUVFZ3pVSWFiWXVSdkdqZFc1bUt0bkxDQ3dxT1VFaGRQNjJmcjRWQW1LMTZYRHlFM3R2eTlLNlpHTVRoc2xNX2RHZnVKZlVPZk13UDRNR1B3ZVJiVXRYZE0yaDN3TnZVenZX?oc=5",
-      "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;theconversation.com",
+      "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;The Conversation",
       "matched_query": "mRNA vaccine new development"
     },
     {
