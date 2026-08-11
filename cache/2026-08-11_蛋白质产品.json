@@ -1,8 +1,16 @@
 {
   "date": "2026-08-11",
   "topic": "蛋白质产品",
-  "total": 60,
+  "total": 58,
   "items": [
+    {
+      "title": "FDA approves first interchangeable golimumab biosimilars Immgolis and Immgolis Intri - Generics and Biosimilars Initiative",
+      "source": "Generics and Biosimilars Initiative",
+      "date": "Wed, 05 Aug 2026 16:10:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTVTdHJGNnBSbXNZU0lvVG56Y0ZUb1EyeW1uNDNxRk5mbVVfQTFXNzJwWEg3eG44dkU5U191Z3lQZjBLczl6X1oxTFlxZmVrZXpOSW40US1nUUdlWW1sVU43TFc4b2NqbjVic2E3UEpkMksxNWNxUXlRUnJEelpQMk13YVpQZFRUdmx6Q19NYXR4ZWxLaWw5ODBBenpQalItXzNsU1RkdVQzajJmSEJIbE9lZWZKRVptZmdWMGxJcnpNZw?oc=5",
+      "snippet": "FDA approves first interchangeable golimumab biosimilars Immgolis and Immgolis Intri&nbsp;&nbsp;Generics and Biosimilars Initiative",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
     {
       "title": "FDA Approves Expanded Access for Daraxonrasib in Pancreatic Cancer - Oncology News Central",
       "source": "Oncology News Central",
@@ -36,14 +44,6 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
-      "title": "FDA Approves Lumvoa for Active and Chronic Thyroid Eye Disease - MPR - Medical Professionals Reference",
-      "source": "Medical Professionals Reference",
-      "date": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOXzBtRTZWbmc3ZHVCWndrUXBLa0xTcHA4UXk2OENud0YwZHFyZGJ4UlhVVUdPRmxyQW1aUlpORVFvdmswbmRLNTQtWmJKOWYtVnlCNXo2em0xNzFHLUpVX2h0U3lKLTlJY09WMWdsYks2LWRXQmhqM0g3UnVLNEUySmJNSFlELVZlNEE?oc=5",
-      "snippet": "FDA Approves Lumvoa for Active and Chronic Thyroid Eye Disease - MPR&nbsp;&nbsp;Medical Professionals Reference",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
       "title": "First patient dosed with AK146D1 in Akeso’s Phase II study - Clinical Trials Arena",
       "source": "Clinical Trials Arena",
       "date": "Mon, 10 Aug 2026 13:34:39 GMT",
@@ -60,11 +60,11 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial - Nature",
-      "source": "Nature",
+      "title": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial - nature.com",
+      "source": "nature.com",
       "date": "Wed, 22 Jul 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9md0l5T1h6ZmJLRWtlVXUwRTRQZVNabmJvTnkzcUh0QXdjLTFpR3dMeHhHU1BMSEM1T0R0NlozcEY3SFpOSkNQdlpncDNxVGIxdEhrTDVXd3RIZ0FRYnZZ?oc=5",
-      "snippet": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial&nbsp;&nbsp;Nature",
+      "snippet": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial&nbsp;&nbsp;nature.com",
       "matched_query": "bispecific antibody clinical trial"
     },
     {
@@ -76,11 +76,11 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "Akeso Doses First Patient in Phase II Trial of AK146D1–Ivonescimab Combination for Advanced Breast Cancer - BioPharma APAC",
-      "source": "BioPharma APAC",
-      "date": "Mon, 10 Aug 2026 04:37:45 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS3NKdnZKclJGZG9mb1JLM3I5TXkyUDVsc0xpVzA1VVZPRzJHejdGUXNzZ1lvbG9tZ2tRMTlwaDZrVW9SY3dxMVgyejhvU0tzWW83Zk9YLXgyTExPbk5MOU1DcXlUYVZuXzVGMEZPY2dXdjB3Mk0tNlNaWHNKaGV1WUNLdGNNYi1hbl9IRnpDTkY3cDB5UkY4Tm5NaVdxUUg5VmNVVTJSMVNmQlJIc3AyNFFMMHktX0hVakIxbU5hTllfMEdfMlJuT0E4ZldIRGR5dFBVZXlWSU9nY3JXc3J6VUtB?oc=5",
-      "snippet": "Akeso Doses First Patient in Phase II Trial of AK146D1–Ivonescimab Combination for Advanced Breast Cancer&nbsp;&nbsp;BioPharma APAC",
+      "title": "Merck posts—then pulls—trial plan for PD-1xVEGF and TROP2 ADC combination - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnplaTc4bjlsS3ROWHU5MEt6UFVDS0NCUUt2RDJiZjQtdno1OWFUQTZ5THYxS3VJRGQxYW1vTi1iYm1YV0QzSjg5QkpwTnpTX2lPM2FvaF9hZzBZZU54cjBLV3FCeUJYZkhGdjUwNUhHUEhRY1V2NzJIVGhhMW5Bc2JsSFBmNVYzMWtqS1NSNGdHZDE3RUdvMUw1cG9jb19hWXpBOGU4b3owVlk?oc=5",
+      "snippet": "Merck posts—then pulls—trial plan for PD-1xVEGF and TROP2 ADC combination&nbsp;&nbsp;Fierce Biotech",
       "matched_query": "bispecific antibody clinical trial"
     }
   ]

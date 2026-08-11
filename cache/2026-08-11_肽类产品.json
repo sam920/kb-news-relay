@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
   "topic": "肽类产品",
-  "total": 25,
+  "total": 24,
   "items": [
     {
       "title": "Peptides talk is everywhere: But what does the science say? - Stanford Medicine",
@@ -9,6 +9,14 @@
       "date": "Mon, 10 Aug 2026 21:06:26 GMT",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVQ3cU4xTG1iTGY0MC1wb1ZENnVHRVF3NWExOVlIb0tqZF9hTFdJT0pvNHFNVUFYV3JNVEJuNUNZRnY3dmQyemUzWEtKWmc0eW96UUY1NXlCQzB4d3NHWVpmbFA0dW03R05ZdEtmWTFqR0hfbm5zaGw0SmNZZ2dvUXVWSEJTZFhKc3RDejVsdw?oc=5",
       "snippet": "Peptides talk is everywhere: But what does the science say?&nbsp;&nbsp;Stanford Medicine",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "What Are GLP-1s? Uses for Weight Loss, Diabetes, and More - GoodRx",
+      "source": "GoodRx",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0UktSYVdFekU1YjJnSzA5VGpFbDA2OUprLVJTTFhxeWxjTGxEUk5oX1k0VV9DQktrQmVxaEdRUjNEamtRczVqQndxVmdLcDdkenh4ajVDYmJVNWt3MGg0S0FaMmVBV29wTXlid0l3?oc=5",
+      "snippet": "What Are GLP-1s? Uses for Weight Loss, Diabetes, and More&nbsp;&nbsp;GoodRx",
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
@@ -36,19 +44,11 @@
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
-      "title": "Recon: FDA approves first drug for type 1 narcolepsy, mRNA flu vaccine; No merger talks between AstraZeneca-BMS - RAPS",
-      "source": "RAPS",
-      "date": "Thu, 06 Aug 2026 18:15:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd1RjMUlnWmxrUGY1RE1YSkVfblNPV3FmWjlpOERmTE4tcFJVa2x3dmd5bVA1eEtndzZtMnZnUkpxeW5YZm11OTdBV21EdDNBOW82NWRoX1VXeTZROUU1MW9BZXBkVFhJd0I3QzZZOEdxVVVPUmNaTUl5NWdqMXdRbWNPN0JwOTRnQ2hiTWQ3bkRkMzBwZkZMdUhjQnpSSlpjUmw3X1JpQ0F6Uy1Td0JoX0tZYThraDF5NElwWTQxUXBmVDVfc1ZlMkFGTGlDNDgwSXQ1dUo1N1lTTG8?oc=5",
-      "snippet": "Recon: FDA approves first drug for type 1 narcolepsy, mRNA flu vaccine; No merger talks between AstraZeneca-BMS&nbsp;&nbsp;RAPS",
-      "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "Peptides are surging in popularity. What are they, and do they work? Why doctors are urging caution. - UCHealth",
-      "source": "UCHealth",
+      "title": "Peptides are surging in popularity. What are they, and do they work? Why doctors are urging caution. - uchealth.org",
+      "source": "uchealth.org",
       "date": "Fri, 24 Jul 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "snippet": "Peptides are surging in popularity. What are they, and do they work? Why doctors are urging caution.&nbsp;&nbsp;UCHealth",
+      "snippet": "Peptides are surging in popularity. What are they, and do they work? Why doctors are urging caution.&nbsp;&nbsp;uchealth.org",
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
@@ -68,20 +68,20 @@
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "WATCH: FDA advisory panel narrowly backs use of several peptides favored by RFK Jr. - PBS",
-      "source": "PBS",
-      "date": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeHFHdlRzNDVHLU45N1JsTWFVcGZDbUdrblNZNGpQZWg5LUdhWllWaTk5b1lzandRNE1yejhpMVB1OXBhckRCVTZzMk1veU03djluMG9oUWZnblBxSWpBUEcxLXRRTmNZYzFnbDdUYm02eTZtZXI3V2NkUGlMUGxDaFAwcHIyUlRKaXh5dDc2Yk1VSEh6Smc?oc=5",
-      "snippet": "WATCH: FDA advisory panel narrowly backs use of several peptides favored by RFK Jr.&nbsp;&nbsp;PBS",
-      "matched_query": "peptide therapeutic clinical trial"
-    },
-    {
       "title": "Semaglutide and Follow-On Peptide Therapeutics: Balancing Innovation, Regulation, and Clinical Outcomes - Cureus",
       "source": "Cureus",
       "date": "Mon, 18 May 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjVhaXpFWUVYdFZ0ejBNd1BaV2dHeWs5MUtGOTJEQ2N5cTRnazFncHU3ZG14MG9LcWFfal80bzZHbUJoSW9OSElYVGl0Y25EY3VQX0lvSmFFc1NZOWxicHNvQjlBN2RYSDF2aHg0RTh2RzRCSVVDdUZxcGVlOWdPQ0Q2UHJCdW1pLWtSM2ZfZjBIRU52QnM0N0FLdmZVQk9zTmViVl9mdFVHTmVjaDgtSEFBWnJHWW1kVFNJZmp5U1JHSzNBLTNrSlpiTWhlS0ZvWFZaTzR3?oc=5",
       "snippet": "Semaglutide and Follow-On Peptide Therapeutics: Balancing Innovation, Regulation, and Clinical Outcomes&nbsp;&nbsp;Cureus",
       "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "Semaglutide vs. Tirzepatide vs. Orforglipron for Weight Loss - Health US News",
+      "source": "Health US News",
+      "date": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTYzM0U1cW5GWXUxVGtHZjFQMnJLU0hKdVRUNW9wOHNBUUhRZkRza3o1Sk9sdlU3cWdla2tLRVd0MERGLUNyZHMxSUhFbjRTak03TVhjMGgyYW41ZWctZ2xYN1p3YlVjc3JDYjBobm5yTHVrdkhpc3lvV2xPbGp1UWdtaXlVd09hY2c?oc=5",
+      "snippet": "Semaglutide vs. Tirzepatide vs. Orforglipron for Weight Loss&nbsp;&nbsp;Health US News",
+      "matched_query": "semaglutide tirzepatide news"
     }
   ]
 }
