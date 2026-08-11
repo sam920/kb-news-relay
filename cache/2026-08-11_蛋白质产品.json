@@ -1,16 +1,8 @@
 {
   "date": "2026-08-11",
   "topic": "蛋白质产品",
-  "total": 59,
+  "total": 58,
   "items": [
-    {
-      "title": "FDA Approves Expanded Access for Daraxonrasib in Pancreatic Cancer - Oncology News Central",
-      "source": "Oncology News Central",
-      "date": "Wed, 06 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZG5hR1JFcVlCS3RpLXNvQ2dZaXB3R1NmdTMwY3IwTkQtbmhPekp5RV80LVlYbjJrQlRUY0M4eU9FTDRVSVEtbTJ5dlhaM0Y5MlV0QU1fVU9UYUxVR2R2YzZjN0JvNWtxRXdlZ3kzTFhqdmNHN19EaTdZR1pISDNSLThiY1pPVTc1cS1NeGZpVTBYOUZSQlc5eFpteGZHMldXYUEzZFBuaXJFUQ?oc=5",
-      "snippet": "FDA Approves Expanded Access for Daraxonrasib in Pancreatic Cancer&nbsp;&nbsp;Oncology News Central",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
     {
       "title": "FDA approves first interchangeable golimumab biosimilars Immgolis and Immgolis Intri - Generics and Biosimilars Initiative",
       "source": "Generics and Biosimilars Initiative",
@@ -20,19 +12,19 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
-      "title": "FDA Green-Lights Five New Treatment Options for Breast Cancer - Cancer Health",
-      "source": "Cancer Health",
+      "title": "FDA Green-Lights Five New Treatment Options for Breast Cancer - cancerhealth.com",
+      "source": "cancerhealth.com",
       "date": "Mon, 03 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTUtwQWlQeFFvVXd4T1FkeUdIZUdDR0d4ZkpqYWJudnZXZHdYelJwRXdKVTlhQkp2dndEYm1DcVRNNGJfcjYyaEowS2JrSTNkUHV6bzZBTVpnTFFZdzBQZks2UjE3NWtJZFhYR0Y5UlFURlk4X25seHNveXQ3bFJwUjdVTlZSQ2RxcDU4aC0zY1JZS3dfWW1zTQ?oc=5",
-      "snippet": "FDA Green-Lights Five New Treatment Options for Breast Cancer&nbsp;&nbsp;Cancer Health",
+      "snippet": "FDA Green-Lights Five New Treatment Options for Breast Cancer&nbsp;&nbsp;cancerhealth.com",
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
-      "title": "FDA approves veligrotug-vvze (Lumvoa) for thyroid eye disease across active and chronic stages - Ophthalmology Times Europe",
-      "source": "Ophthalmology Times Europe",
-      "date": "Sat, 27 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWm1NaVhPd2w1ZV94QUUtakl2Q2pLdEJfQ2stNmFLbGFmOGsyQ3BpZHpjMW5fOVk0TnBob09TZVdnRjEwYlR5WDEzUk9pekFySVdXMnhXNmRXeVRwOE9WeWFnMWhTVEZuWjQ3V0J6SS1nOTVTZVdlbFMwMWZaenVCbURPb0NCS3ctYVhWUGI4ODVCV3BfNEtVb2V4NVBqNHoxLXpNS2ljV2lXb0NCSnFxYm1sV1JXWFEtOGdXSQ?oc=5",
-      "snippet": "FDA approves veligrotug-vvze (Lumvoa) for thyroid eye disease across active and chronic stages&nbsp;&nbsp;Ophthalmology Times Europe",
+      "title": "Tonix Plans Two-Dose Antibody Study; Protection Expected in 2 Days - Stock Titan",
+      "source": "Stock Titan",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU5zWHR4NzB5Wm4zTW9USGE0N0U2NEJWSHNGN3lNUzBFVEZhVWZkRzJ6aWc4QTNwTVI2WUNOM0xPdjdEaDJNQTgwem15STVlY08wVXlESWZXQUJEa2xtWHBNUV9qMVpfVWVIUHBsWmNwcWcxQ2JMQ0gzeEZIQjN0V0NZRXU3ZWdMZDlFLTF5Y3QtbnBYVGhsblFhNW0zdkRlSHFuR0d4TjVtQ3UzX3J6SGZGcnBCRzVXV1ZN?oc=5",
+      "snippet": "Tonix Plans Two-Dose Antibody Study; Protection Expected in 2 Days&nbsp;&nbsp;Stock Titan",
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
@@ -44,11 +36,19 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
-      "title": "First patient dosed with AK146D1 in Akeso’s Phase II study - clinicaltrialsarena.com",
-      "source": "clinicaltrialsarena.com",
+      "title": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market - Business Wire",
+      "source": "Business Wire",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaTE5U3MzdktLS2VqUGdIbkFSOVFDclFoRmZhSWRjcFNfZFhaU3RsNUhVN0Y2bGw4NUw4UHlqY3kwa0pLSFJqUnQ1UGNNNUdoZThBS1VMVnEyQ3l4LTRKVi1UM0xkdjl6ZURmelVrdTRqWl84MmcwbEp6M21CLWR5QU1xRldob3VfNWtKeGJrNEt3bGJXbGxOcFZuRG5iT09SdDk2dVI3RHlLSF93R1VsVHN0bTRlNG5ad3JfdHpiZGUwMGhGcU9EbThmaERydw?oc=5",
+      "snippet": "Fresenius Announces FDA Approval of Rituximab Biosimilar for the U.S. Market&nbsp;&nbsp;Business Wire",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "First patient dosed with AK146D1 in Akeso’s Phase II study - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
       "date": "Mon, 10 Aug 2026 13:34:39 GMT",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTZpdzZPZlRMT1A5Y1JEX1RSejlwSXJabkp4SXU0UWNjZFVZdXduYzZOVmMwMEVCSWdpa3liVktaX05RQTgwX2EtbjNEQjVLWVdmLUhVa0VmQS1vdmtDYTd4LXBtT3M3TDJpbEl0SFUySjc1NEs5S1NNSElYZmdXNlRxQnVWZEdjUlE?oc=5",
-      "snippet": "First patient dosed with AK146D1 in Akeso’s Phase II study&nbsp;&nbsp;clinicaltrialsarena.com",
+      "snippet": "First patient dosed with AK146D1 in Akeso’s Phase II study&nbsp;&nbsp;Clinical Trials Arena",
       "matched_query": "bispecific antibody clinical trial"
     },
     {
