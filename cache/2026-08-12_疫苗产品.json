@@ -1,8 +1,16 @@
 {
   "date": "2026-08-12",
   "topic": "疫苗产品",
-  "total": 91,
+  "total": 93,
   "items": [
+    {
+      "title": "Flu Season: FDA Approves More Effective mRNA Shot for Adults 50 and Up - Healthline",
+      "source": "Healthline",
+      "date": "Wed, 12 Aug 2026 17:21:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHdPTWlEN3QyazhyajhvS2lJUEY4bTVPOWlnc2xtZzRCVlgtaERZTEpqelhnMzJLbmR6a1hXMG9xbVlYNTBOazh6TzN2UktSeEItLUFJTG1FNF9ESWlGbGtmYmI0R2t5X0FYZmZQaFNwT2NNeXkwRm9uSHVQZW81ZE5OTDRSSTc0d1hFVTVsblA?oc=5",
+      "snippet": "Flu Season: FDA Approves More Effective mRNA Shot for Adults 50 and Up&nbsp;&nbsp;Healthline",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
     {
       "title": "The FDA Approved a New mRNA Flu Vaccine. Here’s What to Know - WTTW",
       "source": "WTTW",
@@ -12,19 +20,19 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "FDA approval of mFLUSIVA highlights Moderna’s position in mRNA market - clinicaltrialsarena.com",
-      "source": "clinicaltrialsarena.com",
+      "title": "FDA approval of mFLUSIVA highlights Moderna’s position in mRNA market - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
       "date": "Mon, 10 Aug 2026 15:02:41 GMT",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWhjOHYyNE5jME1wWDV2V3BRTjFaTXNYN0FTem0yR2pEa1dYNjRDeEpzN1hqcG1rcjI5dVVyWUdjVlZMTERkeVFIMkNjUGc2MGdqZTV1MnFZWFFoVGNoNThnMnVNZ3YtbVR4TjNNVnNoV1l0ZE1jdE9raWk4c28yenBNc3VtM19rbmJoQlBLamxmN1RBRzh1TmJ3?oc=5",
-      "snippet": "FDA approval of mFLUSIVA highlights Moderna’s position in mRNA market&nbsp;&nbsp;clinicaltrialsarena.com",
+      "snippet": "FDA approval of mFLUSIVA highlights Moderna’s position in mRNA market&nbsp;&nbsp;Clinical Trials Arena",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "FDA approves 1st mRNA flu shot, from Moderna - nbcnews.com",
-      "source": "nbcnews.com",
+      "title": "FDA approves 1st mRNA flu shot, from Moderna - NBC News",
+      "source": "NBC News",
       "date": "Thu, 06 Aug 2026 18:06:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkdLSVJGMUlhVTVLUGhRa0Y1c05DVkRFNElwbVJ4YmFJbk5Fb0NSeWtzeWo3czdsZE1aMk1JUU91VkhlOGtSUl9uaFJZTENTdW94VzA5TkRsTkRINl9HQUJRUlhoV290QmhDNDJrdVQ0WVNjblJZVm1LYzRvNUtyb3dsX29vVEhheTZDdUJud1RoYU9WUXkw?oc=5",
-      "snippet": "FDA approves 1st mRNA flu shot, from Moderna&nbsp;&nbsp;nbcnews.com",
+      "snippet": "FDA approves 1st mRNA flu shot, from Moderna&nbsp;&nbsp;NBC News",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -36,27 +44,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "FDA Approves First mRNA Flu Vaccine - respiratory-therapy.com",
-      "source": "respiratory-therapy.com",
-      "date": "Fri, 07 Aug 2026 20:33:54 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeTVFeURycElzS1RUQldPTVpsbXNqd1VVeXBNVnVac2pJQjhjYmtDN0NCUDdDRHI1bUJ5WENGSFRldnRuMEZrZXpUQ1UwQUlyZUxhdkJSZ0YwUW5CRUM3VGlWV3VjWUpVeTZ1SFZkcEdWMVktbmE0bFlnWm9yaF9QU1NhTjNld2NKbk9lNXowYTdOMjZBSTl4bWdiV0FrMDNzQWdvcmVURkFaRnIwMlhqVV9pYm1tcTAzbHNpbERVdw?oc=5",
-      "snippet": "FDA Approves First mRNA Flu Vaccine&nbsp;&nbsp;respiratory-therapy.com",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
       "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - The Conversation",
       "source": "The Conversation",
       "date": "Thu, 06 Aug 2026 18:16:43 GMT",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZTBtaklRLURsclQ5MnNwVmNqb3VlWXdxVnJTd2ljSlpDZlVQdm1EeGd1Q3lWU2R1V3dXTDQ3eGV3VGxKanhHTEw2Wi1aMXVtU3BSc250SXFEOWZNd1JZdDJ1TEVIMlVQaW5ENC1fVE9vR0pocHNSalJfeTJJLTlvZF9BQ0FqSnFuZk9XQ2hYUWRzT2Jxai1sOUFGbUJIakZTcmJkNG92WC1BQUVFZ3pVSWFiWXVSdkdqZFc1bUt0bkxDQ3dxT1VFaGRQNjJmcjRWQW1LMTZYRHlFM3R2eTlLNlpHTVRoc2xNX2RHZnVKZlVPZk13UDRNR1B3ZVJiVXRYZE0yaDN3TnZVenZX?oc=5",
       "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;The Conversation",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "FDA Approves First mRNA Flu Vaccine After High-Profile Reversal - U.S. News & World Report",
-      "source": "U.S. News & World Report",
-      "date": "Thu, 06 Aug 2026 19:19:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcnFjTFVkSzl6SldnR1Ayb0FyckJRMnhrSXAtbU13YW5Gc09NOFNnSUE5WXNhVnVvRXlRNjFKWWJtQzF3MEdSUEwzamxKMDdBcFR0RUN2Q0hVY1NZTzg0WlBNRU5qS0xNcFcxcWgtYlI4QUtsY2FvTmtKekNYeXJDUGRMVzhISjhoNW1xWmZldW5xWEZfdTltc3IwcGlMeGMyOXVuX2FXWS1kLUlicF9nUng0V2FaZHZia3VFc0hRWXE0RXc?oc=5",
-      "snippet": "FDA Approves First mRNA Flu Vaccine After High-Profile Reversal&nbsp;&nbsp;U.S. News & World Report",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -76,11 +68,19 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
-      "source": "Nature",
+      "title": "Programming the immunological properties of mRNA vaccines for cancer - nature.com",
+      "source": "nature.com",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
-      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
+      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;nature.com",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
+      "title": "New mRNA vaccine platform could expand global vaccine access - Penn Medicine",
+      "source": "Penn Medicine",
+      "date": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3BPZ0RNdTJndmR6NG9NOU9zc1RNblNLbVg0Z0VPamh1VzZWaXVScl8yRTM1SWR4UGV2R0N2bTR0TDNHY2FKUmJuVWRkU3NVOFp2TlNQdF9uNVBPM1pOZGZ1bWE0MDR5YXFGMlRGT0NUb3BwSlF4b1A5VHdWZHNLT2lNamMwWW15UGJIWWNKMHIzUXA1R0UyeVdB?oc=5",
+      "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;Penn Medicine",
       "matched_query": "mRNA vaccine new development"
     }
   ]
