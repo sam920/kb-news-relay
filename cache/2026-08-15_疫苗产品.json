@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "topic": "疫苗产品",
-  "total": 94,
+  "total": 97,
   "items": [
     {
       "title": "The FDA Approved a New mRNA Flu Vaccine. Here’s What to Know - WTTW",
@@ -12,11 +12,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - UC Santa Cruz - News",
-      "source": "UC Santa Cruz - News",
+      "title": "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - news.ucsc.edu",
+      "source": "news.ucsc.edu",
       "date": "Tue, 11 Aug 2026 16:21:49 GMT",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nNS1fQThUSDg2NFJ4MHJWeFFpV2ZPUDJuTXh6MWl5Qlh5cUprZXNkeUU5dDB0SGh2X2F5WXJuRTBoVHJ1VDRfaVQwY1MzWlZnd2txTk9TUWlSbE0?oc=5",
-      "snippet": "RNA researcher on F.D.A. approval of first mRNA influenza vaccine&nbsp;&nbsp;UC Santa Cruz - News",
+      "snippet": "RNA researcher on F.D.A. approval of first mRNA influenza vaccine&nbsp;&nbsp;news.ucsc.edu",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -60,6 +60,14 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
+      "title": "Are mRNA vaccines safe? What scientists know so far - lshtm.ac.uk",
+      "source": "lshtm.ac.uk",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGpiT1I0T3FZV2JtblVmSURfaUI5Y0lGdVc4eVVJRjJMcEZ0dl9VMWNuNThFWlNwWm5qdF9reEV3OEE4Nl9ieHVGb0lvUzBJTkVYVlZsbU1kd3FONDJYcXQ1TjQ4V0JEOXJ2OGhQUTUzOXlEeUdXODJ1N1pXdUtTZkJ2Wlp6MEhhQThrdFRTZnMtTVU3RWYwM0xKYkJsczFnMG9NX1FocEJrWTc4QWpGU0Z1RERKZVYyV0E?oc=5",
+      "snippet": "Are mRNA vaccines safe? What scientists know so far&nbsp;&nbsp;lshtm.ac.uk",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
       "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
       "source": "Nature",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT",
@@ -73,14 +81,6 @@
       "date": "Wed, 15 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWFCNmRZZGJ1bkNraUczNFd4RWRKT3ZlSXlPRWFYRFZBMWRaN0hJdFFQeXVzV1loaGVHXzZxTi00VDA4N3h5RnVnVFJIS0hrZmMzQVlQSWxmcXNVVXkwNkRyNkVyLTZjYUMzUDY5aHY5RFQwV0NsdXNkQmswVjdtQnBpOHZLNE11Qkl4dlV6Vk95emJhMFdmdVpGdUptSVU?oc=5",
       "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;WashU Medicine",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "5 Vaccines Under Development That Would Change the World As We Know It - The American Journal of Managed Care® (AJMC®)",
-      "source": "The American Journal of Managed Care® (AJMC®)",
-      "date": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGQya0hVUDcwMUp4UnFGaG0wNElPVUJRclM2UXcxWU1iTUFJTjdBNjV5ZE9WUG5LeGNxdnAtWm1WVHBmZWlkMWphV25QeFgzR3RwUTQ5Ung2bzE3b0xWNzFWVnc0azVPS2pQZ2pSU1pEYURDOExYZEFZcXB4N2ZyQkdSMTNDeXJoMWIweVl2ZjBHVEF6VTVxWlM3ZEw?oc=5",
-      "snippet": "5 Vaccines Under Development That Would Change the World As We Know It&nbsp;&nbsp;The American Journal of Managed Care® (AJMC®)",
       "matched_query": "mRNA vaccine new development"
     }
   ]
