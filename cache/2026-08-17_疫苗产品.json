@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "topic": "疫苗产品",
-  "total": 95,
+  "total": 94,
   "items": [
     {
       "title": "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - UC Santa Cruz - News",
@@ -28,11 +28,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "FDA approves 1st mRNA flu shot, from Moderna - nbcnews.com",
-      "source": "nbcnews.com",
+      "title": "FDA approves 1st mRNA flu shot, from Moderna - NBC News",
+      "source": "NBC News",
       "date": "Thu, 06 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkdLSVJGMUlhVTVLUGhRa0Y1c05DVkRFNElwbVJ4YmFJbk5Fb0NSeWtzeWo3czdsZE1aMk1JUU91VkhlOGtSUl9uaFJZTENTdW94VzA5TkRsTkRINl9HQUJRUlhoV290QmhDNDJrdVQ0WVNjblJZVm1LYzRvNUtyb3dsX29vVEhheTZDdUJud1RoYU9WUXkw?oc=5",
-      "snippet": "FDA approves 1st mRNA flu shot, from Moderna&nbsp;&nbsp;nbcnews.com",
+      "snippet": "FDA approves 1st mRNA flu shot, from Moderna&nbsp;&nbsp;NBC News",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -44,19 +44,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - The Conversation",
-      "source": "The Conversation",
+      "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - theconversation.com",
+      "source": "theconversation.com",
       "date": "Thu, 06 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZTBtaklRLURsclQ5MnNwVmNqb3VlWXdxVnJTd2ljSlpDZlVQdm1EeGd1Q3lWU2R1V3dXTDQ3eGV3VGxKanhHTEw2Wi1aMXVtU3BSc250SXFEOWZNd1JZdDJ1TEVIMlVQaW5ENC1fVE9vR0pocHNSalJfeTJJLTlvZF9BQ0FqSnFuZk9XQ2hYUWRzT2Jxai1sOUFGbUJIakZTcmJkNG92WC1BQUVFZ3pVSWFiWXVSdkdqZFc1bUt0bkxDQ3dxT1VFaGRQNjJmcjRWQW1LMTZYRHlFM3R2eTlLNlpHTVRoc2xNX2RHZnVKZlVPZk13UDRNR1B3ZVJiVXRYZE0yaDN3TnZVenZX?oc=5",
-      "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;The Conversation",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "FDA approves 1st flu shot using same technology as COVID vaccines - USA Today",
-      "source": "USA Today",
-      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTzNDVDk2Qk9tU1pqbWJqOHFUdTg0eEE2ZWJicjlNMC1yYXRyX3BYQUpjTF9zV2FTLVdha3RBLW14anV1UU5YbU5PWW5fTlV0UVNSU3NKSTRzY2JxajRXQkUxb3hvNFUxd1ZzYkd1a1RIUWg2eXE0YUFQMzBMdGJ0cXZjUVJuLTQ3RHJrTjZOTmt1WUR3?oc=5",
-      "snippet": "FDA approves 1st flu shot using same technology as COVID vaccines&nbsp;&nbsp;USA Today",
+      "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;theconversation.com",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -68,19 +60,27 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Programming the immunological properties of mRNA vaccines for cancer - nature.com",
-      "source": "nature.com",
+      "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
+      "source": "Nature",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
-      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;nature.com",
+      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Are mRNA vaccines safe? What scientists know so far - LSHTM",
-      "source": "LSHTM",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGpiT1I0T3FZV2JtblVmSURfaUI5Y0lGdVc4eVVJRjJMcEZ0dl9VMWNuNThFWlNwWm5qdF9reEV3OEE4Nl9ieHVGb0lvUzBJTkVYVlZsbU1kd3FONDJYcXQ1TjQ4V0JEOXJ2OGhQUTUzOXlEeUdXODJ1N1pXdUtTZkJ2Wlp6MEhhQThrdFRTZnMtTVU3RWYwM0xKYkJsczFnMG9NX1FocEJrWTc4QWpGU0Z1RERKZVYyV0E?oc=5",
-      "snippet": "Are mRNA vaccines safe? What scientists know so far&nbsp;&nbsp;LSHTM",
+      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - WashU Medicine",
+      "source": "WashU Medicine",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWFCNmRZZGJ1bkNraUczNFd4RWRKT3ZlSXlPRWFYRFZBMWRaN0hJdFFQeXVzV1loaGVHXzZxTi00VDA4N3h5RnVnVFJIS0hrZmMzQVlQSWxmcXNVVXkwNkRyNkVyLTZjYUMzUDY5aHY5RFQwV0NsdXNkQmswVjdtQnBpOHZLNE11Qkl4dlV6Vk95emJhMFdmdVpGdUptSVU?oc=5",
+      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;WashU Medicine",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
+      "title": "5 Vaccines Under Development That Would Change the World As We Know It - AJMC",
+      "source": "AJMC",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGQya0hVUDcwMUp4UnFGaG0wNElPVUJRclM2UXcxWU1iTUFJTjdBNjV5ZE9WUG5LeGNxdnAtWm1WVHBmZWlkMWphV25QeFgzR3RwUTQ5Ung2bzE3b0xWNzFWVnc0azVPS2pQZ2pSU1pEYURDOExYZEFZcXB4N2ZyQkdSMTNDeXJoMWIweVl2ZjBHVEF6VTVxWlM3ZEw?oc=5",
+      "snippet": "5 Vaccines Under Development That Would Change the World As We Know It&nbsp;&nbsp;AJMC",
       "matched_query": "mRNA vaccine new development"
     }
   ]
