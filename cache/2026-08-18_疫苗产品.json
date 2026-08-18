@@ -1,30 +1,14 @@
 {
   "date": "2026-08-18",
   "topic": "疫苗产品",
-  "total": 97,
+  "total": 96,
   "items": [
     {
-      "title": "FDA withdraws publication of COVID, shingles vaccine research findings - ABC News - Breaking News, Latest News and Videos",
+      "title": "FDA approves Moderna's mRNA seasonal flu vaccine - ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "Mon, 17 Aug 2026 20:55:03 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1luU2MyUEU1d2VpSnlVOTZRQnhDMWFja0Y0NF9VRFdlYndqWXFIYzQ2QUdYUWNXdzlwQm11XzhLX0oxOFlXQnNrSVMtdGVHTTd1dFJXaXZnYVk2NTc4czc5ZklLNjlOb2psUmtHQzFLUFBfS2JoemxRN245ak4ySzZzbjdkVlpBLVJwUU9GaFktR3ZmbFd1V0tUTG5FbXJ1M3RROWk1Y29QMVl6ZUlV0gG0AUFVX3lxTE40TlpfeHNocXlRYXBEX3l4WHpUc0JNdFF6Yzdod2pCMmhSMFBPcU9rbkNQYUxhN1h3UlVFbWZiMENLaV9TR2RPalNndzhFSnh4THNuUU83d3dIZDFGT2pBcFVkbTlUTDRJLXlpbF9PYndXUTlMZUt6VXlwb050WjZ4TUZGb0hIdGc4MlRHM2NrUU1aSDZwRk5QLXBIb0ZRLTJuNmRtV3BNUjRBQ3pnM3E4RFAwLQ?oc=5",
-      "snippet": "FDA withdraws publication of COVID, shingles vaccine research findings&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "FDA approves first mRNA flu vaccine - The Hill",
-      "source": "The Hill",
-      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUy00Ty12SUhIYnJDNWw2YU52eFBzOUNtSE5wRXRDN3dpWXF1V1pHZ1R6bkZuQm5DUkNuWDJVeHkwaXF2Ri1KanYwaVZMMXU3OHpmTjlMeEdSa3F5WldtbHlReHZJWk1uN1Yyc3E2Z2duZXVTaGZvQS1zT1BTSW9MbkZjWXJ0a291YzZYV0VB0gGTAUFVX3lxTE0yLXk3dWtieGIwWExyLW5UR1ZuTXZwVnBOLWxmZWN6RVkyNzVmWElYU0NxRm5RbXIxVTk0T08wdFR6V01PZUF4VHcxaGlKS2U0NVB4QkRYUXIya1ZIQ3JjNFo1NVl5cEVpMTd6YnM4TE9RT0ljUEtIRHR0U1J0b0htWVdCTWVJbmNNUUVZZ2p5X01kbw?oc=5",
-      "snippet": "FDA approves first mRNA flu vaccine&nbsp;&nbsp;The Hill",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - UC Santa Cruz - News",
-      "source": "UC Santa Cruz - News",
-      "date": "Tue, 11 Aug 2026 16:21:49 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nNS1fQThUSDg2NFJ4MHJWeFFpV2ZPUDJuTXh6MWl5Qlh5cUprZXNkeUU5dDB0SGh2X2F5WXJuRTBoVHJ1VDRfaVQwY1MzWlZnd2txTk9TUWlSbE0?oc=5",
-      "snippet": "RNA researcher on F.D.A. approval of first mRNA influenza vaccine&nbsp;&nbsp;UC Santa Cruz - News",
+      "date": "Tue, 18 Aug 2026 15:42:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1BQaW1BVDVnZmczM0Z2LVJBR0RuZEFxc25uSW10QTIzSlhBX0VGQ282YU5EMWI2M3FoTnJmTGU0WGY2RVdFXzNoanREejdsUHVDWUZXMWdJUldzUHB0R1ZWYjUydHU1YTRfYnVqdnlZU0VsTXNjS203TG8zWDI4OHgtOFBqcXgxYUIzanBDU1h3WjFmdlhiUtIBngFBVV95cUxQbVdvZXgyUFJhSlVYU2c2UzlnTzJGY25ubnBHSlVLTGNWcnBzZm1rbktweEpjTURzRGIyQURmd2p4Q3V6eUthX3FBZnFRYmc0Mjk0NUlKaUZhRld1aVIyS01fNmJ1VVN3eE1PeS0wQmQtUnZ5LUJoMF9YZGt5TmV3MGc5UFJDQmRuRE42MkJ0TnhRUmZVYjJqbW5tM3RUdw?oc=5",
+      "snippet": "FDA approves Moderna's mRNA seasonal flu vaccine&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -36,11 +20,27 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
+      "title": "FDA approves first mRNA flu vaccine - The Hill",
+      "source": "The Hill",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUy00Ty12SUhIYnJDNWw2YU52eFBzOUNtSE5wRXRDN3dpWXF1V1pHZ1R6bkZuQm5DUkNuWDJVeHkwaXF2Ri1KanYwaVZMMXU3OHpmTjlMeEdSa3F5WldtbHlReHZJWk1uN1Yyc3E2Z2duZXVTaGZvQS1zT1BTSW9MbkZjWXJ0a291YzZYV0VB0gGTAUFVX3lxTE0yLXk3dWtieGIwWExyLW5UR1ZuTXZwVnBOLWxmZWN6RVkyNzVmWElYU0NxRm5RbXIxVTk0T08wdFR6V01PZUF4VHcxaGlKS2U0NVB4QkRYUXIya1ZIQ3JjNFo1NVl5cEVpMTd6YnM4TE9RT0ljUEtIRHR0U1J0b0htWVdCTWVJbmNNUUVZZ2p5X01kbw?oc=5",
+      "snippet": "FDA approves first mRNA flu vaccine&nbsp;&nbsp;The Hill",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
       "title": "FDA approves Moderna's mRNA flu vaccine after initial pushback - CBS News",
       "source": "CBS News",
       "date": "Thu, 06 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNQUJRQXdyb2o1aHp5YW9JVkZOUThwR1o3dFY4ZUJpVTljWVB1dmVGWEstR1RsTXhfZGNVRVcydzgxZlBnLVp2eUp2MHNXRzNfMzZOeE1KWWFjczhEY3l6ZnFWd3lFaXJuTzR6LV93elhHMmVrRFE?oc=5",
       "snippet": "FDA approves Moderna's mRNA flu vaccine after initial pushback&nbsp;&nbsp;CBS News",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "The FDA Approved a New mRNA Flu Vaccine. Here’s What to Know - WTTW News",
+      "source": "WTTW News",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0k5Nlg2MUljRi1zTWRwcmFkUDBURG9Obnd4Nm1UUGVpLUhCYnRwRWc1SXZPRHdJWllpeC1URkg1bTJrRk9GRGQwQVVISXlFYV9ScUNWTERBOXRUNnNRN0ZUT3UwY0dDLXg5VHptWEtybFBnR3J2eF9OQ2FpUGI4MDFGVVFCQXItQklN?oc=5",
+      "snippet": "The FDA Approved a New mRNA Flu Vaccine. Here’s What to Know&nbsp;&nbsp;WTTW News",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -60,11 +60,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Programming the immunological properties of mRNA vaccines for cancer - nature.com",
-      "source": "nature.com",
+      "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
+      "source": "Nature",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
-      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;nature.com",
+      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
       "matched_query": "mRNA vaccine new development"
     },
     {
