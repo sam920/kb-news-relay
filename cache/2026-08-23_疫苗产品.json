@@ -1,7 +1,7 @@
 {
   "date": "2026-08-23",
   "topic": "疫苗产品",
-  "total": 95,
+  "total": 93,
   "items": [
     {
       "title": "New flu vaccine: Moderna's mRNA vaccine approved by FDA - Medical News Today",
@@ -20,14 +20,6 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Moderna and Merck say personalized melanoma cancer vaccine worked in late-stage trial - Drug Discovery News",
-      "source": "Drug Discovery News",
-      "date": "Fri, 21 Aug 2026 19:12:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOemQxbEdnajViNG9fUWdFQ3FEdGJOelJyN2thRWxsMEJhT0ZOVVFaUFcwNlhOdkN5ZnRuRll4aE1XdmI0Z1l5a0p0UUZxRG1hNVo0LWxLTVItNVNBYWFpUWVMZm0tNUg3RHpGQ0ZFSjdZekhvaGxfUm9PbTEwbEV5TFUzZUFRLWhFd3RVM3RtRnlVdmZlaU5ySjlEaTI5YUlPczhuand1RkNjMmpaOE5ZdFlBSUJVREk5OHM4RE1OdTRKT0k?oc=5",
-      "snippet": "Moderna and Merck say personalized melanoma cancer vaccine worked in late-stage trial&nbsp;&nbsp;Drug Discovery News",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
       "title": "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
       "source": "STAT",
       "date": "Wed, 19 Aug 2026 10:48:04 GMT",
@@ -36,11 +28,19 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Moderna and Merck say melanoma vaccine succeeded in large trial - CNN",
-      "source": "CNN",
-      "date": "Wed, 19 Aug 2026 12:03:56 GMT",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rdk1JZHNYak56OXBuQ1JlcjdfM3FOdTJEUEJ1UXJ5Ri1yOGxjNWQwZWF0VGw0emZ6dFlsS2VYc1lYTkl3QjBQeWVvOWpOcE1MazVPY1NBZjgtR0tQZndfS1BCQjhvUEM5MWZaV0dKb3AtQi11S1NEZXJRcXo3QQ?oc=5",
-      "snippet": "Moderna and Merck say melanoma vaccine succeeded in large trial&nbsp;&nbsp;CNN",
+      "title": "Moderna and Merck say personalized melanoma cancer vaccine worked in late-stage trial - Drug Discovery News",
+      "source": "Drug Discovery News",
+      "date": "Fri, 21 Aug 2026 19:12:10 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOemQxbEdnajViNG9fUWdFQ3FEdGJOelJyN2thRWxsMEJhT0ZOVVFaUFcwNlhOdkN5ZnRuRll4aE1XdmI0Z1l5a0p0UUZxRG1hNVo0LWxLTVItNVNBYWFpUWVMZm0tNUg3RHpGQ0ZFSjdZekhvaGxfUm9PbTEwbEV5TFUzZUFRLWhFd3RVM3RtRnlVdmZlaU5ySjlEaTI5YUlPczhuand1RkNjMmpaOE5ZdFlBSUJVREk5OHM4RE1OdTRKT0k?oc=5",
+      "snippet": "Moderna and Merck say personalized melanoma cancer vaccine worked in late-stage trial&nbsp;&nbsp;Drug Discovery News",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "Is Moderna's melanoma vaccine approved by the FDA? What to know - Bergen Record",
+      "source": "Bergen Record",
+      "date": "Thu, 20 Aug 2026 13:21:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTZFV0Jzam9SRW5idXNHdXJwd1N3UlBQQUZGeUo1MkpJZVpPZW5HR09UZmp4bFVnckcyc3lEM1NMX1BOdGNrR1A2aFJKZVJBS3lMUlhqZVFET3dyVkRTSDFxbTZ1cmFmUXA0SndyRWl2eDJSNC1NcDgxdURqNmQ1cjBnQ1ZXVjZvU2RHZkZjTGNGdGdoQmhBbXhjWDBnOU1KVldtSmxQWF9LRzQ?oc=5",
+      "snippet": "Is Moderna's melanoma vaccine approved by the FDA? What to know&nbsp;&nbsp;Bergen Record",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -68,11 +68,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "New Melanoma Vaccine in Development Might Prevent Recurrence, Spread of Deadly Skin Cancer - People.com",
-      "source": "People.com",
-      "date": "Wed, 19 Aug 2026 17:35:44 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONjhva3ZkTXgwUnNUTlY4LUVFLV9ZZ0ItWXBQUi10aFlKRTB0ZDVXczdwY3UzazV0Y1hNN3ZJS2lnUk8wbmpVZUMwYmpSRzN6enVaMFdqYk1mR3pNMkRwdTk3VnoxbkhCelBHaFJlS1lHMFhuYUFDMmdEdGNRSDVrZk13dkVfckZiQVo4?oc=5",
-      "snippet": "New Melanoma Vaccine in Development Might Prevent Recurrence, Spread of Deadly Skin Cancer&nbsp;&nbsp;People.com",
+      "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
+      "source": "Nature",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
+      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
       "matched_query": "mRNA vaccine new development"
     },
     {
