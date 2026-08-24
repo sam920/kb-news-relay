@@ -1,22 +1,22 @@
 {
   "date": "2026-08-24",
   "topic": "蛋白质产品",
-  "total": 60,
+  "total": 59,
   "items": [
-    {
-      "title": "Regeneron's Pasatru scores FDA approval in ultra-rare bone lesions disorder - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "date": "Wed, 19 Aug 2026 18:35:17 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15bmQ5M0s5MFdmeEJ0UHhJM09rcVFkX2hfMDM3ZTVBSmJ1akplNm8xRC1hV3BXNDJGRVAwVi1lcjFjQ0MycTBQYkZLMGRLSEVtVFNVUmxjWUtFZjJpc2NvejlKdVBqTEdYZ2c?oc=5",
-      "snippet": "Regeneron's Pasatru scores FDA approval in ultra-rare bone lesions disorder&nbsp;&nbsp;Fierce Pharma",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
     {
       "title": "FDA approves Regeneron’s Pasatru as second therapy for rare bone disease FOP - AllSci",
       "source": "AllSci",
       "date": "Thu, 20 Aug 2026 09:47:05 GMT",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXBadzNLQnlUclRINEJwQUhlSnVQTklfREFvMmw4Q1FjNEw4MWNzV21qNEFWRDJKVTRMQ29pLUdsTjc5dHJuZFpZREIzMHZGNXBKb0JYZzFzbkFaRWVWNmdMdUpzeURkQ0RKYzF0dnZWSWQ0aUN1UUczU0NqNG5EVEVQWkhHU3J5ZEE?oc=5",
       "snippet": "FDA approves Regeneron’s Pasatru as second therapy for rare bone disease FOP&nbsp;&nbsp;AllSci",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "Regeneron's Pasatru scores FDA approval in ultra-rare bone lesions disorder - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "date": "Wed, 19 Aug 2026 18:35:17 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15bmQ5M0s5MFdmeEJ0UHhJM09rcVFkX2hfMDM3ZTVBSmJ1akplNm8xRC1hV3BXNDJGRVAwVi1lcjFjQ0MycTBQYkZLMGRLSEVtVFNVUmxjWUtFZjJpc2NvejlKdVBqTEdYZ2c?oc=5",
+      "snippet": "Regeneron's Pasatru scores FDA approval in ultra-rare bone lesions disorder&nbsp;&nbsp;Fierce Pharma",
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
@@ -68,19 +68,19 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
+      "title": "Akeso receives China clinical trial clearance for B7-H3 ADC AK157D1 - BioSpectrum Asia",
+      "source": "BioSpectrum Asia",
+      "date": "Mon, 24 Aug 2026 10:53:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTBhU2JsWTB1Ql8wSFBjQnFOVXZwMGRYUU1BTFNCdDFhN200Ny1BVzNDbnd6ZU4wcEZGSVd4cGREZ0h3NGVUVC1JYTZPQXFWT3MyUGVtWC1GSGZiLURBVGtJTzR1N0NrVFBOZE5MUHYzTXBnT1VORG1fTGFnNTdoLXhtQ1Y5R3M0R24tcHdTVlphcG15ZmFmckNlNXdDZS1xVDlzRFloWVVvMFlXdkRKakYxT3RZNTF5V1E?oc=5",
+      "snippet": "Akeso receives China clinical trial clearance for B7-H3 ADC AK157D1&nbsp;&nbsp;BioSpectrum Asia",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
       "title": "First patient dosed with AK146D1 in Akeso’s Phase II study - Clinical Trials Arena",
       "source": "Clinical Trials Arena",
       "date": "Mon, 10 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTZpdzZPZlRMT1A5Y1JEX1RSejlwSXJabkp4SXU0UWNjZFVZdXduYzZOVmMwMEVCSWdpa3liVktaX05RQTgwX2EtbjNEQjVLWVdmLUhVa0VmQS1vdmtDYTd4LXBtT3M3TDJpbEl0SFUySjc1NEs5S1NNSElYZmdXNlRxQnVWZEdjUlE?oc=5",
       "snippet": "First patient dosed with AK146D1 in Akeso’s Phase II study&nbsp;&nbsp;Clinical Trials Arena",
-      "matched_query": "bispecific antibody clinical trial"
-    },
-    {
-      "title": "Biokin bispecific ADC iza-bren hits goal in lung cancer trial, boosting case for BMS’ global test - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "date": "Tue, 18 Aug 2026 15:18:59 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHBwUnhGRjNWbkRmaW5ZQUlOYjJNekdqQXhVektrZnNPbXBTZjB0c2tHRVdBZ3hQSThDN3htT0pHWDlULVUxN0NUaU8zUGtSS1BRNXRDTXlzRlc0Q3JKRXJ0aU5EbUxWMzFtZE02cXRUaFdwS2JjOUVhc3BCcnRtaUhrME92bDRCVVlXR0dhdktpVEdtQzRvWm5uZmtMdVZoXzRjbFRPUk9hbTdoc2ZETm1xTUpEZDNDa0hFX3ZERnlIdw?oc=5",
-      "snippet": "Biokin bispecific ADC iza-bren hits goal in lung cancer trial, boosting case for BMS’ global test&nbsp;&nbsp;Fierce Pharma",
       "matched_query": "bispecific antibody clinical trial"
     }
   ]
