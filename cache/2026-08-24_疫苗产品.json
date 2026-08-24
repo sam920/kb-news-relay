@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "topic": "疫苗产品",
-  "total": 91,
+  "total": 92,
   "items": [
     {
       "title": "Moderna's mRNA flu vaccine approved by FDA. When is it available? - Medical News Today",
@@ -17,14 +17,6 @@
       "date": "Wed, 19 Aug 2026 10:48:04 GMT",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVJjTGRvUDNjbXM4NFZtdENhQU5pRDRsV0F1dnctNGRhVEJPbTZuWFBRZ3huTnhIT2o0SjZwTXQ4WmZGSF82V0VQLUQ3dEV0RWdKVDMyZXRoQVFlRFRXMXBVSXl5RzlDUmUyTFJXWDdJb0FJaVBGbW5jRTBYdTEtNnBZX2VLcFZjSDZubjdR?oc=5",
       "snippet": "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial&nbsp;&nbsp;STAT",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "Moderna and Merck say personalized melanoma cancer vaccine worked in late-stage trial - Drug Discovery News",
-      "source": "Drug Discovery News",
-      "date": "Fri, 21 Aug 2026 19:12:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOemQxbEdnajViNG9fUWdFQ3FEdGJOelJyN2thRWxsMEJhT0ZOVVFaUFcwNlhOdkN5ZnRuRll4aE1XdmI0Z1l5a0p0UUZxRG1hNVo0LWxLTVItNVNBYWFpUWVMZm0tNUg3RHpGQ0ZFSjdZekhvaGxfUm9PbTEwbEV5TFUzZUFRLWhFd3RVM3RtRnlVdmZlaU5ySjlEaTI5YUlPczhuand1RkNjMmpaOE5ZdFlBSUJVREk5OHM4RE1OdTRKT0k?oc=5",
-      "snippet": "Moderna and Merck say personalized melanoma cancer vaccine worked in late-stage trial&nbsp;&nbsp;Drug Discovery News",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -44,11 +36,19 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "New mRNA Treatment Shows Promising Signs of Preventing Skin Cancer - Democracy Now!",
-      "source": "Democracy Now!",
-      "date": "Thu, 20 Aug 2026 14:13:31 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOelc2OXloYnItLUpQNFhpWjF5REZ0dDNIMXp6OXBwMHNQTDlPdGpzcDE2cy1CdUlkNEVoZzFiRmRaTjdIM09aeTBqeEhpU05KZkNiVUlub2N4d3dKNk00VEVINmFqek8wbnY5RVJvMnd3c2dIVDFyRGN3bTZ2dTM2R2xUQ2g0Nko1ODNicjlNNjc4dWxUMzV5STdybG5TdGpXanJON3ZkVVZfc0c5RDhQTG91VzBnQQ?oc=5",
-      "snippet": "New mRNA Treatment Shows Promising Signs of Preventing Skin Cancer&nbsp;&nbsp;Democracy Now!",
+      "title": "Moderna and Merck say melanoma vaccine succeeded in large trial - CNN",
+      "source": "CNN",
+      "date": "Wed, 19 Aug 2026 12:03:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rdk1JZHNYak56OXBuQ1JlcjdfM3FOdTJEUEJ1UXJ5Ri1yOGxjNWQwZWF0VGw0emZ6dFlsS2VYc1lYTkl3QjBQeWVvOWpOcE1MazVPY1NBZjgtR0tQZndfS1BCQjhvUEM5MWZaV0dKb3AtQi11S1NEZXJRcXo3QQ?oc=5",
+      "snippet": "Moderna and Merck say melanoma vaccine succeeded in large trial&nbsp;&nbsp;CNN",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "A New mRNA Vaccine Could Prevent Skin Cancer From Returning - The New York Times",
+      "source": "The New York Times",
+      "date": "Wed, 19 Aug 2026 14:43:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUhkUXhtcXpNZm5MUjg4NWNBR1JUNGRPaDVhdXh5aUg5WFBXSzNPSV9PVEU3ZV9VV2xPUExRS0E5WHlJS09Fc01wcWZwdHduTGZYX2FvdDNKQW9RSnY3c2FrV2FoZXVhM3FiMWNUVWYzQ2lHREdPenB1VWVOT3pVVkJGdzJsZE9QWllF?oc=5",
+      "snippet": "A New mRNA Vaccine Could Prevent Skin Cancer From Returning&nbsp;&nbsp;The New York Times",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -60,19 +60,19 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
+      "title": "New mRNA Treatment Shows Promising Signs of Preventing Skin Cancer - Democracy Now!",
+      "source": "Democracy Now!",
+      "date": "Thu, 20 Aug 2026 14:13:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOelc2OXloYnItLUpQNFhpWjF5REZ0dDNIMXp6OXBwMHNQTDlPdGpzcDE2cy1CdUlkNEVoZzFiRmRaTjdIM09aeTBqeEhpU05KZkNiVUlub2N4d3dKNk00VEVINmFqek8wbnY5RVJvMnd3c2dIVDFyRGN3bTZ2dTM2R2xUQ2g0Nko1ODNicjlNNjc4dWxUMzV5STdybG5TdGpXanJON3ZkVVZfc0c5RDhQTG91VzBnQQ?oc=5",
+      "snippet": "New mRNA Treatment Shows Promising Signs of Preventing Skin Cancer&nbsp;&nbsp;Democracy Now!",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
       "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - The Conversation",
       "source": "The Conversation",
       "date": "Thu, 06 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZTBtaklRLURsclQ5MnNwVmNqb3VlWXdxVnJTd2ljSlpDZlVQdm1EeGd1Q3lWU2R1V3dXTDQ3eGV3VGxKanhHTEw2Wi1aMXVtU3BSc250SXFEOWZNd1JZdDJ1TEVIMlVQaW5ENC1fVE9vR0pocHNSalJfeTJJLTlvZF9BQ0FqSnFuZk9XQ2hYUWRzT2Jxai1sOUFGbUJIakZTcmJkNG92WC1BQUVFZ3pVSWFiWXVSdkdqZFc1bUt0bkxDQ3dxT1VFaGRQNjJmcjRWQW1LMTZYRHlFM3R2eTlLNlpHTVRoc2xNX2RHZnVKZlVPZk13UDRNR1B3ZVJiVXRYZE0yaDN3TnZVenZX?oc=5",
       "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;The Conversation",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
-      "source": "Nature",
-      "date": "Fri, 19 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
-      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
       "matched_query": "mRNA vaccine new development"
     },
     {
