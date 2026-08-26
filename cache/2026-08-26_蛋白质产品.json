@@ -1,22 +1,22 @@
 {
   "date": "2026-08-26",
   "topic": "蛋白质产品",
-  "total": 60,
+  "total": 59,
   "items": [
-    {
-      "title": "J&J’s Imaavy Becomes First FDA-Approved Therapy for Rare Form of Anemia - MedCity News",
-      "source": "MedCity News",
-      "date": "Tue, 25 Aug 2026 18:49:12 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0VSb25YaXNJY0JGeVhHOGhpN21GczhjcjN3Z29MeW5vb0Z1VC1YQkY4WHp5NVhacWlIaXpUcmJKSWlMU2JCeXppT2tmbTFIZXJvRGVCUmY0anRvSC1BWFVHVUg5OEl4VkhqcjQ3V0dyam9tcGxUQ2FKVC0yd3pKN1pxa2FreldOUUkzcHNjd1VIOE04TXBvUmQyMDZRSVhoVzBObTVlU0FIeXBQQWptMnZ3?oc=5",
-      "snippet": "J&amp;J’s Imaavy Becomes First FDA-Approved Therapy for Rare Form of Anemia&nbsp;&nbsp;MedCity News",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
     {
       "title": "Johnson & Johnson scores 1st FDA label expansion for Imaavy - Fierce Pharma",
       "source": "Fierce Pharma",
       "date": "Tue, 25 Aug 2026 13:20:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmxxb1Y2Y25EYTYyZ0ppcjZxeHFndHJWMXQtWmVWd1JuN2lyaWM2WUd0Q0dkbFJSMHh1QUMwUUIzWWRDa2FZZGlOdG52U0xxVFQzblNkMUxKYmRrWWRpX0hDekxGaEpmcjlFM2c1ZVRSM1ozNmQ1S3BFOUZ1MVRaZVhKQ01zTkZENXJRNTdyNnpRQWUyU3IwNDVZQQ?oc=5",
       "snippet": "Johnson & Johnson scores 1st FDA label expansion for Imaavy&nbsp;&nbsp;Fierce Pharma",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "J&J’s Imaavy Becomes First FDA-Approved Therapy for Rare Form of Anemia - MedCity News",
+      "source": "MedCity News",
+      "date": "Tue, 25 Aug 2026 18:49:12 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0VSb25YaXNJY0JGeVhHOGhpN21GczhjcjN3Z29MeW5vb0Z1VC1YQkY4WHp5NVhacWlIaXpUcmJKSWlMU2JCeXppT2tmbTFIZXJvRGVCUmY0anRvSC1BWFVHVUg5OEl4VkhqcjQ3V0dyam9tcGxUQ2FKVC0yd3pKN1pxa2FreldOUUkzcHNjd1VIOE04TXBvUmQyMDZRSVhoVzBObTVlU0FIeXBQQWptMnZ3?oc=5",
+      "snippet": "J&amp;J’s Imaavy Becomes First FDA-Approved Therapy for Rare Form of Anemia&nbsp;&nbsp;MedCity News",
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
@@ -42,6 +42,14 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDRfcGxhX3I3Tk03R3Uzb3JLdFNzUUo1LVRXUE1LZkMwc2lOUkozMmVkbFhQM0szLTJaX2F3T18ySk83UlJjby1qdXBIYVJ3dmtkWlAyTWRvOGl2MzdnZG1nQ3R4bHVFdl9yQjNBZUplWjFZOWFnU2lFeVRmY2FBLUZ6VHdOaldrSkZRU2dEaVotRHVtMEdlTFprTksxZjNzUGxOTFJDR3JxRGI2LUE3VnZLWGo3ZnM?oc=5",
       "snippet": "FDA Approves Garetosmab for Adults With Fibrodysplasia Ossificans Progressiva&nbsp;&nbsp;Patient Care Online",
       "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "Akeso CEO looks beyond lung cancer with biliary tract win, counters ivonescimab debate - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "date": "Wed, 26 Aug 2026 15:11:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVFiZnlUVS1VLTNWUFBZT2s0Umw3VEU0cnRkSE45S3lUc2p3NjlsaVc2SHBQYzd4aGlXVlBFcU5BNFlIamQ1SVJrcVE5QTd1UHIzZFlWX0lkTWgzQVZUa0NjU3ZOUkZrOFpzVHdUd283RmViaEluZ1VTcHgwQjhfcUVSQ2tSdXZzclA5eHdjQ3FkYW00cG5pXzkxSlAwd2h5Nmx2Wi1RSkcxd29oMlhXWlM2Rlk4THVXc2lIQ2tWMFVPZw?oc=5",
+      "snippet": "Akeso CEO looks beyond lung cancer with biliary tract win, counters ivonescimab debate&nbsp;&nbsp;Fierce Pharma",
+      "matched_query": "bispecific antibody clinical trial"
     },
     {
       "title": "FDA Approves Zanidatamab for HER2-Positive Gastroesophageal Cancers - Oncology News Central",
@@ -73,14 +81,6 @@
       "date": "Tue, 25 Aug 2026 06:37:58 GMT",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMklUX2t6dFB3WFRtT2lYa2kwY3VCQVFMYjR3LWJ4WnpEV2tRTTdITUJ2Q1RQMnpSZ2QtM3BFTFVQMFBidUswSjdMZUt5ZVJpVlBRYndLQjJ5N25lM21mLTlfUGpKWmdxSjJudmJNSnA3RHFDWHlvTTFPdmYyTVU0TXV3cWpiMGtMblhCTmE4dTZmNnZESHBWTnpXNWN4Mjctd2w3b1pIdzlkZzE5MGNyQjVPbDdadXZNZGxwcHBjd3Q?oc=5",
       "snippet": "Astellas Initiates Phase 3 Study of ASP2138 in CLDN18.2-Positive Gastric Cancer&nbsp;&nbsp;The Clinical Trial Vanguard",
-      "matched_query": "bispecific antibody clinical trial"
-    },
-    {
-      "title": "Astellas pushes CLDN18.2 bispecific ASP2138 into Phase III - AllSci",
-      "source": "AllSci",
-      "date": "Tue, 25 Aug 2026 11:12:49 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnJFb0NjMmlCWTBmV1VoNlZNbWNuSXpyQmRXXzMxT1kyNHhxTVJpQkNfVFJqUWVGSjRPNVFXMjh0OU4zczZPemc2YUxRVDRRM1RqR0FDbGE0bjhIRTJrT0tYMnA1UzBBUU9GelJiYmpWSkdibldLblllMHFCUlVxTGNhalRCTUY1Z1E?oc=5",
-      "snippet": "Astellas pushes CLDN18.2 bispecific ASP2138 into Phase III&nbsp;&nbsp;AllSci",
       "matched_query": "bispecific antibody clinical trial"
     }
   ]
