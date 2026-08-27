@@ -1,12 +1,12 @@
 {
   "date": "2026-08-27",
   "topic": "疫苗产品",
-  "total": 96,
+  "total": 97,
   "items": [
     {
       "title": "mFlusiva becomes the first mRNA influenza vaccine approved by the FDA - 2 Minute Medicine",
       "source": "2 Minute Medicine",
-      "date": "Thu, 27 Aug 2026 02:05:45 GMT",
+      "date": "Thu, 27 Aug 2026 02:27:59 GMT",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd1ltYmZhcUxPb005TEEtaVdrUTM5ckxBanN2dGdGWVVIWkMwbS1nUzVJbUZsUUtjTTFrbXpiU2ZKQmhCSUJ5UEplaGFtaHVYRzVMN2JQX01ZZ254VjlEaVE4aUJoVlpWUUQ1TjRQUklBbmhlUGhWNGZPXzh1OEV2N0g5VHVuWXVBWmh4aE5UNU1oUDBjY1Y2VVJLd3EwRkc0dnV3RQ?oc=5",
       "snippet": "mFlusiva becomes the first mRNA influenza vaccine approved by the FDA&nbsp;&nbsp;2 Minute Medicine",
       "matched_query": "vaccine FDA approval clinical trial"
@@ -20,6 +20,14 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
+      "title": "FDA approves first mRNA-based flu vaccine - Harvard Health",
+      "source": "Harvard Health",
+      "date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHpUNzVOY2NNQ2ZQQW0yWF9jXzJRN1hGV2h1N0RjTUxvLXkxOWNQM2NtSTN1aTF2M01acy1LWHBTRnJHQ2YzT0FHa2pLbU9mQ0Z3SDdYc0VjM2RKMFNkcjVFeWM0R2JyYU1uakljQUZzbTVpVGIxSTJaMGN6UkVJVTBjV05FOV83aUozcXVFVzV3WjhGUDN3ZzMtTmhuQ3dMbmxYN3NR?oc=5",
+      "snippet": "FDA approves first mRNA-based flu vaccine&nbsp;&nbsp;Harvard Health",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
       "title": "Landmark mRNA cancer vaccine trial paves way for FDA clearance - Juta MedicalBrief",
       "source": "Juta MedicalBrief",
       "date": "Wed, 26 Aug 2026 15:00:17 GMT",
@@ -28,20 +36,20 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "CSPC's RSV vaccine clears FDA for US trials weeks after China approval - AllSci",
-      "source": "AllSci",
-      "date": "Tue, 25 Aug 2026 15:00:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamJWQjZWd1FkWHJQcDd3MG51Zy1mQXFBdEJOaXNzLTZ2N2UyVzdFcFZGUG9HVFdmTkozTHRGZHBqbEJTb3JEQ1BHQlVMbGNVQ2VuU1h1b0MybUxlX3lycHlONGE0T0w2Rk9ZeGphSVk3eWtZNk5va1BIbG82aHlBelR2ZDF2bDA?oc=5",
-      "snippet": "CSPC's RSV vaccine clears FDA for US trials weeks after China approval&nbsp;&nbsp;AllSci",
+      "title": "FDA approves Moderna's mRNA flu vaccine after initial pushback - CBS News",
+      "source": "CBS News",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNQUJRQXdyb2o1aHp5YW9JVkZOUThwR1o3dFY4ZUJpVTljWVB1dmVGWEstR1RsTXhfZGNVRVcydzgxZlBnLVp2eUp2MHNXRzNfMzZOeE1KWWFjczhEY3l6ZnFWd3lFaXJuTzR6LV93elhHMmVrRFE?oc=5",
+      "snippet": "FDA approves Moderna's mRNA flu vaccine after initial pushback&nbsp;&nbsp;CBS News",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "FDA approves first mRNA-based flu vaccine - Harvard Health",
-      "source": "Harvard Health",
-      "date": "Thu, 20 Aug 2026 04:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHpUNzVOY2NNQ2ZQQW0yWF9jXzJRN1hGV2h1N0RjTUxvLXkxOWNQM2NtSTN1aTF2M01acy1LWHBTRnJHQ2YzT0FHa2pLbU9mQ0Z3SDdYc0VjM2RKMFNkcjVFeWM0R2JyYU1uakljQUZzbTVpVGIxSTJaMGN6UkVJVTBjV05FOV83aUozcXVFVzV3WjhGUDN3ZzMtTmhuQ3dMbmxYN3NR?oc=5",
-      "snippet": "FDA approves first mRNA-based flu vaccine&nbsp;&nbsp;Harvard Health",
-      "matched_query": "vaccine FDA approval clinical trial"
+      "title": "Will Moderna’s Cancer Vaccine Be Good for People, or Profits? - The Nation",
+      "source": "The Nation",
+      "date": "Thu, 27 Aug 2026 09:45:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GdHpRRUpBdnphYzUxenB1THpaR0VOMGJXeHA4SHk4VUhxMHFmaFkxVm5KQ0lOeFZxRDRVQVpmdC1EejlXUDcxVHBnVFZ2dnN5emt2WUppQ2twaloydmE4MjREQdIBggFBVV95cUxQZXpZYUc2cFY0MjcwdU83R3dPZndKNm1odDZGWjNacmhqMnJjVXJDUFBieTJ4ZWF5WlFYdm5UQk1qQlNWeTVRSHpqeWhTMXN2YjlwWnRYZFFBWTZrRTNYbnpMR1BidVV3dkdyanNkOHF1UmV3RnFkOU5HWlRZZkthbUFn?oc=5",
+      "snippet": "Will Moderna’s Cancer Vaccine Be Good for People, or Profits?&nbsp;&nbsp;The Nation",
+      "matched_query": "mRNA vaccine new development"
     },
     {
       "title": "New mRNA vaccine platform could expand global vaccine access - Penn Medicine",
@@ -60,11 +68,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "FDA-approved mRNA flu vaccine signals future for RNA therapeutics - Genetic Literacy Project",
-      "source": "Genetic Literacy Project",
-      "date": "Tue, 25 Aug 2026 04:04:11 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjcyb3d6RVI3X04wejhLbmdUbVFUUkwwM25FN1VxcENpZ0VHN0JncjdpcWdwQVV2ejRidVRzWXVHVFU4bURBVmE5T3V3MW0zSElPVmRLV1JBb3gwSTZRdVJWeTJPcWg1cmFWSnN4V2gzQlNleDlDakE3STdER2d2bm5rbmlkNVNBNXNDUmJENzJsTm8xbnFDWmd4TllCX2MyQzc3dlAtcHBfYUVuME0tMHFR?oc=5",
-      "snippet": "FDA-approved mRNA flu vaccine signals future for RNA therapeutics&nbsp;&nbsp;Genetic Literacy Project",
+      "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - The Conversation",
+      "source": "The Conversation",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZTBtaklRLURsclQ5MnNwVmNqb3VlWXdxVnJTd2ljSlpDZlVQdm1EeGd1Q3lWU2R1V3dXTDQ3eGV3VGxKanhHTEw2Wi1aMXVtU3BSc250SXFEOWZNd1JZdDJ1TEVIMlVQaW5ENC1fVE9vR0pocHNSalJfeTJJLTlvZF9BQ0FqSnFuZk9XQ2hYUWRzT2Jxai1sOUFGbUJIakZTcmJkNG92WC1BQUVFZ3pVSWFiWXVSdkdqZFc1bUt0bkxDQ3dxT1VFaGRQNjJmcjRWQW1LMTZYRHlFM3R2eTlLNlpHTVRoc2xNX2RHZnVKZlVPZk13UDRNR1B3ZVJiVXRYZE0yaDN3TnZVenZX?oc=5",
+      "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;The Conversation",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -73,14 +81,6 @@
       "date": "Wed, 15 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWFCNmRZZGJ1bkNraUczNFd4RWRKT3ZlSXlPRWFYRFZBMWRaN0hJdFFQeXVzV1loaGVHXzZxTi00VDA4N3h5RnVnVFJIS0hrZmMzQVlQSWxmcXNVVXkwNkRyNkVyLTZjYUMzUDY5aHY5RFQwV0NsdXNkQmswVjdtQnBpOHZLNE11Qkl4dlV6Vk95emJhMFdmdVpGdUptSVU?oc=5",
       "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;WashU Medicine",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "FDA Approves Moderna’s mRNA Flu Vaccine After Phase 3 Success - The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care",
-      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOHpjMWRoRUw3dXRXZ2ZZcWxsTnJYRGdpejJPa3JrVERRVC1zRG9JR0t6Q09jN3pRRkxHT1RfWE80aE1FQU1kQTNMRW5vdDUwT3JFRzV6Wjd1V2oxbnB5SmJPZ0UzSTkyUnRiYTFYUzR5YUNRQzh2LUd4TmRWMm5sdWhvRkJvR21QbEprVWFzZHA?oc=5",
-      "snippet": "FDA Approves Moderna’s mRNA Flu Vaccine After Phase 3 Success&nbsp;&nbsp;The American Journal of Managed Care",
       "matched_query": "mRNA vaccine new development"
     }
   ]
