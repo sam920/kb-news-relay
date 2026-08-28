@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "topic": "鹦鹉养殖",
-  "total": 69,
+  "total": 71,
   "items": [
     {
       "title": "Nearly a million birds shipped from Africa to Asia in 15 years; canaries top the list - news - Mongabay",
@@ -44,27 +44,11 @@
       "matched_query": "parrot CITES conservation"
     },
     {
-      "title": "Critically endangered kākāpō parrot has standout breeding season - news - Mongabay",
-      "source": "news - Mongabay",
-      "date": "Mon, 09 Mar 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0RMY3VnUkVhWVktUjhSeGVpeFdtaWpJX0hlM055ZFBVRUNHd0JiVmJqN245aXlxT09MYy14d1VUQTBMd0g5eUo1aEN6SmhZdXFXeThtamFRZWZ2SVZrU1pOTmJva1h5WU9ES0VXWDE3WHAwYWVYd0tFbjJGSUxqeTZoTjBmY1l0WC1wMF9DbUdhZ1NwZUlwZ1cyaTAzbDhsRzNGTlEyQW8?oc=5",
-      "snippet": "Critically endangered kākāpō parrot has standout breeding season&nbsp;&nbsp;news - Mongabay",
-      "matched_query": "parrot breeding news"
-    },
-    {
       "title": "A Bountiful Berry Harvest Put These Chunky, Endangered Parrots in the Mood. Now, Scientists Are Celebrating a Breeding Bonanza - Smithsonian Magazine",
       "source": "Smithsonian Magazine",
       "date": "Fri, 17 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQa2dvTkQ5MUlwWGJRcVBEaWU2OWN2WTZ3TWVVdTNscTUteXVDaDRBNndzS2lDRUpySEF3Sml5Z0JJTkJjNnQxODRPS3FIOUV0d0dlQkdOYVgtOHFXV2JvQmZDckpsZW9SaWZJX2pMUXIwTEw4Q2FaWTBEd3NUeEJab3VHRzdxRGNLbTgzU3VnRUgtRHNRSnh3NTN1UjgwU2Vfb3J5RnZDd3B1VHZRUnY4ZERFMUhVYU4zbGdvY0ZHYmNaZmpJNDlsSzNPX1VOd2VrVDNpSFlwMGFZc1Z1YW9sRkZZUkdxS2NNbmNwakFFY1Q2UFc5SEZUSXB3dmFMay1LbU9qMG03SQ?oc=5",
       "snippet": "A Bountiful Berry Harvest Put These Chunky, Endangered Parrots in the Mood. Now, Scientists Are Celebrating a Breeding Bonanza&nbsp;&nbsp;Smithsonian Magazine",
-      "matched_query": "parrot breeding news"
-    },
-    {
-      "title": "A bumper berry harvest has New Zealand's weird flightless parrot in a rare mood for romance - AP News",
-      "source": "AP News",
-      "date": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMnFCd3drN3pwYzkzQkVsTUJLMEF3RmNBV3dfc09nZmxXN0FIWm54T3FZY0NpcUNJVENjVk9IdWlIR3dfNUFOeEZLS2FHUUhjMHlmVlo5bFp3LTFxRWV5eUJBRklncktxQUhqQXJScUJKMEpMZ0ktZllOay1xWG1SenFMdlFkbDFWTlVaT0VrLWNlY0FTT1NGQmlMZ1kwR2VWUlNBbjJ3ZHdRSTJYMFd5RQ?oc=5",
-      "snippet": "A bumper berry harvest has New Zealand's weird flightless parrot in a rare mood for romance&nbsp;&nbsp;AP News",
       "matched_query": "parrot breeding news"
     },
     {
@@ -76,11 +60,27 @@
       "matched_query": "parrot breeding news"
     },
     {
+      "title": "Record kākāpō breeding season with 95 rare parrot hatchlings: Photo of the week - news - Mongabay",
+      "source": "news - Mongabay",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOTJfMFJQa3B5NXhMVk1DMXBuNk5EaTNXd2FTcWpITGhaX1htaTF0QVRLVEl1aXFoQzlZdzFQZzZuTUZ1VEN0LS1lNUlGN2dSblhNX2w3NVZPMnA3enc2WUlGNU9MY3c3NDZHOEZtVjRBMDBIc0NJcVBiVjN3VXJTLVEyNkl3T1hJVGxQcWtjY2JTc21QUVlGTTRZc1REZFExeWk2UU1ROXZlWmVUeENCVE5wdnZrSVRmRjdz?oc=5",
+      "snippet": "Record kākāpō breeding season with 95 rare parrot hatchlings: Photo of the week&nbsp;&nbsp;news - Mongabay",
+      "matched_query": "parrot breeding news"
+    },
+    {
       "title": "Statewide Retail Parrot Sale Ban to Be Considered to Protect Birds From Breeding Factory Horrors - People for the Ethical Treatment of Animals (PETA)",
       "source": "People for the Ethical Treatment of Animals (PETA)",
       "date": "Tue, 30 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMV9CbUdzVUFHbDU5bF9hTjBhajNjNGpXQzBPekpMelgtV2FWRUpwRk9NWmtEeV9wV3FVcGZVLVRWNU9WRGRrUW9KcWpZMl9pWVNFbnlDbHJPRk5RLVRBb0RiRjlmUzZ6ZzBHQlQ5b01yN3JfdDNQRnZOTEhidFBoYURESndURFJwNTAyUlg2YTJCczBLY3laeXNxdmRKUWNLRXhRN1NyQXd0SDBianUwaW03dnRIZjMzR0tEdXZCR3JlM1RWN0dTdWMtMElrMFRQV0djcA?oc=5",
       "snippet": "Statewide Retail Parrot Sale Ban to Be Considered to Protect Birds From Breeding Factory Horrors&nbsp;&nbsp;People for the Ethical Treatment of Animals (PETA)",
+      "matched_query": "parrot breeding news"
+    },
+    {
+      "title": "The return of Argentina’s lost multicolored parrot - National Geographic",
+      "source": "National Geographic",
+      "date": "Fri, 26 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWk9DakRhYzhaZ21mMkNhcWNKeEtYN1dLSnU0QzZ1Zk53NFBlVEdNeV9FNmF1b2xteEJnTVZTU0tpeElSQTNIcnJxbUVlTVNINHZVYUtzNENDLUw3NHVEYUgxM05MWUZWVW5hYkVnNTYwS1FYcEhybU9BSG1WakZEMGowZVI5dWVBNGhPRDdra3BVRkItc0E?oc=5",
+      "snippet": "The return of Argentina’s lost multicolored parrot&nbsp;&nbsp;National Geographic",
       "matched_query": "parrot breeding news"
     }
   ]
