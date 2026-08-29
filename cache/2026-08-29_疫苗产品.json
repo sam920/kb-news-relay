@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "topic": "疫苗产品",
-  "total": 95,
+  "total": 94,
   "items": [
     {
       "title": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
@@ -9,14 +9,6 @@
       "date": "Wed, 26 Aug 2026 15:23:53 GMT",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDFUdlNabS1QTHFtUXBVNTVmczg5dmFGYVMzSlViVFRWRG1sTzZ1YWg4RnFyZndPZVBlUDhLZ1NMbHZSSTNGUmFmSmpmNVlhc1V0ZXhVbGdrWVVVOUY2dTFkU1VLMjNpN1lPbjNsN3BQcHVLczhaTDVsUnBfQnd5b21nYWxjZlMxdkc0SFdWVU0?oc=5",
       "snippet": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer&nbsp;&nbsp;The New York Times",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "Maine waited years for a Lyme vaccine. RFK hobbled the panel needed for a smooth rollout - The Maine Monitor",
-      "source": "The Maine Monitor",
-      "date": "Fri, 28 Aug 2026 13:26:29 GMT",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2ckgxZEkxM3ZsQm1TdUJNbWRNVXpkU1FJblFZLTRfMW5hY0xjQ09aSlBzaE1WWExaVmtUQzBjLU9wbXUxVHV2aVJGdFBFX3QxaHF5UWlLVGVnS0Z4X2YzNlczTU05Z29hdGF3?oc=5",
-      "snippet": "Maine waited years for a Lyme vaccine. RFK hobbled the panel needed for a smooth rollout&nbsp;&nbsp;The Maine Monitor",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -33,6 +25,14 @@
       "date": "Thu, 27 Aug 2026 20:30:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkRLWkdGWWRtT0t1QzFqc3JMWnRmNmJ0NDlkdTBjTExhWFhoQTZ6SG1BdUtjQmJfbWl5ODNkOUNocXRXVGxKQTl4czBaUENmbXZaaXdLbkcycE1kT3NsZW5xTm9uTFlXUE5PcXlHdlFUZnhHdmxJWHNpZHJQeDdBSWd0Qk9MZGtaM1NjeWhrRHhQdzZUOWdYVU43ejY5dzdHN3Q3RngxSnBTZC1BSTJZNk00X1ZTVFdxRTY2cW1iQ2tnWEQtZ0ZsUUZFRUpOMkNV?oc=5",
       "snippet": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine&nbsp;&nbsp;Business Wire",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "Maine waited years for a Lyme vaccine. RFK hobbled the panel needed for a smooth rollout - The Maine Monitor",
+      "source": "The Maine Monitor",
+      "date": "Fri, 28 Aug 2026 13:26:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2ckgxZEkxM3ZsQm1TdUJNbWRNVXpkU1FJblFZLTRfMW5hY0xjQ09aSlBzaE1WWExaVmtUQzBjLU9wbXUxVHV2aVJGdFBFX3QxaHF5UWlLVGVnS0Z4X2YzNlczTU05Z29hdGF3?oc=5",
+      "snippet": "Maine waited years for a Lyme vaccine. RFK hobbled the panel needed for a smooth rollout&nbsp;&nbsp;The Maine Monitor",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -76,11 +76,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
-      "source": "Nature",
+      "title": "Programming the immunological properties of mRNA vaccines for cancer - nature.com",
+      "source": "nature.com",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
-      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
+      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;nature.com",
       "matched_query": "mRNA vaccine new development"
     }
   ]
