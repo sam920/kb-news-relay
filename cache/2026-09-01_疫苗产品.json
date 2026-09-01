@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "topic": "疫苗产品",
-  "total": 93,
+  "total": 94,
   "items": [
     {
       "title": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
@@ -44,14 +44,6 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "New mRNA vaccine platform could expand global vaccine access - Penn Medicine",
-      "source": "Penn Medicine",
-      "date": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3BPZ0RNdTJndmR6NG9NOU9zc1RNblNLbVg0Z0VPamh1VzZWaXVScl8yRTM1SWR4UGV2R0N2bTR0TDNHY2FKUmJuVWRkU3NVOFp2TlNQdF9uNVBPM1pOZGZ1bWE0MDR5YXFGMlRGT0NUb3BwSlF4b1A5VHdWZHNLT2lNamMwWW15UGJIWWNKMHIzUXA1R0UyeVdB?oc=5",
-      "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;Penn Medicine",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
       "title": "Investigational Pancreatic Cancer Vaccine Shows Lasting Results in Early Trial, Supporting Continued Testing - Memorial Sloan Kettering Cancer Center",
       "source": "Memorial Sloan Kettering Cancer Center",
       "date": "Sun, 19 Apr 2026 07:00:00 GMT",
@@ -60,11 +52,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
-      "source": "Nature",
+      "title": "Programming the immunological properties of mRNA vaccines for cancer - nature.com",
+      "source": "nature.com",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
-      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;Nature",
+      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;nature.com",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -76,11 +68,19 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - The Conversation",
-      "source": "The Conversation",
-      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZTBtaklRLURsclQ5MnNwVmNqb3VlWXdxVnJTd2ljSlpDZlVQdm1EeGd1Q3lWU2R1V3dXTDQ3eGV3VGxKanhHTEw2Wi1aMXVtU3BSc250SXFEOWZNd1JZdDJ1TEVIMlVQaW5ENC1fVE9vR0pocHNSalJfeTJJLTlvZF9BQ0FqSnFuZk9XQ2hYUWRzT2Jxai1sOUFGbUJIakZTcmJkNG92WC1BQUVFZ3pVSWFiWXVSdkdqZFc1bUt0bkxDQ3dxT1VFaGRQNjJmcjRWQW1LMTZYRHlFM3R2eTlLNlpHTVRoc2xNX2RHZnVKZlVPZk13UDRNR1B3ZVJiVXRYZE0yaDN3TnZVenZX?oc=5",
-      "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;The Conversation",
+      "title": "5 Vaccines Under Development That Would Change the World As We Know It - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGQya0hVUDcwMUp4UnFGaG0wNElPVUJRclM2UXcxWU1iTUFJTjdBNjV5ZE9WUG5LeGNxdnAtWm1WVHBmZWlkMWphV25QeFgzR3RwUTQ5Ung2bzE3b0xWNzFWVnc0azVPS2pQZ2pSU1pEYURDOExYZEFZcXB4N2ZyQkdSMTNDeXJoMWIweVl2ZjBHVEF6VTVxWlM3ZEw?oc=5",
+      "snippet": "5 Vaccines Under Development That Would Change the World As We Know It&nbsp;&nbsp;The American Journal of Managed Care",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
+      "title": "U.S. rejection of new mRNA flu vaccine 'sends chills,' epidemiologist says - PBS",
+      "source": "PBS",
+      "date": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUF95dl92RjVUNDRXeUUyN3JvMTMxaUEwc01TVDhiSTk2X003YVhaaUZzLUZlVEw2QVdkUnZHcl9yTjQ0Q2FtMjcyTVM3eXNzZzIyb3BBRmxjUmVBZ0VFNDBHU1JkdE5pNDFNN1JmeURqZE1rYU1Ga01OOFoxcDJ6OGdSLUI2RERUNkpTdHQxaWtMLUVJdmV1cElOT2EwanNYUWU1MVBuaw?oc=5",
+      "snippet": "U.S. rejection of new mRNA flu vaccine 'sends chills,' epidemiologist says&nbsp;&nbsp;PBS",
       "matched_query": "mRNA vaccine new development"
     }
   ]
