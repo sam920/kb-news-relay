@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "topic": "蛋白质产品",
-  "total": 60,
+  "total": 59,
   "items": [
     {
       "title": "FDA Approves Ustekinumab Injection for Pediatric Ulcerative Colitis, Expanding IBD Options for Children - Pharmacy Times",
@@ -20,11 +20,11 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
-      "title": "FDA Approves Novel Iberdomide Regimen in RRMM - ajmc.com",
-      "source": "ajmc.com",
+      "title": "FDA Approves Novel Iberdomide Regimen in RRMM - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
       "date": "Thu, 13 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55eW40bmlXOUNBYzk4d0FwX2NFb3lpdUxDQVBTWWhBekNqcHFNWXFiRy1DX3BuVi1NRnpwTDNsLWtMemwyQl9mSGNIXzB6VEUzTC13UXZYVzkyMnNnZGw2WXotY19QdVRYbXlpZjkzZXN1eHJwbWQwMGd2QQ?oc=5",
-      "snippet": "FDA Approves Novel Iberdomide Regimen in RRMM&nbsp;&nbsp;ajmc.com",
+      "snippet": "FDA Approves Novel Iberdomide Regimen in RRMM&nbsp;&nbsp;The American Journal of Managed Care",
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
@@ -44,6 +44,14 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
+      "title": "Treeline Announces Clinical Trial Collaboration and Supply Agreement with Roche to Evaluate TLN-121 in Combination with CD20xCD3 T-Cell-Engaging Bispecific Antibodies - BioSpace",
+      "source": "BioSpace",
+      "date": "Wed, 02 Sep 2026 12:57:33 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNblpId2hxUkNVbVFNY0J6MExjT3dKTzFEZ05TNU1pT0VKWFNoZ1ZlUVotUlhzMnJsWkVfOGI2aXZCUTVLSkxiWEpUc25PMkU3LUxjdnhYVERYVG51RWJDeC14QzNGcGVURXRkUlNxVWdTQWV0eG5MRDlCZG9zdnFCcXdhaVZzcFFicVo5MmkxWjRWbGhYNnlrY0FKblV5Y2lpQWhLSmJsOUhyR1JXRlVqQnhuUWhTRlJsWDh1ZXFTRTA2dThaMzZURjZUXzN0aXFvdlkxMlJ1QmRkMjVHQzhId2dxRG1XYndBckNEeEpLN2Y4RnlsOVpnRDhSRnA3R2NLUjh5empRQXFNaUkzb05jYXNEV2dzTmVRTGctTGFxVmNvdS1IekFacG9kbTV2RUk?oc=5",
+      "snippet": "Treeline Announces Clinical Trial Collaboration and Supply Agreement with Roche to Evaluate TLN-121 in Combination with CD20xCD3 T-Cell-Engaging Bispecific Antibodies&nbsp;&nbsp;BioSpace",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
       "title": "Making Nuanced Decisions on CAR-T and Bispecifics in Multiple Myeloma - CancerNetwork",
       "source": "CancerNetwork",
       "date": "Fri, 21 Aug 2026 14:07:12 GMT",
@@ -52,35 +60,27 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
+      "title": "Relapsed or Refractory Multiple Myeloma: Early-Phase Trial Investigates Novel Bispecific Antibody - The ASCO Post",
+      "source": "The ASCO Post",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLXZlaVJtLWttc2pYaTNLX0RzYjg0a3dxakhUdGZlbFhCVUtVZjFOMUd3bG9hMzdYTWM2TkJUX21nUldJdFZzQ25hcHJrbUo2S3JvZ1pMWHUzOVV6OVRoY0tRenpVMVZ6dk4xMWxnUmJqR1VicVRIbFlFckYwSDlVUDRUZnhLMXFWcHVNRGt3Qlc1TVVZTEp1WlBxTnk5RmxWTkZ1bmFObnNfYXd6bUl3d2NYRnAyNU1MdTYzN0NsWE9OQWdZLWFVNkVScTQ1UQ?oc=5",
+      "snippet": "Relapsed or Refractory Multiple Myeloma: Early-Phase Trial Investigates Novel Bispecific Antibody&nbsp;&nbsp;The ASCO Post",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "The defining question of the next decade is not how many drug candidates can be generated, but who decides which ones move forward, and why Drug development must convene a forum for candid, cross-sector discussion - The Cancer Letter",
+      "source": "The Cancer Letter",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QQWZsZ2RpN3JpSmw1aDFJaVVFSmFqYnZxbkVCS01BeUhtNFZsN0xnLXAwS1lUWEd2TURRaFFZcDFRXzJCVkpDMW12dDhUYW5QdTZENXA0NkNsMklLNEFTdTZ3?oc=5",
+      "snippet": "The defining question of the next decade is not how many drug candidates can be generated, but who decides which ones move forward, and why Drug development must convene a forum for candid, cross-sector discussion&nbsp;&nbsp;The Cancer Letter",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
       "title": "The global clinical trial landscape of PD-1-containing bispecific antibodies for gastric cancer: current status and future directions of targeting immune tolerance - Frontiers",
       "source": "Frontiers",
       "date": "Wed, 10 Jun 2026 17:57:50 GMT",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTW15TWFBQWRVdi1ZcFVoYkJDcDZCSWF3OGJuWkxYWVR4NDZSU05IQzhBM2Z6UEtJMGY0U1pNdEJjaFVkVnhneFhtbXpId2JkR2Z2dGJWNlZqV3BZNWl4UWxyT3VRc3V6RzdGY1pPajRPbnVaR1l2ajFTSmEwNjBvSkdfcHpSeVRKVXhpOGM3YTlUUQ?oc=5",
       "snippet": "The global clinical trial landscape of PD-1-containing bispecific antibodies for gastric cancer: current status and future directions of targeting immune tolerance&nbsp;&nbsp;Frontiers",
-      "matched_query": "bispecific antibody clinical trial"
-    },
-    {
-      "title": "AstraZeneca ends phase 3 lung cancer trial after bispecific falls short versus Keytruda - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "date": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc0lEbGlDQ3JtSEVqMjMxN0ZyWG4xN0NIQ1k1bEItb0NKZ2wybmZrazdjQXVtT1FkVnV3TjdpakVxYWo4SWQ1VkpfMDZKd2ZjeVlxSkdkMWk3VDM3d1A5alpDVmJCZmMxWVZ2d1RpWkd2aFlabWQ2RENFaG1feVVCZF9oazZzTFRaZkN6R1Axd2JmaVBhdk9jRGRuTUI0cGdnUEFJbHBxQWEweDNjV2NsQ2ZVMnY5c2dHTDdLajRyQjlQNGs?oc=5",
-      "snippet": "AstraZeneca ends phase 3 lung cancer trial after bispecific falls short versus Keytruda&nbsp;&nbsp;Fierce Biotech",
-      "matched_query": "bispecific antibody clinical trial"
-    },
-    {
-      "title": "Second Primary Malignancies After T-Cell–Engaging Bispecific Antibody Therapy - The ASCO Post",
-      "source": "The ASCO Post",
-      "date": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVl93WGl2bk41dnBlX24xbjBrNkZZTzJaV2tjdGNhck1qdW9DU0ZUd1RWZEluWnlYLWVtUWJBR2p2RlU1MnVkakpHWEFJX05JckYxX0I4aGpQTXJFUERfQjFLOF9uOXRnQm9rY0FmX3RWcXp5WFhYOVZoV3RGay1JWHZwaWthOHBwR01DUmRGX1VEWEdia2JwT1B0anY5RDBPV0JCTUE3eUs1c2NybWJ1cXFWM08?oc=5",
-      "snippet": "Second Primary Malignancies After T-Cell–Engaging Bispecific Antibody Therapy&nbsp;&nbsp;The ASCO Post",
-      "matched_query": "bispecific antibody clinical trial"
-    },
-    {
-      "title": "Biokin bispecific ADC iza-bren hits goal in lung cancer trial, boosting case for BMS’ global test - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "date": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHBwUnhGRjNWbkRmaW5ZQUlOYjJNekdqQXhVektrZnNPbXBTZjB0c2tHRVdBZ3hQSThDN3htT0pHWDlULVUxN0NUaU8zUGtSS1BRNXRDTXlzRlc0Q3JKRXJ0aU5EbUxWMzFtZE02cXRUaFdwS2JjOUVhc3BCcnRtaUhrME92bDRCVVlXR0dhdktpVEdtQzRvWm5uZmtMdVZoXzRjbFRPUk9hbTdoc2ZETm1xTUpEZDNDa0hFX3ZERnlIdw?oc=5",
-      "snippet": "Biokin bispecific ADC iza-bren hits goal in lung cancer trial, boosting case for BMS’ global test&nbsp;&nbsp;Fierce Pharma",
       "matched_query": "bispecific antibody clinical trial"
     }
   ]
