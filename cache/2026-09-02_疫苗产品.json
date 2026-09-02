@@ -1,30 +1,22 @@
 {
   "date": "2026-09-02",
   "topic": "疫苗产品",
-  "total": 92,
+  "total": 93,
   "items": [
+    {
+      "title": "FDA approves Moderna's mRNA seasonal flu vaccine - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "Tue, 01 Sep 2026 00:33:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1BQaW1BVDVnZmczM0Z2LVJBR0RuZEFxc25uSW10QTIzSlhBX0VGQ282YU5EMWI2M3FoTnJmTGU0WGY2RVdFXzNoanREejdsUHVDWUZXMWdJUldzUHB0R1ZWYjUydHU1YTRfYnVqdnlZU0VsTXNjS203TG8zWDI4OHgtOFBqcXgxYUIzanBDU1h3WjFmdlhiUtIBngFBVV95cUxQbVdvZXgyUFJhSlVYU2c2UzlnTzJGY25ubnBHSlVLTGNWcnBzZm1rbktweEpjTURzRGIyQURmd2p4Q3V6eUthX3FBZnFRYmc0Mjk0NUlKaUZhRld1aVIyS01fNmJ1VVN3eE1PeS0wQmQtUnZ5LUJoMF9YZGt5TmV3MGc5UFJDQmRuRE42MkJ0TnhRUmZVYjJqbW5tM3RUdw?oc=5",
+      "snippet": "FDA approves Moderna's mRNA seasonal flu vaccine&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
     {
       "title": "GSK hopes to take on Moderna as it moves mRNA flu vaccine to Phase III trial - Clinical Trials Arena",
       "source": "Clinical Trials Arena",
       "date": "Tue, 01 Sep 2026 18:11:41 GMT",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1laV0hSR25OVGhYbWlLU0FLWVNZNlVGeVZOOE84OTg3TEhfbTM0c2NLOVhHWWJ5QTRIUXA4dkQ1aWJrTkczNWdILVdIa05qOEszdUVxZ2dBbTFvdU93Rm0tam5uMEhfb3dUbnpaMlRGTUZVX3lWckNxYVhlMXpxWXZoU3hsaEQt?oc=5",
       "snippet": "GSK hopes to take on Moderna as it moves mRNA flu vaccine to Phase III trial&nbsp;&nbsp;Clinical Trials Arena",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "FDA approves first mRNA-based flu vaccine - Harvard Health",
-      "source": "Harvard Health",
-      "date": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHpUNzVOY2NNQ2ZQQW0yWF9jXzJRN1hGV2h1N0RjTUxvLXkxOWNQM2NtSTN1aTF2M01acy1LWHBTRnJHQ2YzT0FHa2pLbU9mQ0Z3SDdYc0VjM2RKMFNkcjVFeWM0R2JyYU1uakljQUZzbTVpVGIxSTJaMGN6UkVJVTBjV05FOV83aUozcXVFVzV3WjhGUDN3ZzMtTmhuQ3dMbmxYN3NR?oc=5",
-      "snippet": "FDA approves first mRNA-based flu vaccine&nbsp;&nbsp;Harvard Health",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "FDA approves Moderna's mRNA seasonal flu vaccine - ABC7 Los Angeles",
-      "source": "ABC7 Los Angeles",
-      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY3J6SEFJSkFRREN4dVBrSDFEQi0tVkd5M1F5bnAycUkxMHV6VGVVeE9wcy1KSlBlS0NxcTlRdm1UYUV4ZVVtYjkyNzJNYThmbmR6REJGaFZOMVNia1VzbF9QbEdkTzE1aFZkNXh3bmhodWtnaW9iY0FabDk5c0RWYWh3WW5jLWs?oc=5",
-      "snippet": "FDA approves Moderna's mRNA seasonal flu vaccine&nbsp;&nbsp;ABC7 Los Angeles",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -44,6 +36,14 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
+      "title": "FDA official proposes ‘impossible’ standards for vaccine testing that could curtail access to immunizations - CIDRAP",
+      "source": "CIDRAP",
+      "date": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkRVcnI5M295d0dnYVpjVmlqQUVjbzlBeUkwRUZUWnFoeEZodEF4dmFxV05ZeGlDamhtVGdZeUt3bGRIQThRODFIS285RFhXYUpTZ3liZERNeWx5Q3h5cTJfYkVxbU9QRXdaVGYxY193UWhhbHJlejJZem5oZHByWTFINmpfbEg2TlJwUmpSVmRmSUtDWlFWUjdEcElwanBrTWt3S2tkNXhHTVphQlNBQ1haUTJRMWJuUzdFRzV5dEJzS0U?oc=5",
+      "snippet": "FDA official proposes ‘impossible’ standards for vaccine testing that could curtail access to immunizations&nbsp;&nbsp;CIDRAP",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
       "title": "Programming the immunological properties of mRNA vaccines for cancer - Nature",
       "source": "Nature",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT",
@@ -52,11 +52,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - medicine.washu.edu",
-      "source": "medicine.washu.edu",
+      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - WashU Medicine",
+      "source": "WashU Medicine",
       "date": "Wed, 15 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWFCNmRZZGJ1bkNraUczNFd4RWRKT3ZlSXlPRWFYRFZBMWRaN0hJdFFQeXVzV1loaGVHXzZxTi00VDA4N3h5RnVnVFJIS0hrZmMzQVlQSWxmcXNVVXkwNkRyNkVyLTZjYUMzUDY5aHY5RFQwV0NsdXNkQmswVjdtQnBpOHZLNE11Qkl4dlV6Vk95emJhMFdmdVpGdUptSVU?oc=5",
-      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;medicine.washu.edu",
+      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;WashU Medicine",
       "matched_query": "mRNA vaccine new development"
     },
     {
