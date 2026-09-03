@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "topic": "鹦鹉养殖",
-  "total": 67,
+  "total": 45,
   "items": [
     {
       "title": "Nearly a million birds shipped from Africa to Asia in 15 years; canaries top the list - news - Mongabay",
@@ -28,14 +28,6 @@
       "matched_query": "parrot CITES conservation"
     },
     {
-      "title": "Feathers fly in dispute over Ambani zoo's pursuit of rare parrot - reuters.com",
-      "source": "reuters.com",
-      "date": "Sat, 20 Sep 2025 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTFJvcGFCVnVMcjM1QzhBTkppQ050X09QWmZxTkRQNjdiS2hKVHlGcG5jWi1BQkFsRDNVTVA5TXlpTUdmNUNuUi1ob3BuOUIycDlVaFBGUXBPOFRDdmhMZkc1cGdTY3BRZks0UF9WZURBSnAwMnAzRjhFQUktY00wVDhpWjZCaG9OaUxKU21ScGZ4OW9NclJnM0dpZ25iRzg4MXViOTdpNGQxc2l2aWlvai1rTmFOYlcwOW5sTU9JS3Y0ME4yUFh2TnVYOTVUZw?oc=5",
-      "snippet": "Feathers fly in dispute over Ambani zoo's pursuit of rare parrot&nbsp;&nbsp;reuters.com",
-      "matched_query": "parrot CITES conservation"
-    },
-    {
       "title": "With ‘terrifying’ trade in African hornbills, scientists call for increased protection - news - Mongabay",
       "source": "news - Mongabay",
       "date": "Wed, 29 Oct 2025 07:00:00 GMT",
@@ -44,11 +36,19 @@
       "matched_query": "parrot CITES conservation"
     },
     {
-      "title": "Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot - theguardian.com",
-      "source": "theguardian.com",
+      "title": "CITES CoP17: WCS Congratulates CITES Parties for Extending Protections to the African Grey Parrot - WCS Newsroom",
+      "source": "WCS Newsroom",
+      "date": "Sun, 02 Oct 2016 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOU2ZZSmRJdnVIYVRYVzAwX2hRUDh1c3FSVkFBLVVMZ2xnUEtHTWM3U2NmbUFNQ3lEYndNdXlyUG1tRUx5QXJMTUlTa3E0RWoyUGdLZXVIYlhKZ3FnUXJ4SnAyQXpWdFFlcTUyVXBKOUNNOEVmanMzSVJxazRHZWRuck5aNEhFSTlTb0xDRmhWM2daNG11Z1l4RVl2UFRZZUxzRVZteGJnN0lZM3FrUVlvcE1KS1FEMHhLcWRiUmFYdjU1TDU0ZWpDX2N2bUFBeUdTUDhPS01yby1mNXFybkJWbV9hVTdLeEZ6WVI4UmwwTk93NHhIeTZQNGxjSGZWcG96TVlndVY0WnlmLUU?oc=5",
+      "snippet": "CITES CoP17: WCS Congratulates CITES Parties for Extending Protections to the African Grey Parrot&nbsp;&nbsp;WCS Newsroom",
+      "matched_query": "parrot CITES conservation"
+    },
+    {
+      "title": "Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot - The Guardian",
+      "source": "The Guardian",
       "date": "Wed, 02 Sep 2026 01:31:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUFQQmdTNVZGem0tVGI5MmxBa3dSNlRtVkZIUDZhQW15TlpwVWhQNi1jMkVWWUlXdkQ5Y1RzemxGQkMtdXdSZXRUeUw1UUw1QVRsWXBLbS16N1czV0lVa3VqdEtueFlQVmFMc0VLaE9BLVFoWEZBYTFyMHB4NFZTRFZHZ0kyY1pySDZibnlfVTRDQUdvc2hFMU5UVTR1QWFzUXQtUzJGcmM?oc=5",
-      "snippet": "Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot&nbsp;&nbsp;theguardian.com",
+      "snippet": "Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot&nbsp;&nbsp;The Guardian",
       "matched_query": "parrot breeding news"
     },
     {
@@ -60,27 +60,27 @@
       "matched_query": "parrot breeding news"
     },
     {
+      "title": "Record breeding season lifts Kakapo population to 325 - Rare Bird Alert",
+      "source": "Rare Bird Alert",
+      "date": "Thu, 03 Sep 2026 11:37:10 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWlhqSVRaWHZxa21FSkhSUkE5Z2ZnaEN3eHpGUTNJSGZqRmtmNjlNT0F1ZXhuZk84ZE9obFJOeW8tQ0RZdm1pSS11STNiNWJRbkh6eVhOdTdUQ3ZCb1ZUVFVzejRhVHB0ZE9vQ0ltU08xdVdtWHNDV2ZoWWZMUmRFWHpqY1A0Y3ROX1F6aF9NX2JfWDFqSktRZHlOa2I4UWhDREE4?oc=5",
+      "snippet": "Record breeding season lifts Kakapo population to 325&nbsp;&nbsp;Rare Bird Alert",
+      "matched_query": "parrot breeding news"
+    },
+    {
+      "title": "Kakapo population crosses 300 for first time in 75 years — What helped New Zealand’s rare parrot make... - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "date": "Thu, 03 Sep 2026 09:18:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYy1zM3hJSXdHc1hFQzl4Y1lIdFZrckJMNVJHeENrcjhrS1lacmo4TXpnNDBIYW9sQV9xWXcxN0dNb09jd2JkMTBkcmh2MUJadFdpTjlwUlc4V3Jwb3NUbkNITW1pSnZianlVN2ppc2JlTWpkYnh4NXBLLUR4SDMwZzJ4ZU1MVC1GaTd1WnVWcFFHZHluY3p3RWQyQkpTTDRIbFV4Y2xkOW9Ramc0dFQ2b1QwLTZVS0w0SVlnVHczVFZNRG9aN2dNc0FpaXNPYjlxR0tlWDhWV0MyOWszVlJid1RjV2hjYWotazlHMFFRc3g4aHNKZEFkWExfVFRtQdIBgwJBVV95cUxOaWpuWXdPUENpS2pHQ1JqSXo0di0tNUliUVdYbXdqNEFGb0FYdkNDVF9pT25GTlVlS25zMjRWZzRCYXhVLWhsTGhjbjQ2eUVNZEpZa1ZETmpSTWNseXZiVzY2M1hoc1Y4RDRWQTI4Z2VSMFZKZGhrUFJzTWhKNjB4OE9nRTBEaG9XbTJUcVNzTXZEN1NoMDBDTmN6UmVacXJNZlM0OFAxVEFyWkRteTVQeldHRVpDemZ5R1R1SWRBM1VQV2Z2ZFRRUWdlU25TTWJEbE8yOGF3cERXYk5SeE92cEdPMnBNZWVFTUFKUkhfQ2N5RGVObDNYUmZBaktma1RTUUFZ?oc=5",
+      "snippet": "Kakapo population crosses 300 for first time in 75 years — What helped New Zealand’s rare parrot make...&nbsp;&nbsp;Moneycontrol.com",
+      "matched_query": "parrot breeding news"
+    },
+    {
       "title": "A Bountiful Berry Harvest Put These Chunky, Endangered Parrots in the Mood. Now, Scientists Are Celebrating a Breeding Bonanza - Smithsonian Magazine",
       "source": "Smithsonian Magazine",
       "date": "Fri, 17 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQa2dvTkQ5MUlwWGJRcVBEaWU2OWN2WTZ3TWVVdTNscTUteXVDaDRBNndzS2lDRUpySEF3Sml5Z0JJTkJjNnQxODRPS3FIOUV0d0dlQkdOYVgtOHFXV2JvQmZDckpsZW9SaWZJX2pMUXIwTEw4Q2FaWTBEd3NUeEJab3VHRzdxRGNLbTgzU3VnRUgtRHNRSnh3NTN1UjgwU2Vfb3J5RnZDd3B1VHZRUnY4ZERFMUhVYU4zbGdvY0ZHYmNaZmpJNDlsSzNPX1VOd2VrVDNpSFlwMGFZc1Z1YW9sRkZZUkdxS2NNbmNwakFFY1Q2UFc5SEZUSXB3dmFMay1LbU9qMG03SQ?oc=5",
       "snippet": "A Bountiful Berry Harvest Put These Chunky, Endangered Parrots in the Mood. Now, Scientists Are Celebrating a Breeding Bonanza&nbsp;&nbsp;Smithsonian Magazine",
-      "matched_query": "parrot breeding news"
-    },
-    {
-      "title": "Kākāpō population reaches new milestone: Media release 1 September 2026 - doc.govt.nz",
-      "source": "doc.govt.nz",
-      "date": "Mon, 31 Aug 2026 22:28:06 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTFpYMmx4ekh5UW9xVjZpaGwxbUFneVd5OEdyWHhKRVBJNHNGcU9uanQ3WmI2Z1V5N2dhYWtoXzZqcWI4M2txUDJNblZJV3BDYmV3VHJkazhXaVlEajZDM3lEYm5MTXZfNU9QSlJnVG9JYU04cmNicmV0ek9yVTZaLTFfMlEyR05OV3ZDWVBSdFVIdG5pakNhc2JHS3M0LVNBOFhmZVVhdw?oc=5",
-      "snippet": "Kākāpō population reaches new milestone: Media release 1 September 2026&nbsp;&nbsp;doc.govt.nz",
-      "matched_query": "parrot breeding news"
-    },
-    {
-      "title": "Statewide Retail Parrot Sale Ban to Be Considered to Protect Birds From Breeding Factory Horrors - People for the Ethical Treatment of Animals (PETA)",
-      "source": "People for the Ethical Treatment of Animals (PETA)",
-      "date": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMV9CbUdzVUFHbDU5bF9hTjBhajNjNGpXQzBPekpMelgtV2FWRUpwRk9NWmtEeV9wV3FVcGZVLVRWNU9WRGRrUW9KcWpZMl9pWVNFbnlDbHJPRk5RLVRBb0RiRjlmUzZ6ZzBHQlQ5b01yN3JfdDNQRnZOTEhidFBoYURESndURFJwNTAyUlg2YTJCczBLY3laeXNxdmRKUWNLRXhRN1NyQXd0SDBianUwaW03dnRIZjMzR0tEdXZCR3JlM1RWN0dTdWMtMElrMFRQV0djcA?oc=5",
-      "snippet": "Statewide Retail Parrot Sale Ban to Be Considered to Protect Birds From Breeding Factory Horrors&nbsp;&nbsp;People for the Ethical Treatment of Animals (PETA)",
       "matched_query": "parrot breeding news"
     }
   ]
