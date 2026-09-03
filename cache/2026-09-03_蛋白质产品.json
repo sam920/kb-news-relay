@@ -1,48 +1,8 @@
 {
   "date": "2026-09-03",
   "topic": "蛋白质产品",
-  "total": 25,
+  "total": 29,
   "items": [
-    {
-      "title": "Ebola - fda.gov",
-      "source": "fda.gov",
-      "date": "Wed, 02 Sep 2026 07:41:11 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1Zpb18zMjNHUG1UTjFvSm00c0Q0cXRWNjd3RFJXSGcyTm1uUmU0SEM4ZWZZVk5fbnJxclh4bXJxTDQwLTl2NGgxY2tfejhFaWJGdktibm02d2VyUEo4VVM4aTE5QzI2U0haZkZRTmZ0LWlDWGc4X2dscklUaU15UVprbU9lMkNoVkUxdlFyaDE0X2FOWURRNmFDbw?oc=5",
-      "snippet": "Ebola&nbsp;&nbsp;fda.gov",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
-      "title": "Johnson & Johnson scores 1st FDA label expansion for Imaavy - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "date": "Tue, 25 Aug 2026 13:20:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmxxb1Y2Y25EYTYyZ0ppcjZxeHFndHJWMXQtWmVWd1JuN2lyaWM2WUd0Q0dkbFJSMHh1QUMwUUIzWWRDa2FZZGlOdG52U0xxVFQzblNkMUxKYmRrWWRpX0hDekxGaEpmcjlFM2c1ZVRSM1ozNmQ1S3BFOUZ1MVRaZVhKQ01zTkZENXJRNTdyNnpRQWUyU3IwNDVZQQ?oc=5",
-      "snippet": "Johnson & Johnson scores 1st FDA label expansion for Imaavy&nbsp;&nbsp;Fierce Pharma",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
-      "title": "FDA Approves Novel Iberdomide Regimen in RRMM - The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care",
-      "date": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55eW40bmlXOUNBYzk4d0FwX2NFb3lpdUxDQVBTWWhBekNqcHFNWXFiRy1DX3BuVi1NRnpwTDNsLWtMemwyQl9mSGNIXzB6VEUzTC13UXZYVzkyMnNnZGw2WXotY19QdVRYbXlpZjkzZXN1eHJwbWQwMGd2QQ?oc=5",
-      "snippet": "FDA Approves Novel Iberdomide Regimen in RRMM&nbsp;&nbsp;The American Journal of Managed Care",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
-      "title": "FDA Approves Garetosmab-grts (Pasatru) for Bone Lesions in Rare Disease FOP - BioPharm International",
-      "source": "BioPharm International",
-      "date": "Thu, 20 Aug 2026 16:14:59 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQXZqb3pNdHRiVmVhS3ZCd3BQd1R3dW5wVGZ0WG81NHhGVjhCZjU4Qy1LeTJVNi1iV05VRk4wTTU2S3F3cVVPMHRmZGhiU3BaanlrY0tOeEUzNjdGM0VFTHFTMElZcC05UVI0aTNNWEFCTXRlYXBjc0thRUU3YUpWTk5CcVRfQ2Ztak9KN0Zwd0NoXy1VbktMRWxEWXRicWtUWFhZazIyTE9qNk9j?oc=5",
-      "snippet": "FDA Approves Garetosmab-grts (Pasatru) for Bone Lesions in Rare Disease FOP&nbsp;&nbsp;BioPharm International",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
-      "title": "FDA Approves Teclistamab (Tecvayli) Combination for Relapsed or Refractory Multiple Myeloma - Oncology News Central",
-      "source": "Oncology News Central",
-      "date": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWRWSkNYY0lRNENQU2F5TUI5OEc4OFJJV25Qc2VEV2VIZl9zUGJSa25IbmtaU1Nfcm1TcG13cExHaUNuanQ0VHBHdENMVUNaMlZfbFRtTHMtQU0wT1Q4NTZha3d6STZXYlpBa3l5VTEwb0dMb0pKaVpWWjJPR3VweWZOcnZyYmtLOENlS05uZ3NRbVdkSjd2S1lLVHlUbjhESXZETDZNMVJNM0haUldhbVRGSFA5dTJ6TFRIcDFvSmRzd05ZNWc?oc=5",
-      "snippet": "FDA Approves Teclistamab (Tecvayli) Combination for Relapsed or Refractory Multiple Myeloma&nbsp;&nbsp;Oncology News Central",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
     {
       "title": "Treeline Announces Clinical Trial Collaboration and Supply Agreement with Roche to Evaluate TLN-121 in Combination with CD20xCD3 T-Cell-Engaging Bispecific Antibodies - BioSpace",
       "source": "BioSpace",
@@ -82,6 +42,46 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzFoVVQxWTk3R3FnUXRJVzZna0lwXzg1SFJ4eG04X3hBZTJLMEJGeXJ6VzFXTE9EcTd5X0dBenVzZjdwSnRnSWg2dktKek1xb3NmYlZSZzNuT2xwSENxMXJTUzZpYTFwbDFFSHJrMDVURnVTOGdnRTNjN2E2NzZ3LXMyVzJmYnh2Rzh5VXR1V1NBMXJVM0wxZVNHR2d3NUM0d3liMFphbEVYVFhjZmw0Q29qVFR1aDQ?oc=5",
       "snippet": "Tovecimig (CTX-009), a Bispecific Antibody Targeting DLL4 and VEGF-A: Perspectives From the Field of Biliary Tract Cancer&nbsp;&nbsp;ASCO Daily News",
       "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "Reduce ADC Conjugation Risk with Consistent Antibody Quality, Upcoming Webinar Hosted by Xtalks - PR Newswire",
+      "source": "PR Newswire",
+      "date": "Thu, 03 Sep 2026 12:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcDk2OTczeUlMUEhwZlpNQVRmT3pIMi00NVNOR2RMU3dxU19LYTc4RVlIRE1rUEFBWEx1aEtXSDVzMHJnczVkczBFSmlROWU5bUFDeHFCVWxlVldsNFkyRU1ka044Q2gzdC02XzloX3R1OWQteXpNd25pZjNCeUZ1WHRJNTJhb0g0ZHNZOTNYcEZCaFkzWEZPNldTb1JSSDVaUGtNbndRT0Q2Vzc1NzRXbFlhLUJ4LVA3NFgwN0ROSGo5aVB4R1ljQjBSR2NUSTJYWVVFQ0hFb3pkTS1TdUxCcjFPWFM?oc=5",
+      "snippet": "Reduce ADC Conjugation Risk with Consistent Antibody Quality, Upcoming Webinar Hosted by Xtalks&nbsp;&nbsp;PR Newswire",
+      "matched_query": "ADC antibody drug conjugate news"
+    },
+    {
+      "title": "Korean ADC pioneers look beyond antibodies, cytotoxic payloads - Korea Biomedical Review",
+      "source": "Korea Biomedical Review",
+      "date": "Tue, 01 Sep 2026 06:05:28 GMT",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RbVJfM09zakltdDRQTVhuU3hacGZWY1BWRjI2eVVYcE1POEliVWt0TVE3OVNya0FWVTMwZXkzOGtETHBWWWsyaHA5WHhaSkZfd3dKYkhWNGZoQzZyMjB0enBiWnluZzhpT1E5anp30gFyQVVfeXFMUG0xSkNjVnI5cDNLcVdLcWdCbEZuTVJLSWt5ZXc1UnM3UHJFNU1fSXRocU01bDRva2lTM1JnTGI2OEc3WkJwbjRwT2djTnMtRWhURE5yWHZkMC01VWoyZ21XYTFtSUc4WGpvNVlZZjFJQnJ3?oc=5",
+      "snippet": "Korean ADC pioneers look beyond antibodies, cytotoxic payloads&nbsp;&nbsp;Korea Biomedical Review",
+      "matched_query": "ADC antibody drug conjugate news"
+    },
+    {
+      "title": "Dualitybio’s ADC efforts draw Roche in potential $1B deal - BioWorld News",
+      "source": "BioWorld News",
+      "date": "Tue, 01 Sep 2026 16:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm55OEJxS0JkQjJqdm56TXdiNC1wZ0NsZzY5djFKenFRWTB0ekpXT0REN3R0emRNWUJQU3ZlY0taRjI4OUtYVlhLeWdzeVJHcEoxNHl2Y1I5cWxnRm1XaW1XMU9QMFEtY1ZvNllpU0RZMWppZ1NkeGNjYVdrYXMtbDV4Y29ZM0RfcEkyUDhOU3FOSlpCWmNmWFE0elg?oc=5",
+      "snippet": "Dualitybio’s ADC efforts draw Roche in potential $1B deal&nbsp;&nbsp;BioWorld News",
+      "matched_query": "ADC antibody drug conjugate news"
+    },
+    {
+      "title": "Genentech strikes second Asia deal in a week, betting up to $1B in oncology ADC alliance with DualityBio - BioSpace",
+      "source": "BioSpace",
+      "date": "Fri, 28 Aug 2026 13:03:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3Nxd3dVbnBQa2FKYU1GMktMQUJqZjNqaDFfWmxsQi1ST3hLMGMwZ0pseHByUzU1VEZtMU1fUkh2S3diUmlPRThsVURTYU1aT2FKVEJqU1JfcnVsUVdhZ1BtM0x4cE0wcWROV1lyd0ZlbTYtTzBtSjFvMVQ4SzFMcnRSbUlaampBSTFiQXVtdmNyenNfQWRCc0lPRnJ3N2FqN05jRm1LSmx4QzRia3FUZ2ZFUWE0WXpwYnFucDBLbHRhV29lT3VmMzc3cW9sdw?oc=5",
+      "snippet": "Genentech strikes second Asia deal in a week, betting up to $1B in oncology ADC alliance with DualityBio&nbsp;&nbsp;BioSpace",
+      "matched_query": "ADC antibody drug conjugate news"
+    },
+    {
+      "title": "ZoeNCure Therapeutics Secures INR 20 Crore Seed Investment to Accelerate Next-Generation Antibody Drug Conjugate (ADC) Program - ANI News",
+      "source": "ANI News",
+      "date": "Thu, 03 Sep 2026 13:05:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRExVWkxuNFlIOHdGbVd2THYtaGxOeTN1eWFjbFlWcFByVGxZaV9sbDNZdFI0ZUpJeHFyN3Nud2xYTGVRd2JqUmNhRm5tV282RWZkYWVYbVBuX0RqcFpfdXNnSDEzRW56ZmtPdFBVZGNpMnVBSkdlWlpmdVB1T2k3bW5BQTFiU2tjMl9tU0xKZFNUcG16QkFobVlRdjhDTXMxLVJ0WlgyZ2s5dHdHLWVsMzJiUXBjSVh4dDJPM19kdU51OGZiQjZYTnY4a1F0dnpGVURSOVJhbHFCRVI1RzNzaWZuUnF6YXlES0dHeUlhdmFzU1FoV0JRbEdQQ0Fad042WXpiNlFR?oc=5",
+      "snippet": "ZoeNCure Therapeutics Secures INR 20 Crore Seed Investment to Accelerate Next-Generation Antibody Drug Conjugate (ADC) Program&nbsp;&nbsp;ANI News",
+      "matched_query": "ADC antibody drug conjugate news"
     }
   ]
 }

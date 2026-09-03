@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "topic": "疫苗产品",
-  "total": 40,
+  "total": 47,
   "items": [
     {
       "title": "FDA approves Moderna's mRNA seasonal flu vaccine - ABC News - Breaking News, Latest News and Videos",
@@ -17,6 +17,14 @@
       "date": "Tue, 01 Sep 2026 18:11:41 GMT",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1laV0hSR25OVGhYbWlLU0FLWVNZNlVGeVZOOE84OTg3TEhfbTM0c2NLOVhHWWJ5QTRIUXA4dkQ1aWJrTkczNWdILVdIa05qOEszdUVxZ2dBbTFvdU93Rm0tam5uMEhfb3dUbnpaMlRGTUZVX3lWckNxYVhlMXpxWXZoU3hsaEQt?oc=5",
       "snippet": "GSK hopes to take on Moderna as it moves mRNA flu vaccine to Phase III trial&nbsp;&nbsp;Clinical Trials Arena",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+      "source": "The New York Times",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDFUdlNabS1QTHFtUXBVNTVmczg5dmFGYVMzSlViVFRWRG1sTzZ1YWg4RnFyZndPZVBlUDhLZ1NMbHZSSTNGUmFmSmpmNVlhc1V0ZXhVbGdrWVVVOUY2dTFkU1VLMjNpN1lPbjNsN3BQcHVLczhaTDVsUnBfQnd5b21nYWxjZlMxdkc0SFdWVU0?oc=5",
+      "snippet": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer&nbsp;&nbsp;The New York Times",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -36,27 +44,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss - CNBC",
-      "source": "CNBC",
-      "date": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbElBOTZhSkJZX2p5VUFNcmRROFhVaF91cl93QU1yVkZxb1BFMWtuMFQyOW8yR09zbWphVGJ4VHZUOFRhX0xNdEdOcm5Ib1JBZWVIRkQ2UmFkcUZmbGMtQ1Z3WGoya3VIZUxROXpjbjRIYjdxQzdidHlyTzREYnRrbVVMeEdia294TER30gGQAUFVX3lxTFA4WDJUMk1CZU94bWZ2TEx3ZEt6emVDUXRPbFpJUnFRR1B2OGlKY1FyVEkzMVhsSmNjV2trQ1pORm9wYmNBUV9oVll5ZzB4MUEtX0lsZkc4R3ozVkJScnhjV3VGTkY0NzNrTVFxTkR3ZENfOHJUdW4zdTdoUkhTU0JPZm1DcFB1dGZPUE51X1Z6dw?oc=5",
-      "snippet": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss&nbsp;&nbsp;CNBC",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "New mRNA vaccine platform could expand global vaccine access - pennmedicine.org",
-      "source": "pennmedicine.org",
+      "title": "New mRNA vaccine platform could expand global vaccine access - Penn Medicine",
+      "source": "Penn Medicine",
       "date": "Tue, 23 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3BPZ0RNdTJndmR6NG9NOU9zc1RNblNLbVg0Z0VPamh1VzZWaXVScl8yRTM1SWR4UGV2R0N2bTR0TDNHY2FKUmJuVWRkU3NVOFp2TlNQdF9uNVBPM1pOZGZ1bWE0MDR5YXFGMlRGT0NUb3BwSlF4b1A5VHdWZHNLT2lNamMwWW15UGJIWWNKMHIzUXA1R0UyeVdB?oc=5",
-      "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;pennmedicine.org",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "Programming the immunological properties of mRNA vaccines for cancer - nature.com",
-      "source": "nature.com",
-      "date": "Fri, 19 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMlRNckNsQTRuNkpsZVlvWTc4TWJMM2J1QUlQMjgwc0pGdk1nTDE5eHVzcDhnUnl0Unl4WjlvMG9KNE1SNUI4WWlWbkxER21ZRHVFblpKZUpHdC1WajRB?oc=5",
-      "snippet": "Programming the immunological properties of mRNA vaccines for cancer&nbsp;&nbsp;nature.com",
+      "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;Penn Medicine",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -68,6 +60,14 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
+      "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - The Conversation",
+      "source": "The Conversation",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZTBtaklRLURsclQ5MnNwVmNqb3VlWXdxVnJTd2ljSlpDZlVQdm1EeGd1Q3lWU2R1V3dXTDQ3eGV3VGxKanhHTEw2Wi1aMXVtU3BSc250SXFEOWZNd1JZdDJ1TEVIMlVQaW5ENC1fVE9vR0pocHNSalJfeTJJLTlvZF9BQ0FqSnFuZk9XQ2hYUWRzT2Jxai1sOUFGbUJIakZTcmJkNG92WC1BQUVFZ3pVSWFiWXVSdkdqZFc1bUt0bkxDQ3dxT1VFaGRQNjJmcjRWQW1LMTZYRHlFM3R2eTlLNlpHTVRoc2xNX2RHZnVKZlVPZk13UDRNR1B3ZVJiVXRYZE0yaDN3TnZVenZX?oc=5",
+      "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;The Conversation",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
       "title": "Will Moderna’s Cancer Vaccine Be Good for People, or Profits? - The Nation",
       "source": "The Nation",
       "date": "Thu, 27 Aug 2026 09:37:26 GMT",
@@ -76,11 +76,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "FDA Approves Moderna’s mRNA Flu Vaccine After Phase 3 Success - The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care",
-      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOHpjMWRoRUw3dXRXZ2ZZcWxsTnJYRGdpejJPa3JrVERRVC1zRG9JR0t6Q09jN3pRRkxHT1RfWE80aE1FQU1kQTNMRW5vdDUwT3JFRzV6Wjd1V2oxbnB5SmJPZ0UzSTkyUnRiYTFYUzR5YUNRQzh2LUd4TmRWMm5sdWhvRkJvR21QbEprVWFzZHA?oc=5",
-      "snippet": "FDA Approves Moderna’s mRNA Flu Vaccine After Phase 3 Success&nbsp;&nbsp;The American Journal of Managed Care",
+      "title": "RFK Jr. cancels at least $500M in mRNA vaccine funding. What are the implications? - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "Wed, 11 Feb 2026 15:39:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSk1CcXdEbk9NRE10Vk9UNGxPMHo2RFpGNVZIbkpQdHY3TmstYXRILUZkeDBnQ1JWMEJaTTdsWkZDZWVpaDZfRjVSdU9TT3NZZHhUbjhBd2I0M2JKMDZvNlVRa2Q4WndFUlBXTlBuek1XdF9BUHlwMEZDYm1MRWp1MURydlNhVEx1dk1pcVpPUDlkSmhCcjhheU81amdRdUJC0gGmAUFVX3lxTE9BTVU5MXd3NF9XcUZZOC1nNlZxVElOajdISkw3UllRWWpTZ3pzUGttQ212YzFaUGNGNmhScXlTQmdsc0JZaDMzbjNqdjVlZlNocUxsOGdlMFYxdnp3Nm4xNVdtSnJtZ0RvcEw5MWlzWUlMNmQ5T2JQTUEtTG1HckFlc2YxTDZiMHJ1RkxMZ0l1S1N5X01vYVIxZDY3dUlNYkp5RERCRHc?oc=5",
+      "snippet": "RFK Jr. cancels at least $500M in mRNA vaccine funding. What are the implications?&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
       "matched_query": "mRNA vaccine new development"
     }
   ]
