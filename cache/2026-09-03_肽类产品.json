@@ -1,8 +1,24 @@
 {
   "date": "2026-09-03",
   "topic": "肽类产品",
-  "total": 9,
+  "total": 25,
   "items": [
+    {
+      "title": "Surge in unapproved, compounded GLP-1 drugs. Are they safe? - NBC Bay Area",
+      "source": "NBC Bay Area",
+      "date": "Wed, 02 Sep 2026 02:53:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OQS1uTFIyR0kyM1pXWW0ybDlWb2dkdm5JVG5aeUJsTnRPY3dVRmFIMVpqbXBjVmZjZS1LQjlUZHlpSlBCdmR5X1dSUlFhMkllNlZJMFpFaHg4SzhENnlLcFJvYlJqeHVsTEQzeFBQbE10UE5DQXAtUNIBgAFBVV95cUxOVVF5Y2V3M0I1NGE1NlZsUGZPMU5hWjhBUE5oakJKRDBMdVloYVczN1N0TXlDOWs0ZlhIUzk0dlVsQ2wyZTRNZV8zZk5ULW1oc0dTcUZ2YzlTcmFpVWZYTnlLeTNXZWZMWHZZdUNFc09BdTNPVHVqYm1OYnFlSXlNTg?oc=5",
+      "snippet": "Surge in unapproved, compounded GLP-1 drugs. Are they safe?&nbsp;&nbsp;NBC Bay Area",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Experts talk realities, red flags of taking GLP-1 medications - Corpus Christi Caller-Times",
+      "source": "Corpus Christi Caller-Times",
+      "date": "Thu, 03 Sep 2026 09:46:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcmJBMUZJeW03U0JUMW53NnFfN2VxX1ZUQ2YyN3lEM042X2ZJaFVjWFROVF9JeHdUMUhTZmdWNmVrYS1aQkNNbl9IMzl6aldQenJsdHJiMmFNampzYkNpMmJ1TVFQSUR4NF9QQ0lSV1ZnQVNKYkx1OGx5UlRMMjBoVDVJTVpzOU5YMDk2Y2VreGNuRGVfUWdfSDlkYVpscEdzbUZBVE1fTTliUEpObDZhbmRuNWRRd2hXOFhGN3piazl6dHVUcmdIYkVpOHJqSGM?oc=5",
+      "snippet": "Experts talk realities, red flags of taking GLP-1 medications&nbsp;&nbsp;Corpus Christi Caller-Times",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
     {
       "title": "FDA Approves Mounjaro (Tirzepatide) For Reducing Cardiovascular Risk In Adults with Type 2 Diabetes. Here Are The Best GLP-1 Providers - Forbes",
       "source": "Forbes",
@@ -12,68 +28,60 @@
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
-      "title": "Multiagonists Outpace Older GLP-1 Drugs for Weight Loss - The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care",
-      "date": "Mon, 31 Aug 2026 21:01:59 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZDJKQkRFckdUUzFhYlFGOVFyTTNFZzZ3UDlMNC1vM0pEMTl6THFWc09JaDY4UW1oNW1MRENnWEVvUFY4MDFJVDZXX0pRU3BieHAwWlpkTjh1TVRrWGtmMXR2bGc5dTFuY2lDNGZhQWl6OGlpdGplMFowazNjd2lrWEstMDd1UkFv?oc=5",
-      "snippet": "Multiagonists Outpace Older GLP-1 Drugs for Weight Loss&nbsp;&nbsp;The American Journal of Managed Care",
+      "title": "Eli Lilly's diabetes drug Mounjaro gets approval for a new use - USA Today",
+      "source": "USA Today",
+      "date": "Fri, 28 Aug 2026 17:40:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHNScjJJOG1lTFFLcE9QcjBKZ0tXRzZ6ZDR6eklFS1ltZ0g4all3MDJnUzltcHBXNW5OSkFRQS12WFN5TVNNSmRsSUtscDB5dXJZRlFzN2R0N19yUlNYVXVURTFDWW5Bb040UVY0UkR2cDlwYnNUZ0d4dWVLbDR1V1ZyRzctRXo2c2Fvd1cxbDVDLUpSc1dmdUd1b2JlaE1UWEtwcXRNaXJ6cndidU8zRUVoY0FicVVjUl9wNHktV2ItanpfbVFSbjlteFl1ZmplTmc?oc=5",
+      "snippet": "Eli Lilly's diabetes drug Mounjaro gets approval for a new use&nbsp;&nbsp;USA Today",
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
-      "title": "Compounded GLP-1s: Why doctors worry and the FDA is cracking down - Stanford Medicine",
+      "title": "Are GLP-1 Drugs a ‘Fountain of Youth’? Doctors Explain Health Benefits Beyond Weight Loss - TODAY.com",
+      "source": "TODAY.com",
+      "date": "Mon, 31 Aug 2026 14:08:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOHBpU1k4eUU5bmdrOEhHeEpiNlpIaUhjRFdxX21BYnJKRFJhSVZma1AzUVUzMHBwNkVJYnVWS1FuTmpybWQwMXZtREFIaWtWY0lXellpZFpUbF92a3phNHJzbXdzajE0NURiNTFlbGQwR2dNQ1hNalgtRGN5bFN4OEJKM0tRekhwRmNyNzBxT2cySURwaFIzYk9FTkhpNlJ1QUp5aWEtR3N2TkZiQjNLbVA4cw?oc=5",
+      "snippet": "Are GLP-1 Drugs a ‘Fountain of Youth’? Doctors Explain Health Benefits Beyond Weight Loss&nbsp;&nbsp;TODAY.com",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Peptides talk is everywhere: But what does the science say? - Stanford Medicine",
       "source": "Stanford Medicine",
-      "date": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3l0LVMtYU44bU1TWHlJNWFkYmg1Y0s0YUxaWWtUZDF1dkFlNUNEVUR1Rlc2S1U2NF9GdDNWcURlc3NZZWZTa2ZONWZua1d4ekd2TXRTNXRlOFJlOHRPOHBFZnhZcmJ5c3otNlFCUVNmVlRNb3RrV1pfRDdXU1ZOWnlCbXAtUS1xRGF5SWVYck9GdHgyLW56RmtiVTV3UmV0?oc=5",
-      "snippet": "Compounded GLP-1s: Why doctors worry and the FDA is cracking down&nbsp;&nbsp;Stanford Medicine",
-      "matched_query": "GLP-1 drug FDA approval"
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVQ3cU4xTG1iTGY0MC1wb1ZENnVHRVF3NWExOVlIb0tqZF9hTFdJT0pvNHFNVUFYV3JNVEJuNUNZRnY3dmQyemUzWEtKWmc0eW96UUY1NXlCQzB4d3NHWVpmbFA0dW03R05ZdEtmWTFqR0hfbm5zaGw0SmNZZ2dvUXVWSEJTZFhKc3RDejVsdw?oc=5",
+      "snippet": "Peptides talk is everywhere: But what does the science say?&nbsp;&nbsp;Stanford Medicine",
+      "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "Can't afford Ozempic? A new California bill wants to change that - CalMatters",
-      "source": "CalMatters",
-      "date": "Thu, 27 Aug 2026 12:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS29wS0RQUDd3WFpmRDliZmNfbENmcXBjZTJreXFkNWdCQTVTZlZheHV2Y0l1TXJvU2w4MWJzZGNNNkxBdWt5NDFnZjQzY0o2UDYzTDg0WG5tdjJKV2hMUWJTbXdjamttSTZKNWYwREtRSVFJdWptWnJjdXo5YmFTNV9ZTDNWZTIwR0liTQ?oc=5",
-      "snippet": "Can't afford Ozempic? A new California bill wants to change that&nbsp;&nbsp;CalMatters",
-      "matched_query": "GLP-1 drug FDA approval"
+      "title": "Peptide Therapeutics Market Size, Industry Share, Forecast, 2034 - Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3RvYVA2NFlvSGNsaEV0XzZlc1FZenJCOVJWU2ptMXUybXNOSlM5SEw0WF9LbFFzTEJxRUxKRnJnQUlZaS12Rnk1RndTOW94WDdDdDB5TzJzS19XN085OXN1Q2IyaEM2YTlXNmxnNW11TVB4bWZfbWxiNWlxSkVJZ3dxRU01MFJGdU1pbE9FN0duU1c4M2c?oc=5",
+      "snippet": "Peptide Therapeutics Market Size, Industry Share, Forecast, 2034&nbsp;&nbsp;Fortune Business Insights",
+      "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "FDA approves Eli Lilly’s weight-loss pill; Judge revokes citizenship over stolen medical secrets for China; new COVID-19 ‘Cicada’ variant spreads to 25 states – Morning Medical Update - Medical Economics",
-      "source": "Medical Economics",
-      "date": "Tue, 01 Sep 2026 17:54:56 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOWkZQbDZHX1VRLUZKTEszbVpwOGpXVVBPT3I0eHVReHZUR25FcXFfdEJnUVdVTGtpX1JCaHZFdGRZRXpCNzEyaDAtT21OQ2lPelVVSkFXTUN2Q2lZRlNVTXBkeHBsclc2Z2w1b2ZaaXF5dlpsSmlKTGt3c1RyZldBTHdIRDlGNGM4d1NXcmcxSWhpSXB0TXZRQzRCb1d5NGQ4UDY4X1BrTXNNa0t3a25ldm1GTlBGdHhGM0dfX2hRRkNvVXRjaEZsS3hxZDY3am1nbEZkRVBKcGVpM2IwTGZBZGJ4cnB5SXB0SVk3WkFRcHNSc3MybWRJWFBRaUlfbldST1RfbTBuTENqaGJ2YU5rZlBKeEVDNjRyR29hLUhwNk9YRWFXREpIYmNET1RRZUhhTjAxbWR1Vl9iVlU?oc=5",
-      "snippet": "FDA approves Eli Lilly’s weight-loss pill; Judge revokes citizenship over stolen medical secrets for China; new COVID-19 ‘Cicada’ variant spreads to 25 states – Morning Medical Update&nbsp;&nbsp;Medical Economics",
-      "matched_query": "GLP-1 drug FDA approval"
+      "title": "Peptides: Doctors explain the benefits, risks and FDA concerns - UCHealth",
+      "source": "UCHealth",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
+      "snippet": "Peptides: Doctors explain the benefits, risks and FDA concerns&nbsp;&nbsp;UCHealth",
+      "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "Researchers looking into whether GLP-1 drugs can help slow aging - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1pZNVdILXVmcFZqVHV3a0ViVTFrdW9EbmxqT3hsQVJyU2hXMzgyUXZldlc3WVMwTWVUR1hfSWtuU0t3SEtRZTVNb2thV08wZFlLYmlaRDVLczFNOEFHa3l2X2s5RUI2X1M0QjY4ZWc5UWp4TG9hUUk2aTBfNUdFQnJkZ2lVMEFoMnY5bTQ2WdIBlAFBVV95cUxNNzNLblNpTmZFLTFRdG1rMmJScGxvYnBVZlRYZWQydENjOHJxNW9jeW9BUm5ESTJaVjZVWkNmU0J0eWJ0N1YyaFlUUHJNM0h1SE02ZzZ1MTdCVHBfTWlLUmJubmsyaUlMdGZTVkVFcFdMUmljZXlGNHE1UjNTLVotM2EwRnN4QVh3Q25ZM25yUFFvVmcz?oc=5",
-      "snippet": "Researchers looking into whether GLP-1 drugs can help slow aging&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-      "matched_query": "semaglutide tirzepatide news"
+      "title": "Peptide Safety and Cancer Risk: What You Need to Know - Dana-Farber Cancer Institute",
+      "source": "Dana-Farber Cancer Institute",
+      "date": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON3kzQ1hOTXZCQTU5NkUtdkxCU2xWNE9rbUN4NkZmTDBnNVZtaUMzdXZsb2FNS0FmUG03eVBLcHhSSlRpb1pSWEdraElXUWtzTWdSbllIX1BJdmxKRzU3U0g1OHJxMm53ZkxJU09QbTRTelp1dS11VERtTlhkR09kdUN2RVVfcWJVbVB5U3hja0VGQ2htTWJXWHc2S2ItVmc?oc=5",
+      "snippet": "Peptide Safety and Cancer Risk: What You Need to Know&nbsp;&nbsp;Dana-Farber Cancer Institute",
+      "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "Semaglutide and tirzepatide extend GLP-1 benefits to liver health, mobility & longevity - Nutrition Insight",
-      "source": "Nutrition Insight",
-      "date": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWtYTXBiWFl5elFoNHJ1N0czRzB6VjVURGNtMXlrZUF3bGxKVmVPbmpQNkVKSVNNRnhQSmNoUHpZa1hzR2JlakYyRTFldzBHbUF6RHlVSmgtVGxOSDltTXB0WEVxajZqMVhJdnB4cFVrMWhWRERUaGFsMkUzV195NWgyczROcXJ6bUE?oc=5",
-      "snippet": "Semaglutide and tirzepatide extend GLP-1 benefits to liver health, mobility & longevity&nbsp;&nbsp;Nutrition Insight",
-      "matched_query": "semaglutide tirzepatide news"
-    },
-    {
-      "title": "People with type 2 diabetes who were increased to semaglutide 2 mg were as likely to achieve an HbA1c less than 7% and more likely to achieve greater than 5% weight loss than those who were switched to tirzepatide, in real-world data - PR Newswire",
-      "source": "PR Newswire",
-      "date": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNWGNHN0pKUGdWMldyMDhUeXhJTVJ1NFVsTTRMazdkY0lPVVdKUHJrdVVWTGtTWmMwT3JTY0p3eWpLMjRTdWgyZ0FhTEJIQmNHcWJ4MERqaGJ3SXR5dE5Fa1FjdExLcHgyUGZMa0RWODA1MVdQNWdianhxLUVJaU1HcWF0TDZyTmYyMzkzMzdWcnpfbTkyYXA5QTJmNmRaZE1NanZtaDZqTXdyWkl2Smd2dWtEX2JYUl9xSnNfQ2dXUnpwT3paaG9jdXVHcWh2YzRqZEtuRm5oTzFnSkhuall4eEpNOFFudzNSbEx5N1FmaHFSQzBBOFQ3YlZ4WW41R2hia0lWTnNpa0JjLVA0OTdsMkI1b3FoZ0xjRFRvLXV0aDZYbVNYVTlodHRrOUw3LWxnakpiSFM5NkpDQjRRcHAtUVNhVkY4MjVBVEpuVGJid1VqeFVwanN3aDY0eFdiQndWMGNWUDFjX2Z2ejdLUVlTcnBJZ1lWLUlINndYMS1NY0lEWkdYM0NQVkVVc0hqcFAzM3VwRFRB?oc=5",
-      "snippet": "People with type 2 diabetes who were increased to semaglutide 2 mg were as likely to achieve an HbA1c less than 7% and more likely to achieve greater than 5% weight loss than those who were switched to tirzepatide, in real-world data&nbsp;&nbsp;PR Newswire",
-      "matched_query": "semaglutide tirzepatide news"
-    },
-    {
-      "title": "Tirzepatide outperformed semaglutide weight-loss drug results in real world patients, study shows - Medical Xpress",
-      "source": "Medical Xpress",
-      "date": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMTBGX2k2NVB3Z2hpWnBEbUplUVRSQTJaQ2xMVlFFdWZ2RkRBZTBWVjRWUVo3YVg1eENLZ2JWcmwwdjNDWWRvZEgtQkkxcUNqVUQwYXd5WVJ1VFhWVVVCV2JuX1pQYWtjRXJ3MGtaMmFpT0g3SDlFQnNISlFldkQwZ0o4MXd3S2ZwQ0s3U1lPeE0yb291elhZ?oc=5",
-      "snippet": "Tirzepatide outperformed semaglutide weight-loss drug results in real world patients, study shows&nbsp;&nbsp;Medical Xpress",
-      "matched_query": "semaglutide tirzepatide news"
+      "title": "FDA grants TearSolutions' NK peptide therapy two FDA designations - Glance by Eyes On Eyecare",
+      "source": "Glance by Eyes On Eyecare",
+      "date": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2o2RGJxclRuSXBPSE1nZlZ4cUpUVVZzWGNMUGxMdjItVXp6aGhaQlphNWdJaXZoMlZJczR1b29SV3hUYkhrUHlXZGhLM3RNT2NqV3dwVjJkT2ppVW1SRGE1OWxkLUhnem1IUmI3Y1o2c29teGYyNnZTVlhmTDIxalYtOWlrZXBpSTBZcTBYR2pWekQydUg0ajJHY3FoZWNILWRGeWxLR1l2Q0pxc2dDTlp0MGxDRzI5?oc=5",
+      "snippet": "FDA grants TearSolutions' NK peptide therapy two FDA designations&nbsp;&nbsp;Glance by Eyes On Eyecare",
+      "matched_query": "peptide therapeutic clinical trial"
     }
   ]
 }
