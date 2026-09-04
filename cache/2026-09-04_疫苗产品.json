@@ -1,8 +1,48 @@
 {
   "date": "2026-09-04",
   "topic": "疫苗产品",
-  "total": 33,
+  "total": 93,
   "items": [
+    {
+      "title": "GSK hopes to take on Moderna as it moves mRNA flu vaccine to Phase III trial - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
+      "date": "Tue, 01 Sep 2026 18:11:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1laV0hSR25OVGhYbWlLU0FLWVNZNlVGeVZOOE84OTg3TEhfbTM0c2NLOVhHWWJ5QTRIUXA4dkQ1aWJrTkczNWdILVdIa05qOEszdUVxZ2dBbTFvdU93Rm0tam5uMEhfb3dUbnpaMlRGTUZVX3lWckNxYVhlMXpxWXZoU3hsaEQt?oc=5",
+      "snippet": "GSK hopes to take on Moderna as it moves mRNA flu vaccine to Phase III trial&nbsp;&nbsp;Clinical Trials Arena",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - nytimes.com",
+      "source": "nytimes.com",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDFUdlNabS1QTHFtUXBVNTVmczg5dmFGYVMzSlViVFRWRG1sTzZ1YWg4RnFyZndPZVBlUDhLZ1NMbHZSSTNGUmFmSmpmNVlhc1V0ZXhVbGdrWVVVOUY2dTFkU1VLMjNpN1lPbjNsN3BQcHVLczhaTDVsUnBfQnd5b21nYWxjZlMxdkc0SFdWVU0?oc=5",
+      "snippet": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer&nbsp;&nbsp;nytimes.com",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials - nfid.org",
+      "source": "nfid.org",
+      "date": "Mon, 13 Apr 2026 17:41:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT001QWxiSzFoVEhjcE9kTlVVMXJwYkl5N0hqVjZfZ3ZFQW4wTlNCOWJrNWp2TXljd0NqODRISEZCMDBYVGlvS0xld3hhaE1xQS15dm5ibTJkZTFZd2Y2UEh3MldSa0Q2T0JPXzc3Y0NUWEFqd01Za19hMHBwNEJXX0Q5X29meDVMb2RDR0pxazZxdXM?oc=5",
+      "snippet": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials&nbsp;&nbsp;nfid.org",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "The FDA Approved a New mRNA Flu Vaccine. Here’s What to Know - WTTW News",
+      "source": "WTTW News",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0k5Nlg2MUljRi1zTWRwcmFkUDBURG9Obnd4Nm1UUGVpLUhCYnRwRWc1SXZPRHdJWllpeC1URkg1bTJrRk9GRGQwQVVISXlFYV9ScUNWTERBOXRUNnNRN0ZUT3UwY0dDLXg5VHptWEtybFBnR3J2eF9OQ2FpUGI4MDFGVVFCQXItQklN?oc=5",
+      "snippet": "The FDA Approved a New mRNA Flu Vaccine. Here’s What to Know&nbsp;&nbsp;WTTW News",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine - Business Wire",
+      "source": "Business Wire",
+      "date": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkRLWkdGWWRtT0t1QzFqc3JMWnRmNmJ0NDlkdTBjTExhWFhoQTZ6SG1BdUtjQmJfbWl5ODNkOUNocXRXVGxKQTl4czBaUENmbXZaaXdLbkcycE1kT3NsZW5xTm9uTFlXUE5PcXlHdlFUZnhHdmxJWHNpZHJQeDdBSWd0Qk9MZGtaM1NjeWhrRHhQdzZUOWdYVU43ejY5dzdHN3Q3RngxSnBTZC1BSTJZNk00X1ZTVFdxRTY2cW1iQ2tnWEQtZ0ZsUUZFRUpOMkNV?oc=5",
+      "snippet": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine&nbsp;&nbsp;Business Wire",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
     {
       "title": "Investigational Pancreatic Cancer Vaccine Shows Lasting Results in Early Trial, Supporting Continued Testing - Memorial Sloan Kettering Cancer Center",
       "source": "Memorial Sloan Kettering Cancer Center",
@@ -20,11 +60,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - medicine.washu.edu",
-      "source": "medicine.washu.edu",
+      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - WashU Medicine",
+      "source": "WashU Medicine",
       "date": "Wed, 15 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWFCNmRZZGJ1bkNraUczNFd4RWRKT3ZlSXlPRWFYRFZBMWRaN0hJdFFQeXVzV1loaGVHXzZxTi00VDA4N3h5RnVnVFJIS0hrZmMzQVlQSWxmcXNVVXkwNkRyNkVyLTZjYUMzUDY5aHY5RFQwV0NsdXNkQmswVjdtQnBpOHZLNE11Qkl4dlV6Vk95emJhMFdmdVpGdUptSVU?oc=5",
-      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;medicine.washu.edu",
+      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;WashU Medicine",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -42,46 +82,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTU9IM2lQZ2otR3VyYWxwdHJOdkxqT2QwM1R2cW9TWUZkbTFZOW1TcXM0RXlpMkdPT0EwVXJETmV2VXNPRzFlZE9wU3E0cm4tcndQaU0zamVTdVBIdFlQV2dlaXpwZGFnTG5ZZ0dNTGFQY0QxdlRKaTlNY1hKYXA5dUtRRk9HSXJtQTFMMy1HVHBlYk5ndDdQVF9R?oc=5",
       "snippet": "Slowed But Not Stalled: The Future of mRNA Vaccine Research&nbsp;&nbsp;the-scientist.com",
       "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "Lilly bets more than $3.8B on vaccine triple play - FirstWord Pharma",
-      "source": "FirstWord Pharma",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zNFBJcWxpb3VBVGRQM2J0Sl9GRnk4MHBNWlV3cThqcGp4d0pUSjVKek03UEQtdkJEcFdIdDg3YUtJa2xPdUpOWWhDTGFnRFc4aEpr?oc=5",
-      "snippet": "Lilly bets more than $3.8B on vaccine triple play&nbsp;&nbsp;FirstWord Pharma",
-      "matched_query": "VLP vaccine pipeline"
-    },
-    {
-      "title": "Vaccine Company to be acquired by Lilly to advance best-in-class vaccine candidates for Epstein-Barr Virus and other infectious diseases - PR Newswire",
-      "source": "PR Newswire",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeld0eGtHRTQzV05RSE1iLUJRc0JENElMWUFQY3MxSVEwUkY4WlRKZVBIRmJ6QjRiYnhpXzRUMzNhc0VRcnRKYUc3LUFtZ2dhdXMyRWhlSXFkN21kYXpseDdiN2o0S3pCVXFMVmpzcDRIVkoxWndLY2diWnR6d180bHo0dGV4NFZwdEktLTZwNGthc0dTcmJBaHFMZ0huUm40Z2RfZTJIdC1ra3laN2U3RlVlNktwcHV4QVZ0WDBfWkdLc2picGpuTnVFaFAyWTlLUjhtZUt3M25IeE5wQ3h1bXZueWpaUVFhRjVvTDNMaTRuZHJHTTZRR3VWTmhFUnhRbzMyVXdsamVvdkZTdHNsLUhBV0I2aHpPRGxtQQ?oc=5",
-      "snippet": "Vaccine Company to be acquired by Lilly to advance best-in-class vaccine candidates for Epstein-Barr Virus and other infectious diseases&nbsp;&nbsp;PR Newswire",
-      "matched_query": "VLP vaccine pipeline"
-    },
-    {
-      "title": "Therapeutic vaccines: Applying innovative science to tackle chronic disease in pets - Boehringer Ingelheim",
-      "source": "Boehringer Ingelheim",
-      "date": "Wed, 17 Dec 2025 09:27:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUlHLVlCRTQ0YllkZGYxaXlkRkdQQzNwMlk4Z0U0SUtPeUpMNlBCZHdQbXJCYWFXZTVocjZxemNUeEdzN2xBQ2tLMjlNUjVoME13VEF6MlJpZDN4Q2czSlJuNGpxUExWcVNtdmZEMzRRVllGUmFSTlZ6SnE2X0JQX1BVWDNuazE1TFlPMXhMLWFlZEZSWDlYemxQamMtRVNZcEMwRmY2T1pybTBOR3h0YnhJTGF3b0diZXVRZWxST1RWdnJwYkpSQmY3Tms2TzhlWTJBZUMwNFN5c05F?oc=5",
-      "snippet": "Therapeutic vaccines: Applying innovative science to tackle chronic disease in pets&nbsp;&nbsp;Boehringer Ingelheim",
-      "matched_query": "VLP vaccine pipeline"
-    },
-    {
-      "title": "Lilly To Buy Vaccine Company For Up To $1.55 Billion - Pulse 2.0",
-      "source": "Pulse 2.0",
-      "date": "Wed, 27 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2ME1lV0hvbW83YUY0U0lYb0x6R2ZpcHNfMmZUZzNKTkxSYVBkYkVtcVdkc093UmczTmJmTG5yNkY5WjJfRS1iUDJxeVJKNGF0WmIzcktsQzFpQ3hSR25kamxaNWNBTlJOb0F5ZDhFa0lxN09nX213TUR3b9IBgAFBVV95cUxNdXZoeTY1UWl3VjNpMUYyU1gwZHJQMm5yMENfUTNVSkhPOUpJMGU4c0I1Vk1udl95dUhxN1QzYk1DOFA4SGVWbk5VUnFaUHExcUhyT1NfMFlGM0M3RjNVQnVIU0wwQkJXTUhCdHd3cUphaFFFdlFNem1rNkViU2JIWQ?oc=5",
-      "snippet": "Lilly To Buy Vaccine Company For Up To $1.55 Billion&nbsp;&nbsp;Pulse 2.0",
-      "matched_query": "VLP vaccine pipeline"
-    },
-    {
-      "title": "AstraZeneca to acquire Icosavax, including potential first-in-class RSV and hMPV combination vaccine with positive Phase II data - AstraZeneca",
-      "source": "AstraZeneca",
-      "date": "Tue, 12 Dec 2023 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNbFJjaUFfSU93VVIxcjNSUVo4RWY2dl9qaWpBUXgyZjFLREFxcmMxVGo1M0w1QVA0SE5IaGs1emJmc1MyempJRTA5eFF1WnptMEczb1p1Y0wxUTVlSnRIbWRTT0tFeVlLbVAzQ3lCak02d2U1NkZPX0lmcm5WLWRDejBDbTA3eGZoQVo5a3dqTmRYZ2hndG1mYXM2Z2x4VjNXZlF2MmlCTV9DbjMtWG1naUxqcy1CRWl0RTBidDlveU5lQlo3NC1NZnF5LTNpbV80Tnl6RUc2YjhLTnpCbjJxSnFBOURZMW1lWVhoaFhYbUR0ZG5DOTB3SC12d0NYcEdrRmNNTlBFU3FvUElTYnl4emFEQmlxMk5Bak1HWUh3?oc=5",
-      "snippet": "AstraZeneca to acquire Icosavax, including potential first-in-class RSV and hMPV combination vaccine with positive Phase II data&nbsp;&nbsp;AstraZeneca",
-      "matched_query": "VLP vaccine pipeline"
     }
   ]
 }

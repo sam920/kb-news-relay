@@ -1,8 +1,48 @@
 {
   "date": "2026-09-04",
   "topic": "蛋白质产品",
-  "total": 35,
+  "total": 60,
   "items": [
+    {
+      "title": "FDA expands Stelara into pediatric ulcerative colitis with non-TNF mechanism - AllSci",
+      "source": "AllSci",
+      "date": "Tue, 01 Sep 2026 14:18:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0lneHlVR1JVeW1fVEJpNzBvc2kzWUI1MXVISDRWRTh5bENRR2JFQXozWkVsaEYxM0Y3ZzFDM1lJelBZaXp0R283S2dVOGhTV0FmZndPWnhiRVA1dzM0SmNoMFpSM3ZUeW1oUU05cTFPeUcwWDN3RnVrd2ZxWmFYc3JBWHctVkYyWk5J?oc=5",
+      "snippet": "FDA expands Stelara into pediatric ulcerative colitis with non-TNF mechanism&nbsp;&nbsp;AllSci",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "FDA Approves Stelara for Pediatric Ulcerative Colitis - Drug Topics",
+      "source": "Drug Topics",
+      "date": "Mon, 31 Aug 2026 18:13:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemltUmJOVkJDWGRpdUFWLXd6SFpjd1dCZW9FLWxrNHI4YTRXdU5IdVhsVDhXX0NPZVpCdElnOWFEaXU0bHdGLVVxR21ULXU0YkJ1QTNvRU0wY0R5Q2tqM1N6WXFROUNqcGNlNGhUUnBVOVdGWGR5RktLUFp3ei1fNXZUYzMzakxSaWVkbEN3?oc=5",
+      "snippet": "FDA Approves Stelara for Pediatric Ulcerative Colitis&nbsp;&nbsp;Drug Topics",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "FDA approves first RAS-targeting drug for pancreatic cancer - Drug Discovery News",
+      "source": "Drug Discovery News",
+      "date": "Fri, 28 Aug 2026 14:23:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSERFRnVUOUEyZmMyRElPdUI2RkpKZ3Vza2E2TWFEaWZseUY5T19ndWdoSS0zMlB5RXlRa0xuTVV1VURJcTNmX3lqeU9rWkZiNHdOY09nVk5qbGo0T0lINXhUR3oxanRhWko0N2Z4dEM1S2FMQ3I5WVcwc25vS3d2a2NaUmxXZ0paU3EzQlFzVk1rTDdENWdVcEhnNW1WemJi?oc=5",
+      "snippet": "FDA approves first RAS-targeting drug for pancreatic cancer&nbsp;&nbsp;Drug Discovery News",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "FDA Approves At-Home Starter Dose of Alzheimer's Drug - MedPage Today",
+      "source": "MedPage Today",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nNlRVX2lRbV9QXzBRUms4UHFiUW53VGJNdG1YUU0wdU96ZGZabkF3MTNiT19CV1RFM1FxUldsZVA0dldZR0pGaWNiQmcwczc4MEVRYmZFdGRlNkl0b0ZLeUZXejQyVmlZODJMeVF2WUk?oc=5",
+      "snippet": "FDA Approves At-Home Starter Dose of Alzheimer's Drug&nbsp;&nbsp;MedPage Today",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "FDA Approves Lumvoa for Active and Chronic Thyroid Eye Disease - MPR - Medical Professionals Reference",
+      "source": "Medical Professionals Reference",
+      "date": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOXzBtRTZWbmc3ZHVCWndrUXBLa0xTcHA4UXk2OENud0YwZHFyZGJ4UlhVVUdPRmxyQW1aUlpORVFvdmswbmRLNTQtWmJKOWYtVnlCNXo2em0xNzFHLUpVX2h0U3lKLTlJY09WMWdsYks2LWRXQmhqM0g3UnVLNEUySmJNSFlELVZlNEE?oc=5",
+      "snippet": "FDA Approves Lumvoa for Active and Chronic Thyroid Eye Disease - MPR&nbsp;&nbsp;Medical Professionals Reference",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
     {
       "title": "AbbVie bispecific shows promise in ph. 3 multiple myeloma trial - Fierce Biotech",
       "source": "Fierce Biotech",
@@ -20,11 +60,11 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "Making Nuanced Decisions on CAR-T and Bispecifics in Multiple Myeloma - cancernetwork.com",
-      "source": "cancernetwork.com",
+      "title": "Making Nuanced Decisions on CAR-T and Bispecifics in Multiple Myeloma - CancerNetwork",
+      "source": "CancerNetwork",
       "date": "Fri, 21 Aug 2026 14:07:12 GMT",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2hSU2R0Yml2Z0djTUk5YzdGZ3RjeDJGWjdVczMxNG9INEZYNmt2R1E5SHBZZVFiaWtPUTBtUTFQYmlMaVBEZ3BFeFluYWczRXVsNlF4c19EZGpXZndETzhVRDd2NUQ2aWlIOTNvanhxVHFRR2VYVkRZYmxCc1A3bjNHUXVIbXB6TDZnTnZrSVNrMjZnZGRISkx3cUtxYjVlbTR5U18yZw?oc=5",
-      "snippet": "Making Nuanced Decisions on CAR-T and Bispecifics in Multiple Myeloma&nbsp;&nbsp;cancernetwork.com",
+      "snippet": "Making Nuanced Decisions on CAR-T and Bispecifics in Multiple Myeloma&nbsp;&nbsp;CancerNetwork",
       "matched_query": "bispecific antibody clinical trial"
     },
     {
@@ -42,46 +82,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTW15TWFBQWRVdi1ZcFVoYkJDcDZCSWF3OGJuWkxYWVR4NDZSU05IQzhBM2Z6UEtJMGY0U1pNdEJjaFVkVnhneFhtbXpId2JkR2Z2dGJWNlZqV3BZNWl4UWxyT3VRc3V6RzdGY1pPajRPbnVaR1l2ajFTSmEwNjBvSkdfcHpSeVRKVXhpOGM3YTlUUQ?oc=5",
       "snippet": "The global clinical trial landscape of PD-1-containing bispecific antibodies for gastric cancer: current status and future directions of targeting immune tolerance&nbsp;&nbsp;frontiersin.org",
       "matched_query": "bispecific antibody clinical trial"
-    },
-    {
-      "title": "Pfizer punts Seagen ADC, further muddying value of the $43B buyout - BioSpace",
-      "source": "BioSpace",
-      "date": "Fri, 04 Sep 2026 13:01:09 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSW43NV84dkVmZlVPTVQyX1Z0ZTA3NXBiOUlWVm1iN1pmQlhMVDVSSVQzX3JIVk1yTHB3S0ZOcnI2RW9qQ3F5LUZyNUthMy0yTUxtbnB5WFhSemxDMWxYblM2U3A1N21zMHNha0pUR0N4cjRkXy1CVjBoV0s0RnFNX2lNOHV6TnpsZzNnYy1EUjJOck95RExta0h1Yw?oc=5",
-      "snippet": "Pfizer punts Seagen ADC, further muddying value of the $43B buyout&nbsp;&nbsp;BioSpace",
-      "matched_query": "ADC antibody drug conjugate news"
-    },
-    {
-      "title": "Pfizer shares ADC rights with Medicus; RevMed updates lung cancer data - Endpoints News",
-      "source": "Endpoints News",
-      "date": "Thu, 03 Sep 2026 15:19:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1lqQy1OR2ZpbTB1WmJsNF91RjRtNV9Zay1yOG5xeWFxbmdla2tpRjhlRFVxNmFPZWNxMTJYNHJYTlVJWDM3ZnBWU2gwZ0tOc0RjUF94eWlmcUItTlZnS2hwbS1wRGdwSUZEbmFRZHlLVTNNbHloV3lvc2VkN3U0MU0xSFlqSW5ubDNLMkdsZFlfWndDYUtjWA?oc=5",
-      "snippet": "Pfizer shares ADC rights with Medicus; RevMed updates lung cancer data&nbsp;&nbsp;Endpoints News",
-      "matched_query": "ADC antibody drug conjugate news"
-    },
-    {
-      "title": "Acepodia Announces FDA Clearance of IND Application for ACE723, a Novel Dual-Payload Antibody-Drug Conjugate - The Manila Times",
-      "source": "The Manila Times",
-      "date": "Fri, 04 Sep 2026 11:27:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSVZ5bmVIdGtrQy1JdEVOcW83Ym5jVFhYMUhHVzY2WXhFZGtmX05XRWY1bFg2TFd3bHZUVEY1UGFtQ29FbXNiVll1dFB4S1NWY2daQzlXX3RYYUhvMGlUangyeW5OSll1TjQ2ZFdqSzFnNUlibnZUc2RHaE1pb3VSOUxhcWtGTU41a3BhQS1HdGxfMjVWWGx3ZmIzQW9YNVgyN2hvVVk5TXZIRm5uX1R2VV9IMzZncTFOVmlaMWtTY0ZmckVBeXF4azRRMzRXbDRXVDRuVzdmdTZvTVRUVy0yN25rVHQ4OEZtSVJrYnJOV2plR09LY0xwbFNVV05DUmZWTXhMRGU2M2hsSjTSAZACQVVfeXFMTzd1ZFFDcjlYTWh3OEpqYmNnWk9fSW9Hbl9iMm9NRTY5OHJWbkx2SzVmXzVQeGJhUVhmZ0REd01uUWVIajVvSTlyTGM5S3JBUkdvcFA3ZTFMSTJHbzJZMXM0anNVNEhzcl9zMTdiYmFPWk5odlRmc3cyVml4N0pqd0JBNjQ3d2NVVHRvY0RlTDFRTVMydHJuMjBFc0gtMzVJZUFjQ2xFMHhrS2ZWS0ljSzZyaS1OWkFRMldVaDNwZ2E0NGdtSXBXRUtRS0hsS2E1R3I2bDhXYjBxM2NuMDJINllWU2JjQjFBZWRSQU44YjNTV04ybFg2VVlKVWZJSVhUZEMtUFZrT3hUU0VTaVhHOTA?oc=5",
-      "snippet": "Acepodia Announces FDA Clearance of IND Application for ACE723, a Novel Dual-Payload Antibody-Drug Conjugate&nbsp;&nbsp;The Manila Times",
-      "matched_query": "ADC antibody drug conjugate news"
-    },
-    {
-      "title": "Reduce ADC Conjugation Risk with Consistent Antibody Quality, Upcoming Webinar Hosted by Xtalks - PR Newswire",
-      "source": "PR Newswire",
-      "date": "Thu, 03 Sep 2026 12:30:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcDk2OTczeUlMUEhwZlpNQVRmT3pIMi00NVNOR2RMU3dxU19LYTc4RVlIRE1rUEFBWEx1aEtXSDVzMHJnczVkczBFSmlROWU5bUFDeHFCVWxlVldsNFkyRU1ka044Q2gzdC02XzloX3R1OWQteXpNd25pZjNCeUZ1WHRJNTJhb0g0ZHNZOTNYcEZCaFkzWEZPNldTb1JSSDVaUGtNbndRT0Q2Vzc1NzRXbFlhLUJ4LVA3NFgwN0ROSGo5aVB4R1ljQjBSR2NUSTJYWVVFQ0hFb3pkTS1TdUxCcjFPWFM?oc=5",
-      "snippet": "Reduce ADC Conjugation Risk with Consistent Antibody Quality, Upcoming Webinar Hosted by Xtalks&nbsp;&nbsp;PR Newswire",
-      "matched_query": "ADC antibody drug conjugate news"
-    },
-    {
-      "title": "Korean ADC pioneers look beyond antibodies, cytotoxic payloads - Korea Biomedical Review",
-      "source": "Korea Biomedical Review",
-      "date": "Tue, 01 Sep 2026 06:05:28 GMT",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RbVJfM09zakltdDRQTVhuU3hacGZWY1BWRjI2eVVYcE1POEliVWt0TVE3OVNya0FWVTMwZXkzOGtETHBWWWsyaHA5WHhaSkZfd3dKYkhWNGZoQzZyMjB0enBiWnluZzhpT1E5anp30gFyQVVfeXFMUG0xSkNjVnI5cDNLcVdLcWdCbEZuTVJLSWt5ZXc1UnM3UHJFNU1fSXRocU01bDRva2lTM1JnTGI2OEc3WkJwbjRwT2djTnMtRWhURE5yWHZkMC01VWoyZ21XYTFtSUc4WGpvNVlZZjFJQnJ3?oc=5",
-      "snippet": "Korean ADC pioneers look beyond antibodies, cytotoxic payloads&nbsp;&nbsp;Korea Biomedical Review",
-      "matched_query": "ADC antibody drug conjugate news"
     }
   ]
 }
