@@ -1,16 +1,8 @@
 {
   "date": "2026-09-09",
   "topic": "疫苗产品",
-  "total": 92,
+  "total": 87,
   "items": [
-    {
-      "title": "What to know about a first-of-its kind flu shot for people over 50 - NBC 5 Chicago",
-      "source": "NBC 5 Chicago",
-      "date": "Tue, 08 Sep 2026 20:46:19 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXFOZ2pTWEctalRXbExfR3FSdGFBNENSZU1MeGJnYTRZRnlsWVNyMXZEODRpSFEtaWNadDFPTTV5N08tRUhZYUZSMjdzeFV5cVJfTEVnYW1CeHRsbmpRR2xMUVlzbjAwQmhielpNUnRtamhrUGl2RGhEc3ZQZThxTmJFZ2I0VHUwdy01ckwzX1pfM0daM3dTSmRHVzVKeDBMMmhpNlBqUFk2akR6aEFjc2FuMNIBuwFBVV95cUxQS283WV9obko2R0dyb3Y4dzhpS1kxRXFOU0Y1eVVTd1J2NDdPQ0ZqZ3dta0JxaUdtanZXV2tCQXg0SEZMUnVxMjFqZnJ2Z2l0eE5jQUpYRkRXTF9HQVZPSHhXaHRXNFhmYjZoaVlGenhuQmNhMUhkUF9qVkluSTNpcUpCOWV1dHNYLVJHZUw4N2N5NW12a3ZvejNsM3RXZWVxX3BKMGVWVG5EaHVkRWZXTmFMaXlTY05kSVlj?oc=5",
-      "snippet": "What to know about a first-of-its kind flu shot for people over 50&nbsp;&nbsp;NBC 5 Chicago",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
     {
       "title": "What to know about the new mRNA flu vaccine - Johns Hopkins University",
       "source": "Johns Hopkins University",
@@ -25,6 +17,14 @@
       "date": "Tue, 08 Sep 2026 16:40:36 GMT",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1luU2MyUEU1d2VpSnlVOTZRQnhDMWFja0Y0NF9VRFdlYndqWXFIYzQ2QUdYUWNXdzlwQm11XzhLX0oxOFlXQnNrSVMtdGVHTTd1dFJXaXZnYVk2NTc4czc5ZklLNjlOb2psUmtHQzFLUFBfS2JoemxRN245ak4ySzZzbjdkVlpBLVJwUU9GaFktR3ZmbFd1V0tUTG5FbXJ1M3RROWk1Y29QMVl6ZUlV0gG0AUFVX3lxTE40TlpfeHNocXlRYXBEX3l4WHpUc0JNdFF6Yzdod2pCMmhSMFBPcU9rbkNQYUxhN1h3UlVFbWZiMENLaV9TR2RPalNndzhFSnh4THNuUU83d3dIZDFGT2pBcFVkbTlUTDRJLXlpbF9PYndXUTlMZUt6VXlwb050WjZ4TUZGb0hIdGc4MlRHM2NrUU1aSDZwRk5QLXBIb0ZRLTJuNmRtV3BNUjRBQ3pnM3E4RFAwLQ?oc=5",
       "snippet": "FDA withdraws publication of COVID, shingles vaccine research findings&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "What to know about a first-of-its kind flu shot for people over 50 - NBC 5 Chicago",
+      "source": "NBC 5 Chicago",
+      "date": "Tue, 08 Sep 2026 20:46:19 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXFOZ2pTWEctalRXbExfR3FSdGFBNENSZU1MeGJnYTRZRnlsWVNyMXZEODRpSFEtaWNadDFPTTV5N08tRUhZYUZSMjdzeFV5cVJfTEVnYW1CeHRsbmpRR2xMUVlzbjAwQmhielpNUnRtamhrUGl2RGhEc3ZQZThxTmJFZ2I0VHUwdy01ckwzX1pfM0daM3dTSmRHVzVKeDBMMmhpNlBqUFk2akR6aEFjc2FuMNIBuwFBVV95cUxQS283WV9obko2R0dyb3Y4dzhpS1kxRXFOU0Y1eVVTd1J2NDdPQ0ZqZ3dta0JxaUdtanZXV2tCQXg0SEZMUnVxMjFqZnJ2Z2l0eE5jQUpYRkRXTF9HQVZPSHhXaHRXNFhmYjZoaVlGenhuQmNhMUhkUF9qVkluSTNpcUpCOWV1dHNYLVJHZUw4N2N5NW12a3ZvejNsM3RXZWVxX3BKMGVWVG5EaHVkRWZXTmFMaXlTY05kSVlj?oc=5",
+      "snippet": "What to know about a first-of-its kind flu shot for people over 50&nbsp;&nbsp;NBC 5 Chicago",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -44,44 +44,44 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Investigational Pancreatic Cancer Vaccine Shows Lasting Results in Early Trial, Supporting Continued Testing - Memorial Sloan Kettering Cancer Center",
-      "source": "Memorial Sloan Kettering Cancer Center",
-      "date": "Sun, 19 Apr 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlJKVldlMFZXaGJ2NXdDMHdiWEhwd1VvZDhkN01NaE1WZlZ1VzJ0NmVES3FweWhYR2ZkaXhTQVIxQUVZWS1Td3JKRzVqRUdnQUUyUzNycUs0NUlrZTFaTWFZa0ZEZk04VzJPakV4MG5VZW15d2lFYWtWVF9JOXNyNm9WS0hvaDd4UDNTcjJ3SGRsNEZBLWdlTmVvdjNXdmRVRUt4VGwyamZ6ZERjbXFGRUQ2QQ?oc=5",
-      "snippet": "Investigational Pancreatic Cancer Vaccine Shows Lasting Results in Early Trial, Supporting Continued Testing&nbsp;&nbsp;Memorial Sloan Kettering Cancer Center",
-      "matched_query": "mRNA vaccine new development"
+      "title": "Lilly bets more than $3.8B on vaccine triple play - FirstWord Pharma",
+      "source": "FirstWord Pharma",
+      "date": "Tue, 26 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zNFBJcWxpb3VBVGRQM2J0Sl9GRnk4MHBNWlV3cThqcGp4d0pUSjVKek03UEQtdkJEcFdIdDg3YUtJa2xPdUpOWWhDTGFnRFc4aEpr?oc=5",
+      "snippet": "Lilly bets more than $3.8B on vaccine triple play&nbsp;&nbsp;FirstWord Pharma",
+      "matched_query": "VLP vaccine pipeline"
     },
     {
-      "title": "A New mRNA Vaccine Could Prevent Skin Cancer From Returning - The New York Times",
-      "source": "The New York Times",
-      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUhkUXhtcXpNZm5MUjg4NWNBR1JUNGRPaDVhdXh5aUg5WFBXSzNPSV9PVEU3ZV9VV2xPUExRS0E5WHlJS09Fc01wcWZwdHduTGZYX2FvdDNKQW9RSnY3c2FrV2FoZXVhM3FiMWNUVWYzQ2lHREdPenB1VWVOT3pVVkJGdzJsZE9QWllF?oc=5",
-      "snippet": "A New mRNA Vaccine Could Prevent Skin Cancer From Returning&nbsp;&nbsp;The New York Times",
-      "matched_query": "mRNA vaccine new development"
+      "title": "Triple Play: Lilly Acquires Three Developers of Infectious Disease Vaccines for Up-to-$3.8B - Genetic Engineering and Biotechnology News",
+      "source": "Genetic Engineering and Biotechnology News",
+      "date": "Tue, 26 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSWlhZmpyamJ5UkFjU1d4UDBEck1zVGdlMGpaVG54WHNJY1NaS1BEcmloRXJvdm9KSFNxWmEwQjYyWFRUMXJUdFdwTld4V1ROVDdNZFVNYnZWWDVmcHpPM1pIc0JzNUt5V2pYdUI1OW9XQ0tyRk16MU9rbW9FSE42VlM2bjlrWlo2ZlVoSjA0WlJuUDhwb05kNlhoTUZNZHlVN2lWUUpOSlZPTzZ2NVhrWEppTHhNODR5T2ZnUUlGdDJ3M1pXVzNSejNXQ0pxUmprZnF2UEZyeUxOOThC?oc=5",
+      "snippet": "Triple Play: Lilly Acquires Three Developers of Infectious Disease Vaccines for Up-to-$3.8B&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
+      "matched_query": "VLP vaccine pipeline"
     },
     {
-      "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - UMass Chan Medical School",
-      "source": "UMass Chan Medical School",
-      "date": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQWkEtTE1waW1wRXNJQWVPb1lLSENob1VPMEl5VWVyM1J4aHVGeXlUY3gtVnd6OElVYWV1NDNoZEJTNlY2RTdnVjYtbXdab0xwYzJjV3NMb3JXQzVXTUFQX2VVdmJjNHA5V2JKb0VUY096WFV4c1pwZjd0Y0lkZVBad0c4MGdEZGdzQWxNMnJ3TDF6UDZvVmxkOERyMTdTU3RoTkRqczVmenMxc0wxMU5qU2QyUjVFVVo2UG1fOFphcXNKRDM5NEJGQUFPV2IyVmRTU0syWERvdXJmcjZXRzVwRF9oaWZfSUdtQXQ0c0hkMzg2VmxVTUJiSk1YYV9ORnZpZFRDZm9NSzgzcXhWMGhndm9mZklMbDRnblhxRllRMA?oc=5",
-      "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;UMass Chan Medical School",
-      "matched_query": "mRNA vaccine new development"
+      "title": "Vaccine Company to be acquired by Lilly to advance best-in-class vaccine candidates for Epstein-Barr Virus and other infectious diseases - PR Newswire",
+      "source": "PR Newswire",
+      "date": "Tue, 26 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeld0eGtHRTQzV05RSE1iLUJRc0JENElMWUFQY3MxSVEwUkY4WlRKZVBIRmJ6QjRiYnhpXzRUMzNhc0VRcnRKYUc3LUFtZ2dhdXMyRWhlSXFkN21kYXpseDdiN2o0S3pCVXFMVmpzcDRIVkoxWndLY2diWnR6d180bHo0dGV4NFZwdEktLTZwNGthc0dTcmJBaHFMZ0huUm40Z2RfZTJIdC1ra3laN2U3RlVlNktwcHV4QVZ0WDBfWkdLc2picGpuTnVFaFAyWTlLUjhtZUt3M25IeE5wQ3h1bXZueWpaUVFhRjVvTDNMaTRuZHJHTTZRR3VWTmhFUnhRbzMyVXdsamVvdkZTdHNsLUhBV0I2aHpPRGxtQQ?oc=5",
+      "snippet": "Vaccine Company to be acquired by Lilly to advance best-in-class vaccine candidates for Epstein-Barr Virus and other infectious diseases&nbsp;&nbsp;PR Newswire",
+      "matched_query": "VLP vaccine pipeline"
     },
     {
-      "title": "New mRNA vaccine platform could expand global vaccine access - Penn Medicine",
-      "source": "Penn Medicine",
-      "date": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3BPZ0RNdTJndmR6NG9NOU9zc1RNblNLbVg0Z0VPamh1VzZWaXVScl8yRTM1SWR4UGV2R0N2bTR0TDNHY2FKUmJuVWRkU3NVOFp2TlNQdF9uNVBPM1pOZGZ1bWE0MDR5YXFGMlRGT0NUb3BwSlF4b1A5VHdWZHNLT2lNamMwWW15UGJIWWNKMHIzUXA1R0UyeVdB?oc=5",
-      "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;Penn Medicine",
-      "matched_query": "mRNA vaccine new development"
+      "title": "Therapeutic vaccines: Applying innovative science to tackle chronic disease in pets - Boehringer Ingelheim",
+      "source": "Boehringer Ingelheim",
+      "date": "Wed, 17 Dec 2025 09:27:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUlHLVlCRTQ0YllkZGYxaXlkRkdQQzNwMlk4Z0U0SUtPeUpMNlBCZHdQbXJCYWFXZTVocjZxemNUeEdzN2xBQ2tLMjlNUjVoME13VEF6MlJpZDN4Q2czSlJuNGpxUExWcVNtdmZEMzRRVllGUmFSTlZ6SnE2X0JQX1BVWDNuazE1TFlPMXhMLWFlZEZSWDlYemxQamMtRVNZcEMwRmY2T1pybTBOR3h0YnhJTGF3b0diZXVRZWxST1RWdnJwYkpSQmY3Tms2TzhlWTJBZUMwNFN5c05F?oc=5",
+      "snippet": "Therapeutic vaccines: Applying innovative science to tackle chronic disease in pets&nbsp;&nbsp;Boehringer Ingelheim",
+      "matched_query": "VLP vaccine pipeline"
     },
     {
-      "title": "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
-      "source": "STAT",
-      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVJjTGRvUDNjbXM4NFZtdENhQU5pRDRsV0F1dnctNGRhVEJPbTZuWFBRZ3huTnhIT2o0SjZwTXQ4WmZGSF82V0VQLUQ3dEV0RWdKVDMyZXRoQVFlRFRXMXBVSXl5RzlDUmUyTFJXWDdJb0FJaVBGbW5jRTBYdTEtNnBZX2VLcFZjSDZubjdR?oc=5",
-      "snippet": "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial&nbsp;&nbsp;STAT",
-      "matched_query": "mRNA vaccine new development"
+      "title": "Lilly To Buy Vaccine Company For Up To $1.55 Billion - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "date": "Wed, 27 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2ME1lV0hvbW83YUY0U0lYb0x6R2ZpcHNfMmZUZzNKTkxSYVBkYkVtcVdkc093UmczTmJmTG5yNkY5WjJfRS1iUDJxeVJKNGF0WmIzcktsQzFpQ3hSR25kamxaNWNBTlJOb0F5ZDhFa0lxN09nX213TUR3b9IBgAFBVV95cUxNdXZoeTY1UWl3VjNpMUYyU1gwZHJQMm5yMENfUTNVSkhPOUpJMGU4c0I1Vk1udl95dUhxN1QzYk1DOFA4SGVWbk5VUnFaUHExcUhyT1NfMFlGM0M3RjNVQnVIU0wwQkJXTUhCdHd3cUphaFFFdlFNem1rNkViU2JIWQ?oc=5",
+      "snippet": "Lilly To Buy Vaccine Company For Up To $1.55 Billion&nbsp;&nbsp;Pulse 2.0",
+      "matched_query": "VLP vaccine pipeline"
     }
   ]
 }
