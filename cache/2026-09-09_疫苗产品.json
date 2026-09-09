@@ -1,8 +1,16 @@
 {
   "date": "2026-09-09",
   "topic": "疫苗产品",
-  "total": 93,
+  "total": 91,
   "items": [
+    {
+      "title": "What to know about the new mRNA flu vaccine - Johns Hopkins University",
+      "source": "Johns Hopkins University",
+      "date": "Tue, 08 Sep 2026 18:55:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrVEk4LVBNQkV5V3ltSUUyRjktcmlMMUlPRl9mclhRTWV0ellGU3UyZU51UTNnQWVRazR1NV9RaXBZSG56UGpySjVPY0t5Nk5qWHc1QXRGVmhHaHVPbVM2WVZB?oc=5",
+      "snippet": "What to know about the new mRNA flu vaccine&nbsp;&nbsp;Johns Hopkins University",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
     {
       "title": "What to know about a first-of-its kind flu shot for people over 50 - NBC 5 Chicago",
       "source": "NBC 5 Chicago",
@@ -14,7 +22,7 @@
     {
       "title": "FDA withdraws publication of COVID, shingles vaccine research findings - ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "Sun, 06 Sep 2026 13:55:32 GMT",
+      "date": "Tue, 08 Sep 2026 16:40:36 GMT",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1luU2MyUEU1d2VpSnlVOTZRQnhDMWFja0Y0NF9VRFdlYndqWXFIYzQ2QUdYUWNXdzlwQm11XzhLX0oxOFlXQnNrSVMtdGVHTTd1dFJXaXZnYVk2NTc4czc5ZklLNjlOb2psUmtHQzFLUFBfS2JoemxRN245ak4ySzZzbjdkVlpBLVJwUU9GaFktR3ZmbFd1V0tUTG5FbXJ1M3RROWk1Y29QMVl6ZUlV0gG0AUFVX3lxTE40TlpfeHNocXlRYXBEX3l4WHpUc0JNdFF6Yzdod2pCMmhSMFBPcU9rbkNQYUxhN1h3UlVFbWZiMENLaV9TR2RPalNndzhFSnh4THNuUU83d3dIZDFGT2pBcFVkbTlUTDRJLXlpbF9PYndXUTlMZUt6VXlwb050WjZ4TUZGb0hIdGc4MlRHM2NrUU1aSDZwRk5QLXBIb0ZRLTJuNmRtV3BNUjRBQ3pnM3E4RFAwLQ?oc=5",
       "snippet": "FDA withdraws publication of COVID, shingles vaccine research findings&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
       "matched_query": "vaccine FDA approval clinical trial"
@@ -28,19 +36,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "In a first, an mRNA cancer vaccine succeeds in late-stage clinical trial - C&EN",
-      "source": "C&EN",
+      "title": "In a first, an mRNA cancer vaccine succeeds in late-stage clinical trial - cen.acs.org",
+      "source": "cen.acs.org",
       "date": "Wed, 19 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGM3VGlLSGo0WS1nZ2NVbzJxdDRzMUkxRDMtTzFUU05nNlVaay1BWVh4S0lfTzNQLXJSWlpJb3IzekJoLUZRSF9MNHhwQ1NYR0pnMFZoaDQwcTRtd3BocXFLaU5DRUJ0WVRmSGZ1YVFrWmN2ZXNWZVF2M2U1NlhsN3hYZ1c0MloxSlFKOE1nQnV3NTNycnFKLWJqazJLOWtjdHNMblVkWQ?oc=5",
-      "snippet": "In a first, an mRNA cancer vaccine succeeds in late-stage clinical trial&nbsp;&nbsp;C&amp;EN",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss - CNBC",
-      "source": "CNBC",
-      "date": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbElBOTZhSkJZX2p5VUFNcmRROFhVaF91cl93QU1yVkZxb1BFMWtuMFQyOW8yR09zbWphVGJ4VHZUOFRhX0xNdEdOcm5Ib1JBZWVIRkQ2UmFkcUZmbGMtQ1Z3WGoya3VIZUxROXpjbjRIYjdxQzdidHlyTzREYnRrbVVMeEdia294TER30gGQAUFVX3lxTFA4WDJUMk1CZU94bWZ2TEx3ZEt6emVDUXRPbFpJUnFRR1B2OGlKY1FyVEkzMVhsSmNjV2trQ1pORm9wYmNBUV9oVll5ZzB4MUEtX0lsZkc4R3ozVkJScnhjV3VGTkY0NzNrTVFxTkR3ZENfOHJUdW4zdTdoUkhTU0JPZm1DcFB1dGZPUE51X1Z6dw?oc=5",
-      "snippet": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss&nbsp;&nbsp;CNBC",
+      "snippet": "In a first, an mRNA cancer vaccine succeeds in late-stage clinical trial&nbsp;&nbsp;cen.acs.org",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -60,6 +60,14 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
+      "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - UMass Chan Medical School",
+      "source": "UMass Chan Medical School",
+      "date": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQWkEtTE1waW1wRXNJQWVPb1lLSENob1VPMEl5VWVyM1J4aHVGeXlUY3gtVnd6OElVYWV1NDNoZEJTNlY2RTdnVjYtbXdab0xwYzJjV3NMb3JXQzVXTUFQX2VVdmJjNHA5V2JKb0VUY096WFV4c1pwZjd0Y0lkZVBad0c4MGdEZGdzQWxNMnJ3TDF6UDZvVmxkOERyMTdTU3RoTkRqczVmenMxc0wxMU5qU2QyUjVFVVo2UG1fOFphcXNKRDM5NEJGQUFPV2IyVmRTU0syWERvdXJmcjZXRzVwRF9oaWZfSUdtQXQ0c0hkMzg2VmxVTUJiSk1YYV9ORnZpZFRDZm9NSzgzcXhWMGhndm9mZklMbDRnblhxRllRMA?oc=5",
+      "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;UMass Chan Medical School",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
       "title": "New mRNA vaccine platform could expand global vaccine access - Penn Medicine",
       "source": "Penn Medicine",
       "date": "Tue, 23 Jun 2026 07:00:00 GMT",
@@ -68,19 +76,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines - The Conversation",
-      "source": "The Conversation",
-      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZTBtaklRLURsclQ5MnNwVmNqb3VlWXdxVnJTd2ljSlpDZlVQdm1EeGd1Q3lWU2R1V3dXTDQ3eGV3VGxKanhHTEw2Wi1aMXVtU3BSc250SXFEOWZNd1JZdDJ1TEVIMlVQaW5ENC1fVE9vR0pocHNSalJfeTJJLTlvZF9BQ0FqSnFuZk9XQ2hYUWRzT2Jxai1sOUFGbUJIakZTcmJkNG92WC1BQUVFZ3pVSWFiWXVSdkdqZFc1bUt0bkxDQ3dxT1VFaGRQNjJmcjRWQW1LMTZYRHlFM3R2eTlLNlpHTVRoc2xNX2RHZnVKZlVPZk13UDRNR1B3ZVJiVXRYZE0yaDN3TnZVenZX?oc=5",
-      "snippet": "First mRNA flu shot approved by FDA bodes well for improving drugs of the future – though a few hurdles remain before mRNA can move beyond vaccines&nbsp;&nbsp;The Conversation",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "Slowed But Not Stalled: The Future of mRNA Vaccine Research - the-scientist.com",
-      "source": "the-scientist.com",
-      "date": "Wed, 13 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTU9IM2lQZ2otR3VyYWxwdHJOdkxqT2QwM1R2cW9TWUZkbTFZOW1TcXM0RXlpMkdPT0EwVXJETmV2VXNPRzFlZE9wU3E0cm4tcndQaU0zamVTdVBIdFlQV2dlaXpwZGFnTG5ZZ0dNTGFQY0QxdlRKaTlNY1hKYXA5dUtRRk9HSXJtQTFMMy1HVHBlYk5ndDdQVF9R?oc=5",
-      "snippet": "Slowed But Not Stalled: The Future of mRNA Vaccine Research&nbsp;&nbsp;the-scientist.com",
+      "title": "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - statnews.com",
+      "source": "statnews.com",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVJjTGRvUDNjbXM4NFZtdENhQU5pRDRsV0F1dnctNGRhVEJPbTZuWFBRZ3huTnhIT2o0SjZwTXQ4WmZGSF82V0VQLUQ3dEV0RWdKVDMyZXRoQVFlRFRXMXBVSXl5RzlDUmUyTFJXWDdJb0FJaVBGbW5jRTBYdTEtNnBZX2VLcFZjSDZubjdR?oc=5",
+      "snippet": "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial&nbsp;&nbsp;statnews.com",
       "matched_query": "mRNA vaccine new development"
     }
   ]
