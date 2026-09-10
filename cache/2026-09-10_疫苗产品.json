@@ -1,8 +1,16 @@
 {
   "date": "2026-09-10",
   "topic": "疫苗产品",
-  "total": 92,
+  "total": 93,
   "items": [
+    {
+      "title": "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+      "source": "UCHealth",
+      "date": "Thu, 10 Sep 2026 22:13:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa2xFZE9EdnhQZmh3VThOUzVpZlBDeENfZktVX2ZIYjJhYzg4RDU4Ym8xckxuMm56MmhFc2xoQnhaNnVKU0NXNUxXb19SQTk1b18zQTZkaWhhdkdKcktoZldPN3A5WVo0ampTNnJkZFI2UFNiSV9xVC00SkZsTzNYS1VkcW9FcDRJWEpuRW9kUm5UQkhoWi1JdWVQXzhNWEVUM2c?oc=5",
+      "snippet": "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival&nbsp;&nbsp;UCHealth",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
     {
       "title": "FDA withdraws publication of COVID, shingles vaccine research findings - ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos",
@@ -33,14 +41,6 @@
       "date": "Tue, 05 May 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlVFZjI5enpNUFY2S003Mmd4djctbnVWZTBLdEdsOGotcGk0WjcwU2RRNEhVWHRhSGFueDI4VWFkM094a1hVdGRubm1uVC1xeE1nbHJtMHg2cnlmdzBPV0pYT1k0azZmM2dlZlRwNWNSWjFtY2w3aGtiMkJaTGYxRlF2SQ?oc=5",
       "snippet": "F.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York Times",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials - National Foundation for Infectious Diseases",
-      "source": "National Foundation for Infectious Diseases",
-      "date": "Mon, 13 Apr 2026 17:41:42 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT001QWxiSzFoVEhjcE9kTlVVMXJwYkl5N0hqVjZfZ3ZFQW4wTlNCOWJrNWp2TXljd0NqODRISEZCMDBYVGlvS0xld3hhaE1xQS15dm5ibTJkZTFZd2Y2UEh3MldSa0Q2T0JPXzc3Y0NUWEFqd01Za19hMHBwNEJXX0Q5X29meDVMb2RDR0pxazZxdXM?oc=5",
-      "snippet": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials&nbsp;&nbsp;National Foundation for Infectious Diseases",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
