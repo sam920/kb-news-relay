@@ -4,19 +4,19 @@
   "total": 25,
   "items": [
     {
+      "title": "In U.S., GLP-1 Usage Reaches New High - Gallup News",
+      "source": "Gallup News",
+      "date": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PYjRiWHBfN0g2Ni1jY0o1Z3N4Y19rcFREX0M5SWRraXBjNklSTkpNTl9Bc05CZTRBWlFrZS0xakFROWUzbnNWa1JzMXkxTmp1OC1FOTJvTXNqNHVwVWJmUUxMVU1jQWhXaTk5b3h1VUpIN0xMOEE?oc=5",
+      "snippet": "In U.S., GLP-1 Usage Reaches New High&nbsp;&nbsp;Gallup News",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
       "title": "FDA approves Eli Lilly’s weight-loss pill; Judge revokes citizenship over stolen medical secrets for China; new COVID-19 ‘Cicada’ variant spreads to 25 states – Morning Medical Update - Medical Economics",
       "source": "Medical Economics",
       "date": "Fri, 11 Sep 2026 03:55:42 GMT",
       "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOWkZQbDZHX1VRLUZKTEszbVpwOGpXVVBPT3I0eHVReHZUR25FcXFfdEJnUVdVTGtpX1JCaHZFdGRZRXpCNzEyaDAtT21OQ2lPelVVSkFXTUN2Q2lZRlNVTXBkeHBsclc2Z2w1b2ZaaXF5dlpsSmlKTGt3c1RyZldBTHdIRDlGNGM4d1NXcmcxSWhpSXB0TXZRQzRCb1d5NGQ4UDY4X1BrTXNNa0t3a25ldm1GTlBGdHhGM0dfX2hRRkNvVXRjaEZsS3hxZDY3am1nbEZkRVBKcGVpM2IwTGZBZGJ4cnB5SXB0SVk3WkFRcHNSc3MybWRJWFBRaUlfbldST1RfbTBuTENqaGJ2YU5rZlBKeEVDNjRyR29hLUhwNk9YRWFXREpIYmNET1RRZUhhTjAxbWR1Vl9iVlU?oc=5",
       "snippet": "FDA approves Eli Lilly’s weight-loss pill; Judge revokes citizenship over stolen medical secrets for China; new COVID-19 ‘Cicada’ variant spreads to 25 states – Morning Medical Update&nbsp;&nbsp;Medical Economics",
-      "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "In U.S., GLP-1 Usage Reaches New High - news.gallup.com",
-      "source": "news.gallup.com",
-      "date": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PYjRiWHBfN0g2Ni1jY0o1Z3N4Y19rcFREX0M5SWRraXBjNklSTkpNTl9Bc05CZTRBWlFrZS0xakFROWUzbnNWa1JzMXkxTmp1OC1FOTJvTXNqNHVwVWJmUUxMVU1jQWhXaTk5b3h1VUpIN0xMOEE?oc=5",
-      "snippet": "In U.S., GLP-1 Usage Reaches New High&nbsp;&nbsp;news.gallup.com",
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
@@ -60,14 +60,6 @@
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "Novartis suffers double blow as muscular dystrophy AOC drug fails clinical trial - BioXconomy",
-      "source": "BioXconomy",
-      "date": "Thu, 10 Sep 2026 13:51:09 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUpSRzRfTlBHWWlzYl96Tm5tN0t5dkRiUTdJRTlDOEt5YmM1NVB1SU9ERFBLMlFCVTdLNHRjeTFTWTY0NzUzaTZCb3N1N3liWm9yWWRzWFo3ZnVTRnhLS2NqZVJOSExTd0M1UkxwS0cwRElUZm5TSDJ4amNiZ1NVX2xKSjdnMU1PUi1DcHBLSVIwMlRUcl8tTzJYems4Mm1uNUhYRnF4U29LSWZBMDJsem1aMlBHMDF4VHc?oc=5",
-      "snippet": "Novartis suffers double blow as muscular dystrophy AOC drug fails clinical trial&nbsp;&nbsp;BioXconomy",
-      "matched_query": "peptide therapeutic clinical trial"
-    },
-    {
       "title": "Stanford spinout TwoStep raises USD 62.5m as lead peptide-drug conjugate clears FDA IND - AllSci",
       "source": "AllSci",
       "date": "Wed, 09 Sep 2026 16:59:27 GMT",
@@ -76,11 +68,19 @@
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "Teitur Trophics announces successful results from Phase I clinical trial of first-in-class Parkinson’s disease peptide TT-P34 - The Manila Times",
-      "source": "The Manila Times",
-      "date": "Thu, 10 Sep 2026 07:51:02 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNSjl5RzhMcnZpZEl1QUVFaVAybGNXYU02ZXkxaERIemc1bEw3cFVzVHZFN1p0RGFFSTBjMFlsZGVwUU8zemU5WUkxWnNNdHRKNHpzV2hiM0RjT0lxR0kxNmk2bDJjdGctQWxRQ04tTzdpRmQtUjFRV3JnQ25lWkxuVndpdWwtX0FUa0ZkTkZUTklXYlNQWHRFdG9TUmhVV2lPVFZIaF9QYUtHcVhHUE5sc0Q4bGU5VlZCdGlGN194dnhUUXVCdk1EYkViQ1o5Qm5aQl82ODVkbUVja3N5VlgxZzluZlVJc1E1WkwtMV9XRHhMMVJFNTFlWFd4M19DX1g2Tm9tNVRiTVpMR0JrRDdjeU5rY0k2cnVZZmNzYXNmTnR6US1m0gGqAkFVX3lxTE9fWVdWSU1abUp2RmJ5RXB2WHptVUV1WktlMkxnSDVRR01Da3R4enhjNHgxTUxZMUZZQk16MDNwX09lVnJld3hORjF6WUdOMUlGVFFXSVBLTTVfTVlGYmRXZVY0UDA2U0V2enBKUFVtTjZIeFFvdGNEa1ctbFY3ck9qcV9jZU1rSFZscUg5N2JnWW0yNThLOXdmX1hpZElVQ1Q4TTZRQVBrV2tuX3FCSHdLSWhGbURBNXFfeUlVWGt3dG5fN2p1V0FNaEJicVRkS1FpZmVqYUtMUnJlOXhTOVF6LV9JVklnS0x3UVJOVHc5akxYV05ybG53VjRDNXpuWFh5X3l0NGZnSTlpcVF5VHlkLU81NnZsUVVXZkl0aWZHUVRPY0pSSm1mcEE?oc=5",
-      "snippet": "Teitur Trophics announces successful results from Phase I clinical trial of first-in-class Parkinson’s disease peptide TT-P34&nbsp;&nbsp;The Manila Times",
+      "title": "Novartis suffers double blow as muscular dystrophy AOC drug fails clinical trial - BioXconomy",
+      "source": "BioXconomy",
+      "date": "Thu, 10 Sep 2026 13:51:09 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUpSRzRfTlBHWWlzYl96Tm5tN0t5dkRiUTdJRTlDOEt5YmM1NVB1SU9ERFBLMlFCVTdLNHRjeTFTWTY0NzUzaTZCb3N1N3liWm9yWWRzWFo3ZnVTRnhLS2NqZVJOSExTd0M1UkxwS0cwRElUZm5TSDJ4amNiZ1NVX2xKSjdnMU1PUi1DcHBLSVIwMlRUcl8tTzJYems4Mm1uNUhYRnF4U29LSWZBMDJsem1aMlBHMDF4VHc?oc=5",
+      "snippet": "Novartis suffers double blow as muscular dystrophy AOC drug fails clinical trial&nbsp;&nbsp;BioXconomy",
+      "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "Semaglutide and Follow-On Peptide Therapeutics: Balancing Innovation, Regulation, and Clinical Outcomes - cureus.com",
+      "source": "cureus.com",
+      "date": "Sun, 17 May 2026 05:57:10 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjVhaXpFWUVYdFZ0ejBNd1BaV2dHeWs5MUtGOTJEQ2N5cTRnazFncHU3ZG14MG9LcWFfal80bzZHbUJoSW9OSElYVGl0Y25EY3VQX0lvSmFFc1NZOWxicHNvQjlBN2RYSDF2aHg0RTh2RzRCSVVDdUZxcGVlOWdPQ0Q2UHJCdW1pLWtSM2ZfZjBIRU52QnM0N0FLdmZVQk9zTmViVl9mdFVHTmVjaDgtSEFBWnJHWW1kVFNJZmp5U1JHSzNBLTNrSlpiTWhlS0ZvWFZaTzR3?oc=5",
+      "snippet": "Semaglutide and Follow-On Peptide Therapeutics: Balancing Innovation, Regulation, and Clinical Outcomes&nbsp;&nbsp;cureus.com",
       "matched_query": "peptide therapeutic clinical trial"
     }
   ]
