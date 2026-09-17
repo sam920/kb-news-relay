@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "topic": "疫苗产品",
-  "total": 93,
+  "total": 94,
   "items": [
     {
       "title": "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
@@ -9,6 +9,14 @@
       "date": "Thu, 10 Sep 2026 22:14:55 GMT",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa2xFZE9EdnhQZmh3VThOUzVpZlBDeENfZktVX2ZIYjJhYzg4RDU4Ym8xckxuMm56MmhFc2xoQnhaNnVKU0NXNUxXb19SQTk1b18zQTZkaWhhdkdKcktoZldPN3A5WVo0ampTNnJkZFI2UFNiSV9xVC00SkZsTzNYS1VkcW9FcDRJWEpuRW9kUm5UQkhoWi1JdWVQXzhNWEVUM2c?oc=5",
       "snippet": "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival&nbsp;&nbsp;UCHealth",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
+      "title": "FDA approves first mRNA flu vaccine - The Hill",
+      "source": "The Hill",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUy00Ty12SUhIYnJDNWw2YU52eFBzOUNtSE5wRXRDN3dpWXF1V1pHZ1R6bkZuQm5DUkNuWDJVeHkwaXF2Ri1KanYwaVZMMXU3OHpmTjlMeEdSa3F5WldtbHlReHZJWk1uN1Yyc3E2Z2duZXVTaGZvQS1zT1BTSW9MbkZjWXJ0a291YzZYV0VB0gGTAUFVX3lxTE0yLXk3dWtieGIwWExyLW5UR1ZuTXZwVnBOLWxmZWN6RVkyNzVmWElYU0NxRm5RbXIxVTk0T08wdFR6V01PZUF4VHcxaGlKS2U0NVB4QkRYUXIya1ZIQ3JjNFo1NVl5cEVpMTd6YnM4TE9RT0ljUEtIRHR0U1J0b0htWVdCTWVJbmNNUUVZZ2p5X01kbw?oc=5",
+      "snippet": "FDA approves first mRNA flu vaccine&nbsp;&nbsp;The Hill",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -20,19 +28,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials - National Foundation for Infectious Diseases",
-      "source": "National Foundation for Infectious Diseases",
-      "date": "Mon, 13 Apr 2026 17:41:42 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT001QWxiSzFoVEhjcE9kTlVVMXJwYkl5N0hqVjZfZ3ZFQW4wTlNCOWJrNWp2TXljd0NqODRISEZCMDBYVGlvS0xld3hhaE1xQS15dm5ibTJkZTFZd2Y2UEh3MldSa0Q2T0JPXzc3Y0NUWEFqd01Za19hMHBwNEJXX0Q5X29meDVMb2RDR0pxazZxdXM?oc=5",
-      "snippet": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials&nbsp;&nbsp;National Foundation for Infectious Diseases",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "FDA approves first mRNA flu vaccine - The Hill",
-      "source": "The Hill",
-      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUy00Ty12SUhIYnJDNWw2YU52eFBzOUNtSE5wRXRDN3dpWXF1V1pHZ1R6bkZuQm5DUkNuWDJVeHkwaXF2Ri1KanYwaVZMMXU3OHpmTjlMeEdSa3F5WldtbHlReHZJWk1uN1Yyc3E2Z2duZXVTaGZvQS1zT1BTSW9MbkZjWXJ0a291YzZYV0VB0gGTAUFVX3lxTE0yLXk3dWtieGIwWExyLW5UR1ZuTXZwVnBOLWxmZWN6RVkyNzVmWElYU0NxRm5RbXIxVTk0T08wdFR6V01PZUF4VHcxaGlKS2U0NVB4QkRYUXIya1ZIQ3JjNFo1NVl5cEVpMTd6YnM4TE9RT0ljUEtIRHR0U1J0b0htWVdCTWVJbmNNUUVZZ2p5X01kbw?oc=5",
-      "snippet": "FDA approves first mRNA flu vaccine&nbsp;&nbsp;The Hill",
+      "title": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine - Business Wire",
+      "source": "Business Wire",
+      "date": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkRLWkdGWWRtT0t1QzFqc3JMWnRmNmJ0NDlkdTBjTExhWFhoQTZ6SG1BdUtjQmJfbWl5ODNkOUNocXRXVGxKQTl4czBaUENmbXZaaXdLbkcycE1kT3NsZW5xTm9uTFlXUE5PcXlHdlFUZnhHdmxJWHNpZHJQeDdBSWd0Qk9MZGtaM1NjeWhrRHhQdzZUOWdYVU43ejY5dzdHN3Q3RngxSnBTZC1BSTJZNk00X1ZTVFdxRTY2cW1iQ2tnWEQtZ0ZsUUZFRUpOMkNV?oc=5",
+      "snippet": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine&nbsp;&nbsp;Business Wire",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -60,11 +60,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - WashU Medicine",
-      "source": "WashU Medicine",
+      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - medicine.washu.edu",
+      "source": "medicine.washu.edu",
       "date": "Wed, 15 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWFCNmRZZGJ1bkNraUczNFd4RWRKT3ZlSXlPRWFYRFZBMWRaN0hJdFFQeXVzV1loaGVHXzZxTi00VDA4N3h5RnVnVFJIS0hrZmMzQVlQSWxmcXNVVXkwNkRyNkVyLTZjYUMzUDY5aHY5RFQwV0NsdXNkQmswVjdtQnBpOHZLNE11Qkl4dlV6Vk95emJhMFdmdVpGdUptSVU?oc=5",
-      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;WashU Medicine",
+      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;medicine.washu.edu",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -76,11 +76,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "New anticancer vaccine shows early success in targeting neuroblastoma - Medical Xpress",
-      "source": "Medical Xpress",
-      "date": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRzNUV3dG90RFFNVEFLZnY3VWhoNXh4YU9wVUJVbDgtYUdUTUxjSUdKNEVsNlZnWkw1dEdIRDhJNVQ4VkI4SzRLalpnbjBWVEpDZ2hGSXNfMnY2TExocVJxWUR0WTBubldndEFTTm1ldzVpZTJEMFVHS0UycEVfdnBxdlZINkp0aWhkc1VYTDRjVmlK?oc=5",
-      "snippet": "New anticancer vaccine shows early success in targeting neuroblastoma&nbsp;&nbsp;Medical Xpress",
+      "title": "FDA Approves Moderna’s mRNA Flu Vaccine After Phase 3 Success - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOHpjMWRoRUw3dXRXZ2ZZcWxsTnJYRGdpejJPa3JrVERRVC1zRG9JR0t6Q09jN3pRRkxHT1RfWE80aE1FQU1kQTNMRW5vdDUwT3JFRzV6Wjd1V2oxbnB5SmJPZ0UzSTkyUnRiYTFYUzR5YUNRQzh2LUd4TmRWMm5sdWhvRkJvR21QbEprVWFzZHA?oc=5",
+      "snippet": "FDA Approves Moderna’s mRNA Flu Vaccine After Phase 3 Success&nbsp;&nbsp;The American Journal of Managed Care",
       "matched_query": "mRNA vaccine new development"
     }
   ]
