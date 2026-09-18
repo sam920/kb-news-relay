@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "topic": "疫苗产品",
-  "total": 93,
+  "total": 94,
   "items": [
     {
       "title": "FDA withdraws publication of COVID, shingles vaccine research findings - ABC News - Breaking News, Latest News and Videos",
@@ -20,19 +20,19 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
+      "title": "FDA approves Moderna's mRNA flu vaccine after initial pushback - CBS News",
+      "source": "CBS News",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNQUJRQXdyb2o1aHp5YW9JVkZOUThwR1o3dFY4ZUJpVTljWVB1dmVGWEstR1RsTXhfZGNVRVcydzgxZlBnLVp2eUp2MHNXRzNfMzZOeE1KWWFjczhEY3l6ZnFWd3lFaXJuTzR6LV93elhHMmVrRFE?oc=5",
+      "snippet": "FDA approves Moderna's mRNA flu vaccine after initial pushback&nbsp;&nbsp;CBS News",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
+    {
       "title": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss - CNBC",
       "source": "CNBC",
       "date": "Mon, 23 Mar 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbElBOTZhSkJZX2p5VUFNcmRROFhVaF91cl93QU1yVkZxb1BFMWtuMFQyOW8yR09zbWphVGJ4VHZUOFRhX0xNdEdOcm5Ib1JBZWVIRkQ2UmFkcUZmbGMtQ1Z3WGoya3VIZUxROXpjbjRIYjdxQzdidHlyTzREYnRrbVVMeEdia294TER30gGQAUFVX3lxTFA4WDJUMk1CZU94bWZ2TEx3ZEt6emVDUXRPbFpJUnFRR1B2OGlKY1FyVEkzMVhsSmNjV2trQ1pORm9wYmNBUV9oVll5ZzB4MUEtX0lsZkc4R3ozVkJScnhjV3VGTkY0NzNrTVFxTkR3ZENfOHJUdW4zdTdoUkhTU0JPZm1DcFB1dGZPUE51X1Z6dw?oc=5",
       "snippet": "Pfizer to seek FDA approval for Lyme disease vaccine candidate despite trial miss&nbsp;&nbsp;CNBC",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
-      "source": "The New York Times",
-      "date": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDFUdlNabS1QTHFtUXBVNTVmczg5dmFGYVMzSlViVFRWRG1sTzZ1YWg4RnFyZndPZVBlUDhLZ1NMbHZSSTNGUmFmSmpmNVlhc1V0ZXhVbGdrWVVVOUY2dTFkU1VLMjNpN1lPbjNsN3BQcHVLczhaTDVsUnBfQnd5b21nYWxjZlMxdkc0SFdWVU0?oc=5",
-      "snippet": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer&nbsp;&nbsp;The New York Times",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -44,11 +44,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Investigational Pancreatic Cancer Vaccine Shows Lasting Results in Early Trial, Supporting Continued Testing - Memorial Sloan Kettering Cancer Center",
-      "source": "Memorial Sloan Kettering Cancer Center",
+      "title": "Investigational Pancreatic Cancer Vaccine Shows Lasting Results in Early Trial, Supporting Continued Testing - mskcc.org",
+      "source": "mskcc.org",
       "date": "Sun, 19 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlJKVldlMFZXaGJ2NXdDMHdiWEhwd1VvZDhkN01NaE1WZlZ1VzJ0NmVES3FweWhYR2ZkaXhTQVIxQUVZWS1Td3JKRzVqRUdnQUUyUzNycUs0NUlrZTFaTWFZa0ZEZk04VzJPakV4MG5VZW15d2lFYWtWVF9JOXNyNm9WS0hvaDd4UDNTcjJ3SGRsNEZBLWdlTmVvdjNXdmRVRUt4VGwyamZ6ZERjbXFGRUQ2QQ?oc=5",
-      "snippet": "Investigational Pancreatic Cancer Vaccine Shows Lasting Results in Early Trial, Supporting Continued Testing&nbsp;&nbsp;Memorial Sloan Kettering Cancer Center",
+      "snippet": "Investigational Pancreatic Cancer Vaccine Shows Lasting Results in Early Trial, Supporting Continued Testing&nbsp;&nbsp;mskcc.org",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -60,11 +60,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - medicine.washu.edu",
-      "source": "medicine.washu.edu",
+      "title": "mRNA vaccines follow unconventional immune path to destroy tumors - WashU Medicine",
+      "source": "WashU Medicine",
       "date": "Wed, 15 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWFCNmRZZGJ1bkNraUczNFd4RWRKT3ZlSXlPRWFYRFZBMWRaN0hJdFFQeXVzV1loaGVHXzZxTi00VDA4N3h5RnVnVFJIS0hrZmMzQVlQSWxmcXNVVXkwNkRyNkVyLTZjYUMzUDY5aHY5RFQwV0NsdXNkQmswVjdtQnBpOHZLNE11Qkl4dlV6Vk95emJhMFdmdVpGdUptSVU?oc=5",
-      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;medicine.washu.edu",
+      "snippet": "mRNA vaccines follow unconventional immune path to destroy tumors&nbsp;&nbsp;WashU Medicine",
       "matched_query": "mRNA vaccine new development"
     },
     {
