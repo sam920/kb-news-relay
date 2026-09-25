@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
   "topic": "肽类产品",
-  "total": 25,
+  "total": 20,
   "items": [
     {
       "title": "Will an FDA crackdown curb access to cheaper GLP-1 weight-loss drugs? Here's what to know. - CBS News",
@@ -9,6 +9,14 @@
       "date": "Thu, 24 Sep 2026 15:53:43 GMT",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON1BQZmRnNW9DWE1LMXNpWHJVQkltNXB6aWlnQmRDYktUcUhidUJOSU8yZWVTNTEySFFSdTlidVNuak1BTThfZGp6Sk9oRkRvTFNhZTZDYktpdGZtT2JuYUk5VDFOOFRMYXFBMk9xTEZZX2ZZSXNiZ0p3UDNOMW5GNVNENl8?oc=5",
       "snippet": "Will an FDA crackdown curb access to cheaper GLP-1 weight-loss drugs? Here's what to know.&nbsp;&nbsp;CBS News",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "FDA warns compounding pharmacy over sterility of GLP-1 drugs - KING5.com",
+      "source": "KING5.com",
+      "date": "Fri, 25 Sep 2026 01:58:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNalVMcmNadkhYVkhaM2tNSG1pbm5fZWNfX1cwVjdPam16UW15eGtyeEZmelpZVWdJbjFldE04aC1sYnZMd1g0OGZ1ajZ4M28wTkVCbVZWbkVWSGZfcG9wUXRVVEllbDNDMVl3aXRjaWZFRkpnQnI2c3NwTjhXMG1lWVR5ZFRUT2JEaHVlWDB0RDFGYjhKXy1iY1RmOFA5ZDc3Q2tyNWRkZ0dZaEp6NlhCUUw2ODI4S19wWjJXbG11cENOQ2xWZ25kWG9WTXd2NVhON0lLV1dQTkZIT00ycDNZSUx3N1RsU2h3U1ZvUFY2bTVoS3p1?oc=5",
+      "snippet": "FDA warns compounding pharmacy over sterility of GLP-1 drugs&nbsp;&nbsp;KING5.com",
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
@@ -20,19 +28,11 @@
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
-      "title": "FDA slams GLP-1 compounder over risk of contaminating drugs ‘with filth’ - biospace.com",
-      "source": "biospace.com",
+      "title": "FDA slams GLP-1 compounder over risk of contaminating drugs ‘with filth’ - BioSpace",
+      "source": "BioSpace",
       "date": "Thu, 24 Sep 2026 18:58:54 GMT",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0g5QmZPSDJSd1BjYkNuUGszRER1SElQZ0R4V2JtZFdoUjNNYndmQmhTMVJ2MkFRSmVIMkwzTHpuY3A0dlZ2NTBVb0pVU2lxTmxjaG9HZXlhS2xnaVBqSUdrVGg0dGRaeFBpZElOOFNBaHBZeUtSWlF2dW5KaEVSYW9rX3AzR1NSS0VYZngwbzd3T29vQ2FicEN0ckhQMWcwMnZPamp5RW93OW9Cc3c?oc=5",
-      "snippet": "FDA slams GLP-1 compounder over risk of contaminating drugs ‘with filth’&nbsp;&nbsp;biospace.com",
-      "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "FDA warns compounding pharmacy over sterility of GLP-1 drugs - KING5.com",
-      "source": "KING5.com",
-      "date": "Fri, 25 Sep 2026 01:58:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNalVMcmNadkhYVkhaM2tNSG1pbm5fZWNfX1cwVjdPam16UW15eGtyeEZmelpZVWdJbjFldE04aC1sYnZMd1g0OGZ1ajZ4M28wTkVCbVZWbkVWSGZfcG9wUXRVVEllbDNDMVl3aXRjaWZFRkpnQnI2c3NwTjhXMG1lWVR5ZFRUT2JEaHVlWDB0RDFGYjhKXy1iY1RmOFA5ZDc3Q2tyNWRkZ0dZaEp6NlhCUUw2ODI4S19wWjJXbG11cENOQ2xWZ25kWG9WTXd2NVhON0lLV1dQTkZIT00ycDNZSUx3N1RsU2h3U1ZvUFY2bTVoS3p1?oc=5",
-      "snippet": "FDA warns compounding pharmacy over sterility of GLP-1 drugs&nbsp;&nbsp;KING5.com",
+      "snippet": "FDA slams GLP-1 compounder over risk of contaminating drugs ‘with filth’&nbsp;&nbsp;BioSpace",
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
@@ -76,11 +76,11 @@
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "Peptides: Doctors explain the benefits, risks and FDA concerns - UCHealth",
-      "source": "UCHealth",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "snippet": "Peptides: Doctors explain the benefits, risks and FDA concerns&nbsp;&nbsp;UCHealth",
+      "title": "Weekly Rundown: GLP-1 gene therapy enters first human trial - Drug Discovery News",
+      "source": "Drug Discovery News",
+      "date": "Thu, 14 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk85YXQyemJFeDBhNjc5ZnZnMjNuTEkxeXFyNGszYk5RSVE0dXU0Wm8tRFpHa3dzTkdFTGdWb0tEek9UMXRvMVJzTmZveGZnTEEyR0txTFhGRzI4djNVWXFYQUYtWmZlM1lnZm5UbXBETDdKbDZwZUVXa0szRHpmdEFtNGVKZ0Y0dFk4eDlNNHpWRUFHUnB1VWQyVG5KRUk?oc=5",
+      "snippet": "Weekly Rundown: GLP-1 gene therapy enters first human trial&nbsp;&nbsp;Drug Discovery News",
       "matched_query": "peptide therapeutic clinical trial"
     }
   ]
