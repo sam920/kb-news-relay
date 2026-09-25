@@ -1,8 +1,16 @@
 {
   "date": "2026-09-25",
   "topic": "疫苗产品",
-  "total": 91,
+  "total": 92,
   "items": [
+    {
+      "title": "WATCH: Senators question Heidi Overton in confirmation hearing for FDA commissioner - PBS",
+      "source": "PBS",
+      "date": "Thu, 24 Sep 2026 14:06:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOckdEakFfd2wxdWpWdlpIQU9fd1RJWGdsQUlZTUJ3RjdvZy03cGpLb0lJbFpnTC1ySld6bDhncnVWbzZDWS1KZ0Jvdlc5T1RRZndIakJCU1pZLVc1XzJRWWJ0VmZIOVJ1Q3RfSWtfRmttNWVtSW5YSVk5aTNhdDU2SFY5dGp4RkdhZmQtNE9tRlRtaDFLVEpaNW5tR1ctLTVvU25tTloxMXI3RHNVQjlZQ3UxZVZ2VGkxcU5OVzR4UkwyNEk?oc=5",
+      "snippet": "WATCH: Senators question Heidi Overton in confirmation hearing for FDA commissioner&nbsp;&nbsp;PBS",
+      "matched_query": "vaccine FDA approval clinical trial"
+    },
     {
       "title": "New mRNA flu vaccine approved for adults 50 and older ahead of flu season - Scripps News",
       "source": "Scripps News",
@@ -20,11 +28,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "What to know about the new mRNA flu vaccine - Johns Hopkins University",
-      "source": "Johns Hopkins University",
+      "title": "What to know about the new mRNA flu vaccine - hub.jhu.edu",
+      "source": "hub.jhu.edu",
       "date": "Tue, 08 Sep 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrVEk4LVBNQkV5V3ltSUUyRjktcmlMMUlPRl9mclhRTWV0ellGU3UyZU51UTNnQWVRazR1NV9RaXBZSG56UGpySjVPY0t5Nk5qWHc1QXRGVmhHaHVPbVM2WVZB?oc=5",
-      "snippet": "What to know about the new mRNA flu vaccine&nbsp;&nbsp;Johns Hopkins University",
+      "snippet": "What to know about the new mRNA flu vaccine&nbsp;&nbsp;hub.jhu.edu",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -33,14 +41,6 @@
       "date": "Wed, 02 Sep 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEktbnpRY1J0R0d1dl9HZldXZmdQXzg5YkY0NVZ0c2VyUjhaOHFEcExGai1IMFBoTnRILTZSeUVMcWIxVGtBX3BBbGdwWWw2QVh6Ql81NmloN0U2TnFkOHFULVpPTVRJWWprRjEyTEwzQ1FtVHdSRnJQcmp2dDVyRERzS2YtVEdzZFZUZWh5UW1nX19Ha0tPVFZBVnVrWVVZMVVtTW5WTmw1X3RhZ2JkU3cwWmFmcFBqNzFIdUdDQzFNUjd3dVpxdTByU3huZDdORFdyOFVn?oc=5",
       "snippet": "FDA Approves Updated COVID-19 Vaccines for 2026-2027&nbsp;&nbsp;respiratory-therapy.com",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
-      "title": "FDA approves Moderna's mRNA flu vaccine after initial pushback - cbsnews.com",
-      "source": "cbsnews.com",
-      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNQUJRQXdyb2o1aHp5YW9JVkZOUThwR1o3dFY4ZUJpVTljWVB1dmVGWEstR1RsTXhfZGNVRVcydzgxZlBnLVp2eUp2MHNXRzNfMzZOeE1KWWFjczhEY3l6ZnFWd3lFaXJuTzR6LV93elhHMmVrRFE?oc=5",
-      "snippet": "FDA approves Moderna's mRNA flu vaccine after initial pushback&nbsp;&nbsp;cbsnews.com",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -76,11 +76,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "New mRNA vaccine platform could expand global vaccine access - Penn Medicine",
-      "source": "Penn Medicine",
+      "title": "New mRNA vaccine platform could expand global vaccine access - pennmedicine.org",
+      "source": "pennmedicine.org",
       "date": "Tue, 23 Jun 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3BPZ0RNdTJndmR6NG9NOU9zc1RNblNLbVg0Z0VPamh1VzZWaXVScl8yRTM1SWR4UGV2R0N2bTR0TDNHY2FKUmJuVWRkU3NVOFp2TlNQdF9uNVBPM1pOZGZ1bWE0MDR5YXFGMlRGT0NUb3BwSlF4b1A5VHdWZHNLT2lNamMwWW15UGJIWWNKMHIzUXA1R0UyeVdB?oc=5",
-      "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;Penn Medicine",
+      "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;pennmedicine.org",
       "matched_query": "mRNA vaccine new development"
     }
   ]
