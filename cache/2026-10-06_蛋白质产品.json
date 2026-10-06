@@ -1,16 +1,8 @@
 {
   "date": "2026-10-06",
   "topic": "蛋白质产品",
-  "total": 59,
+  "total": 60,
   "items": [
-    {
-      "title": "FDA approval lets Alvotech double capacity to make a Humira alternative for U.S. supply - Stock Titan",
-      "source": "Stock Titan",
-      "date": "Mon, 05 Oct 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1dlVDNwN1hSek9ydjZZekNGMGdRZTFKdmx0MlJLR1F5NmJVQTNteXRDN0Zjb0wwSkJ1VndFaG5BRFZGbnl5Nm9lSVdGaXA5MzNWQzhySFZLUFdEOExWTmNQZDV3Q1FIelM2Uy1jLWRFYnU0c0dGVXVPMGhySmdIX1dTUTEwNW9EaHUxNHFRdEo1emhXalhXR2x2RUpQTlRvRjVGR1l5WlBaYVdFYUtQMmhnUFR4QS1PN2c?oc=5",
-      "snippet": "FDA approval lets Alvotech double capacity to make a Humira alternative for U.S. supply&nbsp;&nbsp;Stock Titan",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
     {
       "title": "Scholar Rock scores long-awaited FDA approval, the first for muscle loss in SMA - Fierce Pharma",
       "source": "Fierce Pharma",
@@ -36,6 +28,14 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
+      "title": "FDA approval lets Alvotech double capacity to make a Humira alternative for U.S. supply - Stock Titan",
+      "source": "Stock Titan",
+      "date": "Mon, 05 Oct 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1dlVDNwN1hSek9ydjZZekNGMGdRZTFKdmx0MlJLR1F5NmJVQTNteXRDN0Zjb0wwSkJ1VndFaG5BRFZGbnl5Nm9lSVdGaXA5MzNWQzhySFZLUFdEOExWTmNQZDV3Q1FIelM2Uy1jLWRFYnU0c0dGVXVPMGhySmdIX1dTUTEwNW9EaHUxNHFRdEo1emhXalhXR2x2RUpQTlRvRjVGR1l5WlBaYVdFYUtQMmhnUFR4QS1PN2c?oc=5",
+      "snippet": "FDA approval lets Alvotech double capacity to make a Humira alternative for U.S. supply&nbsp;&nbsp;Stock Titan",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
       "title": "FDA Approves At-Home Starter Dose of Alzheimer's Drug - MedPage Today",
       "source": "MedPage Today",
       "date": "Tue, 14 Jul 2026 07:00:00 GMT",
@@ -46,7 +46,7 @@
     {
       "title": "Expanding CAR T and Bispecific Antibody Research in HIV-Associated Lymphoma - CancerNetwork",
       "source": "CancerNetwork",
-      "date": "Mon, 05 Oct 2026 19:09:44 GMT",
+      "date": "Tue, 06 Oct 2026 02:11:36 GMT",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamhqd19sWGdyMlZ2NkxObWtFdWUzTWk2d3B1dENla1M5REptWEhxbFdKRlpfMVJjVmRUd2VaWnE4STIweUhYVm1EY2FKUmFFMGotQVBNeHh0Mm1aV0Z6MVFXZUZ3eFpKcC03VFg1aFM1dWFGbXJqbkNzVnN5NEtBNFRTdzhWbHB1MURGTW5tY0hkU3ltZkVYVTFWdVBmNlJvamZYLTJWaGVDcDh4QTBR?oc=5",
       "snippet": "Expanding CAR T and Bispecific Antibody Research in HIV-Associated Lymphoma&nbsp;&nbsp;CancerNetwork",
       "matched_query": "bispecific antibody clinical trial"
@@ -76,11 +76,11 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "Genmab stock surges 11% on positive cancer drug trial data - StreetInsider",
-      "source": "StreetInsider",
-      "date": "Mon, 05 Oct 2026 20:33:24 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVdqYnZjYi1GMnRZR293ZEJFcTBkdE13T0MybXBUTjdwRUVqZFNvT29wT3N6WXVvWVlnRi0wSUxDX3N0TG0tQnNkS3ZHZ3ZJbDhCd3ZNa0J3OXV0NGt5c3NnUFdwVWRueFJnb3Vkb3JJaUszTGluVlZOa2pLbExNZDJraG9ubWM2NUZNZVllclZBbmVMUVl5VXU2VjhXT0RDek9IM0NGTlowbDB2X1o2RVpFUloyN2Zs?oc=5",
-      "snippet": "Genmab stock surges 11% on positive cancer drug trial data&nbsp;&nbsp;StreetInsider",
+      "title": "Relapsed or Refractory Multiple Myeloma: Early-Phase Trial Investigates Novel Bispecific Antibody - The ASCO Post",
+      "source": "The ASCO Post",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLXZlaVJtLWttc2pYaTNLX0RzYjg0a3dxakhUdGZlbFhCVUtVZjFOMUd3bG9hMzdYTWM2TkJUX21nUldJdFZzQ25hcHJrbUo2S3JvZ1pMWHUzOVV6OVRoY0tRenpVMVZ6dk4xMWxnUmJqR1VicVRIbFlFckYwSDlVUDRUZnhLMXFWcHVNRGt3Qlc1TVVZTEp1WlBxTnk5RmxWTkZ1bmFObnNfYXd6bUl3d2NYRnAyNU1MdTYzN0NsWE9OQWdZLWFVNkVScTQ1UQ?oc=5",
+      "snippet": "Relapsed or Refractory Multiple Myeloma: Early-Phase Trial Investigates Novel Bispecific Antibody&nbsp;&nbsp;The ASCO Post",
       "matched_query": "bispecific antibody clinical trial"
     }
   ]
