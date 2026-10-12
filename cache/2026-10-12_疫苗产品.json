@@ -1,7 +1,7 @@
 {
   "date": "2026-10-12",
   "topic": "疫苗产品",
-  "total": 69,
+  "total": 94,
   "items": [
     {
       "title": "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
@@ -28,14 +28,6 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "FDA approves Moderna's mRNA flu vaccine after initial pushback - CBS News",
-      "source": "CBS News",
-      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNQUJRQXdyb2o1aHp5YW9JVkZOUThwR1o3dFY4ZUJpVTljWVB1dmVGWEstR1RsTXhfZGNVRVcydzgxZlBnLVp2eUp2MHNXRzNfMzZOeE1KWWFjczhEY3l6ZnFWd3lFaXJuTzR6LV93elhHMmVrRFE?oc=5",
-      "snippet": "FDA approves Moderna's mRNA flu vaccine after initial pushback&nbsp;&nbsp;CBS News",
-      "matched_query": "vaccine FDA approval clinical trial"
-    },
-    {
       "title": "FDA approves first mRNA flu vaccine - The Hill",
       "source": "The Hill",
       "date": "Thu, 06 Aug 2026 07:00:00 GMT",
@@ -44,44 +36,52 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Lilly bets more than $3.8B on vaccine triple play - FirstWord Pharma",
-      "source": "FirstWord Pharma",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zNFBJcWxpb3VBVGRQM2J0Sl9GRnk4MHBNWlV3cThqcGp4d0pUSjVKek03UEQtdkJEcFdIdDg3YUtJa2xPdUpOWWhDTGFnRFc4aEpr?oc=5",
-      "snippet": "Lilly bets more than $3.8B on vaccine triple play&nbsp;&nbsp;FirstWord Pharma",
-      "matched_query": "VLP vaccine pipeline"
+      "title": "FDA approves Moderna's mRNA flu vaccine after initial pushback - CBS News",
+      "source": "CBS News",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNQUJRQXdyb2o1aHp5YW9JVkZOUThwR1o3dFY4ZUJpVTljWVB1dmVGWEstR1RsTXhfZGNVRVcydzgxZlBnLVp2eUp2MHNXRzNfMzZOeE1KWWFjczhEY3l6ZnFWd3lFaXJuTzR6LV93elhHMmVrRFE?oc=5",
+      "snippet": "FDA approves Moderna's mRNA flu vaccine after initial pushback&nbsp;&nbsp;CBS News",
+      "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Vaccine Company to be acquired by Lilly to advance best-in-class vaccine candidates for Epstein-Barr Virus and other infectious diseases - PR Newswire",
-      "source": "PR Newswire",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeld0eGtHRTQzV05RSE1iLUJRc0JENElMWUFQY3MxSVEwUkY4WlRKZVBIRmJ6QjRiYnhpXzRUMzNhc0VRcnRKYUc3LUFtZ2dhdXMyRWhlSXFkN21kYXpseDdiN2o0S3pCVXFMVmpzcDRIVkoxWndLY2diWnR6d180bHo0dGV4NFZwdEktLTZwNGthc0dTcmJBaHFMZ0huUm40Z2RfZTJIdC1ra3laN2U3RlVlNktwcHV4QVZ0WDBfWkdLc2picGpuTnVFaFAyWTlLUjhtZUt3M25IeE5wQ3h1bXZueWpaUVFhRjVvTDNMaTRuZHJHTTZRR3VWTmhFUnhRbzMyVXdsamVvdkZTdHNsLUhBV0I2aHpPRGxtQQ?oc=5",
-      "snippet": "Vaccine Company to be acquired by Lilly to advance best-in-class vaccine candidates for Epstein-Barr Virus and other infectious diseases&nbsp;&nbsp;PR Newswire",
-      "matched_query": "VLP vaccine pipeline"
+      "title": "Investigational Pancreatic Cancer Vaccine Shows Lasting Results in Early Trial, Supporting Continued Testing - Memorial Sloan Kettering Cancer Center",
+      "source": "Memorial Sloan Kettering Cancer Center",
+      "date": "Sun, 19 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlJKVldlMFZXaGJ2NXdDMHdiWEhwd1VvZDhkN01NaE1WZlZ1VzJ0NmVES3FweWhYR2ZkaXhTQVIxQUVZWS1Td3JKRzVqRUdnQUUyUzNycUs0NUlrZTFaTWFZa0ZEZk04VzJPakV4MG5VZW15d2lFYWtWVF9JOXNyNm9WS0hvaDd4UDNTcjJ3SGRsNEZBLWdlTmVvdjNXdmRVRUt4VGwyamZ6ZERjbXFGRUQ2QQ?oc=5",
+      "snippet": "Investigational Pancreatic Cancer Vaccine Shows Lasting Results in Early Trial, Supporting Continued Testing&nbsp;&nbsp;Memorial Sloan Kettering Cancer Center",
+      "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Triple Play: Lilly Acquires Three Developers of Infectious Disease Vaccines for Up-to-$3.8B - Genetic Engineering and Biotechnology News",
-      "source": "Genetic Engineering and Biotechnology News",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSWlhZmpyamJ5UkFjU1d4UDBEck1zVGdlMGpaVG54WHNJY1NaS1BEcmloRXJvdm9KSFNxWmEwQjYyWFRUMXJUdFdwTld4V1ROVDdNZFVNYnZWWDVmcHpPM1pIc0JzNUt5V2pYdUI1OW9XQ0tyRk16MU9rbW9FSE42VlM2bjlrWlo2ZlVoSjA0WlJuUDhwb05kNlhoTUZNZHlVN2lWUUpOSlZPTzZ2NVhrWEppTHhNODR5T2ZnUUlGdDJ3M1pXVzNSejNXQ0pxUmprZnF2UEZyeUxOOThC?oc=5",
-      "snippet": "Triple Play: Lilly Acquires Three Developers of Infectious Disease Vaccines for Up-to-$3.8B&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
-      "matched_query": "VLP vaccine pipeline"
+      "title": "Development of an Env based HIV mRNA vaccine through immunoinformatics and computational modeling - Nature",
+      "source": "Nature",
+      "date": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ObGRMaW5DdmdEbnkwVVRnRGREOXlmX2JuOFVQSjVqRFg0Tm8wSmpXa2ZjOHRaYkJyMUExTjZJVWFsNUZ5VG0yNDhXVEUzS3doT20weEdENFJSaWk4dkhj?oc=5",
+      "snippet": "Development of an Env based HIV mRNA vaccine through immunoinformatics and computational modeling&nbsp;&nbsp;Nature",
+      "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Therapeutic vaccines: Applying innovative science to tackle chronic disease in pets - Boehringer Ingelheim",
-      "source": "Boehringer Ingelheim",
-      "date": "Wed, 17 Dec 2025 09:27:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUlHLVlCRTQ0YllkZGYxaXlkRkdQQzNwMlk4Z0U0SUtPeUpMNlBCZHdQbXJCYWFXZTVocjZxemNUeEdzN2xBQ2tLMjlNUjVoME13VEF6MlJpZDN4Q2czSlJuNGpxUExWcVNtdmZEMzRRVllGUmFSTlZ6SnE2X0JQX1BVWDNuazE1TFlPMXhMLWFlZEZSWDlYemxQamMtRVNZcEMwRmY2T1pybTBOR3h0YnhJTGF3b0diZXVRZWxST1RWdnJwYkpSQmY3Tms2TzhlWTJBZUMwNFN5c05F?oc=5",
-      "snippet": "Therapeutic vaccines: Applying innovative science to tackle chronic disease in pets&nbsp;&nbsp;Boehringer Ingelheim",
-      "matched_query": "VLP vaccine pipeline"
+      "title": "How the mRNA Flu Vaccine Compares to Traditional Shots - Johns Hopkins Bloomberg School of Public Health",
+      "source": "Johns Hopkins Bloomberg School of Public Health",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDJ0TV9LRU0xQ0xxVFVsTEtsMmM0b3IwVGFFRzMxT1R0UE1kT0xpZV9BNnhURkpUUUtRS21uRFdpd1BJeVZqdkdxZ2dyT0k3X1BGaFEwSUh6cmZtR1pCNnc2QnMxUUs5eGw0dnlSeWtWdk9JV2R1TDR6R2dlUjlKeFo5UkswOTIxWS1NaVUxSWIwZw?oc=5",
+      "snippet": "How the mRNA Flu Vaccine Compares to Traditional Shots&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public Health",
+      "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Lilly To Buy Vaccine Company For Up To $1.55 Billion - Pulse 2.0",
-      "source": "Pulse 2.0",
-      "date": "Wed, 27 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2ME1lV0hvbW83YUY0U0lYb0x6R2ZpcHNfMmZUZzNKTkxSYVBkYkVtcVdkc093UmczTmJmTG5yNkY5WjJfRS1iUDJxeVJKNGF0WmIzcktsQzFpQ3hSR25kamxaNWNBTlJOb0F5ZDhFa0lxN09nX213TUR3b9IBgAFBVV95cUxNdXZoeTY1UWl3VjNpMUYyU1gwZHJQMm5yMENfUTNVSkhPOUpJMGU4c0I1Vk1udl95dUhxN1QzYk1DOFA4SGVWbk5VUnFaUHExcUhyT1NfMFlGM0M3RjNVQnVIU0wwQkJXTUhCdHd3cUphaFFFdlFNem1rNkViU2JIWQ?oc=5",
-      "snippet": "Lilly To Buy Vaccine Company For Up To $1.55 Billion&nbsp;&nbsp;Pulse 2.0",
-      "matched_query": "VLP vaccine pipeline"
+      "title": "mRNA Cancer Vaccines Show Promise but Are Dogged by Misinformation - Cancer Therapy Advisor",
+      "source": "Cancer Therapy Advisor",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUVBVlJ4M1pWb0RhelVVelF0TEd1Nmh1bHEyQkZvWkM4V2trbk1DYW40OEJRdUJ4R0dFYUFHa2t5emZINHBpcXFQQmpNclFBT2NCZWhIODRNMHZsREpCR2FMOUwwQTlDdWxacFE4WHZEeF9yVzg0TjNpMUtPQXJkVnJUREVMcWs1M3hSMjJEc2JWOWtCS0laZnFBbVowZ2l4WXN2S1NBcDFJUQ?oc=5",
+      "snippet": "mRNA Cancer Vaccines Show Promise but Are Dogged by Misinformation&nbsp;&nbsp;Cancer Therapy Advisor",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
+      "title": "New mRNA vaccine platform could expand global vaccine access - Penn Medicine",
+      "source": "Penn Medicine",
+      "date": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3BPZ0RNdTJndmR6NG9NOU9zc1RNblNLbVg0Z0VPamh1VzZWaXVScl8yRTM1SWR4UGV2R0N2bTR0TDNHY2FKUmJuVWRkU3NVOFp2TlNQdF9uNVBPM1pOZGZ1bWE0MDR5YXFGMlRGT0NUb3BwSlF4b1A5VHdWZHNLT2lNamMwWW15UGJIWWNKMHIzUXA1R0UyeVdB?oc=5",
+      "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;Penn Medicine",
+      "matched_query": "mRNA vaccine new development"
     }
   ]
 }

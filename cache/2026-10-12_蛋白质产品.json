@@ -1,7 +1,7 @@
 {
   "date": "2026-10-12",
   "topic": "蛋白质产品",
-  "total": 35,
+  "total": 60,
   "items": [
     {
       "title": "Scholar Rock scores long-awaited FDA approval, the first for muscle loss in SMA - Fierce Pharma",
@@ -28,14 +28,6 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
-      "title": "FDA Approves Expanded Access for Daraxonrasib in Pancreatic Cancer - Oncology News Central",
-      "source": "Oncology News Central",
-      "date": "Wed, 06 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZG5hR1JFcVlCS3RpLXNvQ2dZaXB3R1NmdTMwY3IwTkQtbmhPekp5RV80LVlYbjJrQlRUY0M4eU9FTDRVSVEtbTJ5dlhaM0Y5MlV0QU1fVU9UYUxVR2R2YzZjN0JvNWtxRXdlZ3kzTFhqdmNHN19EaTdZR1pISDNSLThiY1pPVTc1cS1NeGZpVTBYOUZSQlc5eFpteGZHMldXYUEzZFBuaXJFUQ?oc=5",
-      "snippet": "FDA Approves Expanded Access for Daraxonrasib in Pancreatic Cancer&nbsp;&nbsp;Oncology News Central",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
       "title": "Meitheal Pharmaceuticals Announces FDA Approval of High-Concentration Formulation of YUSIMRY®, a Biosimilar to Humira - BioSpace",
       "source": "BioSpace",
       "date": "Tue, 29 Sep 2026 02:05:21 GMT",
@@ -44,44 +36,52 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
-      "title": "Genetic Engineering Drug Market Size & Forecast to 2035 - Market Growth Reports",
-      "source": "Market Growth Reports",
-      "date": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGdSNldPTXhkYlFaSmxlallvTlRCSXM2QVg0bHg3UkdLSHRpM3dqdDE4LUEwNl8weXlZRE1GdXNEb2hCcVA2QjVhUmpwYTJKSkFNZzc0d3F3RldjMGY1NEdSMWZWNEo3SExELWtFb3Ixa2xibjViaVFjWVBlVW5vX0gzaGZLTUM2SUZmYTZKNjVINTA?oc=5",
-      "snippet": "Genetic Engineering Drug Market Size & Forecast to 2035&nbsp;&nbsp;Market Growth Reports",
-      "matched_query": "recombinant protein therapeutic approval"
+      "title": "FDA Approves Expanded Access for Daraxonrasib in Pancreatic Cancer - Oncology News Central",
+      "source": "Oncology News Central",
+      "date": "Wed, 06 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZG5hR1JFcVlCS3RpLXNvQ2dZaXB3R1NmdTMwY3IwTkQtbmhPekp5RV80LVlYbjJrQlRUY0M4eU9FTDRVSVEtbTJ5dlhaM0Y5MlV0QU1fVU9UYUxVR2R2YzZjN0JvNWtxRXdlZ3kzTFhqdmNHN19EaTdZR1pISDNSLThiY1pPVTc1cS1NeGZpVTBYOUZSQlc5eFpteGZHMldXYUEzZFBuaXJFUQ?oc=5",
+      "snippet": "FDA Approves Expanded Access for Daraxonrasib in Pancreatic Cancer&nbsp;&nbsp;Oncology News Central",
+      "matched_query": "monoclonal antibody FDA approval"
     },
     {
-      "title": "Protein Therapeutics Market Size, Trends & Analysis, 2034 - Market Data Forecast",
-      "source": "Market Data Forecast",
-      "date": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXlsZFUzRmI3dVhEMm1rZFMzQ3pCaDNDSjk1alRsMzN0NnZDNmVJam9qRi0wNVVkTWZMSFoybms5WmdnSjc2dEI4Y0FZeUlPcTU1Qktfa056XzB2WklvRFczVnRZNWNJMlR4U3l4NGktbmNBU2l2UEN0c0RfS1dKRlZSUmdSR3hpTmZUTQ?oc=5",
-      "snippet": "Protein Therapeutics Market Size, Trends & Analysis, 2034&nbsp;&nbsp;Market Data Forecast",
-      "matched_query": "recombinant protein therapeutic approval"
+      "title": "InnoCare Announces Approval of Clinical Trial of Bispecific Antibody ICP-B161 Targeting TL1A and IL-23p19 in China - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "date": "Mon, 12 Oct 2026 00:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM08zdE9wbFRoN3NBdVRUMndid19CakVLTFliSWE4QVk2Y1JsamlXOV9sQ0VaSkotMjVoTFlQeW1ReXhmT3gtYXdXWURneXZhdVNWN3psRFJuNUF0dmRrRDFTVGFEdXV1SkpDMGRDWS1saEZOQWZ0dTJvSTZfYnVxQ0I1MHh3cVliekx1ZFp3LVJiVVZfTWJ0bkFWY1kycGRmOFVzWXp3?oc=5",
+      "snippet": "InnoCare Announces Approval of Clinical Trial of Bispecific Antibody ICP-B161 Targeting TL1A and IL-23p19 in China&nbsp;&nbsp;Yahoo Finance",
+      "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "CHO, HeLa and HEK293: Comparing key cell lines for drug discovery and biologic development - BioTechniques",
-      "source": "BioTechniques",
-      "date": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenBTX29uR1VJVjVFajZlXzRXTW53RzBldkNBOFh1OS00TDg1cWc0LUI5anZUU3lFZmlDYzV6czItengwYm5hTjA3X0g1TGFWeWpZWi1nLWFRYVpIRmtlVkNKWmNYSTByRWlzLUJ2YV9vYmtMVldOT2I5Q2taQnItaGhXNldlTkUxU2c0cm51d3ZfSnA1VkNYOTJjQmk0NXFRbHRQb2Z0dnJyM0NTaEN4NnU2QlZmMzVlY0swMkZ3dG5sUjVrNkZyVWl4RVRYejAyajJTYzEzcC1nZU1xS2xjTkNLaEtvdDJDYUIyZUxDbGVDeDFF?oc=5",
-      "snippet": "CHO, HeLa and HEK293: Comparing key cell lines for drug discovery and biologic development&nbsp;&nbsp;BioTechniques",
-      "matched_query": "recombinant protein therapeutic approval"
+      "title": "Launching Hope Through an Innovative Immunotherapy - University of Utah Health",
+      "source": "University of Utah Health",
+      "date": "Thu, 08 Oct 2026 15:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzJZMmpJWWc4QmpFYUhnSmxtUzh1akpoVXhBSFcwUlRIY29Rc285dHVJZjhqZDVfYmRHeklySUlqNjhGaE9ub1dOSDJfS3ltZHVic0NCR2pWNnYxM2YwV2lQXzlrZTVTN1pzS1l3RGFGY1Ezc3BXV2kyTzZJOG9LRHk1VGZQM0lUQXFRRlduSmtxTUFNdURBX1k2Tm81dW9QWVFDY2Rfc1ZZcEVBVHBBaFln?oc=5",
+      "snippet": "Launching Hope Through an Innovative Immunotherapy&nbsp;&nbsp;University of Utah Health",
+      "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "Vera moves into growing kidney disease space with FDA’s accelerated IgAN nod - BioSpace",
-      "source": "BioSpace",
-      "date": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS05CREN2WXZ1d0dheDd4RHhBeEZ4SnE3N1ZNekNiajUxTEd4cTZEd3lfbHFBckdoZkMxSjNyNEZPcl94a1RibjNxOGdHRGxXSFJldE5PR3YxaUZ4MXFTZ2M0Y3ZhRDdjdVd6bHgzckZLM0tLWmhqWlJkYU1mVTRsT0lBMEZ6VTJBNm4wVWlCVGFBNkNPVmRJWWdQMmYzckd0WWs4dmJxcw?oc=5",
-      "snippet": "Vera moves into growing kidney disease space with FDA’s accelerated IgAN nod&nbsp;&nbsp;BioSpace",
-      "matched_query": "recombinant protein therapeutic approval"
+      "title": "Considering Talquetamab and Emerging Bispecifics in R/R Multiple Myeloma - CancerNetwork",
+      "source": "CancerNetwork",
+      "date": "Wed, 07 Oct 2026 18:10:30 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2JXRWxzOW9oTFpyVXBaYThITlpFdk44bVd3cTNKZXNwQVV4OHhlWVBxNjdLYWJjdnVYQnB3dDlCdjlGWFdEUG1CTERGMl9qVk1uaHdEdHAybzJOdW9acmRTRmxvWTBRX0hPY1FXTDVvWkRiWDBIM1ppQnpOTk5QZWZCWEpwcjJBcFpnZUZQOEZycXNhMHNRZGFRdWRKWDNlMXFzay00b1ZyeWc?oc=5",
+      "snippet": "Considering Talquetamab and Emerging Bispecifics in R/R Multiple Myeloma&nbsp;&nbsp;CancerNetwork",
+      "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "FDA approves Vera’s dual-target Trutakna, setting up IgAN market battle with Novartis, Otsuka - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "date": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnpPM2o4V3FNeEhiclRhZVNUTnY4U0NPZHNYOHVUc2t3b0U0YkJQVEUyLUZsSzc4Q3FyOWN3RjNjWE1sa3F0U2tpQi01TUo0S3FpT3Z1elVrOW1XNi1HRGFyOVlYLVBiUUZYZzNPQ2NqcHlSOVFGemtkd2lvckpDclJ5a29jS1dhdVJKeU1SWE96Unh1a01sSnQ2Mjl1NF9yd1NXeS1OMjF1T1NaMWtWS1NuRXNIM3lnVVZ3?oc=5",
-      "snippet": "FDA approves Vera’s dual-target Trutakna, setting up IgAN market battle with Novartis, Otsuka&nbsp;&nbsp;Fierce Pharma",
-      "matched_query": "recombinant protein therapeutic approval"
+      "title": "InnoCare Announces Approval of Clinical Trial of Bispecific Antibody ICP-B161 Targeting TL1A and IL-23p19 in China - lincolnjournal.com",
+      "source": "lincolnjournal.com",
+      "date": "Mon, 12 Oct 2026 00:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPeDk2SkNTclBnUFp0QThWbFBVOTJjX0RVcXM5NDEtQlNORHFOa2NYc1dBeFFheFpiZXdqTUZOdi0wRUVIUTd6Uk9FVFZCa010VGxCbFhBMXFTWjMtc1lWRWZZVGMxOFBIUnFidG52STk2SlQ3X25iMDdsMWVfaGluVFFPS29nOWRIcXlJTkc4cUxhUVMwWHI3WTc1Z2lLa2NBWW1NTE9ST2dwUktvbURzMXpVSGtocVNkQmJWQmMtQmRTZzhhLXpMZ2J5S2RmUWg4Wi05VmJGaFBxSklqX2N1U2FwQzdnSU9BMDRvUFhiSDJZdWs4OXZsS2Z6YU12MThCNlh3a09lbUdyeXRTZzZLRGo2MHVQTERfQ18wWjZjSmZKU3p5ZTg1SS05dXROWUt6QmNLTE1B?oc=5",
+      "snippet": "InnoCare Announces Approval of Clinical Trial of Bispecific Antibody ICP-B161 Targeting TL1A and IL-23p19 in China&nbsp;&nbsp;lincolnjournal.com",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "Leads Biolabs’ Opamtistomig (PD-L1/4-1BB Bispecific Antibody) Granted FDA Fast Track Designation for First-Line Advanced or Metastatic Biliary Tract Cancer - The Daily Tribune News",
+      "source": "The Daily Tribune News",
+      "date": "Mon, 12 Oct 2026 01:47:28 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQU0NuS1NzbFR2QWtTNERfaVhDZGR2WUhjOWgydDhqNGhxaVRhUWR4RjI2ZElUQXlMeFUycmF2NGdVbGk2QVVDaVRxTW90c1RyRHZnbW16OHpmelY1NEZqNTZFY3phbXpkUGhiX0UxdnZFM3p2UVhnRkVPenE3aTdwQXBYVDNkZjhIR2ZQMHZJcHVId3MyX0dOU0xoYW56blhySlZzc1E2MG9HRllmRDJuTXlsaWxpYk51OFdhazVLeFdETF9GT1d4bXVDTmNsZ2F3Y3NFa1BTeTdfQlFfcHVWX2VmQ3JiYnMwWXZGRl81WTk3VW5GcXVuNE9Yd0txUEt4bnc5Z1BuaGpHWVE4NjdRekpSZGl5aFBCN3BLYklHNGUtY0VPSW1NMTBnbzJacVowQlE?oc=5",
+      "snippet": "Leads Biolabs’ Opamtistomig (PD-L1/4-1BB Bispecific Antibody) Granted FDA Fast Track Designation for First-Line Advanced or Metastatic Biliary Tract Cancer&nbsp;&nbsp;The Daily Tribune News",
+      "matched_query": "bispecific antibody clinical trial"
     }
   ]
 }
