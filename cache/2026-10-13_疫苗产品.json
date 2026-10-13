@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
   "topic": "疫苗产品",
-  "total": 94,
+  "total": 95,
   "items": [
     {
       "title": "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
@@ -44,6 +44,14 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
+      "title": "Moderna stock hits 4-year high on planned national cancer vaccine effort - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "date": "Fri, 09 Oct 2026 20:13:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3ZFLWNabVJIcjUzVVN0Xzl4QkMtSmJSZmhISnZOODhjcDNLMVFLUlI1NEdSR04zbk9jRnNyMnBKSTliQXVsVGJFc3JURTl3VWxGZndfRmhZaEdveE5uMGRKRXFFQ1BlNloxcVNaUmtGeWp5UUR5TEtBSGUyMWxIM2pWdXktVWR1Z2pUNTQ0VlhiemdITmhTMUs4LVh0ZUFGVGN3R3ZPTXdWVWJocjZGNGRFblpIR0p1dnNJalJHUEZRaUNjdVNzR3F2TTlxcnpreEE?oc=5",
+      "snippet": "Moderna stock hits 4-year high on planned national cancer vaccine effort&nbsp;&nbsp;Yahoo Finance",
+      "matched_query": "mRNA vaccine new development"
+    },
+    {
       "title": "Investigational Pancreatic Cancer Vaccine Shows Lasting Results in Early Trial, Supporting Continued Testing - Memorial Sloan Kettering Cancer Center",
       "source": "Memorial Sloan Kettering Cancer Center",
       "date": "Sun, 19 Apr 2026 07:00:00 GMT",
@@ -73,14 +81,6 @@
       "date": "Mon, 27 Jul 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUVBVlJ4M1pWb0RhelVVelF0TEd1Nmh1bHEyQkZvWkM4V2trbk1DYW40OEJRdUJ4R0dFYUFHa2t5emZINHBpcXFQQmpNclFBT2NCZWhIODRNMHZsREpCR2FMOUwwQTlDdWxacFE4WHZEeF9yVzg0TjNpMUtPQXJkVnJUREVMcWs1M3hSMjJEc2JWOWtCS0laZnFBbVowZ2l4WXN2S1NBcDFJUQ?oc=5",
       "snippet": "mRNA Cancer Vaccines Show Promise but Are Dogged by Misinformation&nbsp;&nbsp;Cancer Therapy Advisor",
-      "matched_query": "mRNA vaccine new development"
-    },
-    {
-      "title": "New mRNA vaccine platform could expand global vaccine access - Penn Medicine",
-      "source": "Penn Medicine",
-      "date": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3BPZ0RNdTJndmR6NG9NOU9zc1RNblNLbVg0Z0VPamh1VzZWaXVScl8yRTM1SWR4UGV2R0N2bTR0TDNHY2FKUmJuVWRkU3NVOFp2TlNQdF9uNVBPM1pOZGZ1bWE0MDR5YXFGMlRGT0NUb3BwSlF4b1A5VHdWZHNLT2lNamMwWW15UGJIWWNKMHIzUXA1R0UyeVdB?oc=5",
-      "snippet": "New mRNA vaccine platform could expand global vaccine access&nbsp;&nbsp;Penn Medicine",
       "matched_query": "mRNA vaccine new development"
     }
   ]
