@@ -2,7 +2,7 @@
   "date": "2026-10-19",
   "topic": "蛋白质产品",
   "total": 24,
-  "total_raw": 60,
+  "total_raw": 80,
   "items": [
     {
       "title": "FDA Approves Roche’s Enspryng as First At-Home Subcutaneous Treatment for Thyroid Eye Disease - BioPharm International",
@@ -61,12 +61,44 @@
       "matched_query": "semaglutide tirzepatide news"
     },
     {
-      "title": "Peptides talk is everywhere: But what does the science say? - Stanford Medicine",
-      "source": "Stanford Medicine",
-      "date": "Mon, 10 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVQ3cU4xTG1iTGY0MC1wb1ZENnVHRVF3NWExOVlIb0tqZF9hTFdJT0pvNHFNVUFYV3JNVEJuNUNZRnY3dmQyemUzWEtKWmc0eW96UUY1NXlCQzB4d3NHWVpmbFA0dW03R05ZdEtmWTFqR0hfbm5zaGw0SmNZZ2dvUXVWSEJTZFhKc3RDejVsdw?oc=5",
-      "snippet": "Peptides talk is everywhere: But what does the science say?&nbsp;&nbsp;Stanford Medicine",
+      "title": "Peptide Therapies Are Everywhere. What Are They Exactly? - Right as Rain by UW Medicine",
+      "source": "Right as Rain by UW Medicine",
+      "date": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVR0QzNIaWFraXB4SjRJR1dtc2lkTjNXLXFac2Z2STVjMkl6ZDU1RXZOOHMzbjNNeUo5Z1NsOUx6UkIyR0FoYUhVMkhmZm5vdnFISnNTZ0x1SnlnTXlldERJWlh3X0tqbmgwN3Y4aGVCd0xyeEVKSi01QnF1UzQ3aUY2c1dZSU0?oc=5",
+      "snippet": "Peptide Therapies Are Everywhere. What Are They Exactly?&nbsp;&nbsp;Right as Rain by UW Medicine",
       "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "The Future of Genus Patenting Strategies for Antibodies Post- Amgen - IPWatchdog",
+      "source": "IPWatchdog",
+      "date": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHlGS0N6SV9MUHRoM0MybzNyeHluc2pTVUlVLVRKTHAxZmlCcl9wZUktZGJnNXFISmVuaG9MWlZSWXRmM0JISTZhcWMzeEk0dkRpb2hwNHlVUVM5Z2dqS0pBV2xFdndsTm9MRERSNFJuS0pORkV5ZDBvcDQxRzE5RUZFMU14TEo1S0NuNFlmWVRjejgz?oc=5",
+      "snippet": "The Future of Genus Patenting Strategies for Antibodies Post- Amgen&nbsp;&nbsp;IPWatchdog",
+      "matched_query": "antibody patent litigation"
+    },
+    {
+      "title": "Biosimilars at an Inflection Point: How Regulatory Reform, a Maturing Patent Framework and a Looming Patent Cliff Are Reshaping M&A - JD Supra",
+      "source": "JD Supra",
+      "date": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWFITXBWWnYxZHRTakM4M1dkeHFLQ2xSb290elNfYXg5YVpwc2NCYXo5eFZ0SDRfQ1BCekx3TGRxVlNZcEZ0N1R5VXFSZ0NoVGV1MWhyQ3A4UnJxTUNJQnRHMnp5TlRNaGhwUWF4X1E4YllpOXAxZjNKU3Zja0hjZWJ6QV9KWVZs?oc=5",
+      "snippet": "Biosimilars at an Inflection Point: How Regulatory Reform, a Maturing Patent Framework and a Looming Patent Cliff Are Reshaping M&amp;A&nbsp;&nbsp;JD Supra",
+      "matched_query": "biosimilar patent settlement"
+    },
+    {
+      "title": "Daiichi Sankyo prevails on appeal in long-running ADC patent battle with Seagen, flipping prior $41.8M verdict - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "date": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcUhXanpvN3F3cXlFWW9sc3plUzMtZUlfazZCU1Voc1lNSE1iWVdiam1RSl9rNVlRVE4yTUtwdmg5NkxNUHlhT0x3YWNNRmFmYzFldU9iSkxtSFZ3YzdwY1lDMm95dFNObTlLVWx3ME5TMmRQTUZUTzBiLThac3RPb29McEpVR2JGU1c3LXRWd0NRa3NJTm9vTkppZVRsdlVFNkNWUlpZeThUUVlYZzF3U0Z4TFNZZE5vV0tQeHV4czYxZw?oc=5",
+      "snippet": "Daiichi Sankyo prevails on appeal in long-running ADC patent battle with Seagen, flipping prior $41.8M verdict&nbsp;&nbsp;Fierce Pharma",
+      "matched_query": "ADC patent dispute"
+    },
+    {
+      "title": "九点特供 - 财联社电报",
+      "source": "财联社电报",
+      "date": "Thu, 08 Oct 2026 00:17:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zVkh5RVdxTFppVGI5NWFKb3RRQmlxNEpucVBIWExWcC12ODJpWlpuZzdZUTJrSUhKT0xZZElOc1dBNlZUbWc?oc=5",
+      "snippet": "九点特供&nbsp;&nbsp;财联社电报",
+      "matched_query": "重组蛋白 抗体 专利 授权"
     },
     {
       "title": "2026年9月227款新药获批临床！52款纳入特殊审评，5笔重磅BD交易达成 - 摩熵医药",
@@ -117,11 +149,11 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "Guided missiles of cancer medicine: how antibody-drug conjugates are rewriting targeted therapy - Bioengineer.org",
-      "source": "Bioengineer.org",
-      "date": "Fri, 16 Oct 2026 15:36:11 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZxblg4T1VOS1hac3FtZ29MTzMySGVTbGxNVDY3TXhRN0paR1o2Y3NLMTJka2NCSzhxbGxZUlRtOEpHczB5aVIzc0NHSGk3VmZCUkdSS09nSDdKd19iZ2FpZ2d1bkxKV1BYbzVxWURBZ05ROFBsMGpvdkpMNzBjTXhFREpTNlpuZnV4LVJuX2VWMDM0b1BTNC1GbFl3Sng3MzdjYmdpVFlWRndqbFlnRGdtSEljbmIzd200?oc=5",
-      "snippet": "Guided missiles of cancer medicine: how antibody-drug conjugates are rewriting targeted therapy&nbsp;&nbsp;Bioengineer.org",
+      "title": "TuHURA Biosciences Receives Key U.S. Patent for its Groundbreaking Delta Opioid Receptor (DOR) Antibody Drug Conjugate (ADC) Technology - PR Newswire",
+      "source": "PR Newswire",
+      "date": "Mon, 05 Oct 2026 11:45:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcGxEalVDRUYxWGJjcXpUUk9EOUxBUmFYc2VwYzRSY3AzTjhqdWROamVLczJkRXU4VTgyLW4wRUtWeEY1UFpkTnJCQmhnSnpOUmpYdVhrUENtUU91Q2pjMXdja3MyUEpUOEd3MHVFR2lTMWVsNi1wOTFnbDBYNDBPZ1RuRGRZUHo5U05kXzZLQlpEQVZzc3hSRFpabWYtcmI4WEZxdXEyQmVQd09YNGpyVnYydF9RSVNaTlJjbGFYU3VLcFdGSnVfRjI2ek1ocGdRbkdZRk5LMVBRVGUzNWdtNEhQZS02YVlTWHpZMHdSb3dpTVFGOG9vTWVnVWRDb0lHVEtXNE45cWJudGZmang4QUNLVQ?oc=5",
+      "snippet": "TuHURA Biosciences Receives Key U.S. Patent for its Groundbreaking Delta Opioid Receptor (DOR) Antibody Drug Conjugate (ADC) Technology&nbsp;&nbsp;PR Newswire",
       "matched_query": "ADC antibody drug conjugate news"
     },
     {
@@ -157,44 +189,12 @@
       "matched_query": "semaglutide tirzepatide news"
     },
     {
-      "title": "Peptide Therapeutics Market Size, Industry Share, Forecast, 2034 - Fortune Business Insights",
-      "source": "Fortune Business Insights",
-      "date": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3RvYVA2NFlvSGNsaEV0XzZlc1FZenJCOVJWU2ptMXUybXNOSlM5SEw0WF9LbFFzTEJxRUxKRnJnQUlZaS12Rnk1RndTOW94WDdDdDB5TzJzS19XN085OXN1Q2IyaEM2YTlXNmxnNW11TVB4bWZfbWxiNWlxSkVJZ3dxRU01MFJGdU1pbE9FN0duU1c4M2c?oc=5",
-      "snippet": "Peptide Therapeutics Market Size, Industry Share, Forecast, 2034&nbsp;&nbsp;Fortune Business Insights",
+      "title": "Aizen Raises Up to $100M Per Target in San Diego Biotech Peptide Deal - The Clinical Trial Vanguard",
+      "source": "The Clinical Trial Vanguard",
+      "date": "Sun, 16 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2RYSUttaWNGSm15OTdYNC05V2JzQVpOTFVUM0ZmdV9NbjlNWjFKUmNhZmowVE1vVE54TXFHTXZnS2FwSVBWcTA3VGtxT2dmRTdwU0x0TnFLSVlKcERHc0tFcEIwWmxrRF9ZOURNN09lTFREWFhLZVZUblV5MlpXem9FOS1SbkVOTTNIWXhuYjNhUEhFc3pFREp0NDIzT3l1b2ZyYTNpTm05QU8zTWtmRkt3?oc=5",
+      "snippet": "Aizen Raises Up to $100M Per Target in San Diego Biotech Peptide Deal&nbsp;&nbsp;The Clinical Trial Vanguard",
       "matched_query": "peptide therapeutic clinical trial"
-    },
-    {
-      "title": "多重优势协同发力：智翔金泰管线成果进入密集收获期 - 人民网",
-      "source": "人民网",
-      "date": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kNnhHcVcxVVZmYVNrMkkydWQ1SUc1eVhpaE9ZTUVVMFYtT1NHSHFiMllwUTUzeDdqMDhkZWxidVhpM0U4eEpETWRVQWw0TnB3R0dhbUdIUnJLT2d0SFR4Zm0yeGNjT3dTeUE?oc=5",
-      "snippet": "多重优势协同发力：智翔金泰管线成果进入密集收获期&nbsp;&nbsp;人民网",
-      "matched_query": "抗体药物 审批 临床 2026"
-    },
-    {
-      "title": "阿尔沃与梯瓦合作再生元，推出Eylea生物类似药，2026年登陆美国市场 - 智慧芽",
-      "source": "智慧芽",
-      "date": "Sun, 21 Dec 2025 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQSWN6VjMzUC1MVFk1M2pWU0J1TFpTZWhQQlJKcEZzc0RmTFZCVndMTndLeVVMZGJlbmNnYWRobTdqdWxaNUFKcTlMaENSOUkzRWYxOWxmVFBudEUtenZLbFRlUlZweU1FLW1GSUNrbDNFdHhrNmlxYjRqLXFQckJiTmQwYU1mR2hSaHdqSTdycGEtdEpWcEl5dk12Rjd6eVdRVG42X0x0ZUZQTXNEeVpxZXR5NF9xcVByZnNZWkRvY3JfSkJXSnlNN0pDajlUQ3ItQThiM0RJMjlRYjJWWEx3bDRzN1NNQUhkRms2c1owQ1dGZUxrQ0J5MDFZaUdaLVAwb3dsb0xkLTc2dEl5VU1JOGd2VkdXNGYySzVPUHhfeFlHYU1BTmRBdUl6ckpBX2ExZDVPNkttSFFmdHJpamE1N29lZ1RYckttOUtCRUJqZ21xMEZLdmRLbU9lR0gtTndzZnZnVVNYOVVfWTBYTUJTVkRKcWZqSVdfVjExTzVrRURrOGNNMC01blFrc0NEend4bk93?oc=5",
-      "snippet": "阿尔沃与梯瓦合作再生元，推出Eylea生物类似药，2026年登陆美国市场&nbsp;&nbsp;智慧芽",
-      "matched_query": "生物类似药 上市 进展"
-    },
-    {
-      "title": "国投创合投资华奥泰生物 - 搜狐",
-      "source": "搜狐",
-      "date": "Fri, 16 Oct 2026 14:02:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQnA4bVN1U3duXzczbTlONnM3NkRUdU5GV3BXeUZhSEl2al9ZR0xoMGdNcWdQUXdveVptSm9ZdjhyazRrb3JSb2hIUHJQXzl2b0Vxd2RZSjc1TURvMUxqbWZxMWhNcVhPZ0ZrQmFjWDBZNjlRQUl2MGxvQ1lrUWRqTVdLeTJ2UjFn?oc=5",
-      "snippet": "国投创合投资华奥泰生物&nbsp;&nbsp;搜狐",
-      "matched_query": "重组蛋白 药物 研发"
-    },
-    {
-      "title": "当GLP-1领域警告信激增，药明康德以“零缺陷”回应全球质控挑战|生物制品|FDA|监管|药物|数据 - 手机新浪网",
-      "source": "手机新浪网",
-      "date": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPcW4xTTVGN1l0VE5XRjRYNTdxTkZER2lUbEVKZDNLcFVpWU9ocmRGZ1JPaF9GWVJuNFFNR2VERGNTcnUzYkh0T21LWUFETzBsLURJMUFqT2h1NjBDTjYzRjJSRDVtWnlReDZmX09rWUIzWTQ5NHlPYldGRjluSTY1SFV5dkxxMjMyVkh6QjgwLVdMRUp1cXNYbDBSS2pZT1o1c2NVTHJ3YWZFcFBrY05BQ3B4WHQ3M2JMM2MxWG9tQUE4Mm53bFNaOWVrTXJKN0lHelA5M01KVDRiZ0FqSGIzSFE1LUZZOTlBd2RMQlpWLWRPc1FpODQ4b3dHUHRyeXVhSjdYVzZneTNuVjBuOTZ1UzVOMUgxNjFzTmkwLWo5SXN2RlBjdURJ?oc=5",
-      "snippet": "当GLP-1领域警告信激增，药明康德以“零缺陷”回应全球质控挑战|生物制品|FDA|监管|药物|数据&nbsp;&nbsp;手机新浪网",
-      "matched_query": "GLP-1 多肽药物 审批"
     }
   ]
 }
