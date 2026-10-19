@@ -1,8 +1,49 @@
 {
   "date": "2026-10-19",
   "topic": "肽类产品",
-  "total": 25,
+  "total": 24,
+  "total_raw": 25,
   "items": [
+    {
+      "title": "GLP-1 Drugs and Obstructive Sleep Apnea: How Weight Loss Medications Improve Breathing During Sleep - News-Medical",
+      "source": "News-Medical",
+      "date": "Mon, 19 Oct 2026 03:03:33 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWDZobTFsU3YxUjMyR3U5UkdjR21hc1JNWUEzU0ozbmxJb2FQWTdsMk0wOHdmYlNJTWNtX0gzMWZoM3E4bEZmU1ZZajN2WFNnRzJWeGVZelM2UUpJTnZMU25hNGkyRUcwUVlSZkdCaHZKUzBiWFBnc25LZUpVR0VKMmZDMi1PY1BnRTFTb0RPOVA2T3oza3VmSk5WbUtTeUluNHctaURGbGFSVnhTcVVEeHdWV1c1bGdTTFNkeEVfb3gyOEU4ak9zX21JaTlkYWdydTVwMFp3?oc=5",
+      "snippet": "GLP-1 Drugs and Obstructive Sleep Apnea: How Weight Loss Medications Improve Breathing During Sleep&nbsp;&nbsp;News-Medical",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Peptides talk is everywhere: But what does the science say? - Stanford Medicine",
+      "source": "Stanford Medicine",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVQ3cU4xTG1iTGY0MC1wb1ZENnVHRVF3NWExOVlIb0tqZF9hTFdJT0pvNHFNVUFYV3JNVEJuNUNZRnY3dmQyemUzWEtKWmc0eW96UUY1NXlCQzB4d3NHWVpmbFA0dW03R05ZdEtmWTFqR0hfbm5zaGw0SmNZZ2dvUXVWSEJTZFhKc3RDejVsdw?oc=5",
+      "snippet": "Peptides talk is everywhere: But what does the science say?&nbsp;&nbsp;Stanford Medicine",
+      "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "Black Mold, Bugs Found at Chinese Plants Making GLP-1 Compounding Agents - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "date": "Thu, 15 Oct 2026 11:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWEybTVXU3hNRjNhbDhkeEVFb05TcFJINlBLbndaY3FKQUFCSFk3bFhLbW5hREt6M0pHcmxZTmFJa0w5LVE0bW1lTkVpclZQYzFpRGJjdEsyd3JVYzhuLUU4dkpwcmlOMHppNkhBRDF6bkdrdUo4dE5xUS1WRXl6d29BakpWZHRGYUpiQlh1YmdqRnJUM05EcTEtTU1uYjBaZkd2dzF1RkpmcTN1RVpiSDFiZk1RamtNeWg4NUtBNWdwTHFMYldz?oc=5",
+      "snippet": "Black Mold, Bugs Found at Chinese Plants Making GLP-1 Compounding Agents&nbsp;&nbsp;Bloomberg.com",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "Patients on GLP-1s Increasingly Carry Diagnoses for New Indications - AJMC",
+      "source": "AJMC",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3VMZl9hRUhJY0RQQWZNeTU4bVJSUnp5YTJBdUdzT0Vnb0g3RjdjWUFBYlpDZlp3X0MyVkVDV0VfT3hMME9wblo4RndsckFqbFRLenN6Y3lpV09iODBlekJRSkc5RTRJRVZrY3dhNHdTa1NaTng3eDNQNnFocTd5dnhjVTVhS0xyRUNqQW9BU1BqTl9qV2IxWA?oc=5",
+      "snippet": "Patients on GLP-1s Increasingly Carry Diagnoses for New Indications&nbsp;&nbsp;AJMC",
+      "matched_query": "GLP-1 obesity diabetes new indication"
+    },
+    {
+      "title": "韩国生物医药史上最大并购落地在即，三星生物为何押注多肽CDMO赛道？ - 财联社",
+      "source": "财联社",
+      "date": "Fri, 16 Oct 2026 05:32:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IQTlTUXNBM0FSbHZNZWNzOFg1TnhtQ0ZSOTlwM2FXWUFUZEtBX3ZBWHhqVXZCMktaMnVTa0Y3emFaMzdWcGdOQg?oc=5",
+      "snippet": "韩国生物医药史上最大并购落地在即，三星生物为何押注多肽CDMO赛道？&nbsp;&nbsp;财联社",
+      "matched_query": "GLP-1 多肽药物 审批"
+    },
     {
       "title": "Should amylin have been obesity therapeutics’ primary target from the start? - BioSpace",
       "source": "BioSpace",
@@ -10,54 +51,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkhMMVpQSlJpaFZsWGhtMHRERGNlRGhibjl4SEFZREhBU1lpZnhXUjlrdTJXODAtbi1NSzBueks2SlJqUUstcmNJaEoxWkZoYUFMekFQQ3B0b0JPdURhMmYxR2c5ZTB5dWpPNFRWd3hmUjVBenpZRU16dm5tME9hc1B6S3RZR0hEVEI0d0E0bFVQLXQwaW9GNUlyVGx0RUN0SkNtdXdFQ3VPSzAxUUo4aHhLRlRRWGM?oc=5",
       "snippet": "Should amylin have been obesity therapeutics’ primary target from the start?&nbsp;&nbsp;BioSpace",
       "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "GLP-1 Drugs and Obstructive Sleep Apnea: How Weight Loss Medications Improve Breathing During Sleep - News-Medical",
-      "source": "News-Medical",
-      "date": "Mon, 19 Oct 2026 03:04:09 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWDZobTFsU3YxUjMyR3U5UkdjR21hc1JNWUEzU0ozbmxJb2FQWTdsMk0wOHdmYlNJTWNtX0gzMWZoM3E4bEZmU1ZZajN2WFNnRzJWeGVZelM2UUpJTnZMU25hNGkyRUcwUVlSZkdCaHZKUzBiWFBnc25LZUpVR0VKMmZDMi1PY1BnRTFTb0RPOVA2T3oza3VmSk5WbUtTeUluNHctaURGbGFSVnhTcVVEeHdWV1c1bGdTTFNkeEVfb3gyOEU4ak9zX21JaTlkYWdydTVwMFp3?oc=5",
-      "snippet": "GLP-1 Drugs and Obstructive Sleep Apnea: How Weight Loss Medications Improve Breathing During Sleep&nbsp;&nbsp;News-Medical",
-      "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "fda approved glp-1 weight loss drugs list 2026 - www.polskieradio.pl",
-      "source": "www.polskieradio.pl",
-      "date": "Sun, 18 Oct 2026 23:45:32 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1E3R3lrVnoydVMzQnhWT292S2lVamFzR0p1TDFZd2l3b1UwVlpuU1FzZjhjQ2lCRm95bWN6WDMyaFRfNUgtQWRwcHdxQUcta2lDYTN0VnlLUGdjWUtPSXRRcGNzdnFSN2pyUS1YcjJQTHVoZVQzZ0RDUzc1LWtRTU1Ndkp5MF85Q2xsV3RIb3hJMFY4ZC0tcnZRUVE?oc=5",
-      "snippet": "fda approved glp-1 weight loss drugs list 2026&nbsp;&nbsp;www.polskieradio.pl",
-      "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "fda recent review glp-1 weight loss drugs prescribing patterns 2026 - BusinessWorld Online",
-      "source": "BusinessWorld Online",
-      "date": "Mon, 19 Oct 2026 02:09:01 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmxFcUpvSURoT2tSTEtacER2d05iRFk5SkM4ZC1DYjkzVkMwbXU3T3RTUlU3UlFsY3plN3lBRDU4RVdJYzVxb0tJTGFRQXloeVB2R0djT2ZhUC1zZldLc0Q0NHVkRzg1OGl3NmozTFdzdTJQdllfYXlpY0NDUXp2VDNMUWZ1ZlNQb2J1SGlvVV9PV2dWbzNqbDF1QUVVdjBkN1ZHdDRpMTRDZHBW?oc=5",
-      "snippet": "fda recent review glp-1 weight loss drugs prescribing patterns 2026&nbsp;&nbsp;BusinessWorld Online",
-      "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "fda concerns unapproved glp-1 drugs weight loss retatrutide - Philstar Life",
-      "source": "Philstar Life",
-      "date": "Sat, 17 Oct 2026 13:33:47 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREp0QUxWWEpGRko0T0dxdDZRU0NKakF5c2gzd2FFLWM0MXRmRUVFeEJGTzJ5WTlYYWZUT0dRMXZPZWhWb05hZG5BaGlGbHBjVUpiV0hkb3hmVU5jT1ZuQlAzUnNkSW9PSHZrLTl5RlRaWUlDNWZoRGpydVBrdzd1Z3ZudzJVS0NfS2hrZHdYZE5QN2lFNzBuZ2ROZm1mTERwTUE?oc=5",
-      "snippet": "fda concerns unapproved glp-1 drugs weight loss retatrutide&nbsp;&nbsp;Philstar Life",
-      "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "Peptide Therapies Are Everywhere. What Are They Exactly? - Right as Rain by UW Medicine",
-      "source": "Right as Rain by UW Medicine",
-      "date": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVR0QzNIaWFraXB4SjRJR1dtc2lkTjNXLXFac2Z2STVjMkl6ZDU1RXZOOHMzbjNNeUo5Z1NsOUx6UkIyR0FoYUhVMkhmZm5vdnFISnNTZ0x1SnlnTXlldERJWlh3X0tqbmgwN3Y4aGVCd0xyeEVKSi01QnF1UzQ3aUY2c1dZSU0?oc=5",
-      "snippet": "Peptide Therapies Are Everywhere. What Are They Exactly?&nbsp;&nbsp;Right as Rain by UW Medicine",
-      "matched_query": "peptide therapeutic clinical trial"
-    },
-    {
-      "title": "Aizen Raises Up to $100M Per Target in San Diego Biotech Peptide Deal - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "date": "Sun, 16 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2RYSUttaWNGSm15OTdYNC05V2JzQVpOTFVUM0ZmdV9NbjlNWjFKUmNhZmowVE1vVE54TXFHTXZnS2FwSVBWcTA3VGtxT2dmRTdwU0x0TnFLSVlKcERHc0tFcEIwWmxrRF9ZOURNN09lTFREWFhLZVZUblV5MlpXem9FOS1SbkVOTTNIWXhuYjNhUEhFc3pFREp0NDIzT3l1b2ZyYTNpTm05QU8zTWtmRkt3?oc=5",
-      "snippet": "Aizen Raises Up to $100M Per Target in San Diego Biotech Peptide Deal&nbsp;&nbsp;The Clinical Trial Vanguard",
-      "matched_query": "peptide therapeutic clinical trial"
     },
     {
       "title": "Peptide Therapeutics Market Size, Industry Share, Forecast, 2034 - Fortune Business Insights",
@@ -68,20 +61,140 @@
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "HORDB 2.0: a comprehensive dataset of peptide hormones - Nature",
-      "source": "Nature",
-      "date": "Fri, 29 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqRExkWXc1QlBLbzVEem5rOVhnS2VMQmY3TDAzd3RVRVhiMGx5dmJlcDMySHNnUldvdE53SW5tek5OR0l3U3VwRktyemlOZVpzc1NoTld3WEcweThUV3RV?oc=5",
-      "snippet": "HORDB 2.0: a comprehensive dataset of peptide hormones&nbsp;&nbsp;Nature",
+      "title": "weight loss drugs news today tirzepatide semaglutide - www.polskieradio.pl",
+      "source": "www.polskieradio.pl",
+      "date": "Sun, 18 Oct 2026 19:24:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2RfRE1INXNtZ01FY1BlZU5WTVhrQzZTZ1MxVUhBNjg1TFlzVkNPRE9iVEc2RDhZb0Z0TDBsMWdMVGRLWnNXUzVPNVZXNzJETUVWbURkLTMzVE1VM3VRcVVCcXcxeW9xclA5b2NuQVVkTGtxNE5UZmg5MXVWX1hxMWZTLWpuUVF5aUgzVHJSSkJsTmRWNDlTRHlZYURWazhPWFZLd3A5UjY?oc=5",
+      "snippet": "weight loss drugs news today tirzepatide semaglutide&nbsp;&nbsp;www.polskieradio.pl",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "Tirzepatide Nabs Indication for MACE Reduction in Type 2 Diabetes - TCTMD.com",
+      "source": "TCTMD.com",
+      "date": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGpuaEN5N0diSE56SG1WMEc1TnUwSVc3SmItR2QxSk5CdDVIeHczU3d0OXgzNl92UW5qTndGbjB6NzJ6WThRWFVBV21uaWtGelZzM2JVTWVFQ3JYU2dYSmR5MkZyOEhQVzRxd3lCellNeDQ2RnZ1NVg3M055aXo4cS1nTnNrZVNaV2h4cjFR?oc=5",
+      "snippet": "Tirzepatide Nabs Indication for MACE Reduction in Type 2 Diabetes&nbsp;&nbsp;TCTMD.com",
+      "matched_query": "GLP-1 obesity diabetes new indication"
+    },
+    {
+      "title": "当GLP-1领域警告信激增，药明康德以“零缺陷”回应全球质控挑战|生物制品|FDA|监管|药物|数据 - 手机新浪网",
+      "source": "手机新浪网",
+      "date": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPcW4xTTVGN1l0VE5XRjRYNTdxTkZER2lUbEVKZDNLcFVpWU9ocmRGZ1JPaF9GWVJuNFFNR2VERGNTcnUzYkh0T21LWUFETzBsLURJMUFqT2h1NjBDTjYzRjJSRDVtWnlReDZmX09rWUIzWTQ5NHlPYldGRjluSTY1SFV5dkxxMjMyVkh6QjgwLVdMRUp1cXNYbDBSS2pZT1o1c2NVTHJ3YWZFcFBrY05BQ3B4WHQ3M2JMM2MxWG9tQUE4Mm53bFNaOWVrTXJKN0lHelA5M01KVDRiZ0FqSGIzSFE1LUZZOTlBd2RMQlpWLWRPc1FpODQ4b3dHUHRyeXVhSjdYVzZneTNuVjBuOTZ1UzVOMUgxNjFzTmkwLWo5SXN2RlBjdURJ?oc=5",
+      "snippet": "当GLP-1领域警告信激增，药明康德以“零缺陷”回应全球质控挑战|生物制品|FDA|监管|药物|数据&nbsp;&nbsp;手机新浪网",
+      "matched_query": "GLP-1 多肽药物 审批"
+    },
+    {
+      "title": "Your Questions Answered: Foundayo’s EU Panel Backing, Enspryng for TED, Gilead’s Masked TCE Bet, FDA’s Rare Disease Overhaul, and More - Pharmaceutical Executive",
+      "source": "Pharmaceutical Executive",
+      "date": "Mon, 19 Oct 2026 10:03:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQkxQRmFtRFhHSEl3X19qM1NBRFJaYUpUVU5kSWE1dXRqQWhsLWxoN0J6dFN5LWdWREZKUWNuSE4xR1FSeFV3S2g2RjNySmtKcDVmZkdGcmlha2ZTNDFmNTNONzNUMGIzVmdTbDh1RnMyTW5kd3NWdjUyMU1lUVI2RGZwa3kyTU96S0hrRk5Semg5dGJqNDlQTHVzWW9sVVFBV3lycXgzQ1NoM1EzWmlJb3UxWDhONG0waTREYlRKM3dfZGNLS2FfR2F3OTFiMXU0STBQRUVZMk5zbjJ3UTE3SUx2UWE?oc=5",
+      "snippet": "Your Questions Answered: Foundayo’s EU Panel Backing, Enspryng for TED, Gilead’s Masked TCE Bet, FDA’s Rare Disease Overhaul, and More&nbsp;&nbsp;Pharmaceutical Executive",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Peptides: Doctors explain the benefits, risks and FDA concerns - UCHealth",
+      "source": "UCHealth",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
+      "snippet": "Peptides: Doctors explain the benefits, risks and FDA concerns&nbsp;&nbsp;UCHealth",
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "FDA grants TearSolutions' NK peptide therapy two FDA designations - Glance by Eyes On Eyecare",
-      "source": "Glance by Eyes On Eyecare",
-      "date": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2o2RGJxclRuSXBPSE1nZlZ4cUpUVVZzWGNMUGxMdjItVXp6aGhaQlphNWdJaXZoMlZJczR1b29SV3hUYkhrUHlXZGhLM3RNT2NqV3dwVjJkT2ppVW1SRGE1OWxkLUhnem1IUmI3Y1o2c29teGYyNnZTVlhmTDIxalYtOWlrZXBpSTBZcTBYR2pWekQydUg0ajJHY3FoZWNILWRGeWxLR1l2Q0pxc2dDTlp0MGxDRzI5?oc=5",
-      "snippet": "FDA grants TearSolutions' NK peptide therapy two FDA designations&nbsp;&nbsp;Glance by Eyes On Eyecare",
+      "title": "Lower GLP-1 costs are here. Mochi cuts prices and adds lab testing - USA Today",
+      "source": "USA Today",
+      "date": "Sun, 18 Oct 2026 11:03:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYVRiOWI1R2NiLVRfNUZucWxRMXp4ZmZsaFNqYTJYVkNXVjFfN3dfTElKYTJ6dVR0dVRrSlA4d25lbFk3Wnd3Q0VPa2xRcndmc09rOUIxTDVEeEdQeGRyNklRV0Y1MGlQcTI3bThRZ1o5dl8zUGdBcXduN2FSTjJDY2drZHVMUFB0aDRORExJc0UwbFg0YWlWOWhtSFRFRlMzVHUwZHlHSkE2TkZiYUFsUjQ1RXF2SkJmUGFqZDdwTkdYQ1BYU3M1bkVvYw?oc=5",
+      "snippet": "Lower GLP-1 costs are here. Mochi cuts prices and adds lab testing&nbsp;&nbsp;USA Today",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "Diabetes to MASH: the specimens behind GLP-1’s widening roster - Drug Discovery & Development",
+      "source": "Drug Discovery & Development",
+      "date": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDYtQXVsbTZFazhMdHh4SkJjTEM3azBreXhVQzZLRHU5QmZGVGdwZkJkcFlDN0xldGtkRHZXQVhEMFZiaEg5MUpTdVdybEU1WWxXeFdXeTVqZTk0TWpnSkpxdjl0RDJoTkNnVGNRMDFLUXZ5cWU2a3dhLXpzQTRDOEJYYzJpWkxSZkFuWFRWOXRyNnpyMmJ1NUVBZkctZw?oc=5",
+      "snippet": "Diabetes to MASH: the specimens behind GLP-1’s widening roster&nbsp;&nbsp;Drug Discovery & Development",
+      "matched_query": "GLP-1 obesity diabetes new indication"
+    },
+    {
+      "title": "诺和诺德减肥口服药中国审批迎新进展 - NAI500",
+      "source": "NAI500",
+      "date": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOS0prbnpJUFl6MEY0V3VseTQ0YmltdnYxa2U1Qkhja2lhNFBjdmE1TVluQUJYN29QQUFndFNTVkNWUXppbzZ0dEt1aHFIRDNFd2VZSEEzM0p6TDhtS3I5RkdLNF85dG1SY3E2RmxmM1JkMnhTWmJiN1FUUTA2RVcxYkVwRV80YTBPcGcxUzBWRDNqMWdpdFM4OTF1VnVGcmRzeFQtbnJiU09KNFluR1hOS21oSzQtZldDaUdSckFZYnhUUmpsYXM0LW81MmN4WWNoeHFrajM1eUdqbTAxNFA3SXFFRUJ5Y2R4UlltaHpVT0ZOeXFyNFJmODlONFpZUTdROW81NDNBMlludGhza1I3NWtUeDdMTDJpUkNTdE93OA?oc=5",
+      "snippet": "诺和诺德减肥口服药中国审批迎新进展&nbsp;&nbsp;NAI500",
+      "matched_query": "GLP-1 多肽药物 审批"
+    },
+    {
+      "title": "fda concerns unapproved glp 1 drugs weight loss summary - www.polskieradio.pl",
+      "source": "www.polskieradio.pl",
+      "date": "Sun, 18 Oct 2026 17:30:12 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0g5NDFkejNQZ1FWVGpPSWREZGFsVmtqZW5KbVFQaG1GSVhKN0pFeUFFZ3lJdVd0RnFuREtFV0hLZEliRXFPZnpoc0RQZ2xUcUR2LUpmaGZLUEFGOWp2WkZkQ01vZEtzVGdQNHFoZ3BXbUtFRmVxLWsxM0FacWh5MXJXdDhvZVFHNk5BVlREZkhlLVhYUFBoMXJBYjEzZ0FhVUF6WnhQaw?oc=5",
+      "snippet": "fda concerns unapproved glp 1 drugs weight loss summary&nbsp;&nbsp;www.polskieradio.pl",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Peptide therapy triumphs in Phase I Parkinson’s trials - BioXconomy",
+      "source": "BioXconomy",
+      "date": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRl8zVnd5WndYSnZfUDZKSVpkb3VQUkNVQi0tb2tJSEZHaWJOLS1adk1veUFDZHlEQjhqOXN0alBaS2dwcEJYVFNIUHVYeU5OalcwaWIxcXlvSjhwYVFzYkVLOVRMOTdnaFdVV2JfcGplYmltS3pCZTJKR2loYjJtLWFlWmh3RUR3T0JRLURZNURhaU1OWnUw?oc=5",
+      "snippet": "Peptide therapy triumphs in Phase I Parkinson’s trials&nbsp;&nbsp;BioXconomy",
       "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "Lilly's Zepbound (tirzepatide 10 mg and 15 mg) was associated with more weight loss than Wegovy HD (semaglutide injection 7.2 mg) in a new indirect treatment comparison - Eli Lilly",
+      "source": "Eli Lilly",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGRtMFViM2R0MHlqR21aSE51N21ZRmUtbGM4bTQ1allRaVQxWjhnazJEUm9ZT21CR0lMaXBkOGxBeWhFNlJZNHJaWEpQei1tNzdwbmZpWXd6STJCTEhGa1FyNG1jUTdtazVPcFZOU3ZtWXBxMEp6SWtyQV9adnJIbmgtc0luTGtfd0IyakYyVDNLVzZKX2N1bGViX0JRT09xYmRMUERfT1RJM2dMU25MMl8zdllmWmhvcnJYOE9ubEp1dHc?oc=5",
+      "snippet": "Lilly's Zepbound (tirzepatide 10 mg and 15 mg) was associated with more weight loss than Wegovy HD (semaglutide injection 7.2 mg) in a new indirect treatment comparison&nbsp;&nbsp;Eli Lilly",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "What to Know About the BALANCE Model for GLP-1s in Medicare and Medicaid and the Medicare GLP-1 Bridge - KFF",
+      "source": "KFF",
+      "date": "Mon, 11 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUZvcDJHUERpWHFHV0duQl9RREZvMWdlYkJxQVZ6aF9SMmg1dzVfZW5ub3RZRXYtRkZ0dUtXS29BcHVDOWxnUkc5bVpwWE9zMDFqSE9NQkQ5Zl80V3hWb0Z0ODJUaktZVkJyTTFpaEh1T3UwVVZfWEllc19FR0hpcEtudWYyTTZEaVRHTlhlemkwQjJ1YTYtU2hjX2hnLTdrUDhoRw?oc=5",
+      "snippet": "What to Know About the BALANCE Model for GLP-1s in Medicare and Medicaid and the Medicare GLP-1 Bridge&nbsp;&nbsp;KFF",
+      "matched_query": "GLP-1 obesity diabetes new indication"
+    },
+    {
+      "title": "暴涨的GLP-1：减肥药未到，上游先吃饱 - 中国医药创新促进会",
+      "source": "中国医药创新促进会",
+      "date": "Wed, 11 Oct 2023 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rX09lc2xTSDdzR1Y4b3dyOWU4bWlhZmZ0Qm5JYVczZVZaczBhdXNIOUhhYUVsZzhzYjM4bXJtb0dGS25WMmFSNFJRRTZIVlNqcHlucHpjNWd1by1GRUpUdXgzdWt2WWZPNl8yVXVULWQ0b29vTjZqLXZB?oc=5",
+      "snippet": "暴涨的GLP-1：减肥药未到，上游先吃饱&nbsp;&nbsp;中国医药创新促进会",
+      "matched_query": "GLP-1 多肽药物 审批"
+    },
+    {
+      "title": "FDA finds mold at Chinese factories making compounded GLP-1 drugs: Report - NewsNation",
+      "source": "NewsNation",
+      "date": "Fri, 16 Oct 2026 22:00:19 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTjFmbmMxMlFvaXdyNElRRlR4aTBBYXNUQlRoRFhrb2k3b0tUYTQzQThjdHBnSDNYNTdQWkRzNmNKRV92aXl6NkhPRGlQUWFoOHhOV1plc2hzRXI5TnRTT3FQNDBsY3lQZTByOHdDSmRCWGdiVzgzY0tQbGhLTkNNN3BR0gGHAUFVX3lxTE1fR0V2LXBRN2Nwc1Q2WkVIb3I3aHdyRlU3Z2lnUWJnR0dfcExRSndUdkE1aEV3UVRBaU9hUXJKa3dRZ3V5cVNzWnF4eUpuQ1pSb29KVXFlUHBjUzAyRlZ0bHBiZFkxT3JMWXR0LTF5R1hOTUNrNXJJMUdQRjBYZUZkYjJFbFluMA?oc=5",
+      "snippet": "FDA finds mold at Chinese factories making compounded GLP-1 drugs: Report&nbsp;&nbsp;NewsNation",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Peptide Therapy: What the Science Shows About BPC-157, TB-500 and Wolverine Stacks - Cedars-Sinai",
+      "source": "Cedars-Sinai",
+      "date": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHJwUVoyWmU4R2lkb2tYNC1PNjlRczcwN19oYXRyeUFFS1dQOHVJNXdhM2NzcUxHUmV2c0J6NmZkTlNiVXUxcXBRWlFod1JEMDB5WmhrUDVqYVcwY0c3c1JqT3pRYUEzam1nbkJmZXI3OS1neVhJMDlBTFFQQlgtTWxCeFhGc3VKRkRrZjlydmVZYkE?oc=5",
+      "snippet": "Peptide Therapy: What the Science Shows About BPC-157, TB-500 and Wolverine Stacks&nbsp;&nbsp;Cedars-Sinai",
+      "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "weight loss drug news today semaglutide tirzepatide december 2025 - BusinessWorld Online",
+      "source": "BusinessWorld Online",
+      "date": "Sun, 18 Oct 2026 05:29:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZG8ySVhGVXRDbUEtMjAwVngwNVd6Ti15Wk1UckhaVXJaSXJVbUVZNGdCZjNVQUdtZWVQM2JPdFlXUVFSMGdrZzR3OXdWZDl4S0FjUHdXOVdoSmZjNG9lMjRXSWdQZXN0U2I2TndGa1JsUXRwVlV1a1VaREFOaEJISUNfX3NwY25hUWlPaUw4Y3B4UnhhSTdCYzRqOGRQdS03YW5uWlNPU0lob2loZUNzLQ?oc=5",
+      "snippet": "weight loss drug news today semaglutide tirzepatide december 2025&nbsp;&nbsp;BusinessWorld Online",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "What can GLP-1s do beside treat diabetes and obesity? - Labiotech.eu",
+      "source": "Labiotech.eu",
+      "date": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3TkRQZ0xjUDVuSS1JbWVHZkNqT2dGdXRkOUh3YnNlUzJqU3IyUERTem9jSjhmQ2hKNmRMZ3NUSGo3em9HdXRnaEZDOXhCLXhsUGRyQnM4M1pxTDhsOUp3b0dkeUVUUzA?oc=5",
+      "snippet": "What can GLP-1s do beside treat diabetes and obesity?&nbsp;&nbsp;Labiotech.eu",
+      "matched_query": "GLP-1 obesity diabetes new indication"
     }
   ]
 }

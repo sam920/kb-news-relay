@@ -1,7 +1,8 @@
 {
   "date": "2026-10-19",
   "topic": "鹦鹉养殖",
-  "total": 70,
+  "total": 24,
+  "total_raw": 70,
   "items": [
     {
       "title": "Nearly a million birds shipped from Africa to Asia in 15 years; canaries top the list - news - Mongabay",
@@ -12,35 +13,131 @@
       "matched_query": "parrot CITES conservation"
     },
     {
+      "title": "What Do We Owe New York City’s Wild Parrots? - Home ❧ Current Affairs",
+      "source": "Home ❧ Current Affairs",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNellyRjVBTjN6VE5xd1RKdU1DNDNoZXBySG9QSEJGN0w5WEVGbUZWbmxVQWgzcVZNSGVWaDBvVDAyVThxZlRzMUpNTEVqSGhmQU94VFhRREp2SDdDM2VnWkYxdGRQVFVCTGJONnNuM0JXYTR1alJVcy0taEZlVU9CNy1TQ0g?oc=5",
+      "snippet": "What Do We Owe New York City’s Wild Parrots?&nbsp;&nbsp;Home ❧ Current Affairs",
+      "matched_query": "parrot breeding news"
+    },
+    {
+      "title": "A novel method for semen collection and artificial insemination in large parrots (Psittaciformes) - Nature",
+      "source": "Nature",
+      "date": "Tue, 25 Jun 2013 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1WEkwclNSUGJfelZ4STM3LWl3cFFLNXpHd1c5VXlMY0Q4ZFd6LUFlcFd6clBlTlJYZ1pKM3pyRmh0elcySTQyZm1rZEJzRzhSZ3dr?oc=5",
+      "snippet": "A novel method for semen collection and artificial insemination in large parrots (Psittaciformes)&nbsp;&nbsp;Nature",
+      "matched_query": "psittacine artificial insemination"
+    },
+    {
+      "title": "Ancient DNA and spatial modeling reveal a pre-Inca trans-Andean parrot trade - Nature",
+      "source": "Nature",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRN21KSm1UaHFlNTZ4NWVCRkNHNkVJbS1fdFlsdTdqdkJQYlE0TFk0eDBVMXNqNkJsM3Yzekx2QVowb2NWY1FEVzA1RlU0ZDl6bXhOQURybGRwXzlaYW13?oc=5",
+      "snippet": "Ancient DNA and spatial modeling reveal a pre-Inca trans-Andean parrot trade&nbsp;&nbsp;Nature",
+      "matched_query": "parrot genetic research"
+    },
+    {
+      "title": "Bird Supplies Market To 2035: Premium Nutrition and Habitat Demand to Drive Growth - News and Statistics - IndexBox",
+      "source": "IndexBox",
+      "date": "Mon, 05 Oct 2026 10:06:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR2hPQ2Q1ZGNuRWN2M0JaeUtuRDU2Y1JocTFFVDVHRURydFF2R1lqMUw2NnpRX0ptZFkyS3d1TjhLbjVWazB3SXBYUzJnZHFPYmNkMms3Zm1icElub1YzTFE0bVF2TlNycFBMRXdBaV9MOVRxYW12M2FfWjc5U1dXdTJLUVZVY3VVNXYtcWQzcG5sWExHYmJrbmxoaTdqY2lzd2hKTklvSG0tZXk4R0JCSndzNGVQLXA2d2RrNw?oc=5",
+      "snippet": "Bird Supplies Market To 2035: Premium Nutrition and Habitat Demand to Drive Growth - News and Statistics&nbsp;&nbsp;IndexBox",
+      "matched_query": "parrot price market 2026"
+    },
+    {
+      "title": "Europe Pet Daycare Market Size & Share Report, 2026-2033 - Grand View Research",
+      "source": "Grand View Research",
+      "date": "Mon, 19 Oct 2026 07:28:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVVkRndISkJKLUhOU29sR09hVjZXVXUtbDVYRmdyQjBWWDVzVG5tSWMyTGJEamROQmVCZkhvZERnR0Z4YTRyWDBNT2xrczBLOFF3Y2lsd091cUFwNWZ0LWUzMHNGaGlBVFhyalRRM180dHlHUmJGTGxkc2JoQ3VvaTYyNHB3ZjdGcHZYNQ?oc=5",
+      "snippet": "Europe Pet Daycare Market Size & Share Report, 2026-2033&nbsp;&nbsp;Grand View Research",
+      "matched_query": "pet bird price trend 2026"
+    },
+    {
+      "title": "Could this synthetic egg bring back extinct birds? Researchers urge caution - Nature",
+      "source": "Nature",
+      "date": "Tue, 19 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EVW5reVpIMk1ab3BYUnU5UC1ONmxNcnhnbzZvSWs0RVJadmR0TXJFLUpGZDU5T0RKUFRMTkRmY0YzMkpyX1pGbUlrREtZaGlObGlhZjFRRTdQellVQ0pR?oc=5",
+      "snippet": "Could this synthetic egg bring back extinct birds? Researchers urge caution&nbsp;&nbsp;Nature",
+      "matched_query": "parrot incubation breeding technology"
+    },
+    {
+      "title": "Endangered thick-billed parrot shows signs of one of its strongest nesting seasons in Mexico - Firstpost",
+      "source": "Firstpost",
+      "date": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb09qSm9UcFk2YkJiMmFsMm56WVlTNFhNS1ZXaGZEVEZYR3dCQWdQM09ZRFFLNG9Qb2UyMkhlSW1PdEdjUjlJTlRxbENEQXJRZVVmeFJMQjZLbmd0d00wdm8zand6eXlFQ0JOQTROcnp4czlaUk1HMkw4VU4tUEhZamxVRWwzV3VHbnFiME9iMlFrZTFTeWlfbUV1eHVWclBTaGJuS2l1d1g0NV9ROE5welB6RlhNSEZzVzRXNU5tckNJNWFfbW5yR1dTZ2J4eW5kaDRwWHNxcWdWZ9IB3wFBVV95cUxQZWhwZDQyazNKTkFFXzhJREJvTWliSDR2SlF2SG1IWERoX3Y5VXNEYmwzZ3U4Z2hEYzNnSFpNeUxPVGdxWXl1VlRWMXZZUDBuR2lBVHU2S0NEWjlqRUI3Ql9ydk9sWlpMNFFjc29kaEExMHotUHdlQU5VcjdROU5kMFc2cjZHUGVGdjNIVEw2S1QyU1ZhTGUybDJoMFZsdUlMaU9IejBud1VNd21WVUxqZmNjTHNrdldzYnFNN2R4NkJjTTJQWVg0Ym9zT1RsV0ZTclZOYk9YaExtUlBTazF3?oc=5",
+      "snippet": "Endangered thick-billed parrot shows signs of one of its strongest nesting seasons in Mexico&nbsp;&nbsp;Firstpost",
+      "matched_query": "artificial nest box parrot conservation"
+    },
+    {
+      "title": "First successful of embryo development after artificial insemination using frozen sperm in Okinawa rail ( Hypotaenidia okinawae - Nature",
+      "source": "Nature",
+      "date": "Thu, 15 Oct 2026 10:25:53 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52UVR0NWxOcUlMNV9HdWdLX1otNDF5VjNsMFBDdENvZ2xfRVlfck9ibm01bVpQVUFlLTNfUFdpQUVRRzdpS3I0dnp5QkotSWY0dHFqeEdIZzV3bWFyNFJn?oc=5",
+      "snippet": "First successful of embryo development after artificial insemination using frozen sperm in Okinawa rail ( Hypotaenidia okinawae&nbsp;&nbsp;Nature",
+      "matched_query": "avian semen cryopreservation artificial insemination"
+    },
+    {
+      "title": "集体跳水！萌宠鹦鹉跌出“白菜价” - 凤凰网",
+      "source": "凤凰网",
+      "date": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwQWJJMWxrQVlRYWFlajBYclk3elJEMUZwWnpFZVJtWnZKUXloZlVkY0hibzNWQkJGeDNSaXBhRy1KVHoxTzhaWFFJMVE?oc=5",
+      "snippet": "集体跳水！萌宠鹦鹉跌出“白菜价”&nbsp;&nbsp;凤凰网",
+      "matched_query": "鹦鹉养殖 政策 市场"
+    },
+    {
+      "title": "保护动物绝非“想养就能养” 异宠暗藏生态风险 - 中国新闻网",
+      "source": "中国新闻网",
+      "date": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90eS1pQnhHMnFUTEZkUzZsTlZLTUc3T2NRVmlUWklXd285enpGSzYwZmhoWVZtVWh6NVpnNmE3di0xYi1KamZDZjlueWI1enZGVVhNR3BsY3NGOF9XNDl6LTFhSnNzNWU0?oc=5",
+      "snippet": "保护动物绝非“想养就能养” 异宠暗藏生态风险&nbsp;&nbsp;中国新闻网",
+      "matched_query": "鹦鹉 人工繁育 标识 2026"
+    },
+    {
+      "title": "红领鹦鹉飞入居民家，专家：无专用标识不得私养 - 珠海网",
+      "source": "珠海网",
+      "date": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfVzh4TF8xQVgzdnRzLTF0dDM2QktqdWplNzF5VTRCQ09uY05PWXoxR1BkWEhoU2pCNFluUURjNE1FVFN0VmVQUlhFY01vdHFNY242Zy1mNEZDR0dGRDczMTZsOGhaUC1ISWVkUy1ZczI1MGVXa2FN?oc=5",
+      "snippet": "红领鹦鹉飞入居民家，专家：无专用标识不得私养&nbsp;&nbsp;珠海网",
+      "matched_query": "鹦鹉 合法饲养 标识"
+    },
+    {
+      "title": "China’s rice fields have a duck workforce: The birds help control weeds and pests as farmers grow rice an - The Times of India",
+      "source": "The Times of India",
+      "date": "Mon, 19 Oct 2026 10:20:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNazhHSk9NUXRNZTRVc09kSWhRdzVndURDdDZoc0hMcHZtejFtcXNEbWFrVzV4U09iWEtfaHlmYUtjZXdKM3Z2a0dZWHdqMXJCUVFhd3BzeXpmeUh2QWpIUDl4a0hzaTJhZk5NUFhuMTk3eExXaWNNRzdMbHhCdUJndUJRZVcyaDZJWGkwaUJqTS1nQTVhcHdoOVhnRGpIeDQtZTBLT0VXcDJ5bWNqVDNNUnJBYm1fdkl3cF9lRDZmM3lmcmdub09aX2VfeXl0cTNPQlhHWWhDdGItX25Td1Y1cEs5WHV5MVFidmxEMHBNdUNWUWtIVHZmemJ0TEZ3Qi02R0tDWElkczZWYUlsZUtqcFJRY29SN2l0UXk00gGgAkFVX3lxTE12YXZnYm5zS0diMHAyOHBGdTU2ZmJxSUtlZjlYMTNDb0FfN0pHblpnQUZwSEptaEtOY25ZTE5VWXhOOFBFd2tzd2Z6dG1HQUtHVzR0dm1YUl9VM1JXZ1RwaHlKaDBNNVJTWURFdFppZVNDSmZQeDlfU2pzTm1qelNNYzNDejF3OU93c3FKUVlJUVFybENtMERDbjU2VV9IUWZiZ0tSTDdBeGVxdVhEc010V2M2eWR5NWp0VEQwaXNoWHZTaGptSHhHMGZ3SXZsRlBqTmI1R1A4T19VVXNyM1RSbDlyZmlmMGU4RWVuMFQycWVNMGhWMFBIQlNtd1ZHVzdjeFZZUkZIZFFyT1ZaX19ROHlyTnl3YXptZEFERUJ4Yw?oc=5",
+      "snippet": "China’s rice fields have a duck workforce: The birds help control weeds and pests as farmers grow rice an&nbsp;&nbsp;The Times of India",
+      "matched_query": "China parrot farming policy"
+    },
+    {
+      "title": "Commercial Pet Trade of Terrestrial Wildlife - Animal Welfare Institute",
+      "source": "Animal Welfare Institute",
+      "date": "Thu, 21 May 2026 22:00:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0RLQTNJU2dBVnE5SDFzWjE5TFUxZUVTbTNWN1QtODRHQWRMVXVJSFNhT2U4SU1fX05ZREpoWVJxd3Zjc2dXYVhPVEQ1WG82UXo1b2xKT19reVFNYzRUNWE1QjBhT0lrMlc0dFNrOThxX2hQcWhOcGVjd3V1WVBvZ0JyRnFMZFhhYmdORWRwVnpQYWl3NDBFTWwzMzFRXzJsT3dyTWRtb0FUZ24yMklBOTNWNEQ?oc=5",
+      "snippet": "Commercial Pet Trade of Terrestrial Wildlife&nbsp;&nbsp;Animal Welfare Institute",
+      "matched_query": "China parrot breeding market"
+    },
+    {
+      "title": "百达翡丽5711现在什么行情？蓝盘75万起稳如磐石，3个维度说清真相+FAQ - 手机新浪网",
+      "source": "手机新浪网",
+      "date": "Tue, 13 Oct 2026 07:19:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43SklGSy1zellOWkxVUzVPUk0xRjFYTks1bExPZy1MZE9XaW10RmNWRnVka2Z1c2ZIMUdzeElKaGdlWjhSSlkxczFyU3BzcTE0RUZGSC1KM2xrNURnbm1LMnRvSWpiZ0hpeXc?oc=5",
+      "snippet": "百达翡丽5711现在什么行情？蓝盘75万起稳如磐石，3个维度说清真相+FAQ&nbsp;&nbsp;手机新浪网",
+      "matched_query": "鹦鹉 价格 市场 行情 2026"
+    },
+    {
+      "title": "海口特色林下养殖激活乡村振兴新动能 - 中国新闻网",
+      "source": "中国新闻网",
+      "date": "Mon, 12 Oct 2026 04:22:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MdTN4RVByaHdIX0JLOXVWbWh2Rm03aUE1UHptdEtjOE5mX3RfbGIwLXg1STZfU3NqVHFDWGRZa3dmWll6dXhVSUR3c0Z4c29oY0dnSU1JVDV6ZzV6S3l6NXllREZtMXN4NnZFQg?oc=5",
+      "snippet": "海口特色林下养殖激活乡村振兴新动能&nbsp;&nbsp;中国新闻网",
+      "matched_query": "鹦鹉 繁育 技术 创新 2026"
+    },
+    {
       "title": "Global trade in wild birds is poorly monitored – the risks to wildlife, ecosystems and human health - The Conversation",
       "source": "The Conversation",
       "date": "Wed, 08 Apr 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUR6VWc0SnhyTk91ZjRZNk1HOFNfa1R2c1k1Wkl4d29QcThwaE5XRGR0QjhKdzA5ZkE0UTVuRGdvdWxSUEdUZi1FZ0lVRzFKZnVzX1RSSmxvWjR3ZDd0aklJUkFKUzhvQS1tTmhqYm53Z1lScWNfWGZxTkRkZmZEdmdvQnFjTFlySFFldHZITng2V081RWloLXZHalBOLTk3MlpkWmFmWHYxLWZsMVdhMkdYQ01CRXBveG56NGtHLUdTZlY5VmhUZjRMQQ?oc=5",
       "snippet": "Global trade in wild birds is poorly monitored – the risks to wildlife, ecosystems and human health&nbsp;&nbsp;The Conversation",
-      "matched_query": "parrot CITES conservation"
-    },
-    {
-      "title": "Singapore’s Wild Bird Trade Raises Troubling Questions About African Grey Parrots - WCS Newsroom",
-      "source": "WCS Newsroom",
-      "date": "Sun, 17 Apr 2016 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZGpLYzFNNm1xaTN6MUZObkl2dVF0a1BPeUxjSjdaZWRvTFJTOEYzRl9wNTA1dHQ3SFRoa3R5N1pnT0FBWWdmVXBSWURVYUdCS1hlNHN3OUFrSUdfR2pXSjA4QldBaTkzQjdPSUJiV3VRU2d5YS1VdEVvSFFWZFF2Qlp4YmxSZl9md3Fsc0xYejlFZldEQ1V2WWJqX2pITWw5RzRwcDNrRGVuN0Z1QS1BVkxIc0ZfV3NOSkJ5ZlpIR0gtZHF1R20yZm90WjlKSUNTNW5Gc1VZd3BDNk45aE0wSHk3d0c2Y0Qxd1VPLWFRN3YtVUhqNUE?oc=5",
-      "snippet": "Singapore’s Wild Bird Trade Raises Troubling Questions About African Grey Parrots&nbsp;&nbsp;WCS Newsroom",
-      "matched_query": "parrot CITES conservation"
-    },
-    {
-      "title": "THE PARROT KING - National Audubon Society",
-      "source": "National Audubon Society",
-      "date": "Tue, 22 Apr 2025 17:21:17 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ITjF4Y0pUcUVRbjVzb2ZWQWw0dnE1UGN1UnRJOGdUUmYzSUk0c2J6OEJtLVhRV0tCYlJ4Zko0eTU4QWV5UkMxLTNaYnJESDBMcktSTmdPTQ?oc=5",
-      "snippet": "THE PARROT KING&nbsp;&nbsp;National Audubon Society",
-      "matched_query": "parrot CITES conservation"
-    },
-    {
-      "title": "Saving Africa's grey parrots from the illegal wildlife trade - International Fund for Animal Welfare | IFAW",
-      "source": "International Fund for Animal Welfare | IFAW",
-      "date": "Wed, 20 Aug 2025 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQekFZUlpBOHd2SFZGUXY1Y2hVMGFrcE9YRXh1WHAzc3VCTThObGpKX0pxZTlieDFOUXA3QkpkbzRwSWI5dDVsLS11NW1kdF9vVEdSTkNQaW9majZxRDFrLUF0YjJHaE5xUjNxSXhqUFVBZkVDc1JubHdfOWhoZTZFd3R0R1c?oc=5",
-      "snippet": "Saving Africa's grey parrots from the illegal wildlife trade&nbsp;&nbsp;International Fund for Animal Welfare | IFAW",
       "matched_query": "parrot CITES conservation"
     },
     {
@@ -52,36 +149,52 @@
       "matched_query": "parrot breeding news"
     },
     {
-      "title": "A Bountiful Berry Harvest Put These Chunky, Endangered Parrots in the Mood. Now, Scientists Are Celebrating a Breeding Bonanza - Smithsonian Magazine",
-      "source": "Smithsonian Magazine",
-      "date": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQa2dvTkQ5MUlwWGJRcVBEaWU2OWN2WTZ3TWVVdTNscTUteXVDaDRBNndzS2lDRUpySEF3Sml5Z0JJTkJjNnQxODRPS3FIOUV0d0dlQkdOYVgtOHFXV2JvQmZDckpsZW9SaWZJX2pMUXIwTEw4Q2FaWTBEd3NUeEJab3VHRzdxRGNLbTgzU3VnRUgtRHNRSnh3NTN1UjgwU2Vfb3J5RnZDd3B1VHZRUnY4ZERFMUhVYU4zbGdvY0ZHYmNaZmpJNDlsSzNPX1VOd2VrVDNpSFlwMGFZc1Z1YW9sRkZZUkdxS2NNbmNwakFFY1Q2UFc5SEZUSXB3dmFMay1LbU9qMG03SQ?oc=5",
-      "snippet": "A Bountiful Berry Harvest Put These Chunky, Endangered Parrots in the Mood. Now, Scientists Are Celebrating a Breeding Bonanza&nbsp;&nbsp;Smithsonian Magazine",
-      "matched_query": "parrot breeding news"
+      "title": "Analysis of ancient parrot DNA reveals sophisticated, long-distance animal trade network that pre-dates the Inca Empire - EurekAlert!",
+      "source": "EurekAlert!",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CeEstSFBKMDljZXprWDUwdTBFSEdfRGpaOGFJclAwRnlKNWo2RzNBMEw4WVBkSnVYc1h6c2lxZFlUTmVrdS1TbldjMnVwdnBMeFFjQWNoTzFkRUg3aGc?oc=5",
+      "snippet": "Analysis of ancient parrot DNA reveals sophisticated, long-distance animal trade network that pre-dates the Inca Empire&nbsp;&nbsp;EurekAlert!",
+      "matched_query": "parrot genetic research"
     },
     {
-      "title": "What Do We Owe New York City’s Wild Parrots? - Home ❧ Current Affairs",
-      "source": "Home ❧ Current Affairs",
-      "date": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNellyRjVBTjN6VE5xd1RKdU1DNDNoZXBySG9QSEJGN0w5WEVGbUZWbmxVQWgzcVZNSGVWaDBvVDAyVThxZlRzMUpNTEVqSGhmQU94VFhRREp2SDdDM2VnWkYxdGRQVFVCTGJONnNuM0JXYTR1alJVcy0taEZlVU9CNy1TQ0g?oc=5",
-      "snippet": "What Do We Owe New York City’s Wild Parrots?&nbsp;&nbsp;Home ❧ Current Affairs",
-      "matched_query": "parrot breeding news"
+      "title": "7 Best Drone Stocks to Buy in 2026 | Investing - U.S. News - Money",
+      "source": "U.S. News - Money",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QekR5UE5HVWV6dUJFY3Jkbks5MWxKaEpGclVjUHBfbHpiellGSTRsUWgteFpMTlhFUEZvSHVJTUhOX1cwckRSeWF6Mkp1TXltR3I1NjFfNlJLZ3V1X2QyTWJyZ0JadndQVzdFUzgweFJrcGNYVWpr?oc=5",
+      "snippet": "7 Best Drone Stocks to Buy in 2026 | Investing&nbsp;&nbsp;U.S. News - Money",
+      "matched_query": "parrot price market 2026"
     },
     {
-      "title": "A bumper berry harvest has New Zealand's weird flightless parrot in a rare mood for romance - AP News",
-      "source": "AP News",
-      "date": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMnFCd3drN3pwYzkzQkVsTUJLMEF3RmNBV3dfc09nZmxXN0FIWm54T3FZY0NpcUNJVENjVk9IdWlIR3dfNUFOeEZLS2FHUUhjMHlmVlo5bFp3LTFxRWV5eUJBRklncktxQUhqQXJScUJKMEpMZ0ktZllOay1xWG1SenFMdlFkbDFWTlVaT0VrLWNlY0FTT1NGQmlMZ1kwR2VWUlNBbjJ3ZHdRSTJYMFd5RQ?oc=5",
-      "snippet": "A bumper berry harvest has New Zealand's weird flightless parrot in a rare mood for romance&nbsp;&nbsp;AP News",
-      "matched_query": "parrot breeding news"
+      "title": "Can these chunky ground-dwelling parrots survive on their own? - National Geographic",
+      "source": "National Geographic",
+      "date": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZUd6QzlvV3lMSWJfNDJpUUpJZzNVVkd3ejNSOUVvZC1MRnJIWFhiYjZKRmNkUm1ING5rRWQ4emticGtRR1YzNUhONkxXTDAzY3JjOXhJeEh4ZktEcERxd2YxMVNUVVhJbkVjakFsMnFSdExwaUdReWZuWHJQc3B0THh3am4tRm4zcVE?oc=5",
+      "snippet": "Can these chunky ground-dwelling parrots survive on their own?&nbsp;&nbsp;National Geographic",
+      "matched_query": "parrot incubation breeding technology"
     },
     {
-      "title": "In 1995, New Zealand’s flightless kākāpō population had fallen to 51 birds; island sanctuaries and managed breeding helped it reach 325 by 2026 | World News - Hindustan Times",
-      "source": "Hindustan Times",
-      "date": "Thu, 15 Oct 2026 04:33:14 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxORFM1dlFibThsbndIbmhlSUh6UGNhSDJzT281bUdlRml6clJBQlU0c0VDRk96Y0l2bXh2QUN5NzdSM0o1bUppYndGVXZUMUlFUE5LWE1JUzQtMlpPMlBYUUdrM3k4cDZTa1RTYjE4bG02bjFOZFI4XzRWQkZGYU52TFA3UlFFV3RLNHVJVGg2anVkSHRMTDV4eU8zNDJYV0pNSndPNFFIbW42OGwycEgtWmJTTFZ1akhaZ2d6REk5ekI2MC1CNlJuSWVia19WNV9jdllOWXpiZzFwQ1RhcF9BLWVqaVE4cFI5Q016ZjM2TjV4UU5zaXljcWxNWUVlWkRNVUlHN18ydmVrRlV1VnVrTHNqWVE2MzNwM2F5a3FqNE8yVDdRUnN0dFJpVdIBsAJBVV95cUxNeWdLMFU1ZFdxU0tNcTFXUUlib284RU5tdkw0MWFXTmg0aUhXY2NCN3J0VHRaZkVWM09YdXBQTzF6VTdheXpodld4Ty04MjllNUlPQjZtRm1XbE9VblFkMW5FcDhxd0lNcFAtQnE0T1F5Z2c0STFzQUo1ZlRrVkJicXBNdjJCeWh1MkdfQVVJZEhtQV9DWDNYRGdtWGVVZ1JlSnR3NnkxUDFyZ1Y0eUNaRUtrT2xKejRYSWFXRVk3MWo2RXAycWo0bnp1SXhyaTFuWm5YQklRaElMeC1BZGpxbk8wZ2ZMM3lDT1FUXzNUX2hZUm5jS28tX2lrOFQ3cFR5bV9VaHhuZFpiSTFJX3E4UDNHWVV5ZWt3TGlQT1haaTFialhxcGczWTlqTFhXLVVS?oc=5",
-      "snippet": "In 1995, New Zealand’s flightless kākāpō population had fallen to 51 birds; island sanctuaries and managed breeding helped it reach 325 by 2026 | World News&nbsp;&nbsp;Hindustan Times",
-      "matched_query": "parrot breeding news"
+      "title": "Hong Kong cockatoos could help save Indonesia’s endangered species, study shows - South China Morning Post",
+      "source": "South China Morning Post",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPakloYmVaVUxLbGZTOFh0cTJHUmYtMHBWcUUyTWNGd3ByZGhMbXJEVVY4MVZHVzgzOGdHM2pXaHVNemxLbFBuRnpmdmJqbXJ0WEpTN3FmZ1paSVpDaERreWV3eVhSTTBoUWtSZUFxc2xQVnFyY3pPNG1Wbk5tUnVyOTFTWTJkSXp2MGg3Mm0zcnlHaWZqYnRRamV4TlRsdGhYaFN6UnFNVUlpT0xrbkt4Z3NTc2lrT280UWVMa1E0N1NDLWkzdEc4b1pTTHJ5aTlSblF1ejFyY0RxWktQVGJxMnRn0gHiAUFVX3lxTE9VbDBJbmVqRTM2OEVSdklORlhNbkNKcWRfb1o5cWZzTjNCTDRNWTNtVmlZSHJ2Q0Q0MHJWZVdtY1VmNFpkdzdjWk1pcHQxekszaHlucWFuOUhEa2ptd3VpbHdmSW5nWmQ1d2MxOXV5YTVvS1kwUWdySVRaMUJPRnFGa3Y2VDEwa0hINmVxMjI3RUpkRjd1OEhVZ3FQQ1ZOcklxZENTelpMdGtEaWtnNmpocUc1MVA2eDRRZ002MHBqejZCZFU1R0o3c2pSR21RX3FJZTRCVk1nRUIyYlZiMEtSN0E?oc=5",
+      "snippet": "Hong Kong cockatoos could help save Indonesia’s endangered species, study shows&nbsp;&nbsp;South China Morning Post",
+      "matched_query": "artificial nest box parrot conservation"
+    },
+    {
+      "title": "Dose-Dependent Effects of Clinoptilolite Supplementation on Sperm Quality and Oxidative Stress During Canine Semen Cryopreservation - Wiley Online Library",
+      "source": "Wiley Online Library",
+      "date": "Thu, 06 Aug 2026 00:30:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mTk5scjhRVkJkUndNNjJ1dGJXRFk5bXdCc3NITmdOM2RaendzNWZJVWJLcENkdGU2MEloM2RDSU9NclFKbU9EQjZQVEt3anlHRm1GNlMzRjdxczJLWlYzNWNOYTl0dHNDbFNn?oc=5",
+      "snippet": "Dose-Dependent Effects of Clinoptilolite Supplementation on Sperm Quality and Oxidative Stress During Canine Semen Cryopreservation&nbsp;&nbsp;Wiley Online Library",
+      "matched_query": "avian semen cryopreservation artificial insemination"
+    },
+    {
+      "title": "女孩们捧红的“鸟鸟教”，催熟百亿新市场|鹦鹉|银宝|宠物|女性|猫狗 - finance.sina.com.cn",
+      "source": "finance.sina.com.cn",
+      "date": "Fri, 08 May 2026 19:04:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORG1zaVJMYmZtMm40UkE1cTJwNmFOQ2NxU0xLcU03cTZfYmlwQWlpeWpxbHhJeVczd2VPclJIQkVpWEV3NzJOR2RQMWJqS1dBbFJkRmgxWUpjZUI0bzR2eW5sRkw5ZjdnRUVBRE96WGtfMUl1OTRPcWZTNHpwTVp4VEZFMFZWWGlMVC1oV2RBSnh6bkc3bFN0WGs2NnFPRWpVRFdMbkFTRElIQktZbWZKTUJBQ2tCaGhjdWltcEYtcWVOYTMtY1lROG45NkQ0c3lRckRwODFCUkd6VmJ2V2kzSWlJdFpWNXNkY0E?oc=5",
+      "snippet": "女孩们捧红的“鸟鸟教”，催熟百亿新市场|鹦鹉|银宝|宠物|女性|猫狗&nbsp;&nbsp;finance.sina.com.cn",
+      "matched_query": "鹦鹉养殖 政策 市场"
     }
   ]
 }

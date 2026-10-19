@@ -1,7 +1,8 @@
 {
   "date": "2026-10-19",
   "topic": "蛋白质产品",
-  "total": 60,
+  "total": 24,
+  "total_raw": 60,
   "items": [
     {
       "title": "FDA Approves Roche’s Enspryng as First At-Home Subcutaneous Treatment for Thyroid Eye Disease - BioPharm International",
@@ -12,35 +13,99 @@
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
+      "title": "Summit Therapeutics Announces Opening of Global Phase II Study of Ivonescimab-Based Regimens in Advanced Clear Cell Renal Cell Carcinoma - Business Wire",
+      "source": "Business Wire",
+      "date": "Mon, 19 Oct 2026 11:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNY3JIUFZpdzVrUGhSRmNfS244cjd4cmEzcWdZVE1WSEJpVVdQY2dXT0VSV1djS0xHSVVOekpBdTZGbUdhdWxTN3FkQzlaX09TSUt4dVh6alNDVGF6WDFyTVBCd05pZ0NuOXU1cDd5OG9ib1FHT2FINENqYl9QZmdhdE5fM3d4MWpVOGVoRHdZLXpGdU1UOTFxSVlxQ2s2SXNyT0k2Q0RCUUJRRlp0SG82ZlJVTF9aZk9WNjNEckNDUUFTX2E4V2ZhZmhQdDVqOXh3NnI5NklTTjFza3ZmZGJyMzlFTWlYRVZ0UlhSeWlnd1p0MzBJVzQ1X3JQODhaXzZUQmVDVW04T2NMLVVwcm1TczUzMXZLbjhGTzNuWWl3?oc=5",
+      "snippet": "Summit Therapeutics Announces Opening of Global Phase II Study of Ivonescimab-Based Regimens in Advanced Clear Cell Renal Cell Carcinoma&nbsp;&nbsp;Business Wire",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "Comprehensive LC-MS/MS analysis of antibody-drug conjugates - News-Medical",
+      "source": "News-Medical",
+      "date": "Fri, 16 Oct 2026 17:55:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3piSWxOanoyY3pjQ3NwZlNGSzFRQ0tvRkVnVXZ1b05yUzlCMkFKRUs4dHdlRWx2MXBjWUxZRzlDcG5yUkNrSnQyRUgxcTFKaEU0QXMzeUZDWmFjdEY5X2gtMWtpZC1FRmh5NlZfaXB1bXZnTTctMnVVTm9pVExpRkpVWW0xX0pLeUZtYjRZMmNNWk92QTZxaGlqMA?oc=5",
+      "snippet": "Comprehensive LC-MS/MS analysis of antibody-drug conjugates&nbsp;&nbsp;News-Medical",
+      "matched_query": "ADC antibody drug conjugate news"
+    },
+    {
+      "title": "Recombinant Protein Market Size, Share, Forecast, 2034 - Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "date": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tRUprakZtU2toZ1dZWjdLc1N4NTJ0a3dQN1FWZFpSQWItYnNxZ0pfelBRX3pNMmlNdTJMYll6cndTaGZ0SFJkVnE2MjhsV29HZHVTbWtaYnZMeWJxV01BV21CLTlvd0xkTWtWVzlKTUV0aG9ZZDZkeWhObmR6Zw?oc=5",
+      "snippet": "Recombinant Protein Market Size, Share, Forecast, 2034&nbsp;&nbsp;Fortune Business Insights",
+      "matched_query": "recombinant protein therapeutic approval"
+    },
+    {
+      "title": "The BioPharm Brief: New Approvals, Biosimilar Competition, and Deeper Remission - BioPharm International",
+      "source": "BioPharm International",
+      "date": "Thu, 15 Oct 2026 23:06:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0FwbkluTDY1T1hUbDZHUW9PVFFlMDQ0cjZYTmxyZlFqTmM2RzctY0tCTEJMQVZSVlVHWjM1anREaTFyYkJQSS1WUHZWd25sQnZsOWhOX0ZKQUNBc1hLSzUtSmF2aEZnM1JNZE5OZlQwZ09yQmNaMDY3b3hnLTdtZW5zc1B4dGp0TzFsVGVnVXYwMmhsQk5uelEtZlp6YUtZcF9UNXZXLXVMVkJyVkd0UjRmd29pbDA2TWQw?oc=5",
+      "snippet": "The BioPharm Brief: New Approvals, Biosimilar Competition, and Deeper Remission&nbsp;&nbsp;BioPharm International",
+      "matched_query": "biosimilar approval"
+    },
+    {
+      "title": "GLP-1 Drugs and Obstructive Sleep Apnea: How Weight Loss Medications Improve Breathing During Sleep - News-Medical",
+      "source": "News-Medical",
+      "date": "Mon, 19 Oct 2026 03:03:33 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWDZobTFsU3YxUjMyR3U5UkdjR21hc1JNWUEzU0ozbmxJb2FQWTdsMk0wOHdmYlNJTWNtX0gzMWZoM3E4bEZmU1ZZajN2WFNnRzJWeGVZelM2UUpJTnZMU25hNGkyRUcwUVlSZkdCaHZKUzBiWFBnc25LZUpVR0VKMmZDMi1PY1BnRTFTb0RPOVA2T3oza3VmSk5WbUtTeUluNHctaURGbGFSVnhTcVVEeHdWV1c1bGdTTFNkeEVfb3gyOEU4ak9zX21JaTlkYWdydTVwMFp3?oc=5",
+      "snippet": "GLP-1 Drugs and Obstructive Sleep Apnea: How Weight Loss Medications Improve Breathing During Sleep&nbsp;&nbsp;News-Medical",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Black Mold, Bugs Found at Chinese Plants Making GLP-1 Compounding Agents - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "date": "Thu, 15 Oct 2026 11:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWEybTVXU3hNRjNhbDhkeEVFb05TcFJINlBLbndaY3FKQUFCSFk3bFhLbW5hREt6M0pHcmxZTmFJa0w5LVE0bW1lTkVpclZQYzFpRGJjdEsyd3JVYzhuLUU4dkpwcmlOMHppNkhBRDF6bkdrdUo4dE5xUS1WRXl6d29BakpWZHRGYUpiQlh1YmdqRnJUM05EcTEtTU1uYjBaZkd2dzF1RkpmcTN1RVpiSDFiZk1RamtNeWg4NUtBNWdwTHFMYldz?oc=5",
+      "snippet": "Black Mold, Bugs Found at Chinese Plants Making GLP-1 Compounding Agents&nbsp;&nbsp;Bloomberg.com",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "Peptides talk is everywhere: But what does the science say? - Stanford Medicine",
+      "source": "Stanford Medicine",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVQ3cU4xTG1iTGY0MC1wb1ZENnVHRVF3NWExOVlIb0tqZF9hTFdJT0pvNHFNVUFYV3JNVEJuNUNZRnY3dmQyemUzWEtKWmc0eW96UUY1NXlCQzB4d3NHWVpmbFA0dW03R05ZdEtmWTFqR0hfbm5zaGw0SmNZZ2dvUXVWSEJTZFhKc3RDejVsdw?oc=5",
+      "snippet": "Peptides talk is everywhere: But what does the science say?&nbsp;&nbsp;Stanford Medicine",
+      "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "2026年9月227款新药获批临床！52款纳入特殊审评，5笔重磅BD交易达成 - 摩熵医药",
+      "source": "摩熵医药",
+      "date": "Tue, 13 Oct 2026 03:42:19 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81eGlMUXJNU3BLcnpXOWh3Y2FyMTJGanZGZTVGdFJfR041a0dqaEJiLTNMYlR1MTJ4b2pTMnlDaTVMTkVxWXFjbGdkS3M3bW5IRmhZN0xUOA?oc=5",
+      "snippet": "2026年9月227款新药获批临床！52款纳入特殊审评，5笔重磅BD交易达成&nbsp;&nbsp;摩熵医药",
+      "matched_query": "抗体药物 审批 临床 2026"
+    },
+    {
+      "title": "2026年眼科抗VEGF药物竞争格局、核心品种表现与技术发展趋势全解析 - 摩熵医药",
+      "source": "摩熵医药",
+      "date": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FYWNCbUk5dkx4REE1ckI1NV9EMnM1d1lfVmNuNGNQSkF5SDU5NGh2cFFJTWpnN0haMTFZby0tODk2ZzROMkYxYVRyaW1VSTQ5UFZxRFBnUQ?oc=5",
+      "snippet": "2026年眼科抗VEGF药物竞争格局、核心品种表现与技术发展趋势全解析&nbsp;&nbsp;摩熵医药",
+      "matched_query": "生物类似药 上市 进展"
+    },
+    {
+      "title": "不差钱，也要冲刺A+H上市，“卖水人”的全球化豪赌_公司新闻_财经 - 证券之星",
+      "source": "证券之星",
+      "date": "Fri, 16 Oct 2026 08:22:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OR3YtMGFTYnJkMlQ3QVl1Z0NGVnNGTXNSMDdaUzNKNTNEd2JjSlVaUzhxMUV2dkFIeklHeWRqdlZTdlRtR2VySngtVFJvUk4yZkRNUUU2Vm9Vdi1HQ3lHQg?oc=5",
+      "snippet": "不差钱，也要冲刺A+H上市，“卖水人”的全球化豪赌_公司新闻_财经&nbsp;&nbsp;证券之星",
+      "matched_query": "重组蛋白 药物 研发"
+    },
+    {
+      "title": "韩国生物医药史上最大并购落地在即，三星生物为何押注多肽CDMO赛道？ - 财联社",
+      "source": "财联社",
+      "date": "Fri, 16 Oct 2026 05:32:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IQTlTUXNBM0FSbHZNZWNzOFg1TnhtQ0ZSOTlwM2FXWUFUZEtBX3ZBWHhqVXZCMktaMnVTa0Y3emFaMzdWcGdOQg?oc=5",
+      "snippet": "韩国生物医药史上最大并购落地在即，三星生物为何押注多肽CDMO赛道？&nbsp;&nbsp;财联社",
+      "matched_query": "GLP-1 多肽药物 审批"
+    },
+    {
       "title": "UCB announces U.S. FDA approval for ZILBRYSQ® (zilucoplan) autoinjector self-administration for adults living with generalized myasthenia gravis - BioSpace",
       "source": "BioSpace",
       "date": "Fri, 16 Oct 2026 13:13:46 GMT",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTHB6a1Jqay11bUpDNDRwSjB4RUxpc0I3N3h6Si1XLTYzUG4zV3NsQjR6TUVFb1EtR1I3SHVXcDh1cU4yZWQ5ZmpPTHpXSnNfNmdhTXZnS2RGREFDdHlydnN0bkxtQnl4b3ljNHIzX1VaWmpYTmo3NWxxRkRpSTFEcWk2RTJRTWYtZFhNd2JWOV8teFNLVWRxWHJEOE9BT0JkZEFvN2VvcVZnR29jZFFKVV91V2ZUekREWDQ1dXRjZXhWeGJJdGV3cEFwU05oNmY3VXRIWEJrYUNZTktwUDdKaENkaVVxVHZJQUZ1eHJxS2xSaW9xNGxxYlVmbnlNV3F3UzlvNHRHSGJMSWJz?oc=5",
       "snippet": "UCB announces U.S. FDA approval for ZILBRYSQ® (zilucoplan) autoinjector self-administration for adults living with generalized myasthenia gravis&nbsp;&nbsp;BioSpace",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
-      "title": "FDA approval of Gazyva offers new option for pediatric INS - Contemporary Pediatrics",
-      "source": "Contemporary Pediatrics",
-      "date": "Thu, 15 Oct 2026 18:07:06 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHJSNXVCMDlOZEVXM0QwNnQ1cEpmNHk1b0E4NTJhbWU1bVM0NjZfdlhlVWZ1Z2RfdzRIUE5Bc2NrbUtfaUFGTnc1NXRBaXBUQTNrZ293OTlLRU5ZSnpPQlVBcjhxT0JLN3ZnZVBHOTlBWlpIWHM1eEloaE9CMFg2VWVoekQya0xxMmg4azBDVi1hdHA2UUVlZE00YXFkeDNtWFlhRg?oc=5",
-      "snippet": "FDA approval of Gazyva offers new option for pediatric INS&nbsp;&nbsp;Contemporary Pediatrics",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
-      "title": "Scholar Rock scores long-awaited FDA approval, the first for muscle loss in SMA - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "date": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWw4T0trQi1DQmZGU2JvOG90RnZzM3RnQjA1dXVlVVp0NDVOVF9wZTZUbXdfNDhNaVpYY09jcUN4LU9EZEpUUTNHWHZsUFpkd0YwajBPTzFGOTJ4NmVmTkpyRG8yUmozbHAyOE44TkdsbTJPQW9MZW1xMVJ3b1dyY3NxbDhab0VtaVlWLVYwY1pIeFVfbmpTc05uWVJnV1hBNVA0dmxvUEVPY21NV3FyZTByNVJzaDlIQnJv?oc=5",
-      "snippet": "Scholar Rock scores long-awaited FDA approval, the first for muscle loss in SMA&nbsp;&nbsp;Fierce Pharma",
-      "matched_query": "monoclonal antibody FDA approval"
-    },
-    {
-      "title": "Teva Receives U.S. FDA Approval for Denosumab Biosimilar for Oncology Indications - Oncodaily",
-      "source": "Oncodaily",
-      "date": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfUm42a0kxTVhVZ1IxeTduYlpRWjh1UmN6YzJRd1VkbG41VHZmZThUSVJKTmptVmtWZ0F0UUk3akVPeWxFNXRSaDBlbFJpdlloS0QwelpzckRWRzBCUXpINVlELTZ3SDh2YjRJcXhR?oc=5",
-      "snippet": "Teva Receives U.S. FDA Approval for Denosumab Biosimilar for Oncology Indications&nbsp;&nbsp;Oncodaily",
       "matched_query": "monoclonal antibody FDA approval"
     },
     {
@@ -52,36 +117,84 @@
       "matched_query": "bispecific antibody clinical trial"
     },
     {
-      "title": "ABL Bio to Unveil Clinical Data for Two Bispecific Antibodies at ESMO; FDA Fast-Track Gastroesophageal Cancer Data in Focus - BigGo Finance",
-      "source": "BigGo Finance",
-      "date": "Mon, 19 Oct 2026 01:55:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BdUVET3p0ZGlyU09wc3hTT3pybHZSTWlBQlY0a0hEMklFbzZiVF9mWEQyc2lJWHZYeEhnSFNxWHZzSzI2RXhZQVpBU1k4Uk9JU3FvLWs2cl93MHluZTVWamdrTXZaQXNuak1PU3lVWkVXVmtfVGc?oc=5",
-      "snippet": "ABL Bio to Unveil Clinical Data for Two Bispecific Antibodies at ESMO; FDA Fast-Track Gastroesophageal Cancer Data in Focus&nbsp;&nbsp;BigGo Finance",
-      "matched_query": "bispecific antibody clinical trial"
+      "title": "Guided missiles of cancer medicine: how antibody-drug conjugates are rewriting targeted therapy - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "date": "Fri, 16 Oct 2026 15:36:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZxblg4T1VOS1hac3FtZ29MTzMySGVTbGxNVDY3TXhRN0paR1o2Y3NLMTJka2NCSzhxbGxZUlRtOEpHczB5aVIzc0NHSGk3VmZCUkdSS09nSDdKd19iZ2FpZ2d1bkxKV1BYbzVxWURBZ05ROFBsMGpvdkpMNzBjTXhFREpTNlpuZnV4LVJuX2VWMDM0b1BTNC1GbFl3Sng3MzdjYmdpVFlWRndqbFlnRGdtSEljbmIzd200?oc=5",
+      "snippet": "Guided missiles of cancer medicine: how antibody-drug conjugates are rewriting targeted therapy&nbsp;&nbsp;Bioengineer.org",
+      "matched_query": "ADC antibody drug conjugate news"
     },
     {
-      "title": "Building an Outpatient Bispecific Step-Up Dosing Program in Community Practice - CancerNetwork",
-      "source": "CancerNetwork",
-      "date": "Fri, 16 Oct 2026 18:00:54 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3ZWQjR6T1BxRGxGdFdTMTBKcC1qZ0F4M0g0cFdWR3BVTWsyLTk0eWgycHI2aXBibGdQZGhKUmVSQzhDUWhRcEJoVEtiWUh2b3RfUFpqVlhCel9OQWRxanpDXzZuSXFPcmZkQVhOdUxOOEx4ZkJtZU9FbEJfU2ptTUstYmVYRkhmd0hxR3lhNndTNHpCTUpUUEt1R2pmSDE0bS05TWljZUV1b0dQSjhaeGF1QQ?oc=5",
-      "snippet": "Building an Outpatient Bispecific Step-Up Dosing Program in Community Practice&nbsp;&nbsp;CancerNetwork",
-      "matched_query": "bispecific antibody clinical trial"
+      "title": "Protein Therapeutics Market Size, Trends & Analysis, 2034 - Market Data Forecast",
+      "source": "Market Data Forecast",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXlsZFUzRmI3dVhEMm1rZFMzQ3pCaDNDSjk1alRsMzN0NnZDNmVJam9qRi0wNVVkTWZMSFoybms5WmdnSjc2dEI4Y0FZeUlPcTU1Qktfa056XzB2WklvRFczVnRZNWNJMlR4U3l4NGktbmNBU2l2UEN0c0RfS1dKRlZSUmdSR3hpTmZUTQ?oc=5",
+      "snippet": "Protein Therapeutics Market Size, Trends & Analysis, 2034&nbsp;&nbsp;Market Data Forecast",
+      "matched_query": "recombinant protein therapeutic approval"
     },
     {
-      "title": "Launching Hope Through an Innovative Immunotherapy - University of Utah Health",
-      "source": "University of Utah Health",
-      "date": "Thu, 08 Oct 2026 15:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzJZMmpJWWc4QmpFYUhnSmxtUzh1akpoVXhBSFcwUlRIY29Rc285dHVJZjhqZDVfYmRHeklySUlqNjhGaE9ub1dOSDJfS3ltZHVic0NCR2pWNnYxM2YwV2lQXzlrZTVTN1pzS1l3RGFGY1Ezc3BXV2kyTzZJOG9LRHk1VGZQM0lUQXFRRlduSmtxTUFNdURBX1k2Tm81dW9QWVFDY2Rfc1ZZcEVBVHBBaFln?oc=5",
-      "snippet": "Launching Hope Through an Innovative Immunotherapy&nbsp;&nbsp;University of Utah Health",
-      "matched_query": "bispecific antibody clinical trial"
+      "title": "Zydus and Formycon: FYB206 Becomes First Publicly Announced Keytruda® Biosimilar Accepted for Review by USFDA - PR Newswire",
+      "source": "PR Newswire",
+      "date": "Tue, 13 Oct 2026 13:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa1o1ZEd0NVlsQ2cwVGRObWR0LWtJZVNJZnNzaWxjdFZ6Q19ZdU1ZM08tZE94UmNXUDhTU05kT05DM0pMZWR3X2NYV2V5SXV0X2FJTnBkTEVlbU15NnpvdUJiSGgzaU4tQ3VWcDJXWG1UN1JxS3VpR2VUcTlRdWlNcl9wWDJ2N0xaRXM5WFNxQjFzd3pKdElDUHFURjNGT29ac3VQVVV1Sm5FYjk4d3VHQUM0MFdHcXBLYmlXQXVPY0g1VTdXSFBETTVFdUh4WDJ5aF91aWxlYzd4cGg5aTBsMW9jWGpkZ1ZnRGMwakVkQ1RLZ0dwR1E?oc=5",
+      "snippet": "Zydus and Formycon: FYB206 Becomes First Publicly Announced Keytruda® Biosimilar Accepted for Review by USFDA&nbsp;&nbsp;PR Newswire",
+      "matched_query": "biosimilar approval"
     },
     {
-      "title": "Zai Lab to Present Data From First Clinical Trial Evaluating ZL-1503, an IL-13/IL-31Rα Bispecific Antibody, for Atopic Diseases - Business Wire",
-      "source": "Business Wire",
-      "date": "Wed, 14 Oct 2026 11:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMC1iZ0JEZG96RTQ2Mk1yVmstTGRLY3dpc2RhT0dKMy1xQXNta3VsalNMcEZscmFnV1hOWWlOckJIam1xUWphQVp0TjlGM0N2VVFrM2Uyb254QlZwejFpZWxnQVVTT3BkRDNneXcxV29OZkF2WmJuRFhXLXkyODNMSVFiLU9nYUttUVkxUXo4YUhfaFEtUUxSSVRFTko2amdjLWJVd1M5M19tVE1pVk9DQmNyTUdBZzNpV3FOaFd0YmxaeUpranVFNS16Mmt2OG1EOHU2SHFmQ3JqaDZCcDVKR052Q0ZmcVRTNE40MWxUMk1fUTBFRGt0TDUzWExOX1R3QlZvN2tpNmxycVZN?oc=5",
-      "snippet": "Zai Lab to Present Data From First Clinical Trial Evaluating ZL-1503, an IL-13/IL-31Rα Bispecific Antibody, for Atopic Diseases&nbsp;&nbsp;Business Wire",
-      "matched_query": "bispecific antibody clinical trial"
+      "title": "Should amylin have been obesity therapeutics’ primary target from the start? - BioSpace",
+      "source": "BioSpace",
+      "date": "Mon, 19 Oct 2026 04:10:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkhMMVpQSlJpaFZsWGhtMHRERGNlRGhibjl4SEFZREhBU1lpZnhXUjlrdTJXODAtbi1NSzBueks2SlJqUUstcmNJaEoxWkZoYUFMekFQQ3B0b0JPdURhMmYxR2c5ZTB5dWpPNFRWd3hmUjVBenpZRU16dm5tME9hc1B6S3RZR0hEVEI0d0E0bFVQLXQwaW9GNUlyVGx0RUN0SkNtdXdFQ3VPSzAxUUo4aHhLRlRRWGM?oc=5",
+      "snippet": "Should amylin have been obesity therapeutics’ primary target from the start?&nbsp;&nbsp;BioSpace",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "weight loss drugs news today tirzepatide semaglutide - www.polskieradio.pl",
+      "source": "www.polskieradio.pl",
+      "date": "Sun, 18 Oct 2026 19:24:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2RfRE1INXNtZ01FY1BlZU5WTVhrQzZTZ1MxVUhBNjg1TFlzVkNPRE9iVEc2RDhZb0Z0TDBsMWdMVGRLWnNXUzVPNVZXNzJETUVWbURkLTMzVE1VM3VRcVVCcXcxeW9xclA5b2NuQVVkTGtxNE5UZmg5MXVWX1hxMWZTLWpuUVF5aUgzVHJSSkJsTmRWNDlTRHlZYURWazhPWFZLd3A5UjY?oc=5",
+      "snippet": "weight loss drugs news today tirzepatide semaglutide&nbsp;&nbsp;www.polskieradio.pl",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "Peptide Therapeutics Market Size, Industry Share, Forecast, 2034 - Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "date": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3RvYVA2NFlvSGNsaEV0XzZlc1FZenJCOVJWU2ptMXUybXNOSlM5SEw0WF9LbFFzTEJxRUxKRnJnQUlZaS12Rnk1RndTOW94WDdDdDB5TzJzS19XN085OXN1Q2IyaEM2YTlXNmxnNW11TVB4bWZfbWxiNWlxSkVJZ3dxRU01MFJGdU1pbE9FN0duU1c4M2c?oc=5",
+      "snippet": "Peptide Therapeutics Market Size, Industry Share, Forecast, 2034&nbsp;&nbsp;Fortune Business Insights",
+      "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "多重优势协同发力：智翔金泰管线成果进入密集收获期 - 人民网",
+      "source": "人民网",
+      "date": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kNnhHcVcxVVZmYVNrMkkydWQ1SUc1eVhpaE9ZTUVVMFYtT1NHSHFiMllwUTUzeDdqMDhkZWxidVhpM0U4eEpETWRVQWw0TnB3R0dhbUdIUnJLT2d0SFR4Zm0yeGNjT3dTeUE?oc=5",
+      "snippet": "多重优势协同发力：智翔金泰管线成果进入密集收获期&nbsp;&nbsp;人民网",
+      "matched_query": "抗体药物 审批 临床 2026"
+    },
+    {
+      "title": "阿尔沃与梯瓦合作再生元，推出Eylea生物类似药，2026年登陆美国市场 - 智慧芽",
+      "source": "智慧芽",
+      "date": "Sun, 21 Dec 2025 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQSWN6VjMzUC1MVFk1M2pWU0J1TFpTZWhQQlJKcEZzc0RmTFZCVndMTndLeVVMZGJlbmNnYWRobTdqdWxaNUFKcTlMaENSOUkzRWYxOWxmVFBudEUtenZLbFRlUlZweU1FLW1GSUNrbDNFdHhrNmlxYjRqLXFQckJiTmQwYU1mR2hSaHdqSTdycGEtdEpWcEl5dk12Rjd6eVdRVG42X0x0ZUZQTXNEeVpxZXR5NF9xcVByZnNZWkRvY3JfSkJXSnlNN0pDajlUQ3ItQThiM0RJMjlRYjJWWEx3bDRzN1NNQUhkRms2c1owQ1dGZUxrQ0J5MDFZaUdaLVAwb3dsb0xkLTc2dEl5VU1JOGd2VkdXNGYySzVPUHhfeFlHYU1BTmRBdUl6ckpBX2ExZDVPNkttSFFmdHJpamE1N29lZ1RYckttOUtCRUJqZ21xMEZLdmRLbU9lR0gtTndzZnZnVVNYOVVfWTBYTUJTVkRKcWZqSVdfVjExTzVrRURrOGNNMC01blFrc0NEend4bk93?oc=5",
+      "snippet": "阿尔沃与梯瓦合作再生元，推出Eylea生物类似药，2026年登陆美国市场&nbsp;&nbsp;智慧芽",
+      "matched_query": "生物类似药 上市 进展"
+    },
+    {
+      "title": "国投创合投资华奥泰生物 - 搜狐",
+      "source": "搜狐",
+      "date": "Fri, 16 Oct 2026 14:02:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQnA4bVN1U3duXzczbTlONnM3NkRUdU5GV3BXeUZhSEl2al9ZR0xoMGdNcWdQUXdveVptSm9ZdjhyazRrb3JSb2hIUHJQXzl2b0Vxd2RZSjc1TURvMUxqbWZxMWhNcVhPZ0ZrQmFjWDBZNjlRQUl2MGxvQ1lrUWRqTVdLeTJ2UjFn?oc=5",
+      "snippet": "国投创合投资华奥泰生物&nbsp;&nbsp;搜狐",
+      "matched_query": "重组蛋白 药物 研发"
+    },
+    {
+      "title": "当GLP-1领域警告信激增，药明康德以“零缺陷”回应全球质控挑战|生物制品|FDA|监管|药物|数据 - 手机新浪网",
+      "source": "手机新浪网",
+      "date": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPcW4xTTVGN1l0VE5XRjRYNTdxTkZER2lUbEVKZDNLcFVpWU9ocmRGZ1JPaF9GWVJuNFFNR2VERGNTcnUzYkh0T21LWUFETzBsLURJMUFqT2h1NjBDTjYzRjJSRDVtWnlReDZmX09rWUIzWTQ5NHlPYldGRjluSTY1SFV5dkxxMjMyVkh6QjgwLVdMRUp1cXNYbDBSS2pZT1o1c2NVTHJ3YWZFcFBrY05BQ3B4WHQ3M2JMM2MxWG9tQUE4Mm53bFNaOWVrTXJKN0lHelA5M01KVDRiZ0FqSGIzSFE1LUZZOTlBd2RMQlpWLWRPc1FpODQ4b3dHUHRyeXVhSjdYVzZneTNuVjBuOTZ1UzVOMUgxNjFzTmkwLWo5SXN2RlBjdURJ?oc=5",
+      "snippet": "当GLP-1领域警告信激增，药明康德以“零缺陷”回应全球质控挑战|生物制品|FDA|监管|药物|数据&nbsp;&nbsp;手机新浪网",
+      "matched_query": "GLP-1 多肽药物 审批"
     }
   ]
 }
