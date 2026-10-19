@@ -24,6 +24,50 @@ import feedparser
 CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cache")
 os.makedirs(CACHE_DIR, exist_ok=True)
 
+# ── 每个主题落盘的条目上限（2026-10-19 由 10 上调到 24）────────────────────
+# 为什么必须调：原先写死 `unique[:10]`，而 `all_items` 是按 queries.yaml 的**书写顺序**累加的
+# ⇒ 排在前面的关键词（审批/管线/佐剂）几乎吃满 10 个名额，排在后面的**专利类关键词
+# （patent / litigation / 佐剂专利）长期一条都进不了缓存**。下游日报的「专利动态」因此
+# 常年只能写「本周无重大新进展」——不是没有专利新闻，是新闻在 relay 这一步就被截断了。
+# 现在改为**按关键词轮转（round-robin）取条**：每个关键词至少保 1 条（有结果时），
+# 上限 24，保证长尾关键词（专利、市场、中国动态）不会被整段饿死。
+MAX_ITEMS_PER_TOPIC = 24
+
+
+def balanced_pick(per_query, cap=MAX_ITEMS_PER_TOPIC):
+    """按关键词轮转抽取条目（每轮每个关键词取 1 条，全局按标题去重）。
+
+    Args:
+        per_query: [(query, [item, ...]), ...]，保持 queries.yaml 的顺序
+        cap: 总上限
+    Returns:
+        list：**轮转顺序**排列的条目（因此 `items[:8]` 也能跨越多个关键词）
+    """
+    seen = set()
+    picked = []
+    round_idx = 0
+    while len(picked) < cap:
+        progressed = False
+        for _kw, items in per_query:
+            if round_idx >= len(items):
+                continue
+            progressed = True
+            item = items[round_idx]
+            title = (item.get("title") or "").strip()
+            if len(title) < 5:
+                continue
+            key = hashlib.md5(title.encode("utf-8")).hexdigest()[:12]
+            if key in seen:
+                continue
+            seen.add(key)
+            picked.append(item)
+            if len(picked) >= cap:
+                break
+        if not progressed:
+            break
+        round_idx += 1
+    return picked
+
 
 def fetch_google_news_rss(query, max_items=5):
     """通过 feedparser 解析 Google News RSS，自动检测中英文"""
@@ -106,17 +150,20 @@ def run():
 
     for topic, keywords in all_queries.items():
         print(f"[{topic}] 搜索 {len(keywords)} 个关键词...")
-        all_items = []
+        per_query = []
         for kw in keywords:
             items = fetch_google_news_rss(kw, max_items=5)
+            per_query.append((kw, items))
             if items:
                 print(f"  '{kw[:40]}': {len(items)} 条")
-                all_items.extend(items)
             else:
                 print(f"  '{kw[:40]}': 0 条")
 
-        unique = dedup(all_items)
-        print(f"  → 去重后: {len(unique)} 条")
+        # 先全量去重（仅为统计），再按关键词轮转取条 —— 保证长尾关键词不被截断
+        unique_all = dedup([it for _kw, items in per_query for it in items])
+        picked = balanced_pick(per_query, MAX_ITEMS_PER_TOPIC)
+        print(f"  → 去重后: {len(unique_all)} 条；轮转保留 {len(picked)} 条"
+              f"（{len(set(it.get('matched_query') for it in picked))} 个关键词有代表）")
 
         cache_file = os.path.join(CACHE_DIR, f"{date_str}_{topic}.json")
         with open(cache_file, "w", encoding="utf-8") as f:
@@ -124,8 +171,9 @@ def run():
                 {
                     "date": date_str,
                     "topic": topic,
-                    "total": len(unique),
-                    "items": unique[:10],
+                    "total": len(picked),
+                    "total_raw": len(unique_all),
+                    "items": picked,
                 },
                 f,
                 ensure_ascii=False,
