@@ -2,7 +2,7 @@
   "date": "2026-10-20",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 93,
+  "total_raw": 94,
   "items": [
     {
       "title": "FDA approves Moderna's mRNA seasonal flu vaccine - ABC News - Breaking News, Latest News and Videos",
@@ -59,6 +59,14 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByTGVGX2xSdFlBY0lUTFVPckRZWVZWN1BicjFPOS1KZjNDS20yTjZNeGZQSlY2TTVmM01felF1MGRWOWZwOE9CY0R3cWhFLUh0dTdlR0dBUEVtTHNZMUoxRXJlSGw2U1R4LU11RXh3?oc=5",
       "snippet": "Trinity team to repurpose injectable influenza vaccine into nasally delivered option&nbsp;&nbsp;Trinity College Dublin",
       "matched_query": "vaccine adjuvant patent"
+    },
+    {
+      "title": "CureVac sues Moderna for patent infringement over COVID-19 vaccines - Reuters",
+      "source": "Reuters",
+      "date": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVXo1ZWNwR3hBbTM4X0tLVTM0bG5wSFZVc0trSnBuMmZUbFZHYXNqQUI1TlJJYklOYzVOQnpyYWVybEREM0RRYm13YTI0QXBhUW9uN0hIcmlsYWo2RTVYZnlhNUhLUERPb205eUhsYnRxclZEd1pGRnVleTAtNXhnajYzSE5MeThOSjlpYWs5eGxJVGtjMFlHMFk4LUgwVkVFaUNRb3d0WDM4ZGtOX3A0clQ4bDNTdVk?oc=5",
+      "snippet": "CureVac sues Moderna for patent infringement over COVID-19 vaccines&nbsp;&nbsp;Reuters",
+      "matched_query": "vaccine patent infringement lawsuit"
     },
     {
       "title": "Merck CEO says new pipeline is built to offset Keytruda's eventual patent expiration - CNBC",
@@ -187,14 +195,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2VDQlJnWHUwVDlvSHdYMVJIaTRGVXZBN0UteGdESVMtT1FEN0NaR0VDQnlDVlRZZmhuejBVclp3a01DYThpMEZzbDdSdExNcDllWWpKTjlWNjYySUp5X2VsajNzX0VHaW12bDRiLU1UQmVXYUdXdGhPUnkteGhYa1p6ZWk2M3VWdDZxeklqRnhMSzNfeEdvektzdjNjMFdlRG1KeE1tYXg4MkVz?oc=5",
       "snippet": "Recombinant Vaccine Contract Manufacturing Market Report 2033&nbsp;&nbsp;Grand View Research",
       "matched_query": "VLP vaccine pipeline"
-    },
-    {
-      "title": "The recent advances in vaccine adjuvants - Frontiers",
-      "source": "Frontiers",
-      "date": "Mon, 12 May 2025 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkNiVlp6V3cxeTJ3S240UF96RmlEckc2YWhObjZkVVpCd3EyMDhjY2VvMGppZDA2cVZqdEF5cEMxbzBrMnJpcWJkMjFxcGlxMU9ubDhaTnpGS0FrUlIyUDJnWjB4amlldGFoS19VT3ZaOUNPQ2l1S0VwblFEVTFqRzhtekRMT2UxeTZsZnBxVHk1Zw?oc=5",
-      "snippet": "The recent advances in vaccine adjuvants&nbsp;&nbsp;Frontiers",
-      "matched_query": "AS01 AS03 MF59 CpG adjuvant"
     }
   ]
 }
