@@ -2,14 +2,14 @@
   "date": "2026-10-25",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 95,
+  "total_raw": 94,
   "items": [
     {
-      "title": "Breakthrough vaccine for the deadliest skin cancer cut risk by almost half - The Washington Post",
-      "source": "The Washington Post",
-      "date": "Fri, 23 Oct 2026 00:26:57 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcnNsU1A1OWYzanlaZGVQdThwV1FIb2NhREFoT2RvSmpsNmw1cWsxWFdTVXBzZW9Qb2o4elBxZDZkSjVCNjJBenVWM05EOElWVnlIbzRONzZHTDdDdEtFSm5kMDZOVkpoSDVRT0tQMjBTMlZRbWpycV9lcld2Z3hXOWhkN1FsME1IU3d5OWstbkx3RWY1MmJCZGV0MXVDQTRrRjB6VThFbUVoWDNkR01jd3NDWEFhN0U?oc=5",
-      "snippet": "Breakthrough vaccine for the deadliest skin cancer cut risk by almost half&nbsp;&nbsp;The Washington Post",
+      "title": "Promising New Results for Melanoma mRNA Vaccine - Memorial Sloan Kettering Cancer Center",
+      "source": "Memorial Sloan Kettering Cancer Center",
+      "date": "Fri, 23 Oct 2026 04:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VeFl0WkcxeU52dVMwTU1KZmVxbzZGMkJzX2ZLc3laZG0zVEphOVVjVW1qYmpXSV9BYXA3S0pNZXFpcVZTX2JLaDh2M1VWVXYzUzJNS3haa09oWDBOVU9mQ2FuYU9QVjJKWGVDdWNUb1ZuZ3k1enEzVXR3?oc=5",
+      "snippet": "Promising New Results for Melanoma mRNA Vaccine&nbsp;&nbsp;Memorial Sloan Kettering Cancer Center",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -29,20 +29,12 @@
       "matched_query": "VLP vaccine pipeline"
     },
     {
-      "title": "From bark to bench: innovations in QS-21 adjuvant characterization and manufacturing - Frontiers",
-      "source": "Frontiers",
-      "date": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGVlY2JzNlp3aXloYlEwMGhtdGZYQWFKbTd0bW5OM2VaRWdwV0p6d3hDS0J3d29XcXJSNll0MVBrOGZSS1ZrODRVQUJEcmVnUFZwT01fTUtNUVNfbURkOUFYMkFzZHlsbmd2MndCblY2dmpIZlo4eDYyekZudmNtRUJPclRZX2Qzb3VGT3dnXzlfdw?oc=5",
-      "snippet": "From bark to bench: innovations in QS-21 adjuvant characterization and manufacturing&nbsp;&nbsp;Frontiers",
-      "matched_query": "vaccine adjuvant novel adjuvant system"
-    },
-    {
       "title": "Vaccine adjuvants: mechanisms and platforms - Signal Transduction and Targeted Therapy - Nature",
       "source": "Nature",
       "date": "Wed, 19 Jul 2023 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CaWRJVHJvX203X2hmbkRYZjctek9GQlVJSF9reUpCcXF6bWpuZzEyWGtwTzVPVUtVUFdLQnlDbExFU25oS0ItbXRQbmdqWjIySzFwV0JmTHB0cDZnbGVj?oc=5",
       "snippet": "Vaccine adjuvants: mechanisms and platforms - Signal Transduction and Targeted Therapy&nbsp;&nbsp;Nature",
-      "matched_query": "AS01 AS03 MF59 CpG adjuvant"
+      "matched_query": "vaccine adjuvant novel adjuvant system"
     },
     {
       "title": "Moderna loses US government license defense in Northwestern patent case - Reuters",
@@ -125,11 +117,11 @@
       "matched_query": "circular RNA vaccine therapeutic"
     },
     {
-      "title": "智飞生物(300122):鼻喷重组呼吸道合胞病毒疫苗（黑猩猩腺病毒载体）获得临床试验批准通知书 - 中财网",
-      "source": "中财网",
-      "date": "Fri, 23 Oct 2026 10:11:31 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzQWJDcm11NGRQR3Jpd2FwUzdzallRT3Z6NWE3amg2bG9JSGNsNENJUnd5RUdYaXFnT1ZRZjlEdldkVjVxUE1vTWYwOGpIV3pFNUdCUmRB?oc=5",
-      "snippet": "智飞生物(300122):鼻喷重组呼吸道合胞病毒疫苗（黑猩猩腺病毒载体）获得临床试验批准通知书&nbsp;&nbsp;中财网",
+      "title": "疫苗行业周报：创新验证与存量承压并行_行业研究_研报 - 证券之星",
+      "source": "证券之星",
+      "date": "Sun, 25 Oct 2026 12:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yUkVCeW9wLW53SHdZV2tvTS1iQnBCNHF3TnUzR3FGdFF4T1NoMWhoQzl4eVk3a3Q5ekJUVEo2Z2FyV2NCQS1FWFVHUU42NFRYLXZKV1VfcGVURTFPSkxrdDBB?oc=5",
+      "snippet": "疫苗行业周报：创新验证与存量承压并行_行业研究_研报&nbsp;&nbsp;证券之星",
       "matched_query": "疫苗 审批 临床试验 2026"
     },
     {
@@ -157,11 +149,11 @@
       "matched_query": "疫苗 佐剂 专利 授权 2026"
     },
     {
-      "title": "从“卖分子”到“卖平台”：这单BD改了中国AI制药的站位 - 潮起网",
-      "source": "潮起网",
-      "date": "Thu, 22 Oct 2026 01:30:07 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Gb2EtZlc3V1BRVkZVOHE3Z0R5QjhkU3FTQkRWU2pkbnhvLUxBem02eWNkVndlTHAtaHEyVktTWVJlTjBvN2JkLTRnV1JhY0J6QnJOd3NPcVFWcUpqMVBEbi01TQ?oc=5",
-      "snippet": "从“卖分子”到“卖平台”：这单BD改了中国AI制药的站位&nbsp;&nbsp;潮起网",
+      "title": "从“卖分子”到“卖平台”：这单BD改了中国AI制药的站位 - 钛媒体",
+      "source": "钛媒体",
+      "date": "Thu, 22 Oct 2026 00:41:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qLUhoczh2bjl2OWlKZTBUdTdwOHVBMnp3dFkzcG5nZTRhSE9nOUEteGhPRVVua215cl9WOXhWNWlWZHlUbm5nd2dQVGI?oc=5",
+      "snippet": "从“卖分子”到“卖平台”：这单BD改了中国AI制药的站位&nbsp;&nbsp;钛媒体",
       "matched_query": "mRNA 疫苗 专利 诉讼"
     },
     {
@@ -173,11 +165,11 @@
       "matched_query": "mRNA 疫苗 市场 规模 2026"
     },
     {
-      "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent - WIRED",
-      "source": "WIRED",
-      "date": "Sat, 24 Oct 2026 11:30:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjd2MkZqYmIycWU0aFdrSkR2T09aSlFJVUxyM1F0RVpVclhPUl8wOTRhbks3QVJBdHowNWw1dDduMDY1VGQzeF9kUkJVd0VUQlk4MGpGb0lWaHlHdTVkUnVmb19RWllVeHRsQVpZMHpfTTFGUU9HclJVYzVqZ0hOVWFWdzhlX1pIcnhYT0p6RlU5andVYTRHdm03dzlDRXdWbDN6YjFR?oc=5",
-      "snippet": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent&nbsp;&nbsp;WIRED",
+      "title": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials - National Foundation for Infectious Diseases",
+      "source": "National Foundation for Infectious Diseases",
+      "date": "Mon, 13 Apr 2026 17:41:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT001QWxiSzFoVEhjcE9kTlVVMXJwYkl5N0hqVjZfZ3ZFQW4wTlNCOWJrNWp2TXljd0NqODRISEZCMDBYVGlvS0xld3hhaE1xQS15dm5ibTJkZTFZd2Y2UEh3MldSa0Q2T0JPXzc3Y0NUWEFqd01Za19hMHBwNEJXX0Q5X29meDVMb2RDR0pxazZxdXM?oc=5",
+      "snippet": "There’s Nothing New About Applying a ‘Gold Standard’ to Vaccine Trials&nbsp;&nbsp;National Foundation for Infectious Diseases",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -195,6 +187,14 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUlHLVlCRTQ0YllkZGYxaXlkRkdQQzNwMlk4Z0U0SUtPeUpMNlBCZHdQbXJCYWFXZTVocjZxemNUeEdzN2xBQ2tLMjlNUjVoME13VEF6MlJpZDN4Q2czSlJuNGpxUExWcVNtdmZEMzRRVllGUmFSTlZ6SnE2X0JQX1BVWDNuazE1TFlPMXhMLWFlZEZSWDlYemxQamMtRVNZcEMwRmY2T1pybTBOR3h0YnhJTGF3b0diZXVRZWxST1RWdnJwYkpSQmY3Tms2TzhlWTJBZUMwNFN5c05F?oc=5",
       "snippet": "Therapeutic vaccines: Applying innovative science to tackle chronic disease in pets&nbsp;&nbsp;Boehringer Ingelheim",
       "matched_query": "VLP vaccine pipeline"
+    },
+    {
+      "title": "New-age vaccine adjuvants, their development, and future perspective - Frontiers",
+      "source": "Frontiers",
+      "date": "Fri, 24 Feb 2023 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFVURFJiWmx1MzJrUEUyRzFaYVVUQWczdG1YU0hXeFJzeDFaOVVpNndENzR0cU5xMjJaaWtBTV8wcVdMX0RsR0xzNWFOSG04aVZrdHJaZWhqRUhQX1RHVDhCWER4dFhlQldfQXlmSTJMTEd1TU5sNTFjYlhabVZfeWtCaGt1MGduSnZDa3A5N3oxUQ?oc=5",
+      "snippet": "New-age vaccine adjuvants, their development, and future perspective&nbsp;&nbsp;Frontiers",
+      "matched_query": "vaccine adjuvant novel adjuvant system"
     }
   ]
 }
