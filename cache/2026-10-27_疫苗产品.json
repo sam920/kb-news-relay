@@ -2,7 +2,7 @@
   "date": "2026-10-27",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 96,
+  "total_raw": 98,
   "items": [
     {
       "title": "Promising New Results for Melanoma mRNA Vaccine - Memorial Sloan Kettering Cancer Center",
@@ -21,12 +21,20 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "AstraZeneca to Acquire Clinical-Stage Company Developing RSV, hMPV Combo Vaccine - respiratory-therapy.com",
-      "source": "respiratory-therapy.com",
-      "date": "Tue, 12 Dec 2023 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRnlFUC1MVk5RVGt5N054cU9tLTJsVlhySElEU1BrMXIwaVIwOWEtZ2dWRnZIa2M3ZzdJZXlsbjlscldUY0NCT19acC1XSHBySEFWUDFIT3Jja3Iyb0FZbzlBbWJSWFFHRFUteWVQa0VqeUE0SGY5TGxaZmJTUVRfMlA0WGlSY25IWXhfVDVPUjhJMzZoN0RycUo4SFZmNkUydmFDZkxBMktoMHZpMzA3Y2JpS2MySjREUWROamZCZVlsMUdKZEF1cFBjV2tzcXE1VFUyT25B?oc=5",
-      "snippet": "AstraZeneca to Acquire Clinical-Stage Company Developing RSV, hMPV Combo Vaccine&nbsp;&nbsp;respiratory-therapy.com",
+      "title": "Lilly bets more than $3.8B on vaccine triple play - FirstWord Pharma",
+      "source": "FirstWord Pharma",
+      "date": "Tue, 26 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zNFBJcWxpb3VBVGRQM2J0Sl9GRnk4MHBNWlV3cThqcGp4d0pUSjVKek03UEQtdkJEcFdIdDg3YUtJa2xPdUpOWWhDTGFnRFc4aEpr?oc=5",
+      "snippet": "Lilly bets more than $3.8B on vaccine triple play&nbsp;&nbsp;FirstWord Pharma",
       "matched_query": "VLP vaccine pipeline"
+    },
+    {
+      "title": "From bark to bench: innovations in QS-21 adjuvant characterization and manufacturing - Frontiers",
+      "source": "Frontiers",
+      "date": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGVlY2JzNlp3aXloYlEwMGhtdGZYQWFKbTd0bW5OM2VaRWdwV0p6d3hDS0J3d29XcXJSNll0MVBrOGZSS1ZrODRVQUJEcmVnUFZwT01fTUtNUVNfbURkOUFYMkFzZHlsbmd2MndCblY2dmpIZlo4eDYyekZudmNtRUJPclRZX2Qzb3VGT3dnXzlfdw?oc=5",
+      "snippet": "From bark to bench: innovations in QS-21 adjuvant characterization and manufacturing&nbsp;&nbsp;Frontiers",
+      "matched_query": "vaccine adjuvant novel adjuvant system"
     },
     {
       "title": "Vaccine adjuvants: mechanisms and platforms - Signal Transduction and Targeted Therapy - Nature",
@@ -34,7 +42,7 @@
       "date": "Wed, 19 Jul 2023 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CaWRJVHJvX203X2hmbkRYZjctek9GQlVJSF9reUpCcXF6bWpuZzEyWGtwTzVPVUtVUFdLQnlDbExFU25oS0ItbXRQbmdqWjIySzFwV0JmTHB0cDZnbGVj?oc=5",
       "snippet": "Vaccine adjuvants: mechanisms and platforms - Signal Transduction and Targeted Therapy&nbsp;&nbsp;Nature",
-      "matched_query": "vaccine adjuvant novel adjuvant system"
+      "matched_query": "AS01 AS03 MF59 CpG adjuvant"
     },
     {
       "title": "Moderna loses US government license defense in Northwestern patent case - Reuters",
@@ -61,11 +69,11 @@
       "matched_query": "vaccine patent infringement lawsuit"
     },
     {
-      "title": "Pharma Industry Stares Down Biggest Patent Cliff in Decades - WSJ",
-      "source": "WSJ",
-      "date": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0VGbTM5VUNtc0gyckhWZUt1c2otQjlFOTRDQ25nN1JHWkNuYTA3WkdPOFVBWDhCOWhqNzUtVjRyVGFRN09Ddlp4aGotSHdSRXJ6UGE1Q19RM3B6SkhxNmN2LWUzWXR5RW5tazA0UGR2NVk1VXNpaTFMVUdxUzEwWmxZdTFtamNITDJxaVNGYUl6M1d3Qm5JcW55S3dTd1d0bGl6bA?oc=5",
-      "snippet": "Pharma Industry Stares Down Biggest Patent Cliff in Decades&nbsp;&nbsp;WSJ",
+      "title": "Blockbuster drugs face a massive patent cliff in 2026 - Drug Discovery News",
+      "source": "Drug Discovery News",
+      "date": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjJzTnVWMm1Sd1hta1loSy1ZQU5oXzdOT09oSHJ2YTY3cjJ5S1Z1RUFiQVEyRGh3azhnWHpSNjAwRzVlODh3aHR3YUNzc0lZaW5pRXhiX2lQcExXdEhaR1BEaWhXcXNwbGxRdFFqNEJwak1LX2hRZ0xvLUJzOU1SeW1aRVdNdWdYeThRaXFfeVU2R2MyV2NEWg?oc=5",
+      "snippet": "Blockbuster drugs face a massive patent cliff in 2026&nbsp;&nbsp;Drug Discovery News",
       "matched_query": "vaccine patent expiration"
     },
     {
@@ -165,11 +173,11 @@
       "matched_query": "mRNA 疫苗 市场 规模 2026"
     },
     {
-      "title": "FDA approves Moderna's mRNA seasonal flu vaccine - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "Mon, 26 Oct 2026 01:39:33 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1BQaW1BVDVnZmczM0Z2LVJBR0RuZEFxc25uSW10QTIzSlhBX0VGQ282YU5EMWI2M3FoTnJmTGU0WGY2RVdFXzNoanREejdsUHVDWUZXMWdJUldzUHB0R1ZWYjUydHU1YTRfYnVqdnlZU0VsTXNjS203TG8zWDI4OHgtOFBqcXgxYUIzanBDU1h3WjFmdlhiUtIBngFBVV95cUxQbVdvZXgyUFJhSlVYU2c2UzlnTzJGY25ubnBHSlVLTGNWcnBzZm1rbktweEpjTURzRGIyQURmd2p4Q3V6eUthX3FBZnFRYmc0Mjk0NUlKaUZhRld1aVIyS01fNmJ1VVN3eE1PeS0wQmQtUnZ5LUJoMF9YZGt5TmV3MGc5UFJDQmRuRE42MkJ0TnhRUmZVYjJqbW5tM3RUdw?oc=5",
-      "snippet": "FDA approves Moderna's mRNA seasonal flu vaccine&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "title": "How Vaccines are Developed and Approved for Use - Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "date": "Sat, 10 Aug 2024 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4VWF0aGM3eUpTYnJJSE5lYUk3c3dROFRsbXhodXprcVVZUlF4ZnJEbkhDSWpWWW5wVTZKRV9UY3pSSC05Mlh1OWdYMnRMV282ZW4yMThpSTZPaVd1Y0lWWkIxc3A0QUE4UjRMRURuQmE?oc=5",
+      "snippet": "How Vaccines are Developed and Approved for Use&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -181,20 +189,12 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "AstraZeneca Strengthens Respiratory Illness Pipeline With Acquisition of Icosavax - Pharmaceutical Executive",
-      "source": "Pharmaceutical Executive",
-      "date": "Tue, 12 Dec 2023 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjJITGgxSElqN1FmWUZRWHJTNEVZb1FXa2NSZko0VXJOMEhZQ1JNMlRySEhxQjRlaE9CTTVXV0ZFbVNhVjcwbWhtQ2FQdUlWUzI3YVhDeUZ1QWh1QmItOHFpQS1kc25fdmY2RlY2ZmJROThQWEdGRWx6WEg0Y285YkxvZVdzRzZDNW1CRzlXeUxvUnBJb1RDWWFHbGVGemtkTUFPUHctblNUTFFYWkdmaHpB?oc=5",
-      "snippet": "AstraZeneca Strengthens Respiratory Illness Pipeline With Acquisition of Icosavax&nbsp;&nbsp;Pharmaceutical Executive",
+      "title": "Therapeutic vaccines: Applying innovative science to tackle chronic disease in pets - Boehringer Ingelheim",
+      "source": "Boehringer Ingelheim",
+      "date": "Wed, 17 Dec 2025 09:27:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUlHLVlCRTQ0YllkZGYxaXlkRkdQQzNwMlk4Z0U0SUtPeUpMNlBCZHdQbXJCYWFXZTVocjZxemNUeEdzN2xBQ2tLMjlNUjVoME13VEF6MlJpZDN4Q2czSlJuNGpxUExWcVNtdmZEMzRRVllGUmFSTlZ6SnE2X0JQX1BVWDNuazE1TFlPMXhMLWFlZEZSWDlYemxQamMtRVNZcEMwRmY2T1pybTBOR3h0YnhJTGF3b0diZXVRZWxST1RWdnJwYkpSQmY3Tms2TzhlWTJBZUMwNFN5c05F?oc=5",
+      "snippet": "Therapeutic vaccines: Applying innovative science to tackle chronic disease in pets&nbsp;&nbsp;Boehringer Ingelheim",
       "matched_query": "VLP vaccine pipeline"
-    },
-    {
-      "title": "New-age vaccine adjuvants, their development, and future perspective - Frontiers",
-      "source": "Frontiers",
-      "date": "Fri, 24 Feb 2023 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFVURFJiWmx1MzJrUEUyRzFaYVVUQWczdG1YU0hXeFJzeDFaOVVpNndENzR0cU5xMjJaaWtBTV8wcVdMX0RsR0xzNWFOSG04aVZrdHJaZWhqRUhQX1RHVDhCWER4dFhlQldfQXlmSTJMTEd1TU5sNTFjYlhabVZfeWtCaGt1MGduSnZDa3A5N3oxUQ?oc=5",
-      "snippet": "New-age vaccine adjuvants, their development, and future perspective&nbsp;&nbsp;Frontiers",
-      "matched_query": "vaccine adjuvant novel adjuvant system"
     }
   ]
 }
