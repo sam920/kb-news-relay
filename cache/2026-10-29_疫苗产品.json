@@ -2,7 +2,7 @@
   "date": "2026-10-29",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 95,
+  "total_raw": 96,
   "items": [
     {
       "title": "Moderna CEO on what's next after success in cancer vaccine | STAT - STAT",
@@ -21,12 +21,20 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Lilly bets more than $3.8B on vaccine triple play - FirstWord Pharma",
-      "source": "FirstWord Pharma",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zNFBJcWxpb3VBVGRQM2J0Sl9GRnk4MHBNWlV3cThqcGp4d0pUSjVKek03UEQtdkJEcFdIdDg3YUtJa2xPdUpOWWhDTGFnRFc4aEpr?oc=5",
-      "snippet": "Lilly bets more than $3.8B on vaccine triple play&nbsp;&nbsp;FirstWord Pharma",
+      "title": "AstraZeneca to Acquire Clinical-Stage Company Developing RSV, hMPV Combo Vaccine - respiratory-therapy.com",
+      "source": "respiratory-therapy.com",
+      "date": "Tue, 12 Dec 2023 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRnlFUC1MVk5RVGt5N054cU9tLTJsVlhySElEU1BrMXIwaVIwOWEtZ2dWRnZIa2M3ZzdJZXlsbjlscldUY0NCT19acC1XSHBySEFWUDFIT3Jja3Iyb0FZbzlBbWJSWFFHRFUteWVQa0VqeUE0SGY5TGxaZmJTUVRfMlA0WGlSY25IWXhfVDVPUjhJMzZoN0RycUo4SFZmNkUydmFDZkxBMktoMHZpMzA3Y2JpS2MySjREUWROamZCZVlsMUdKZEF1cFBjV2tzcXE1VFUyT25B?oc=5",
+      "snippet": "AstraZeneca to Acquire Clinical-Stage Company Developing RSV, hMPV Combo Vaccine&nbsp;&nbsp;respiratory-therapy.com",
       "matched_query": "VLP vaccine pipeline"
+    },
+    {
+      "title": "From bark to bench: innovations in QS-21 adjuvant characterization and manufacturing - Frontiers",
+      "source": "Frontiers",
+      "date": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGVlY2JzNlp3aXloYlEwMGhtdGZYQWFKbTd0bW5OM2VaRWdwV0p6d3hDS0J3d29XcXJSNll0MVBrOGZSS1ZrODRVQUJEcmVnUFZwT01fTUtNUVNfbURkOUFYMkFzZHlsbmd2MndCblY2dmpIZlo4eDYyekZudmNtRUJPclRZX2Qzb3VGT3dnXzlfdw?oc=5",
+      "snippet": "From bark to bench: innovations in QS-21 adjuvant characterization and manufacturing&nbsp;&nbsp;Frontiers",
+      "matched_query": "vaccine adjuvant novel adjuvant system"
     },
     {
       "title": "Vaccine adjuvants: mechanisms and platforms - Signal Transduction and Targeted Therapy - Nature",
@@ -34,22 +42,22 @@
       "date": "Wed, 19 Jul 2023 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CaWRJVHJvX203X2hmbkRYZjctek9GQlVJSF9reUpCcXF6bWpuZzEyWGtwTzVPVUtVUFdLQnlDbExFU25oS0ItbXRQbmdqWjIySzFwV0JmTHB0cDZnbGVj?oc=5",
       "snippet": "Vaccine adjuvants: mechanisms and platforms - Signal Transduction and Targeted Therapy&nbsp;&nbsp;Nature",
-      "matched_query": "vaccine adjuvant novel adjuvant system"
+      "matched_query": "AS01 AS03 MF59 CpG adjuvant"
     },
     {
-      "title": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3V2clF1LUloc1lzRUR2NTJxVFdPOXluTnlQSUI3MjlVVzkzUk9ndkw5WExtZVJUeFg2TktINGV2dnJybTUxNENfaHUwQ0tEVHVaXzFTY3VCYTlabGRhWE5nODlZenZkeWNndnVzZ2Fzd2tmVWRRaEQ1LXBsZS1GTXQ0NGN5ZXJaQlZuRVRiaHk3czgzOUp4ckctMVdndnBtRmdXYXJiZFhERjg?oc=5",
-      "snippet": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas&nbsp;&nbsp;Fierce Pharma",
+      "title": "Moderna loses US government license defense in Northwestern patent case - Reuters",
+      "source": "Reuters",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFZMbzJQWFJ3VkFXQVN4YWtLYk96V0xWQV9VcHZZOXFOSVBfZTRwSHpzSTZyVVUxMGdRaG9YMk5mQWdpeHRlZUM0Vi1NSVdCRWJzRVhBeXZVMTd2b0MyN21IUW1fVmNDYUtZSGtreEhYQnpDWWRtVUtvRVBWWEpzUVcwSTNvRXdUMDN4ek00ZlVDM2ctNFlvR0RiZExUdF81amNKdU9nZUpUZHNIcFlmUmR4SU1lZDJaUjVtM1VR?oc=5",
+      "snippet": "Moderna loses US government license defense in Northwestern patent case&nbsp;&nbsp;Reuters",
       "matched_query": "mRNA vaccine patent lipid nanoparticle"
     },
     {
-      "title": "UR Discovers New Way to Boost Vaccines, Seeks Patent - University of Rochester",
-      "source": "University of Rochester",
-      "date": "Tue, 03 Aug 2010 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTm5zRmF1RzgwbVE2U0dSZkYtdHM2eWpPUEhyQ3lBUUptXzVqSFpCcEtrcDR5U0hEUWZvQnlOalpCUGVhdURIaDIzaGFBQnpvMmxobHAwNkFJeXdydzVqRGVWYm9UVEg0b1g0dlczMzA0QTRpQ3VfamJhdGp3VFJaMk0zeEp3OExHdmQ5elBqcE9LcFpvc25MQw?oc=5",
-      "snippet": "UR Discovers New Way to Boost Vaccines, Seeks Patent&nbsp;&nbsp;University of Rochester",
+      "title": "The patent dispute over the breakthrough mRNA technology - Frontiers",
+      "source": "Frontiers",
+      "date": "Wed, 26 Jun 2024 06:24:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNak5pMXZSVWZoZTVvM2p3Sk9Wc3JnS2lqQnNqNzZsWEZsWi1MWFU3Mm1JU3NrWVN4MW1lV2NYUWFyWGhnV3F4Z04zUFMzODJDZU1OckxqRkhGYWlMUGJOZWlOTVlsWFIySHpRY19sbnViY0ozOXhDdTBMckxETGpQenhTdXZkdDZLd3JvT2hHZ3hGeEpJS0w5S0VwRzZJVHJYZUFOVzFvckVyWHQ3S3o4?oc=5",
+      "snippet": "The patent dispute over the breakthrough mRNA technology&nbsp;&nbsp;Frontiers",
       "matched_query": "vaccine adjuvant patent"
     },
     {
@@ -63,7 +71,7 @@
     {
       "title": "Blockbuster drugs face a massive patent cliff in 2026 - Drug Discovery News",
       "source": "Drug Discovery News",
-      "date": "Tue, 24 Feb 2026 14:08:14 GMT",
+      "date": "Tue, 24 Feb 2026 08:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjJzTnVWMm1Sd1hta1loSy1ZQU5oXzdOT09oSHJ2YTY3cjJ5S1Z1RUFiQVEyRGh3azhnWHpSNjAwRzVlODh3aHR3YUNzc0lZaW5pRXhiX2lQcExXdEhaR1BEaWhXcXNwbGxRdFFqNEJwak1LX2hRZ0xvLUJzOU1SeW1aRVdNdWdYeThRaXFfeVU2R2MyV2NEWg?oc=5",
       "snippet": "Blockbuster drugs face a massive patent cliff in 2026&nbsp;&nbsp;Drug Discovery News",
       "matched_query": "vaccine patent expiration"
@@ -93,19 +101,19 @@
       "matched_query": "vaccine adjuvant China patent authorization"
     },
     {
-      "title": "Cancer Vaccines Market Anticipates Impressive Growth Trajectory at a CAGR of 36% During the Forecast Period (2026-2036) | DelveInsight - PR Newswire",
-      "source": "PR Newswire",
-      "date": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTzRsNG1QVDhGQUo5azlvUGY3b0t2MnJZMGZwVGVSSlVPSTY0N3FrUFFnME1nMTdrdlY4V2ktMWlwZ1BwWGtOR0hpWHhBdXlJX2VtNnJ1eFlUUHA5OTZxQzZ5cUNZRHNjckRQbzd5SENGYjFxWk1uRDlaaGNabjBHNlphejNXeG50VVU4djFocjdYd2VfaHZfd0Z1U0JfNjhlMWpYb0NtWW54SEdkRnNpOEFROEI5c0E3OVlpYkk4TTA4TVVOcDJnaWFVcUtpcWFmZVFhY2g3WTRrWkRWeTkxSlp4RjJhVE16QzRwQXl4bzNpNk9CdE52eDI2YVJMbW1KMFk3SVlQWVhQb28wNHZvV1JkUQ?oc=5",
-      "snippet": "Cancer Vaccines Market Anticipates Impressive Growth Trajectory at a CAGR of 36% During the Forecast Period (2026-2036) | DelveInsight&nbsp;&nbsp;PR Newswire",
+      "title": "mRNA Purification Columns Market To 2035: Demand Accelerates as Mrna Therapeutics Pipeline Expands - News and Statistics - IndexBox",
+      "source": "IndexBox",
+      "date": "Sat, 24 Oct 2026 18:36:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjE3S1FXS21saG9Id0RycUtoaWdGRk9GSXBwMW1kZ1VQRXNfSmJobzJqQ3ZFbUVmcy14LUlxa05TNnFpMXltWmJlbWVvRGwwTm41OXpMUEFTTVc3ZW1nX3F6Ym41X3ZTVmg5TXZoTC1XYm9TbmowQTduenNqRG83T1RjVlJyMmNlY0pJdTZla3NyLTN3VURDVTA2UGVXaWRTMGNHTE9qRnNMbWVObXFvWEpOUDdCU2ozQ01FcWw4ZUJ5WHhXUlJPaTM5TFhhUllUelU5WFg2N21pTFlEc0pF?oc=5",
+      "snippet": "mRNA Purification Columns Market To 2035: Demand Accelerates as Mrna Therapeutics Pipeline Expands - News and Statistics&nbsp;&nbsp;IndexBox",
       "matched_query": "mRNA vaccine market size forecast 2026"
     },
     {
-      "title": "Arcturus and CSL Seqirus terminate sa-mRNA vaccine partnership - AllSci",
-      "source": "AllSci",
-      "date": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb25CeEE3NGNkMkY3dVBzdVM5SWQ0WXBuem5wejJ5SEtwLWFpTlV1bHI0NWRveUlteTdMQ0doS0lBR2t5NlYwUU9TTE4zbUpxcmdKd3IyU2dES1MtYzNyUXBmOEI4T0E4d0RkR0lFN0N2UnlxbTZGMlN1eVlrcGNMUGt1Uy0xOVFPLUhPcDV4YXZKRGV0c2FIUlFWM3VjY0k?oc=5",
-      "snippet": "Arcturus and CSL Seqirus terminate sa-mRNA vaccine partnership&nbsp;&nbsp;AllSci",
+      "title": "Self-amplifying COVID-19 mRNA vaccination induces longitudinally enhanced antibody function in a Phase 3 trial - Nature",
+      "source": "Nature",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PaXBFM3QtTVFVNEktSUdqSzY3Snl2ZlptQmtGOEtFYkVzS1RRVFAxcXg2WWJMcW1pdWwwU3ZEQ2ZSN0MzUGhvUkx6d3FkOVFWUEh0VFZNYTJuNDh0a0pv?oc=5",
+      "snippet": "Self-amplifying COVID-19 mRNA vaccination induces longitudinally enhanced antibody function in a Phase 3 trial&nbsp;&nbsp;Nature",
       "matched_query": "self-amplifying mRNA vaccine approval"
     },
     {
@@ -125,19 +133,19 @@
       "matched_query": "疫苗 审批 临床试验 2026"
     },
     {
-      "title": "华兰疫苗新型流感病毒mRNA疫苗临床获批，国内流感疫苗正式进入mRNA技术赛道 - 摩熵医药",
-      "source": "摩熵医药",
-      "date": "Thu, 10 Sep 2026 02:52:36 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EcHZtOHgyN0hnWXl1ams0eG91NEVCTk05c3UyN0JGVDM2VEFMY09CbnpPcWNvcW5adTJEVWNoRHkySjRTN0hZcnhacUpfSlVqNG92YUp5cG53QQ?oc=5",
-      "snippet": "华兰疫苗新型流感病毒mRNA疫苗临床获批，国内流感疫苗正式进入mRNA技术赛道&nbsp;&nbsp;摩熵医药",
+      "title": "沃森冻干带状疱疹病毒mRNA疫苗启动Ⅰ期临床试验 - 中国科技网",
+      "source": "中国科技网",
+      "date": "Thu, 15 Oct 2026 06:54:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14LUpYTTlvWkN0TEhDX3AzMzhJeWQ4dTRqTExxQWN2a3NrdTcxM2hzVGlYS0tFb0lwUHBveWRqUjJ1N1VaeTRDVWU4cG9JdENaSnd1OEt2N2pEQi1qZ1B2a1ZDb0lwZ2IzQnBQak5OaVA?oc=5",
+      "snippet": "沃森冻干带状疱疹病毒mRNA疫苗启动Ⅰ期临床试验&nbsp;&nbsp;中国科技网",
       "matched_query": "mRNA疫苗 重组蛋白疫苗 新型疫苗"
     },
     {
-      "title": "我国高校团队研制出增强肿瘤疫苗效力的新型佐剂 - 新华网",
-      "source": "新华网",
-      "date": "Tue, 24 Mar 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUjJsaWE0NURJLXRFc0NYb1EyQVRjWXdtYUdsdlNKYkVBMmk0dXl6eDdNNVBCVEphVE1mbE5iNkdwZkFzMWE3dDJ4azNiOFlrek5Ic3k5VVVWaGZvRnhsX2RUNExQRnY4S2FwYjZZRHN1RTlVXzZmaFJmSU5pVjc5TS1YMA?oc=5",
-      "snippet": "我国高校团队研制出增强肿瘤疫苗效力的新型佐剂&nbsp;&nbsp;新华网",
+      "title": "青春最闪“药”｜国药动保卓少华：让国产佐剂从实验室走向生产线 - ThePaper.cn",
+      "source": "ThePaper.cn",
+      "date": "Mon, 26 Oct 2026 07:21:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNSXg3N0hKU1hBdGxEbGJ6eUxCeFl0cjRyT3RLcV9TUGNOOTlZN3NZNjhFWmEzZkVVUWpFLUpfODktbDFEOFdGcFNlTmVGeFBPY3FybGJMZ3JZNk1qa2xqSQ?oc=5",
+      "snippet": "青春最闪“药”｜国药动保卓少华：让国产佐剂从实验室走向生产线&nbsp;&nbsp;ThePaper.cn",
       "matched_query": "疫苗佐剂 新型佐剂"
     },
     {
@@ -181,20 +189,12 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Triple Play: Lilly Acquires Three Developers of Infectious Disease Vaccines for Up-to-$3.8B - Genetic Engineering and Biotechnology News",
-      "source": "Genetic Engineering and Biotechnology News",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSWlhZmpyamJ5UkFjU1d4UDBEck1zVGdlMGpaVG54WHNJY1NaS1BEcmloRXJvdm9KSFNxWmEwQjYyWFRUMXJUdFdwTld4V1ROVDdNZFVNYnZWWDVmcHpPM1pIc0JzNUt5V2pYdUI1OW9XQ0tyRk16MU9rbW9FSE42VlM2bjlrWlo2ZlVoSjA0WlJuUDhwb05kNlhoTUZNZHlVN2lWUUpOSlZPTzZ2NVhrWEppTHhNODR5T2ZnUUlGdDJ3M1pXVzNSejNXQ0pxUmprZnF2UEZyeUxOOThC?oc=5",
-      "snippet": "Triple Play: Lilly Acquires Three Developers of Infectious Disease Vaccines for Up-to-$3.8B&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
+      "title": "AstraZeneca Strengthens Respiratory Illness Pipeline With Acquisition of Icosavax - Pharmaceutical Executive",
+      "source": "Pharmaceutical Executive",
+      "date": "Tue, 12 Dec 2023 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjJITGgxSElqN1FmWUZRWHJTNEVZb1FXa2NSZko0VXJOMEhZQ1JNMlRySEhxQjRlaE9CTTVXV0ZFbVNhVjcwbWhtQ2FQdUlWUzI3YVhDeUZ1QWh1QmItOHFpQS1kc25fdmY2RlY2ZmJROThQWEdGRWx6WEg0Y285YkxvZVdzRzZDNW1CRzlXeUxvUnBJb1RDWWFHbGVGemtkTUFPUHctblNUTFFYWkdmaHpB?oc=5",
+      "snippet": "AstraZeneca Strengthens Respiratory Illness Pipeline With Acquisition of Icosavax&nbsp;&nbsp;Pharmaceutical Executive",
       "matched_query": "VLP vaccine pipeline"
-    },
-    {
-      "title": "New-age vaccine adjuvants, their development, and future perspective - Frontiers",
-      "source": "Frontiers",
-      "date": "Fri, 24 Feb 2023 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFVURFJiWmx1MzJrUEUyRzFaYVVUQWczdG1YU0hXeFJzeDFaOVVpNndENzR0cU5xMjJaaWtBTV8wcVdMX0RsR0xzNWFOSG04aVZrdHJaZWhqRUhQX1RHVDhCWER4dFhlQldfQXlmSTJMTEd1TU5sNTFjYlhabVZfeWtCaGt1MGduSnZDa3A5N3oxUQ?oc=5",
-      "snippet": "New-age vaccine adjuvants, their development, and future perspective&nbsp;&nbsp;Frontiers",
-      "matched_query": "vaccine adjuvant novel adjuvant system"
     }
   ]
 }
