@@ -2,30 +2,30 @@
   "date": "2026-11-03",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 90,
+  "total_raw": 92,
   "items": [
     {
-      "title": "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-      "source": "UCHealth",
-      "date": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa2xFZE9EdnhQZmh3VThOUzVpZlBDeENfZktVX2ZIYjJhYzg4RDU4Ym8xckxuMm56MmhFc2xoQnhaNnVKU0NXNUxXb19SQTk1b18zQTZkaWhhdkdKcktoZldPN3A5WVo0ampTNnJkZFI2UFNiSV9xVC00SkZsTzNYS1VkcW9FcDRJWEpuRW9kUm5UQkhoWi1JdWVQXzhNWEVUM2c?oc=5",
-      "snippet": "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival&nbsp;&nbsp;UCHealth",
+      "title": "FDA Neurology Digest: October 2026 - Medscape",
+      "source": "Medscape",
+      "date": "Tue, 03 Nov 2026 08:08:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenlsN0NHUlU4OU9qdUNONFZxRzFkRVZKU0t2Q0Z5THhlYkNwYjJ3aGIyZ0N2aFVYdDVyd0ZZQjliR19Pamg2QUtpRlpxUkFwY2tPSlRxRHpCcVZ4U2gxZXR2T3hvZWVLck0tNEFYVHZoMnVJWWFLd0U4cklYOXRGU3Jua1BIVGVYMVZz?oc=5",
+      "snippet": "FDA Neurology Digest: October 2026&nbsp;&nbsp;Medscape",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "How the mRNA Flu Vaccine Compares to Traditional Shots - Johns Hopkins Bloomberg School of Public Health",
-      "source": "Johns Hopkins Bloomberg School of Public Health",
-      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDJ0TV9LRU0xQ0xxVFVsTEtsMmM0b3IwVGFFRzMxT1R0UE1kT0xpZV9BNnhURkpUUUtRS21uRFdpd1BJeVZqdkdxZ2dyT0k3X1BGaFEwSUh6cmZtR1pCNnc2QnMxUUs5eGw0dnlSeWtWdk9JV2R1TDR6R2dlUjlKeFo5UkswOTIxWS1NaVUxSWIwZw?oc=5",
-      "snippet": "How the mRNA Flu Vaccine Compares to Traditional Shots&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public Health",
+      "title": "Making mRNA in Latin America: Brazil’s new vaccine platform heads into human trials - CEPI",
+      "source": "CEPI",
+      "date": "Wed, 28 Oct 2026 10:01:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTZROWFLOHNMLU5YLVNMdmpIZ2c3VGc2VWNmQmdwVHZMT1A0bmdqbW5DdnYtVk9VUDE2YnA0eWRNdl9pa0JvcGYwN2N5TnNjSl9sXzdKdXhEeG80a2QyXzd1WjNZV3k2dm9nSW45ckFXRWVFdVBYdzVycFFPaWFWNjJnLThFbFBGLVkxRDdocUtOa2Q3N3ZuRHRzejdNN0xfZUEtTnlIRHhqVldDQzRPMEpkdw?oc=5",
+      "snippet": "Making mRNA in Latin America: Brazil’s new vaccine platform heads into human trials&nbsp;&nbsp;CEPI",
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Lilly bets more than $3.8B on vaccine triple play - FirstWord Pharma",
-      "source": "FirstWord Pharma",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zNFBJcWxpb3VBVGRQM2J0Sl9GRnk4MHBNWlV3cThqcGp4d0pUSjVKek03UEQtdkJEcFdIdDg3YUtJa2xPdUpOWWhDTGFnRFc4aEpr?oc=5",
-      "snippet": "Lilly bets more than $3.8B on vaccine triple play&nbsp;&nbsp;FirstWord Pharma",
+      "title": "Recent advance in the development of tuberculosis vaccines in clinical trials and virus-like particle-based vaccine candidates - Frontiers",
+      "source": "Frontiers",
+      "date": "Tue, 13 Feb 2024 09:58:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWtBdnBlMkI0aHZvR0phT2NyWXFDZDJKaklkQ0FBWndjLXlKWXJYM25weF9KV1dQbWhjWmpOeVA1LU9fQzFUUWZiMmllRVZ6M0xFYk9QbjF4UVo4VHBVQURSUGlwd1VEMHNqWHlDYW9NNW1YdkloYld3MFZwOVVqeU02U1hjSDVsUUlGbUoxamxMUQ?oc=5",
+      "snippet": "Recent advance in the development of tuberculosis vaccines in clinical trials and virus-like particle-based vaccine candidates&nbsp;&nbsp;Frontiers",
       "matched_query": "VLP vaccine pipeline"
     },
     {
@@ -101,11 +101,11 @@
       "matched_query": "mRNA vaccine market size forecast 2026"
     },
     {
-      "title": "Current status and prospects of self-amplifying messenger RNA (aaRNAm) vaccines against SARS-CoV-2 - www.elsevier.com",
-      "source": "www.elsevier.com",
-      "date": "Fri, 18 Sep 2026 11:40:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYTVfdXkwb3Nsc2loVGZNV01XSS1RV3h0TDlOQ0FpVl81YjJVSkhrNjNoVUhHU3diOW1DMzZ1MWQtZzdfSzcwaHZXTFVYSE05NzdVaElENUphTVZkdFQ5b1FMZ0YwMFIwWUYyUG95VXJnS25yR2ZjM3paczNyWTRSVUR3dG9XVWc3dmNVbXA2Uk0wSERmeHVsS1RCMlhGeFdFeFVBajNfMFQ1alBmSnhOUzN3c3dRNmp0MFNYTzJXd0hYMDBCQ29rNEF6aXBtaDR4b1BSYUlCUTJBME5ITGtIZnMtVnlXMEZlY0NHV19R?oc=5",
-      "snippet": "Current status and prospects of self-amplifying messenger RNA (aaRNAm) vaccines against SARS-CoV-2&nbsp;&nbsp;www.elsevier.com",
+      "title": "MHRA approves zapomeran (Kostaive) mRNA COVID-19 vaccine - GOV.UK",
+      "source": "GOV.UK",
+      "date": "Fri, 02 Jan 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWJCdEkySm50WWRZdjM0b3AwSUo5R19PWndkMXJrOFpZX3V3dWNmeDRqWmliTTdEenluS0JvNDg3bDlRelZkWnQwZG5RSnlXNUlvNXFqdmQtcWxzdmJhSjRXbGZ3UHhEY01lX3BYcWZSbnpPNlZyY3lrMmZBVHcwLXloa3ZjbWdXMm5qVzZQT19LbEk?oc=5",
+      "snippet": "MHRA approves zapomeran (Kostaive) mRNA COVID-19 vaccine&nbsp;&nbsp;GOV.UK",
       "matched_query": "self-amplifying mRNA vaccine approval"
     },
     {
@@ -125,11 +125,11 @@
       "matched_query": "疫苗 审批 临床试验 2026"
     },
     {
-      "title": "医防大咖谈流感丨专家建议：加强新型流感疫苗研发 为中国百姓提供更多选择 - 新华网",
-      "source": "新华网",
-      "date": "Thu, 20 Apr 2023 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIOVNNWnhZdldhMmphUUZQQVVFTVJvdzNDZTN0clNLQ2NQOGVNRmpBcTdxSUtfOGFHY0hCcUR0aE9PRXFMSnN3RktNZ0FoNVFTSGJGd3lGWHowbXF2NWpydEhTa2hialUzZDdkVFpHdnpkZl95WDZJYzNCNFBGV1U?oc=5",
-      "snippet": "医防大咖谈流感丨专家建议：加强新型流感疫苗研发 为中国百姓提供更多选择&nbsp;&nbsp;新华网",
+      "title": "沃森冻干带状疱疹病毒mRNA疫苗启动Ⅰ期临床试验 - 中国科技网",
+      "source": "中国科技网",
+      "date": "Thu, 15 Oct 2026 06:54:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14LUpYTTlvWkN0TEhDX3AzMzhJeWQ4dTRqTExxQWN2a3NrdTcxM2hzVGlYS0tFb0lwUHBveWRqUjJ1N1VaeTRDVWU4cG9JdENaSnd1OEt2N2pEQi1qZ1B2a1ZDb0lwZ2IzQnBQak5OaVA?oc=5",
+      "snippet": "沃森冻干带状疱疹病毒mRNA疫苗启动Ⅰ期临床试验&nbsp;&nbsp;中国科技网",
       "matched_query": "mRNA疫苗 重组蛋白疫苗 新型疫苗"
     },
     {
@@ -141,11 +141,11 @@
       "matched_query": "疫苗佐剂 新型佐剂"
     },
     {
-      "title": "JPM2026的疫苗世界：四巨头 & 双子星 - 中国医药创新促进会",
-      "source": "中国医药创新促进会",
-      "date": "Tue, 20 Jan 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlcGZKTlpWXzF1S0UybktUTUtyQUxMeW9OQjNENUgzdDZrUC14U25wR3lzOElIUGhGQ2g4UllCOHBZd1pGd2ZhYUpTN2c2ZTJvUXVlaFpUOVkySU5NZE1tOV9uTk9wYkZXSVkwbW5LVzhubUttd3lYcnR3?oc=5",
-      "snippet": "JPM2026的疫苗世界：四巨头 & 双子星&nbsp;&nbsp;中国医药创新促进会",
+      "title": "MDPI 人物专访：对话Zoonotic Diseases期刊编委——暨南大学基础医学与公共卫生学院高峰教授 - 科学网—新闻",
+      "source": "科学网—新闻",
+      "date": "Mon, 18 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtNVJnSU05UUdacktZYjVQZ2RsS0lLUDNiT1N1aWV1bjh0NnBsRlNNUThPV3FjZ1pMbDNsMFBMU2cyUTVYdVAzcDhETndUUUgzaFFpOUFIaUhPeF9ONW5TeXFvT2lQRDBKMk52NUs5U1Y0bXZORUtNbzQ3dw?oc=5",
+      "snippet": "MDPI 人物专访：对话Zoonotic Diseases期刊编委——暨南大学基础医学与公共卫生学院高峰教授&nbsp;&nbsp;科学网—新闻",
       "matched_query": "疫苗 佐剂 专利 授权 2026"
     },
     {
@@ -159,33 +159,33 @@
     {
       "title": "疫苗市场规模、份额|全球增长报告 [2034] - Fortune Business Insights",
       "source": "Fortune Business Insights",
-      "date": "Mon, 12 Oct 2026 07:00:00 GMT",
+      "date": "Mon, 19 Oct 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRjNiRi1Ia3hJN19yT2J0SlFiUXoxbF8ySklMeVBWazVtUFFodkFCd1AtWFdXWXJ5eWk3VWhCcUxDZTJWLWJSb1BmU0dSNTNKa3poUDNYRnc4NmpYX214ek0zRFA3RC10M0xvY0NhM3lZMkU5LUdEWVdjTUtsYnYyRGdHdlIzcTEtUHc?oc=5",
       "snippet": "疫苗市场规模、份额|全球增长报告 [2034]&nbsp;&nbsp;Fortune Business Insights",
       "matched_query": "mRNA 疫苗 市场 规模 2026"
     },
     {
-      "title": "Melanoma vaccine awaits FDA approval after late-stage trial - KOLD",
-      "source": "KOLD",
-      "date": "Thu, 29 Oct 2026 01:45:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkdLTlFGOHdQTzE1R21palU5RFBDdklfVFJLNnl1OHNZbzdwWThfMWVGSTg2Q250dmNpQXg5WW9KZGFIclFuT1JkakdmU1N2U3U0Z1doaXptRllTY1VSY0xIenNOQ1RuNGhiblctSmRVVThTLWFSdTAweGMxRl9PaUpuU0pxSDlrMEJ1cUwxYktVcl9SQkFF0gGrAUFVX3lxTE9VeWtYblp5VEVQampFel9XcndBUmJDeHc4bjBpWENGdlNWcEg5QTUzWVNMZ0daTHJaM0RSMklVbEpOLWJpSTNWbktCRjZuUmFuNGpJUjJ1dHJfUlROZnZrd3p4NU9LNUtQbVhlMVpLT0gwQXpSTnRWdjJSOHRLclptbWt0b2J2bTlFNXhjU2pXclFlUFRET0Z2aEpqTzVYeDNSMzRmZXk0emZyNA?oc=5",
-      "snippet": "Melanoma vaccine awaits FDA approval after late-stage trial&nbsp;&nbsp;KOLD",
+      "title": "Fda grants first dna therapy approval, shifting focus from vaccines to treatment - Chosunbiz",
+      "source": "Chosunbiz",
+      "date": "Tue, 03 Nov 2026 02:01:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTHI0X2RlZEVUUnEwRXg4dG5BU1FGbTFGcXQtZGNnUUVkU1M4OFd2ekJra2VNZk9DQ0JsY1p0UU8wSm55bmZ1ekVSYWk5M2ZSYXpFeS1TN3ROQnI2NVd0UnJNNUNoVFNicnRSNnYtd1BXU1NBUnJnTkxlazNHR3d0QtIBlAFBVV95cUxNbERTRElVN2Yza25FTlNPLWlwSjFWTU5iVG9JT19RVXpuRm5DcXRUd0pSeXo3UWNLUUZTUWFwV2lkWk1laWU4YzR0cGVybjRreUcxejVJRThaS1pBLU5oMmgwYU83SlZnSERpblRPYk5yMHRrWTVTV0FpRlNVeE5aUkpsRmJ2T3BsLW1CYVRXclBFNFRs?oc=5",
+      "snippet": "Fda grants first dna therapy approval, shifting focus from vaccines to treatment&nbsp;&nbsp;Chosunbiz",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Breaking barriers in prostate cancer: the mRNA vaccine breakthrough and what comes next - Nature",
-      "source": "Nature",
-      "date": "Wed, 07 Jan 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWkdTRmlIb2h0QnBlY3dYNlhRZEZMRmJrcmI3MzVsVU9jeUVqRXFQeVpfblBybFc2UmVLUjAzVWpTZ2dHemUwU3dmTHVpV3lfMWtTY2tzT19KbjgyaGg4?oc=5",
-      "snippet": "Breaking barriers in prostate cancer: the mRNA vaccine breakthrough and what comes next&nbsp;&nbsp;Nature",
+      "title": "How the mRNA Flu Vaccine Compares to Traditional Shots - Johns Hopkins Bloomberg School of Public Health",
+      "source": "Johns Hopkins Bloomberg School of Public Health",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDJ0TV9LRU0xQ0xxVFVsTEtsMmM0b3IwVGFFRzMxT1R0UE1kT0xpZV9BNnhURkpUUUtRS21uRFdpd1BJeVZqdkdxZ2dyT0k3X1BGaFEwSUh6cmZtR1pCNnc2QnMxUUs5eGw0dnlSeWtWdk9JV2R1TDR6R2dlUjlKeFo5UkswOTIxWS1NaVUxSWIwZw?oc=5",
+      "snippet": "How the mRNA Flu Vaccine Compares to Traditional Shots&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public Health",
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Triple Play: Lilly Acquires Three Developers of Infectious Disease Vaccines for Up-to-$3.8B - Genetic Engineering and Biotechnology News",
-      "source": "Genetic Engineering and Biotechnology News",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSWlhZmpyamJ5UkFjU1d4UDBEck1zVGdlMGpaVG54WHNJY1NaS1BEcmloRXJvdm9KSFNxWmEwQjYyWFRUMXJUdFdwTld4V1ROVDdNZFVNYnZWWDVmcHpPM1pIc0JzNUt5V2pYdUI1OW9XQ0tyRk16MU9rbW9FSE42VlM2bjlrWlo2ZlVoSjA0WlJuUDhwb05kNlhoTUZNZHlVN2lWUUpOSlZPTzZ2NVhrWEppTHhNODR5T2ZnUUlGdDJ3M1pXVzNSejNXQ0pxUmprZnF2UEZyeUxOOThC?oc=5",
-      "snippet": "Triple Play: Lilly Acquires Three Developers of Infectious Disease Vaccines for Up-to-$3.8B&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
+      "title": "AstraZeneca to Acquire Clinical-Stage Company Developing RSV, hMPV Combo Vaccine - respiratory-therapy.com",
+      "source": "respiratory-therapy.com",
+      "date": "Tue, 12 Dec 2023 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRnlFUC1MVk5RVGt5N054cU9tLTJsVlhySElEU1BrMXIwaVIwOWEtZ2dWRnZIa2M3ZzdJZXlsbjlscldUY0NCT19acC1XSHBySEFWUDFIT3Jja3Iyb0FZbzlBbWJSWFFHRFUteWVQa0VqeUE0SGY5TGxaZmJTUVRfMlA0WGlSY25IWXhfVDVPUjhJMzZoN0RycUo4SFZmNkUydmFDZkxBMktoMHZpMzA3Y2JpS2MySjREUWROamZCZVlsMUdKZEF1cFBjV2tzcXE1VFUyT25B?oc=5",
+      "snippet": "AstraZeneca to Acquire Clinical-Stage Company Developing RSV, hMPV Combo Vaccine&nbsp;&nbsp;respiratory-therapy.com",
       "matched_query": "VLP vaccine pipeline"
     },
     {
