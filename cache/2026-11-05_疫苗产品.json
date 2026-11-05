@@ -2,7 +2,7 @@
   "date": "2026-11-05",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 94,
+  "total_raw": 91,
   "items": [
     {
       "title": "How Vaccines are Developed and Approved for Use - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -13,11 +13,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Making mRNA in Latin America: Brazil’s new vaccine platform heads into human trials - CEPI",
-      "source": "CEPI",
-      "date": "Wed, 28 Oct 2026 10:01:49 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTZROWFLOHNMLU5YLVNMdmpIZ2c3VGc2VWNmQmdwVHZMT1A0bmdqbW5DdnYtVk9VUDE2YnA0eWRNdl9pa0JvcGYwN2N5TnNjSl9sXzdKdXhEeG80a2QyXzd1WjNZV3k2dm9nSW45ckFXRWVFdVBYdzVycFFPaWFWNjJnLThFbFBGLVkxRDdocUtOa2Q3N3ZuRHRzejdNN0xfZUEtTnlIRHhqVldDQzRPMEpkdw?oc=5",
-      "snippet": "Making mRNA in Latin America: Brazil’s new vaccine platform heads into human trials&nbsp;&nbsp;CEPI",
+      "title": "How the mRNA Flu Vaccine Compares to Traditional Shots - Johns Hopkins Bloomberg School of Public Health",
+      "source": "Johns Hopkins Bloomberg School of Public Health",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDJ0TV9LRU0xQ0xxVFVsTEtsMmM0b3IwVGFFRzMxT1R0UE1kT0xpZV9BNnhURkpUUUtRS21uRFdpd1BJeVZqdkdxZ2dyT0k3X1BGaFEwSUh6cmZtR1pCNnc2QnMxUUs5eGw0dnlSeWtWdk9JV2R1TDR6R2dlUjlKeFo5UkswOTIxWS1NaVUxSWIwZw?oc=5",
+      "snippet": "How the mRNA Flu Vaccine Compares to Traditional Shots&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public Health",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -85,19 +85,11 @@
       "matched_query": "Pfizer BioNTech LNP patent litigation 2026"
     },
     {
-      "title": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
-      "source": "Reuters",
-      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
-      "snippet": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope&nbsp;&nbsp;Reuters",
-      "matched_query": "vaccine adjuvant China patent authorization"
-    },
-    {
-      "title": "Cancer Vaccines Market Size & Share | Industry Report [2034] - Fortune Business Insights",
+      "title": "mRNA Influenza Vaccines Market Size, Share & Forecast [2034] - Fortune Business Insights",
       "source": "Fortune Business Insights",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10RV91V01YU0ZTUHJfTzN3emlRdDZYWHFIT2c5b1A0bExHT1NfajNwV0l2aEhLSVE0SEZVa3dXTDRhNWxBV21HOE5UUlJNMXhpbVBmWG5yV1BvYnJiOUhzRHFjcU9GdS1sdUtPN0xidG90VzVzalU1eQ?oc=5",
-      "snippet": "Cancer Vaccines Market Size & Share | Industry Report [2034]&nbsp;&nbsp;Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTGY0S2dEaEdoTU5NaUZxOFZ0UlpCVXBLWnJoXzA2RGFuVXBZS0JkRjFSMlhBN3hrbGRhVHZXMW1aVXJwR2xYczFlazM5dXF6eG5wYWtBSFNTcmNIUC1DU2NXMG5ZYWdBUDg5YU9JSUNkUktsenJDUUNwQmZ2WmtEZUl0MA?oc=5",
+      "snippet": "mRNA Influenza Vaccines Market Size, Share & Forecast [2034]&nbsp;&nbsp;Fortune Business Insights",
       "matched_query": "mRNA vaccine market size forecast 2026"
     },
     {
@@ -173,11 +165,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "How the mRNA Flu Vaccine Compares to Traditional Shots - Johns Hopkins Bloomberg School of Public Health",
-      "source": "Johns Hopkins Bloomberg School of Public Health",
-      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDJ0TV9LRU0xQ0xxVFVsTEtsMmM0b3IwVGFFRzMxT1R0UE1kT0xpZV9BNnhURkpUUUtRS21uRFdpd1BJeVZqdkdxZ2dyT0k3X1BGaFEwSUh6cmZtR1pCNnc2QnMxUUs5eGw0dnlSeWtWdk9JV2R1TDR6R2dlUjlKeFo5UkswOTIxWS1NaVUxSWIwZw?oc=5",
-      "snippet": "How the mRNA Flu Vaccine Compares to Traditional Shots&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public Health",
+      "title": "Breaking barriers in prostate cancer: the mRNA vaccine breakthrough and what comes next - Nature",
+      "source": "Nature",
+      "date": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWkdTRmlIb2h0QnBlY3dYNlhRZEZMRmJrcmI3MzVsVU9jeUVqRXFQeVpfblBybFc2UmVLUjAzVWpTZ2dHemUwU3dmTHVpV3lfMWtTY2tzT19KbjgyaGg4?oc=5",
+      "snippet": "Breaking barriers in prostate cancer: the mRNA vaccine breakthrough and what comes next&nbsp;&nbsp;Nature",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -195,6 +187,14 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFVURFJiWmx1MzJrUEUyRzFaYVVUQWczdG1YU0hXeFJzeDFaOVVpNndENzR0cU5xMjJaaWtBTV8wcVdMX0RsR0xzNWFOSG04aVZrdHJaZWhqRUhQX1RHVDhCWER4dFhlQldfQXlmSTJMTEd1TU5sNTFjYlhabVZfeWtCaGt1MGduSnZDa3A5N3oxUQ?oc=5",
       "snippet": "New-age vaccine adjuvants, their development, and future perspective&nbsp;&nbsp;Frontiers",
       "matched_query": "vaccine adjuvant novel adjuvant system"
+    },
+    {
+      "title": "The recent advances in vaccine adjuvants - Frontiers",
+      "source": "Frontiers",
+      "date": "Mon, 12 May 2025 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkNiVlp6V3cxeTJ3S240UF96RmlEckc2YWhObjZkVVpCd3EyMDhjY2VvMGppZDA2cVZqdEF5cEMxbzBrMnJpcWJkMjFxcGlxMU9ubDhaTnpGS0FrUlIyUDJnWjB4amlldGFoS19VT3ZaOUNPQ2l1S0VwblFEVTFqRzhtekRMT2UxeTZsZnBxVHk1Zw?oc=5",
+      "snippet": "The recent advances in vaccine adjuvants&nbsp;&nbsp;Frontiers",
+      "matched_query": "AS01 AS03 MF59 CpG adjuvant"
     }
   ]
 }
