@@ -2,7 +2,7 @@
   "date": "2026-11-06",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 92,
+  "total_raw": 93,
   "items": [
     {
       "title": "Fda grants first dna therapy approval, shifting focus from vaccines to treatment - Chosunbiz",
@@ -69,20 +69,12 @@
       "matched_query": "vaccine patent expiration"
     },
     {
-      "title": "Moderna Settles with Genevant and Arbutus, Ending LNP Patent Dispute - IPWatchdog",
-      "source": "IPWatchdog",
-      "date": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmEzMWdoSUpyS01henNtSWZfSG5VeVdaaXQtZ1VlMU1oSjhlQUlTSktIT25tWmlpQVlGWTF2QzdOQ3htSFpXbEZTRmRLU3AydE9qZFpmXzZKZlJzWGdTWkQ3UWwxMU9zRjBKcVJfUGhRR3p0VlczQWpPUGU5UGdIN2ZoTHlVd2VQS3dEdWo4SzdzMTRma1pBTg?oc=5",
-      "snippet": "Moderna Settles with Genevant and Arbutus, Ending LNP Patent Dispute&nbsp;&nbsp;IPWatchdog",
-      "matched_query": "Moderna LNP patent settlement Arbutus Genevant"
-    },
-    {
       "title": "The mRNA wars are escalating with new claims from Arbutus - JUVE Patent",
       "source": "JUVE Patent",
       "date": "Tue, 18 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1lkODdtbDJyOFlHcGhCaTlBMkZ6dWpZWXFWZzV6bEpPem9ZM1hBSzFucDdfcVFEa1RVdnBhZS1qN3dmdFNXWl9vMklWWjFpQmthMTY3WG1QeHlUeFVjM1pHdlRfMjkyNkxJZ1FkY3ozQTRxamR2cDFXY3p5ZG54ZGwyVktrWlN2aUkzUXdZWEd3WEtMUUpZ?oc=5",
       "snippet": "The mRNA wars are escalating with new claims from Arbutus&nbsp;&nbsp;JUVE Patent",
-      "matched_query": "Pfizer BioNTech LNP patent litigation 2026"
+      "matched_query": "Moderna LNP patent settlement Arbutus Genevant"
     },
     {
       "title": "mRNA Influenza Vaccines Market Size, Share & Forecast [2034] - Fortune Business Insights",
@@ -165,11 +157,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Breaking barriers in prostate cancer: the mRNA vaccine breakthrough and what comes next - Nature",
-      "source": "Nature",
-      "date": "Wed, 07 Jan 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWkdTRmlIb2h0QnBlY3dYNlhRZEZMRmJrcmI3MzVsVU9jeUVqRXFQeVpfblBybFc2UmVLUjAzVWpTZ2dHemUwU3dmTHVpV3lfMWtTY2tzT19KbjgyaGg4?oc=5",
-      "snippet": "Breaking barriers in prostate cancer: the mRNA vaccine breakthrough and what comes next&nbsp;&nbsp;Nature",
+      "title": "Are mRNA vaccines safe? What scientists know so far - The London School of Hygiene & Tropical Medicine",
+      "source": "The London School of Hygiene & Tropical Medicine",
+      "date": "Fri, 24 Jul 2026 13:17:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGpiT1I0T3FZV2JtblVmSURfaUI5Y0lGdVc4eVVJRjJMcEZ0dl9VMWNuNThFWlNwWm5qdF9reEV3OEE4Nl9ieHVGb0lvUzBJTkVYVlZsbU1kd3FONDJYcXQ1TjQ4V0JEOXJ2OGhQUTUzOXlEeUdXODJ1N1pXdUtTZkJ2Wlp6MEhhQThrdFRTZnMtTVU3RWYwM0xKYkJsczFnMG9NX1FocEJrWTc4QWpGU0Z1RERKZVYyV0E?oc=5",
+      "snippet": "Are mRNA vaccines safe? What scientists know so far&nbsp;&nbsp;The London School of Hygiene & Tropical Medicine",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -195,6 +187,14 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkNiVlp6V3cxeTJ3S240UF96RmlEckc2YWhObjZkVVpCd3EyMDhjY2VvMGppZDA2cVZqdEF5cEMxbzBrMnJpcWJkMjFxcGlxMU9ubDhaTnpGS0FrUlIyUDJnWjB4amlldGFoS19VT3ZaOUNPQ2l1S0VwblFEVTFqRzhtekRMT2UxeTZsZnBxVHk1Zw?oc=5",
       "snippet": "The recent advances in vaccine adjuvants&nbsp;&nbsp;Frontiers",
       "matched_query": "AS01 AS03 MF59 CpG adjuvant"
+    },
+    {
+      "title": "Moderna loses US government license defense in Northwestern patent case - Reuters",
+      "source": "Reuters",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFZMbzJQWFJ3VkFXQVN4YWtLYk96V0xWQV9VcHZZOXFOSVBfZTRwSHpzSTZyVVUxMGdRaG9YMk5mQWdpeHRlZUM0Vi1NSVdCRWJzRVhBeXZVMTd2b0MyN21IUW1fVmNDYUtZSGtreEhYQnpDWWRtVUtvRVBWWEpzUVcwSTNvRXdUMDN4ek00ZlVDM2ctNFlvR0RiZExUdF81amNKdU9nZUpUZHNIcFlmUmR4SU1lZDJaUjVtM1VR?oc=5",
+      "snippet": "Moderna loses US government license defense in Northwestern patent case&nbsp;&nbsp;Reuters",
+      "matched_query": "mRNA vaccine patent lipid nanoparticle"
     }
   ]
 }
