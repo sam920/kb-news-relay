@@ -2,14 +2,14 @@
   "date": "2026-11-07",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 94,
+  "total_raw": 93,
   "items": [
     {
-      "title": "Health Canada clears two Moderna flu vaccines for adults 50+, but... - Quantisnow",
-      "source": "Quantisnow",
-      "date": "Sat, 07 Nov 2026 04:06:19 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcmdqNXdyLXFDdk5xNlZnY21jVG8zeElFU1Rnc3hDWTRZUF93QTF2X2Y2ek1WRFF5cEhVMF9YNzd0el9jdjhKbmZwb0p1eFpJX3ZkU01SdGx3QW9aOGJFd1ZXZkhrQ0cwUHRkUVNKWXlsSElHZ2wtdU14UDdCUUtwaDJ1Z1ltUEhNLURrRk5fcklfS1BPa3BVUVBaaXpqVl9icHozQmYtVGQ1Mk9KOWJTUEpDM0NrYjU3UEpDdXVnYXJwdjFLdEduMEZBcHhnMkRyTV9EVU5URWNnXzQ?oc=5",
-      "snippet": "Health Canada clears two Moderna flu vaccines for adults 50+, but...&nbsp;&nbsp;Quantisnow",
+      "title": "What Is the New mRNA Flu Vaccine? Who Can Get It and What to Know - Stony Brook Medicine",
+      "source": "Stony Brook Medicine",
+      "date": "Thu, 05 Nov 2026 01:01:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjQtaWdRTlpCWjczWkQ0VkVycUJLbTVzczNaWjdkR0Rwa3hCLVdzT2dsWEswV1pRYWdhQW56eHcycW5pTmRNUEwtdzhPNDRKVDZkRzFKQlpFTFdDMWQ5VXg0YWF0LXBqM2xqaXFNYlhFWjMtaWFmckhJUExLR0VkaFBodFlFSk1FQVhFMlJhNkRVYW5faTBlc3F4Zmhyd1RtbWk5NGVn?oc=5",
+      "snippet": "What Is the New mRNA Flu Vaccine? Who Can Get It and What to Know&nbsp;&nbsp;Stony Brook Medicine",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -37,11 +37,11 @@
       "matched_query": "vaccine adjuvant novel adjuvant system"
     },
     {
-      "title": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3V2clF1LUloc1lzRUR2NTJxVFdPOXluTnlQSUI3MjlVVzkzUk9ndkw5WExtZVJUeFg2TktINGV2dnJybTUxNENfaHUwQ0tEVHVaXzFTY3VCYTlabGRhWE5nODlZenZkeWNndnVzZ2Fzd2tmVWRRaEQ1LXBsZS1GTXQ0NGN5ZXJaQlZuRVRiaHk3czgzOUp4ckctMVdndnBtRmdXYXJiZFhERjg?oc=5",
-      "snippet": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas&nbsp;&nbsp;Fierce Pharma",
+      "title": "GSK, Moderna settle patent dispute over Moderna COVID, RSV shots - pharma.economictimes.indiatimes.com",
+      "source": "pharma.economictimes.indiatimes.com",
+      "date": "Sat, 07 Nov 2026 02:05:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRUo5eWFEbHVpank2ektjdlVkb3lwX2VXb1MzQ18wb1VJc3JKaFAtbWc0T0FXdDJhMHM4cG1KRUxxOWZkbFdTdzVPSWZzOEFLdUV2bGQ5cjM5VG56ZHg0VzRBSzR1ZDFWQ0NXRXVuLVp3R214VmttUTdUZFVRM3hHZWhRcG9ENWRLNjJOcndFellLXzY2LUx5T1RBVC1LUEhFU3p0SDdkdlU1T0o3MEh5UlR2VGllcTR0VnRtMEZub2xDVE5ZQVVuZUpUZUt4RG5xZlJN0gHYAUFVX3lxTE9DMVNSNHg3Z2o2bjREWkUtNEFLc0JHNDdHTnZncnNremNFWjR3TUpIcFZJaW44RTBWeUFHVzIyX2ZoaUIwWEZheFc0eWhGczhSZlZsczBqd0M0OXZsWnJfTmMyVFRDekx0c2hQeEZjUlg0eW5neTFZeWE3aE1rM0duSy05OWVnekpKT2FxMWNLRGJxRnNNbjlDcXJvLUV3NTEybDVCLXBjeEVyTW55TUlKVVlORnhJdDRESXpYM0Zkd1REOHkyTFE0cC1tdWNuUUYxS0V2UGxIQg?oc=5",
+      "snippet": "GSK, Moderna settle patent dispute over Moderna COVID, RSV shots&nbsp;&nbsp;pharma.economictimes.indiatimes.com",
       "matched_query": "mRNA vaccine patent lipid nanoparticle"
     },
     {
@@ -51,14 +51,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eGNjU1RxSFdxWTNqTGRZMk4zUHo1UWFLUW9NbkVCa19GU25EcVlrSFA0eVBmdlhRU19DNU0wMHlPdFI4Ql9uUF9admwtWkdldUF2RFM1SkVxNWFZM0lF?oc=5",
       "snippet": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021&nbsp;&nbsp;Nature",
       "matched_query": "vaccine adjuvant patent"
-    },
-    {
-      "title": "GSK, Moderna settle patent fight over COVID-19 and RSV vaccines without payments - Bilyonaryo Business",
-      "source": "Bilyonaryo Business",
-      "date": "Sat, 07 Nov 2026 04:20:51 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2hKSHFWR0JfWFhsQnZud0pfSzJsa1l3WEgyT1FXSTVESnNaalltd0prR3R1UG9pX0R0cE9lOWExdWFaVmNVTEx2NUdFcTAyU2tPeDNTNWZBUkFTamozN01xdXE3SldJQ0JfY3E0SVp2dTVGRXJRVVJXVUtjeUtvS2VLNXRtVDYzeVJlVEh1NTV0V2x6ck5SNEVIcnNMOTBIMW9YLTRn?oc=5",
-      "snippet": "GSK, Moderna settle patent fight over COVID-19 and RSV vaccines without payments&nbsp;&nbsp;Bilyonaryo Business",
-      "matched_query": "vaccine patent infringement lawsuit"
     },
     {
       "title": "Pharma Industry Stares Down Biggest Patent Cliff in Decades - WSJ",
@@ -93,11 +85,11 @@
       "matched_query": "vaccine adjuvant China patent authorization"
     },
     {
-      "title": "mRNA Influenza Vaccines Market Size, Share & Forecast [2034] - Fortune Business Insights",
-      "source": "Fortune Business Insights",
-      "date": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTGY0S2dEaEdoTU5NaUZxOFZ0UlpCVXBLWnJoXzA2RGFuVXBZS0JkRjFSMlhBN3hrbGRhVHZXMW1aVXJwR2xYczFlazM5dXF6eG5wYWtBSFNTcmNIUC1DU2NXMG5ZYWdBUDg5YU9JSUNkUktsenJDUUNwQmZ2WmtEZUl0MA?oc=5",
-      "snippet": "mRNA Influenza Vaccines Market Size, Share & Forecast [2034]&nbsp;&nbsp;Fortune Business Insights",
+      "title": "$7+ Billion mRNA Vaccines Market Outlook, 2035: Opportunities, Strategies, Challenges - Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0lRVkROWHRPaVhWMUFBUkNmeFYwVzhEMXlDSUM5Rmh4LUY4YnRNQlJoV2pjNW43ZFQ3aUxOS3pIVnNweFVtUlBCTnB0VzN5UjhQQ0FJTWMyeXl0eGE2d05VT3VILXRhaFRpdUk4RnBja2VWb21JMzgtTzE4RXRzMU45amJ5dw?oc=5",
+      "snippet": "$7+ Billion mRNA Vaccines Market Outlook, 2035: Opportunities, Strategies, Challenges&nbsp;&nbsp;Yahoo Finance UK",
       "matched_query": "mRNA vaccine market size forecast 2026"
     },
     {
@@ -165,11 +157,11 @@
       "matched_query": "mRNA 疫苗 市场 规模 2026"
     },
     {
-      "title": "What Is the New mRNA Flu Vaccine? Who Can Get It and What to Know - Stony Brook Medicine",
-      "source": "Stony Brook Medicine",
-      "date": "Thu, 05 Nov 2026 01:01:56 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjQtaWdRTlpCWjczWkQ0VkVycUJLbTVzczNaWjdkR0Rwa3hCLVdzT2dsWEswV1pRYWdhQW56eHcycW5pTmRNUEwtdzhPNDRKVDZkRzFKQlpFTFdDMWQ5VXg0YWF0LXBqM2xqaXFNYlhFWjMtaWFmckhJUExLR0VkaFBodFlFSk1FQVhFMlJhNkRVYW5faTBlc3F4Zmhyd1RtbWk5NGVn?oc=5",
-      "snippet": "What Is the New mRNA Flu Vaccine? Who Can Get It and What to Know&nbsp;&nbsp;Stony Brook Medicine",
+      "title": "Health Canada clears two Moderna flu vaccines for adults 50+, but... - Quantisnow",
+      "source": "Quantisnow",
+      "date": "Sat, 07 Nov 2026 04:06:19 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcmdqNXdyLXFDdk5xNlZnY21jVG8zeElFU1Rnc3hDWTRZUF93QTF2X2Y2ek1WRFF5cEhVMF9YNzd0el9jdjhKbmZwb0p1eFpJX3ZkU01SdGx3QW9aOGJFd1ZXZkhrQ0cwUHRkUVNKWXlsSElHZ2wtdU14UDdCUUtwaDJ1Z1ltUEhNLURrRk5fcklfS1BPa3BVUVBaaXpqVl9icHozQmYtVGQ1Mk9KOWJTUEpDM0NrYjU3UEpDdXVnYXJwdjFLdEduMEZBcHhnMkRyTV9EVU5URWNnXzQ?oc=5",
+      "snippet": "Health Canada clears two Moderna flu vaccines for adults 50+, but...&nbsp;&nbsp;Quantisnow",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -195,6 +187,14 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFVURFJiWmx1MzJrUEUyRzFaYVVUQWczdG1YU0hXeFJzeDFaOVVpNndENzR0cU5xMjJaaWtBTV8wcVdMX0RsR0xzNWFOSG04aVZrdHJaZWhqRUhQX1RHVDhCWER4dFhlQldfQXlmSTJMTEd1TU5sNTFjYlhabVZfeWtCaGt1MGduSnZDa3A5N3oxUQ?oc=5",
       "snippet": "New-age vaccine adjuvants, their development, and future perspective&nbsp;&nbsp;Frontiers",
       "matched_query": "vaccine adjuvant novel adjuvant system"
+    },
+    {
+      "title": "The recent advances in vaccine adjuvants - Frontiers",
+      "source": "Frontiers",
+      "date": "Tue, 13 May 2025 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkNiVlp6V3cxeTJ3S240UF96RmlEckc2YWhObjZkVVpCd3EyMDhjY2VvMGppZDA2cVZqdEF5cEMxbzBrMnJpcWJkMjFxcGlxMU9ubDhaTnpGS0FrUlIyUDJnWjB4amlldGFoS19VT3ZaOUNPQ2l1S0VwblFEVTFqRzhtekRMT2UxeTZsZnBxVHk1Zw?oc=5",
+      "snippet": "The recent advances in vaccine adjuvants&nbsp;&nbsp;Frontiers",
+      "matched_query": "AS01 AS03 MF59 CpG adjuvant"
     }
   ]
 }
