@@ -1,8 +1,8 @@
 {
   "date": "2026-11-09",
   "topic": "肽类产品",
-  "total": 23,
-  "total_raw": 23,
+  "total": 24,
+  "total_raw": 24,
   "items": [
     {
       "title": "Compounded GLP-1s: Why doctors worry and the FDA is cracking down - Stanford Medicine",
@@ -19,14 +19,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVQ3cU4xTG1iTGY0MC1wb1ZENnVHRVF3NWExOVlIb0tqZF9hTFdJT0pvNHFNVUFYV3JNVEJuNUNZRnY3dmQyemUzWEtKWmc0eW96UUY1NXlCQzB4d3NHWVpmbFA0dW03R05ZdEtmWTFqR0hfbm5zaGw0SmNZZ2dvUXVWSEJTZFhKc3RDejVsdw?oc=5",
       "snippet": "Peptides talk is everywhere: But what does the science say?&nbsp;&nbsp;Stanford Medicine",
       "matched_query": "peptide therapeutic clinical trial"
-    },
-    {
-      "title": "weight loss drug news today semaglutide tirzepatide december 2025: Uses, Safety and What to Know - ΕΜΥ",
-      "source": "ΕΜΥ",
-      "date": "Tue, 27 Oct 2026 15:56:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSk0yNTVXU0lHRmZkLXFRYTNKa3pvb3UwVlNSWDVBS3duQXVTd0NzT2hxZ3ZzMEsyRzFoT0RMYUJOSVpGdjBIR3RLZkZVd3NqeURMbDVZaVBxVjRJcUtlV0tPc1ZfVFJpQ3lybTl0T0dCXzc5ZEtLUEtteHlWcVhvc0FrU1lXeEY1bkxHQU9WRWxVckVNYjRFNnZFUG1LWXBGMnBQMGN2T1o?oc=5",
-      "snippet": "weight loss drug news today semaglutide tirzepatide december 2025: Uses, Safety and What to Know&nbsp;&nbsp;ΕΜΥ",
-      "matched_query": "semaglutide tirzepatide news"
     },
     {
       "title": "Patients on GLP-1s Increasingly Carry Diagnoses for New Indications - The American Journal of Managed Care",
@@ -61,6 +53,14 @@
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
+      "title": "weight loss drug news today semaglutide tirzepatide december 2025: Uses, Safety and What to Know - ΕΜΥ",
+      "source": "ΕΜΥ",
+      "date": "Tue, 27 Oct 2026 15:56:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSk0yNTVXU0lHRmZkLXFRYTNKa3pvb3UwVlNSWDVBS3duQXVTd0NzT2hxZ3ZzMEsyRzFoT0RMYUJOSVpGdjBIR3RLZkZVd3NqeURMbDVZaVBxVjRJcUtlV0tPc1ZfVFJpQ3lybTl0T0dCXzc5ZEtLUEtteHlWcVhvc0FrU1lXeEY1bkxHQU9WRWxVckVNYjRFNnZFUG1LWXBGMnBQMGN2T1o?oc=5",
+      "snippet": "weight loss drug news today semaglutide tirzepatide december 2025: Uses, Safety and What to Know&nbsp;&nbsp;ΕΜΥ",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
       "title": "WHO issues global guideline on the use of GLP-1 medicines in treating obesity - World Health Organization (WHO)",
       "source": "World Health Organization (WHO)",
       "date": "Mon, 01 Dec 2025 08:00:00 GMT",
@@ -93,6 +93,14 @@
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
+      "title": "Semaglutide vs. Tirzepatide vs. Orforglipron for Weight Loss - U.S. News & World Report",
+      "source": "U.S. News & World Report",
+      "date": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTYzM0U1cW5GWXUxVGtHZjFQMnJLU0hKdVRUNW9wOHNBUUhRZkRza3o1Sk9sdlU3cWdla2tLRVd0MERGLUNyZHMxSUhFbjRTak03TVhjMGgyYW41ZWctZ2xYN1p3YlVjc3JDYjBobm5yTHVrdkhpc3lvV2xPbGp1UWdtaXlVd09hY2c?oc=5",
+      "snippet": "Semaglutide vs. Tirzepatide vs. Orforglipron for Weight Loss&nbsp;&nbsp;U.S. News & World Report",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
       "title": "Top Five Developments in GLP-1s, Weight-Loss Drugs - CBIA",
       "source": "CBIA",
       "date": "Thu, 11 Dec 2025 08:00:00 GMT",
@@ -117,19 +125,19 @@
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
-      "title": "Semaglutide and Follow-On Peptide Therapeutics: Balancing Innovation, Regulation, and Clinical Outcomes - Cureus",
-      "source": "Cureus",
-      "date": "Sun, 17 May 2026 05:57:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjVhaXpFWUVYdFZ0ejBNd1BaV2dHeWs5MUtGOTJEQ2N5cTRnazFncHU3ZG14MG9LcWFfal80bzZHbUJoSW9OSElYVGl0Y25EY3VQX0lvSmFFc1NZOWxicHNvQjlBN2RYSDF2aHg0RTh2RzRCSVVDdUZxcGVlOWdPQ0Q2UHJCdW1pLWtSM2ZfZjBIRU52QnM0N0FLdmZVQk9zTmViVl9mdFVHTmVjaDgtSEFBWnJHWW1kVFNJZmp5U1JHSzNBLTNrSlpiTWhlS0ZvWFZaTzR3?oc=5",
-      "snippet": "Semaglutide and Follow-On Peptide Therapeutics: Balancing Innovation, Regulation, and Clinical Outcomes&nbsp;&nbsp;Cureus",
+      "title": "FDA Advisory Committee’s Vote May Open A Drug-Compounding Back Door For Unapproved Peptides - Health Affairs",
+      "source": "Health Affairs",
+      "date": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNanVwdXpzR1p3bUNLdTRWUGstUHItV3NBb2VTa3pLR2tVc0NKZ18zNHZ6cHRoOTZIVDRhcFFfaWxWWGdFRk9qanh5WEhwS0tKeVZpQVNGeWh2V3ZtTExTeUpQaDh1X0lZNXZUZHNsOUJ1bW9UTTJ4MnBSYXJSNUhpaVJEMC0tQVlDN3A3Z2RmQzJabjRqUzZUYUVLSC1jSUVDV2FHdldQdzZjWWlhUzFlMEV4UW96SzEtRnlmZm5SeUVtZHhPa3BaVVkzUTNuQQ?oc=5",
+      "snippet": "FDA Advisory Committee’s Vote May Open A Drug-Compounding Back Door For Unapproved Peptides&nbsp;&nbsp;Health Affairs",
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
-      "title": "Semaglutide vs. Tirzepatide vs. Orforglipron for Weight Loss - U.S. News & World Report",
-      "source": "U.S. News & World Report",
-      "date": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTYzM0U1cW5GWXUxVGtHZjFQMnJLU0hKdVRUNW9wOHNBUUhRZkRza3o1Sk9sdlU3cWdla2tLRVd0MERGLUNyZHMxSUhFbjRTak03TVhjMGgyYW41ZWctZ2xYN1p3YlVjc3JDYjBobm5yTHVrdkhpc3lvV2xPbGp1UWdtaXlVd09hY2c?oc=5",
-      "snippet": "Semaglutide vs. Tirzepatide vs. Orforglipron for Weight Loss&nbsp;&nbsp;U.S. News & World Report",
+      "title": "FDA Moves to Permanently Close the Door on Compounded GLP-1s - Pharmacy Times",
+      "source": "Pharmacy Times",
+      "date": "Fri, 01 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkZROTRTZDdRWVFfcmJyNU0zT2xnTTJGYUhfX2RVbURFd0F3WmxYa25hLVN2VGtQRVVMeFpEZnBmeV8tYlQ5TENaNUVYaXI2eFJ4QnpwQWktYW5Va2M5bkFFRXNhWGszdWlteFBhMzJvSmRvMk5KbURXQ3ZrbWRwdlBuelZ3YWRGUmhiRVVBa1JqUWlrTHlVcTNDQQ?oc=5",
+      "snippet": "FDA Moves to Permanently Close the Door on Compounded GLP-1s&nbsp;&nbsp;Pharmacy Times",
       "matched_query": "semaglutide tirzepatide news"
     },
     {
@@ -157,11 +165,11 @@
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
-      "title": "Peptides: Doctors explain the benefits, risks and FDA concerns - UCHealth",
-      "source": "UCHealth",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "snippet": "Peptides: Doctors explain the benefits, risks and FDA concerns&nbsp;&nbsp;UCHealth",
+      "title": "Semaglutide and Follow-On Peptide Therapeutics: Balancing Innovation, Regulation, and Clinical Outcomes - Cureus",
+      "source": "Cureus",
+      "date": "Sun, 17 May 2026 05:57:10 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjVhaXpFWUVYdFZ0ejBNd1BaV2dHeWs5MUtGOTJEQ2N5cTRnazFncHU3ZG14MG9LcWFfal80bzZHbUJoSW9OSElYVGl0Y25EY3VQX0lvSmFFc1NZOWxicHNvQjlBN2RYSDF2aHg0RTh2RzRCSVVDdUZxcGVlOWdPQ0Q2UHJCdW1pLWtSM2ZfZjBIRU52QnM0N0FLdmZVQk9zTmViVl9mdFVHTmVjaDgtSEFBWnJHWW1kVFNJZmp5U1JHSzNBLTNrSlpiTWhlS0ZvWFZaTzR3?oc=5",
+      "snippet": "Semaglutide and Follow-On Peptide Therapeutics: Balancing Innovation, Regulation, and Clinical Outcomes&nbsp;&nbsp;Cureus",
       "matched_query": "peptide therapeutic clinical trial"
     },
     {
