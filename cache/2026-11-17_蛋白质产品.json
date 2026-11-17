@@ -1,7 +1,200 @@
 {
   "date": "2026-11-17",
   "topic": "蛋白质产品",
-  "total": 0,
-  "total_raw": 0,
-  "items": []
+  "total": 24,
+  "total_raw": 79,
+  "items": [
+    {
+      "title": "Biocon obtains FDA OK for Perjeta biosimilar - Drug Store News",
+      "source": "Drug Store News",
+      "date": "Mon, 16 Nov 2026 14:17:19 GMT",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNdHlhdnhlMVZyZHhwaEdsVVZydGhSMGZ4bGR0WjZiSGF4SHVmc0dma19vM3htM1J4OTh2cXRRbHRnVnliTEFUa2VCdmpJZlhxbjlCa29QMUs1N3VvMDZjTW80MlUwU3ZVT2w0YlN5QUY5SlNN?oc=5",
+      "snippet": "Biocon obtains FDA OK for Perjeta biosimilar&nbsp;&nbsp;Drug Store News",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "Ivonescimab Extends Overall Survival in Advanced Squamous Non-Small Cell Lung Cancer - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "date": "Tue, 17 Nov 2026 14:05:32 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUtzT2xrREJVSlZrVFEzUWpINEJZT2Uzb0ZiSEdlUENwVzNjcF9YWS1tRVFpZVBGMTUwSk5adnhJTzI4TTB6aVRFaWY1VnhFYWd0UC1rT29sN01qZ1hkbTloaHprN00tckpqdFo1RUhBbXpiTVdpbHFWSThIbGF0Zlc5am5scFhwUmdGYnN6VUhhUHFXZ3ZWRlJ5RHJLUU5ac2FYeGd6bjk4MXhZMGc?oc=5",
+      "snippet": "Ivonescimab Extends Overall Survival in Advanced Squamous Non-Small Cell Lung Cancer&nbsp;&nbsp;Bioengineer.org",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "Kyntra axes mid-stage ADC, adding to years of stumbles - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "Tue, 17 Nov 2026 15:40:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT1MwMVRLVHEzUjVsX2N4MGlwNjlTbGEtUnIzSGZpQm5XaVpnR2NuLWh2N09janRfekxyU1h4WHJWdk1sUXBDRXlmVXhHUXBBTW5pNFp0R3VBdmZiejNpcFZQb1d0dVdUbTZIMHhFY3RnVkxaeTRydFFVZW96WUVXaG1EVGdjdDktUDkyVmhSZlBNemN4Yk1B?oc=5",
+      "snippet": "Kyntra axes mid-stage ADC, adding to years of stumbles&nbsp;&nbsp;Fierce Biotech",
+      "matched_query": "ADC antibody drug conjugate news"
+    },
+    {
+      "title": "Recombinant Proteins: Production, Expression Systems, and Therapeutic Uses - Nanowerk",
+      "source": "Nanowerk",
+      "date": "Wed, 29 Apr 2026 06:08:30 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxYk5JUmRmVENBRy1qZjhvR0M0Z2VMT3lkdG1YV2VoM2w2WnExRkxocHNrcS1oSFpUTXpJVEpHRTJ0LVNoLXNxTWJXYjFZeW92cklPYUpSbW81Vm5qM3p0b2E4NURZQTV6Q3FNRy1LR3dkQzAwYVg5VjlNVVA?oc=5",
+      "snippet": "Recombinant Proteins: Production, Expression Systems, and Therapeutic Uses&nbsp;&nbsp;Nanowerk",
+      "matched_query": "recombinant protein therapeutic approval"
+    },
+    {
+      "title": "Pertuzumab Biosimilar Gains FDA Approval for HER2+ Breast Cancer - OncLive",
+      "source": "OncLive",
+      "date": "Mon, 16 Nov 2026 23:17:27 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFRQUVY3Y2tJLTlJZ3dfRzRnVERETDNrOHJPQkU0bE94andSUkxIZGZrT3gyNm42M0tWY2dXYWF0UHZNclNRamxBMGdkckxCMTNjcEhXTWJqQVVDTG1oZUZXenRCb2NsR016ZUctTE4yMHBBcUxEUS1MUlIzelB2WVVEamc1bV83UFBmWmJ4UGFXV3p1ZXZv?oc=5",
+      "snippet": "Pertuzumab Biosimilar Gains FDA Approval for HER2+ Breast Cancer&nbsp;&nbsp;OncLive",
+      "matched_query": "biosimilar approval"
+    },
+    {
+      "title": "Hims & Hers Health (HIMS) Added FDA Approved Obesity Drugs To Its Platform - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "date": "Tue, 17 Nov 2026 03:11:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHE0TjR0NHUyX0Q3Nllyby1EUGd3alh1RlFNSkdOWUlGbEhGV3Q0Z0NlWVNScS1BVV9RYUd4RTZxQW92Um5PRUJBM3ZpMFdmbjRZdjNvR3FJWjdzU0tEWVpxZXhmNVIxNDBHQzZDX3E4Qm9YZjlPTzd1YmstUHBoWWs2UWZsSlRRQm5lemJXMGtaZw?oc=5",
+      "snippet": "Hims & Hers Health (HIMS) Added FDA Approved Obesity Drugs To Its Platform&nbsp;&nbsp;Yahoo Finance",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Bariatric Surgery and Drug Switches Outperform Discontinuation After Semaglutide or Tirzepatide - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "date": "Sun, 15 Nov 2026 12:25:33 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd3NkYzdnQXBpTF95WFJBRDgzbXFSWWw1QVJlUW1pLU5qQXBJVjhxdVJKcDBIMHF2NnRneFBRT3A1eWdRYUpLd09mVjJVckhFYkY3TGhjcTNWUEZmR2tTUDFzNHRlR2FlZ1lmVmFxY01OMXFKZTlva2lRQjBZbnRvVjFrdk8zTGFJYlNVVTZieHRwWW1aa3dOUnNHZnYzVDRJVGpuRjllZEpycndIX21tQWxRSVJyTGRpOXBDbw?oc=5",
+      "snippet": "Bariatric Surgery and Drug Switches Outperform Discontinuation After Semaglutide or Tirzepatide&nbsp;&nbsp;Bioengineer.org",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "Peptide Conjugates And AI Design Reshape Targeted Therapeutics Amid Translational Hurdles - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "date": "Mon, 16 Nov 2026 21:42:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnhoYXU0bGxkNVBJemg2Yl9pNlBqWFZqNmUtZDBadFBzUzVsNS1CbkFhdVliNWVGdVlyR3UzQkxJME5FNzBJcHNsMUJDU0dsTGg2ank0X05pSWcxdHVKY1NZa3pQeUxSOWZUZ1FiQ2o4MVl1YTV2ZG5Wdk15UlR0WU1fOWJrOHZXZjFWZk9JR2pIVU5BM2d6cGx4ZE53aU9UQjVEa255a0h5TWpPZE5TMkttZ3c?oc=5",
+      "snippet": "Peptide Conjugates And AI Design Reshape Targeted Therapeutics Amid Translational Hurdles&nbsp;&nbsp;Bioengineer.org",
+      "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "The Future of Genus Patenting Strategies for Antibodies Post- Amgen - IPWatchdog",
+      "source": "IPWatchdog",
+      "date": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHlGS0N6SV9MUHRoM0MybzNyeHluc2pTVUlVLVRKTHAxZmlCcl9wZUktZGJnNXFISmVuaG9MWlZSWXRmM0JISTZhcWMzeEk0dkRpb2hwNHlVUVM5Z2dqS0pBV2xFdndsTm9MRERSNFJuS0pORkV5ZDBvcDQxRzE5RUZFMU14TEo1S0NuNFlmWVRjejgz?oc=5",
+      "snippet": "The Future of Genus Patenting Strategies for Antibodies Post- Amgen&nbsp;&nbsp;IPWatchdog",
+      "matched_query": "antibody patent litigation"
+    },
+    {
+      "title": "Biosimilars at an Inflection Point: How Regulatory Reform, a Maturing Patent Framework and a Looming Patent Cliff Are Reshaping M&A | Skadden, Arps, Slate, Meagher & Flom LLP - JD Supra",
+      "source": "JD Supra",
+      "date": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWFITXBWWnYxZHRTakM4M1dkeHFLQ2xSb290elNfYXg5YVpwc2NCYXo5eFZ0SDRfQ1BCekx3TGRxVlNZcEZ0N1R5VXFSZ0NoVGV1MWhyQ3A4UnJxTUNJQnRHMnp5TlRNaGhwUWF4X1E4YllpOXAxZjNKU3Zja0hjZWJ6QV9KWVZs?oc=5",
+      "snippet": "Biosimilars at an Inflection Point: How Regulatory Reform, a Maturing Patent Framework and a Looming Patent Cliff Are Reshaping M&amp;A | Skadden, Arps, Slate, Meagher & Flom LLP&nbsp;&nbsp;JD Supra",
+      "matched_query": "biosimilar patent settlement"
+    },
+    {
+      "title": "Daiichi Sankyo prevails on appeal in long-running ADC patent battle with Seagen, flipping prior $41.8M verdict - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "date": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcUhXanpvN3F3cXlFWW9sc3plUzMtZUlfazZCU1Voc1lNSE1iWVdiam1RSl9rNVlRVE4yTUtwdmg5NkxNUHlhT0x3YWNNRmFmYzFldU9iSkxtSFZ3YzdwY1lDMm95dFNObTlLVWx3ME5TMmRQTUZUTzBiLThac3RPb29McEpVR2JGU1c3LXRWd0NRa3NJTm9vTkppZVRsdlVFNkNWUlpZeThUUVlYZzF3U0Z4TFNZZE5vV0tQeHV4czYxZw?oc=5",
+      "snippet": "Daiichi Sankyo prevails on appeal in long-running ADC patent battle with Seagen, flipping prior $41.8M verdict&nbsp;&nbsp;Fierce Pharma",
+      "matched_query": "ADC patent dispute"
+    },
+    {
+      "title": "宜明昂科IMM2902发明专利获得美国专利局授权 - ByDrug",
+      "source": "ByDrug",
+      "date": "Mon, 02 Oct 2023 10:53:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hc09QZ2NlSnJ4V1UzWkdvNHBBY0N0TVNXVFhicXBmaEJjdFM0V212b2NuR1EwU3cwMGc2cjhBYktNNHU2ZV9oTlgxbDB5Rm4zTmIxVmdISksxbUp6VVFySkxBTGZtWkNqS3JOQ01zMWNtTlQyaXdRX3NjbHhlQQ?oc=5",
+      "snippet": "宜明昂科IMM2902发明专利获得美国专利局授权&nbsp;&nbsp;ByDrug",
+      "matched_query": "重组蛋白 抗体 专利 授权"
+    },
+    {
+      "title": "2026年9月227款新药获批临床！52款纳入特殊审评，5笔重磅BD交易达成 - 摩熵医药",
+      "source": "摩熵医药",
+      "date": "Tue, 13 Oct 2026 06:42:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81eGlMUXJNU3BLcnpXOWh3Y2FyMTJGanZGZTVGdFJfR041a0dqaEJiLTNMYlR1MTJ4b2pTMnlDaTVMTkVxWXFjbGdkS3M3bW5IRmhZN0xUOA?oc=5",
+      "snippet": "2026年9月227款新药获批临床！52款纳入特殊审评，5笔重磅BD交易达成&nbsp;&nbsp;摩熵医药",
+      "matched_query": "抗体药物 审批 临床 2026"
+    },
+    {
+      "title": "复宏汉霖地舒单抗生物类似药有新进展，“出海”或是必然 - Jiemian.com",
+      "source": "Jiemian.com",
+      "date": "Sun, 07 Apr 2024 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wV1U3QmhwZ2pBaHg0dk4tbkRCMGtDSndHc2FjU3J6OWJRemoxd3VfSWNRaVNIMFNRU1FZMGZkUGV4dDR1eEV1R2hvVzN0TGltcnQ4NndUYV8?oc=5",
+      "snippet": "复宏汉霖地舒单抗生物类似药有新进展，“出海”或是必然&nbsp;&nbsp;Jiemian.com",
+      "matched_query": "生物类似药 上市 进展"
+    },
+    {
+      "title": "禾元生物自研产品重组人白蛋白注射液（水稻）纳入国家医保目录 - 凤凰网财经",
+      "source": "凤凰网财经",
+      "date": "Mon, 16 Nov 2026 04:04:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sNUZ3bzJWRXVqOTZfX0lhT0xCd3ByQUxrZzF5Qjk2OU9HekFKNjhBNWc0V1BRM2t3MWZoWnBrbi1FY3FHVldTZGhjTDBVQUs0?oc=5",
+      "snippet": "禾元生物自研产品重组人白蛋白注射液（水稻）纳入国家医保目录&nbsp;&nbsp;凤凰网财经",
+      "matched_query": "重组蛋白 药物 研发"
+    },
+    {
+      "title": "暴涨的GLP-1：减肥药未到，上游先吃饱 - 中国医药创新促进会",
+      "source": "中国医药创新促进会",
+      "date": "Wed, 11 Oct 2023 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rX09lc2xTSDdzR1Y4b3dyOWU4bWlhZmZ0Qm5JYVczZVZaczBhdXNIOUhhYUVsZzhzYjM4bXJtb0dGS25WMmFSNFJRRTZIVlNqcHlucHpjNWd1by1GRUpUdXgzdWt2WWZPNl8yVXVULWQ0b29vTjZqLXZB?oc=5",
+      "snippet": "暴涨的GLP-1：减肥药未到，上游先吃饱&nbsp;&nbsp;中国医药创新促进会",
+      "matched_query": "GLP-1 多肽药物 审批"
+    },
+    {
+      "title": "Biocon gets US FDA approval for Pebrilzo, fifth oncology biosimilar - scanx.trade",
+      "source": "scanx.trade",
+      "date": "Mon, 16 Nov 2026 15:15:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFh0aWtlcGJoLVJnemhTOTZWTW9xS0NzRWhvVVlqcXAyU01PX0RLY1hxaHdsQ3daMjBTa1V3eENOXzJlQVdIY2szTkFHczgyMVVMZXZqMFpaMTI1SGVNRlpVS1ZBNTcwM3Jibk1YaVU5SklqQ1BsR2V2akkzRnFyaUVublV2SkpnMW5xaXE1X0dSZjJnclFVZ0N2V0NpVHViOFp6UUVOaWpmbS1zSWdXU0VNSFUxa3lHdmZN?oc=5",
+      "snippet": "Biocon gets US FDA approval for Pebrilzo, fifth oncology biosimilar&nbsp;&nbsp;scanx.trade",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "The clinical trial landscape of bispecific antibodies in non-small cell lung cancer: mechanistic trends and developmental strategies - Frontiers",
+      "source": "Frontiers",
+      "date": "Mon, 10 Aug 2026 07:02:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkxaY0lMdGtPS2IxWXFQcC11TmtuSnFGUmcwOHNCbVdaMEJ2TEJOSVh0OFdNcUV3NGVTcC1LV3R0UGtHUDJPZjhvQWYxRkE1Mk1HSzl4YjdfSHFPUGZ6ZWJIb1hkS2lISFphc1hIa1pMYV9xcV9MM3huT0VpY1ZsQ1hfYUdPYzRpQU90TFRmM3Fmempr?oc=5",
+      "snippet": "The clinical trial landscape of bispecific antibodies in non-small cell lung cancer: mechanistic trends and developmental strategies&nbsp;&nbsp;Frontiers",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "FDA rejects Summit’s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "date": "Sun, 15 Nov 2026 12:50:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUFJWnNTQ00yaXJYT21NN1BCMUdpM3BjbjdyUk9WOEFIcGx4U090RlVIbXp6OGVjTkFBREhGUnUtclFRU3d5OS1PVkVNQk9tZGVGSS1wZmNMamlleFBMalZUQzFrNXB5TGN5SzFMd3REcTZCcG5IQXpMMkFYc2lac0VEbnZ4V2NuSTZ4VVJrRnd6TkJfdUtJWmt6VQ?oc=5",
+      "snippet": "FDA rejects Summit’s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class&nbsp;&nbsp;Fierce Pharma",
+      "matched_query": "ADC antibody drug conjugate news"
+    },
+    {
+      "title": "Biologics for bone regeneration: advances in cell, protein, gene, and mRNA therapies - Nature",
+      "source": "Nature",
+      "date": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sOEdNblMxc2dBSXlXa2ZPRjF3MVQxRVdUbVVVTTFNRjVlOUxZZzFRSWFxVjNZVG9odW4yTVVZSVZMMklpTmNFUldxcGM3ejZlZHQ4R2ZZTjZBWVJMcFE0?oc=5",
+      "snippet": "Biologics for bone regeneration: advances in cell, protein, gene, and mRNA therapies&nbsp;&nbsp;Nature",
+      "matched_query": "recombinant protein therapeutic approval"
+    },
+    {
+      "title": "Pebrilzo wins FDA approval as a second Perjeta biosimilar—but U.S. patients may have to wait until late 2028 - Medical Daily",
+      "source": "Medical Daily",
+      "date": "Tue, 17 Nov 2026 11:27:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVhwNHNlOUNwNWpCVUJRUGg3eEhBSVA4NW8xdlJBeW5HVk9jeF9LcDR4S1pmaXN5U1p0c0FtTW16OUh0anUtbVNXWlU2RURUUnREZl9SM01UTTJ3UU9YUmVxLWFXaVp4YmVaSkNacm4zTHZBLUNucmVfN0o3aHd2YlJOQ01xaVlCY2RNTzhORDJndzNyTDB3a2preG1WQmNqVW1ZZA?oc=5",
+      "snippet": "Pebrilzo wins FDA approval as a second Perjeta biosimilar—but U.S. patients may have to wait until late 2028&nbsp;&nbsp;Medical Daily",
+      "matched_query": "biosimilar approval"
+    },
+    {
+      "title": "US FDA Sees Generics, Not Compounding, As Answer To GLP-1 Costs - insights.citeline.com",
+      "source": "insights.citeline.com",
+      "date": "Mon, 16 Nov 2026 22:36:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMUtWOFc4NGdYcmRyX3pBYmNKYUxYT3BVenE4TnNuX2xqWjRyMHdScFVObzhocF9IYzkwWFlVUUpkZUpJNDhnOHl4WERmM1dMLWZyMnQyWDF5UERob2xRcW1oMG40X09SRmpDR0YtS1ZjUGRCbW1FRzdnaE1icjVBNjkxc2wxNXl0Wl9ZN01kUm04NGR0RUFoRzY0T2RDRzR1T3RrandkcURjTHVJOGpTazRaOGFaQmNkTDlGZEZjQW1IREtDQ0pjOERNd2paRGs4SWh6b1BLeDFTMFNfMURMOF9HUzlrbEJDMkR3Um1xbWEwM056a25r?oc=5",
+      "snippet": "US FDA Sees Generics, Not Compounding, As Answer To GLP-1 Costs&nbsp;&nbsp;insights.citeline.com",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "weight loss drug news today semaglutide tirzepatide december 2025: Uses, Safety and What to Know - ΕΜΥ",
+      "source": "ΕΜΥ",
+      "date": "Tue, 27 Oct 2026 15:56:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSk0yNTVXU0lHRmZkLXFRYTNKa3pvb3UwVlNSWDVBS3duQXVTd0NzT2hxZ3ZzMEsyRzFoT0RMYUJOSVpGdjBIR3RLZkZVd3NqeURMbDVZaVBxVjRJcUtlV0tPc1ZfVFJpQ3lybTl0T0dCXzc5ZEtLUEtteHlWcVhvc0FrU1lXeEY1bkxHQU9WRWxVckVNYjRFNnZFUG1LWXBGMnBQMGN2T1o?oc=5",
+      "snippet": "weight loss drug news today semaglutide tirzepatide december 2025: Uses, Safety and What to Know&nbsp;&nbsp;ΕΜΥ",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "Peptides talk is everywhere: But what does the science say? - Stanford Medicine",
+      "source": "Stanford Medicine",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVQ3cU4xTG1iTGY0MC1wb1ZENnVHRVF3NWExOVlIb0tqZF9hTFdJT0pvNHFNVUFYV3JNVEJuNUNZRnY3dmQyemUzWEtKWmc0eW96UUY1NXlCQzB4d3NHWVpmbFA0dW03R05ZdEtmWTFqR0hfbm5zaGw0SmNZZ2dvUXVWSEJTZFhKc3RDejVsdw?oc=5",
+      "snippet": "Peptides talk is everywhere: But what does the science say?&nbsp;&nbsp;Stanford Medicine",
+      "matched_query": "peptide therapeutic clinical trial"
+    }
+  ]
 }
