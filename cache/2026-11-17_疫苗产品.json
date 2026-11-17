@@ -2,7 +2,7 @@
   "date": "2026-11-17",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 93,
+  "total_raw": 74,
   "items": [
     {
       "title": "Sellas vaccine extends survival in blood cancer trial, shares surge - Reuters",
@@ -21,11 +21,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "AstraZeneca to Acquire Clinical-Stage Company Developing RSV, hMPV Combo Vaccine - respiratory-therapy.com",
-      "source": "respiratory-therapy.com",
-      "date": "Tue, 12 Dec 2023 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRnlFUC1MVk5RVGt5N054cU9tLTJsVlhySElEU1BrMXIwaVIwOWEtZ2dWRnZIa2M3ZzdJZXlsbjlscldUY0NCT19acC1XSHBySEFWUDFIT3Jja3Iyb0FZbzlBbWJSWFFHRFUteWVQa0VqeUE0SGY5TGxaZmJTUVRfMlA0WGlSY25IWXhfVDVPUjhJMzZoN0RycUo4SFZmNkUydmFDZkxBMktoMHZpMzA3Y2JpS2MySjREUWROamZCZVlsMUdKZEF1cFBjV2tzcXE1VFUyT25B?oc=5",
-      "snippet": "AstraZeneca to Acquire Clinical-Stage Company Developing RSV, hMPV Combo Vaccine&nbsp;&nbsp;respiratory-therapy.com",
+      "title": "Recent advance in the development of tuberculosis vaccines in clinical trials and virus-like particle-based vaccine candidates - Frontiers",
+      "source": "Frontiers",
+      "date": "Tue, 13 Feb 2024 09:58:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWtBdnBlMkI0aHZvR0phT2NyWXFDZDJKaklkQ0FBWndjLXlKWXJYM25weF9KV1dQbWhjWmpOeVA1LU9fQzFUUWZiMmllRVZ6M0xFYk9QbjF4UVo4VHBVQURSUGlwd1VEMHNqWHlDYW9NNW1YdkloYld3MFZwOVVqeU02U1hjSDVsUUlGbUoxamxMUQ?oc=5",
+      "snippet": "Recent advance in the development of tuberculosis vaccines in clinical trials and virus-like particle-based vaccine candidates&nbsp;&nbsp;Frontiers",
       "matched_query": "VLP vaccine pipeline"
     },
     {
@@ -45,22 +45,6 @@
       "matched_query": "mRNA vaccine patent lipid nanoparticle"
     },
     {
-      "title": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021 - Nature",
-      "source": "Nature",
-      "date": "Sat, 28 Dec 2024 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eGNjU1RxSFdxWTNqTGRZMk4zUHo1UWFLUW9NbkVCa19GU25EcVlrSFA0eVBmdlhRU19DNU0wMHlPdFI4Ql9uUF9admwtWkdldUF2RFM1SkVxNWFZM0lF?oc=5",
-      "snippet": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021&nbsp;&nbsp;Nature",
-      "matched_query": "vaccine adjuvant patent"
-    },
-    {
-      "title": "BioNTech Files Suit Against Moderna for Patent Infringement - Pharmaceutical Executive",
-      "source": "Pharmaceutical Executive",
-      "date": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0NLZldENGl1UkFfcEVJdGNfcVlKbnA0MVZ0SGxEMTNKSVhZcjVNZzI2c0Y2UDMyTDJ2Z1BVMFYzY2E2RFNVNUNoRkRGcThUTTlZUUExQnhHVjIxTlR3bm5STDZXUjI5N0V6TW9yTnhGalh0R0FVVVJoN3VjQTYtT0dXTjJkNWxaSUJoaS1Zcw?oc=5",
-      "snippet": "BioNTech Files Suit Against Moderna for Patent Infringement&nbsp;&nbsp;Pharmaceutical Executive",
-      "matched_query": "vaccine patent infringement lawsuit"
-    },
-    {
       "title": "Blockbuster drugs face a massive patent cliff in 2026 - Drug Discovery News",
       "source": "Drug Discovery News",
       "date": "Tue, 24 Feb 2026 08:00:00 GMT",
@@ -69,52 +53,44 @@
       "matched_query": "vaccine patent expiration"
     },
     {
+      "title": "Moderna Settles with Genevant and Arbutus, Ending LNP Patent Dispute - IPWatchdog",
+      "source": "IPWatchdog",
+      "date": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmEzMWdoSUpyS01henNtSWZfSG5VeVdaaXQtZ1VlMU1oSjhlQUlTSktIT25tWmlpQVlGWTF2QzdOQ3htSFpXbEZTRmRLU3AydE9qZFpmXzZKZlJzWGdTWkQ3UWwxMU9zRjBKcVJfUGhRR3p0VlczQWpPUGU5UGdIN2ZoTHlVd2VQS3dEdWo4SzdzMTRma1pBTg?oc=5",
+      "snippet": "Moderna Settles with Genevant and Arbutus, Ending LNP Patent Dispute&nbsp;&nbsp;IPWatchdog",
+      "matched_query": "Moderna LNP patent settlement Arbutus Genevant"
+    },
+    {
       "title": "The mRNA wars are escalating with new claims from Arbutus - JUVE Patent",
       "source": "JUVE Patent",
       "date": "Tue, 18 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1lkODdtbDJyOFlHcGhCaTlBMkZ6dWpZWXFWZzV6bEpPem9ZM1hBSzFucDdfcVFEa1RVdnBhZS1qN3dmdFNXWl9vMklWWjFpQmthMTY3WG1QeHlUeFVjM1pHdlRfMjkyNkxJZ1FkY3ozQTRxamR2cDFXY3p5ZG54ZGwyVktrWlN2aUkzUXdZWEd3WEtMUUpZ?oc=5",
       "snippet": "The mRNA wars are escalating with new claims from Arbutus&nbsp;&nbsp;JUVE Patent",
-      "matched_query": "Moderna LNP patent settlement Arbutus Genevant"
+      "matched_query": "Pfizer BioNTech LNP patent litigation 2026"
     },
     {
-      "title": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
-      "source": "Reuters",
-      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
-      "snippet": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope&nbsp;&nbsp;Reuters",
-      "matched_query": "vaccine adjuvant China patent authorization"
-    },
-    {
-      "title": "mRNA Therapeutics Market Size to Hit USD 83.49 Billion by 2035 - BioSpace",
-      "source": "BioSpace",
-      "date": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYkh1OUZybE9pRlZnZ0pQejIyTGJqcHB3V2tYNDNpX1VRWjh3bDBYUnF5a3VTREpHY3RWN0ltWVlKTlJuaFlGdlVLNnFjR2lEQXFxd3NYQTBNdXRoWGFZQmtKTVVobzFSZ2NGeUVGSVJZZU9YZElvT1FObGJTTzZ0WkJtQVZHa0duakV2TDlGcFdZTmR5Nk5XbVZzV3lxQUk0dmY1UQ?oc=5",
-      "snippet": "mRNA Therapeutics Market Size to Hit USD 83.49 Billion by 2035&nbsp;&nbsp;BioSpace",
+      "title": "mRNA Influenza Vaccines Market Size, Share & Forecast [2034] - Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "date": "Mon, 26 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTGY0S2dEaEdoTU5NaUZxOFZ0UlpCVXBLWnJoXzA2RGFuVXBZS0JkRjFSMlhBN3hrbGRhVHZXMW1aVXJwR2xYczFlazM5dXF6eG5wYWtBSFNTcmNIUC1DU2NXMG5ZYWdBUDg5YU9JSUNkUktsenJDUUNwQmZ2WmtEZUl0MA?oc=5",
+      "snippet": "mRNA Influenza Vaccines Market Size, Share & Forecast [2034]&nbsp;&nbsp;Fortune Business Insights",
       "matched_query": "mRNA vaccine market size forecast 2026"
     },
     {
-      "title": "Japan Approves Updated Self-Amplifying mRNA COVID-19 Vaccine - Contagion Live",
-      "source": "Contagion Live",
-      "date": "Tue, 17 Sep 2024 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOURJTEhpbnFKTTdZS1lGbUxkY19TNkNZU24yYkVIMjVMaFFWWU91blVnUW1HTnhPQlgxck9uUWJLSmItYjU5SlBvRjhBbS01RmRST2N1R01QOVZyTEh6bERVdzJ5M2pkUG81V1A1ZGdFZzI3YzByX3RkcU5hTVBfRHl4aTdsRjhGSmlrYzZlVkh6VFdkYnFzLVVXOA?oc=5",
-      "snippet": "Japan Approves Updated Self-Amplifying mRNA COVID-19 Vaccine&nbsp;&nbsp;Contagion Live",
+      "title": "Self-amplifying COVID-19 mRNA vaccination induces longitudinally enhanced antibody function in a Phase 3 trial - Nature",
+      "source": "Nature",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PaXBFM3QtTVFVNEktSUdqSzY3Snl2ZlptQmtGOEtFYkVzS1RRVFAxcXg2WWJMcW1pdWwwU3ZEQ2ZSN0MzUGhvUkx6d3FkOVFWUEh0VFZNYTJuNDh0a0pv?oc=5",
+      "snippet": "Self-amplifying COVID-19 mRNA vaccination induces longitudinally enhanced antibody function in a Phase 3 trial&nbsp;&nbsp;Nature",
       "matched_query": "self-amplifying mRNA vaccine approval"
     },
     {
-      "title": "Circular RNAs in cancer: from biomarkers to vaccine-based immunotherapy - Frontiers",
-      "source": "Frontiers",
-      "date": "Fri, 11 Sep 2026 13:59:30 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQm01S3NDcWJoMUhjYkpGZ2VIRTUtUGxOd1ZKVUxlbVpKdGVnZVZ4ODM3U0xDMkdMa2tiT3BfMXNyXy1ycEw5QVFKbUNsZmtrUXdSQjJ1REYwdWZ4WkJpQW5YdU9vbnJ4RTcwbldYT3lMTDJYMHdhT01oYTlhYVlBY19vTlpDNHRoT0tveHFBQThfTEZw?oc=5",
-      "snippet": "Circular RNAs in cancer: from biomarkers to vaccine-based immunotherapy&nbsp;&nbsp;Frontiers",
+      "title": "Lipid nanoparticle delivery of circle RNA vaccine induces potent immune responses - Nature",
+      "source": "Nature",
+      "date": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JNnJoc1I2ZDQzaHRtd2E4aTRaZUluV05MOF9SX3lqWHg3UWVSYXBERDhVTEJOWnRxb1E2c21neXF5N2dmSE5Bb2ZuRW55OW0wb1BwbEk3U3FQTVFBTEtj?oc=5",
+      "snippet": "Lipid nanoparticle delivery of circle RNA vaccine induces potent immune responses&nbsp;&nbsp;Nature",
       "matched_query": "circular RNA vaccine therapeutic"
-    },
-    {
-      "title": "Moderna股价年内暴涨超600%，癌症疫苗前景引发市场狂热 - NAI500",
-      "source": "NAI500",
-      "date": "Tue, 17 Nov 2026 08:17:45 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWlEaWpaV0x2Q0tIRWh5dXNKVy1hV2VOQi1tcjN4WTFUd2U4RXRWMUdKY1poRzI0UEJERkEtem5JcFhVNVUyRlBPQTVwdjFiME44YklkMHpzS1BWb1RJUm0yR0trOHFEeFRqUmNTWWgyell2VTNsMHR1aDUzbXhMejhTZ3BwNGg4Q2ZqMzJwdVBHQ2pVblRYZWtkWnRjT01wd3Exemt6bGVmOG1VYmJseEw4U3BLeUE?oc=5",
-      "snippet": "Moderna股价年内暴涨超600%，癌症疫苗前景引发市场狂热&nbsp;&nbsp;NAI500",
-      "matched_query": "疫苗 审批 临床试验 2026"
     },
     {
       "title": "华兰疫苗新型流感病毒mRNA疫苗临床获批，国内流感疫苗正式进入mRNA技术赛道 - 摩熵医药",
@@ -149,19 +125,11 @@
       "matched_query": "mRNA 疫苗 专利 诉讼"
     },
     {
-      "title": "疫苗市场规模、份额|全球增长报告 [2034] - Fortune Business Insights",
-      "source": "Fortune Business Insights",
-      "date": "Mon, 02 Nov 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRjNiRi1Ia3hJN19yT2J0SlFiUXoxbF8ySklMeVBWazVtUFFodkFCd1AtWFdXWXJ5eWk3VWhCcUxDZTJWLWJSb1BmU0dSNTNKa3poUDNYRnc4NmpYX214ek0zRFA3RC10M0xvY0NhM3lZMkU5LUdEWVdjTUtsYnYyRGdHdlIzcTEtUHc?oc=5",
-      "snippet": "疫苗市场规模、份额|全球增长报告 [2034]&nbsp;&nbsp;Fortune Business Insights",
-      "matched_query": "mRNA 疫苗 市场 规模 2026"
-    },
-    {
-      "title": "Sellas’ cancer vaccine slashes death risk by 41% in late-stage AML study - BioSpace",
-      "source": "BioSpace",
-      "date": "Tue, 17 Nov 2026 14:17:02 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLW5wN0tTQ1hCanJpV05UX2VBT0VPQjE5aUl4dlJHY2FoNnBmY1Y0QmhWUkYzTHBzWjZ0cVJCb3VRVW5seVhtTnBXRlB5Slk4ZzlteGxuaGhqVDJ1UFlaSmNuc3dCcnB3WVJoQ19XZlVZZjRId2x4UkhqQW03a2VoVk90eDBFOWREM2dVcWFyakRDaDRmUjJhVlNjaUJLeVE0dE96U3NCVVF5dk5meFlraTFB?oc=5",
-      "snippet": "Sellas’ cancer vaccine slashes death risk by 41% in late-stage AML study&nbsp;&nbsp;BioSpace",
+      "title": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "Tue, 17 Nov 2026 12:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHp5QS1VOElwWFlEUHNXWTdRenFMZ1NJd2I2NzdBdUJQRkxNaF9yYl9Scmp4RU5EUzhDbHFUX0lTZF9OcTNWTzdSYXJEY3BvemtfZ1ZNS3l1Q3hMVkhhVXh6UmF6Z0FhdEN4YTR5N2ZGbDVMOVIxNnFfbDdjNFREZGU4X0Z1eHNfSlNvdFJjNGZHajdILTBiV0tXNUlYVmNfM3dhWE9uWGRacDVGQ3ZGWkJ3?oc=5",
+      "snippet": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study&nbsp;&nbsp;Fierce Biotech",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -173,11 +141,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Recent advance in the development of tuberculosis vaccines in clinical trials and virus-like particle-based vaccine candidates - Frontiers",
-      "source": "Frontiers",
-      "date": "Tue, 13 Feb 2024 09:58:05 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWtBdnBlMkI0aHZvR0phT2NyWXFDZDJKaklkQ0FBWndjLXlKWXJYM25weF9KV1dQbWhjWmpOeVA1LU9fQzFUUWZiMmllRVZ6M0xFYk9QbjF4UVo4VHBVQURSUGlwd1VEMHNqWHlDYW9NNW1YdkloYld3MFZwOVVqeU02U1hjSDVsUUlGbUoxamxMUQ?oc=5",
-      "snippet": "Recent advance in the development of tuberculosis vaccines in clinical trials and virus-like particle-based vaccine candidates&nbsp;&nbsp;Frontiers",
+      "title": "AstraZeneca to Acquire Clinical-Stage Company Developing RSV, hMPV Combo Vaccine - respiratory-therapy.com",
+      "source": "respiratory-therapy.com",
+      "date": "Tue, 12 Dec 2023 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRnlFUC1MVk5RVGt5N054cU9tLTJsVlhySElEU1BrMXIwaVIwOWEtZ2dWRnZIa2M3ZzdJZXlsbjlscldUY0NCT19acC1XSHBySEFWUDFIT3Jja3Iyb0FZbzlBbWJSWFFHRFUteWVQa0VqeUE0SGY5TGxaZmJTUVRfMlA0WGlSY25IWXhfVDVPUjhJMzZoN0RycUo4SFZmNkUydmFDZkxBMktoMHZpMzA3Y2JpS2MySjREUWROamZCZVlsMUdKZEF1cFBjV2tzcXE1VFUyT25B?oc=5",
+      "snippet": "AstraZeneca to Acquire Clinical-Stage Company Developing RSV, hMPV Combo Vaccine&nbsp;&nbsp;respiratory-therapy.com",
       "matched_query": "VLP vaccine pipeline"
     },
     {
@@ -195,6 +163,38 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkNiVlp6V3cxeTJ3S240UF96RmlEckc2YWhObjZkVVpCd3EyMDhjY2VvMGppZDA2cVZqdEF5cEMxbzBrMnJpcWJkMjFxcGlxMU9ubDhaTnpGS0FrUlIyUDJnWjB4amlldGFoS19VT3ZaOUNPQ2l1S0VwblFEVTFqRzhtekRMT2UxeTZsZnBxVHk1Zw?oc=5",
       "snippet": "The recent advances in vaccine adjuvants&nbsp;&nbsp;Frontiers",
       "matched_query": "AS01 AS03 MF59 CpG adjuvant"
+    },
+    {
+      "title": "Sanofi joins the mRNA vaccine patent wars - European Biotechnology Magazine",
+      "source": "European Biotechnology Magazine",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbloyWE8tV05QcU05cW1ueVJoYnBxYU8ta0lFbDNEUlZZN29fOUprdDNzRTlaaDdCU2IyT2ROUEFqVWJqUjRoMHhxOEljSWZadEZWdE5kUGZUWklCdE9KZG9kMUN3MTJKbmJnTDBCQWE2X0c2X3NuZFJERFNET0J1S3N2NGxuTWlLUFBwNEFGQXZTLVU?oc=5",
+      "snippet": "Sanofi joins the mRNA vaccine patent wars&nbsp;&nbsp;European Biotechnology Magazine",
+      "matched_query": "mRNA vaccine patent lipid nanoparticle"
+    },
+    {
+      "title": "Vaccines and patents: how self-interest and artificial scarcity weaken human solidarity - The London School of Economics and Political Science",
+      "source": "The London School of Economics and Political Science",
+      "date": "Tue, 09 Feb 2021 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85Y3FoTVhaM0REWkdpTGFBV05fX05ZRF9KWGFaX1dITEd4R05mbnNWYnlHbGh2NnI0XzhyMDIwMXZ2MUxpY1B6Y3BvYlNfYlhvanJjNThuOHdVNGc1MUZTOUh2Nld5bFVkeEFFeVlKYXg?oc=5",
+      "snippet": "Vaccines and patents: how self-interest and artificial scarcity weaken human solidarity&nbsp;&nbsp;The London School of Economics and Political Science",
+      "matched_query": "vaccine patent expiration"
+    },
+    {
+      "title": "$7+ Billion mRNA Vaccines Market Outlook, 2035: Opportunities, Strategies, Challenges - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZGtrVVNJT0x2eFg3NVBYVzE1amMzRTE3WEkxcVFGbk8zbU9qOTRsR0JLbENNMXRHblN2b3ozUmprVEFtUHMzajhzWnZ2YkhrZkx6d29fZllqcjYzbXBWV3RaVHNwZ0pnS2lRSVlrZm9SR1htYU1RVmpjS0RFMEhZOXVhSU94eWR2OGhFWG4wbENNV0pCbTRTS29yZUpoRnNtbG1DUmtyRjVjTjRBUjM5dkpXOGpZYVBMSkFHT2EwQUg5dTJ6OFhlekkxd3Nzbm9zcENIWk80YjZlRktxYmJLbjVRdmtQZw?oc=5",
+      "snippet": "$7+ Billion mRNA Vaccines Market Outlook, 2035: Opportunities, Strategies, Challenges&nbsp;&nbsp;GlobeNewswire",
+      "matched_query": "mRNA vaccine market size forecast 2026"
+    },
+    {
+      "title": "Japan Approves Updated Self-Amplifying mRNA COVID-19 Vaccine - Contagion Live",
+      "source": "Contagion Live",
+      "date": "Tue, 17 Sep 2024 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOURJTEhpbnFKTTdZS1lGbUxkY19TNkNZU24yYkVIMjVMaFFWWU91blVnUW1HTnhPQlgxck9uUWJLSmItYjU5SlBvRjhBbS01RmRST2N1R01QOVZyTEh6bERVdzJ5M2pkUG81V1A1ZGdFZzI3YzByX3RkcU5hTVBfRHl4aTdsRjhGSmlrYzZlVkh6VFdkYnFzLVVXOA?oc=5",
+      "snippet": "Japan Approves Updated Self-Amplifying mRNA COVID-19 Vaccine&nbsp;&nbsp;Contagion Live",
+      "matched_query": "self-amplifying mRNA vaccine approval"
     }
   ]
 }
