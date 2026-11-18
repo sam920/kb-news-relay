@@ -2,7 +2,7 @@
   "date": "2026-11-18",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 94,
+  "total_raw": 93,
   "items": [
     {
       "title": "Sellas vaccine extends survival in blood cancer trial, shares surge - Reuters",
@@ -69,27 +69,27 @@
       "matched_query": "vaccine patent expiration"
     },
     {
+      "title": "Moderna Settles with Genevant and Arbutus, Ending LNP Patent Dispute - IPWatchdog",
+      "source": "IPWatchdog",
+      "date": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmEzMWdoSUpyS01henNtSWZfSG5VeVdaaXQtZ1VlMU1oSjhlQUlTSktIT25tWmlpQVlGWTF2QzdOQ3htSFpXbEZTRmRLU3AydE9qZFpmXzZKZlJzWGdTWkQ3UWwxMU9zRjBKcVJfUGhRR3p0VlczQWpPUGU5UGdIN2ZoTHlVd2VQS3dEdWo4SzdzMTRma1pBTg?oc=5",
+      "snippet": "Moderna Settles with Genevant and Arbutus, Ending LNP Patent Dispute&nbsp;&nbsp;IPWatchdog",
+      "matched_query": "Moderna LNP patent settlement Arbutus Genevant"
+    },
+    {
       "title": "The mRNA wars are escalating with new claims from Arbutus - JUVE Patent",
       "source": "JUVE Patent",
       "date": "Tue, 18 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1lkODdtbDJyOFlHcGhCaTlBMkZ6dWpZWXFWZzV6bEpPem9ZM1hBSzFucDdfcVFEa1RVdnBhZS1qN3dmdFNXWl9vMklWWjFpQmthMTY3WG1QeHlUeFVjM1pHdlRfMjkyNkxJZ1FkY3ozQTRxamR2cDFXY3p5ZG54ZGwyVktrWlN2aUkzUXdZWEd3WEtMUUpZ?oc=5",
       "snippet": "The mRNA wars are escalating with new claims from Arbutus&nbsp;&nbsp;JUVE Patent",
-      "matched_query": "Moderna LNP patent settlement Arbutus Genevant"
-    },
-    {
-      "title": "Arbutus Biopharma Reports Q3 2026 Results, Expands Pfizer/BioNTech Litigation and Advances AB-101 Development - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "date": "Tue, 10 Nov 2026 12:43:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOVY1Z0RVR2R5QjNSNHhjbWNETnBFU2dNLUVnbWN4TXF1aDZpS0pwbUxnS1RTMzJwMERSX05WTFc0UnVjcXlmcmh6dW8yTnBOWXU5YXBzdFJJRmR0NmYtbTM5cmFUcjF1LUpOYWhybTJjLTRrSEJNNVJzcS1jSEN1azFvdXFjSmxqdU5fYTlYWFgzeTQ0NXVDVklVazdxVDJmZTU2X3NaNnMtc1lHMjhCRXk2dm5SRE40NHlENGllZUkwVTg5TUtIWkxCdHFiNTRkbENMNUZjNW5ndC1PUEln?oc=5",
-      "snippet": "Arbutus Biopharma Reports Q3 2026 Results, Expands Pfizer/BioNTech Litigation and Advances AB-101 Development&nbsp;&nbsp;Quiver Quantitative",
       "matched_query": "Pfizer BioNTech LNP patent litigation 2026"
     },
     {
-      "title": "Ilyang Pharmaceutical Faces Triple Whammy: Noltec Patent Pressure, Supect Overseas Setbacks, Vaccine Line Delays - BigGo Finance",
-      "source": "BigGo Finance",
-      "date": "Tue, 17 Nov 2026 22:55:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52NVdFbGxIZDFKaGZhQmk1WDRKMXFybkhiWFp1REI3NEJpM0JDbFR5d0MyZVVvcDNvS1pFT1c5M3prNFdMT0VzYThOR0NIWUhKNklhUUdHZWFURGJsYllRbjRIOVMyam9BbjBTNDhtWDA5Zk00c1E?oc=5",
-      "snippet": "Ilyang Pharmaceutical Faces Triple Whammy: Noltec Patent Pressure, Supect Overseas Setbacks, Vaccine Line Delays&nbsp;&nbsp;BigGo Finance",
+      "title": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
+      "source": "Reuters",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
+      "snippet": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope&nbsp;&nbsp;Reuters",
       "matched_query": "vaccine adjuvant China patent authorization"
     },
     {
@@ -109,19 +109,19 @@
       "matched_query": "self-amplifying mRNA vaccine approval"
     },
     {
-      "title": "Circular RNAs in cancer: from biomarkers to vaccine-based immunotherapy - Frontiers",
-      "source": "Frontiers",
-      "date": "Fri, 11 Sep 2026 13:59:30 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQm01S3NDcWJoMUhjYkpGZ2VIRTUtUGxOd1ZKVUxlbVpKdGVnZVZ4ODM3U0xDMkdMa2tiT3BfMXNyXy1ycEw5QVFKbUNsZmtrUXdSQjJ1REYwdWZ4WkJpQW5YdU9vbnJ4RTcwbldYT3lMTDJYMHdhT01oYTlhYVlBY19vTlpDNHRoT0tveHFBQThfTEZw?oc=5",
-      "snippet": "Circular RNAs in cancer: from biomarkers to vaccine-based immunotherapy&nbsp;&nbsp;Frontiers",
+      "title": "Lipid nanoparticle delivery of circle RNA vaccine induces potent immune responses - Nature",
+      "source": "Nature",
+      "date": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JNnJoc1I2ZDQzaHRtd2E4aTRaZUluV05MOF9SX3lqWHg3UWVSYXBERDhVTEJOWnRxb1E2c21neXF5N2dmSE5Bb2ZuRW55OW0wb1BwbEk3U3FQTVFBTEtj?oc=5",
+      "snippet": "Lipid nanoparticle delivery of circle RNA vaccine induces potent immune responses&nbsp;&nbsp;Nature",
       "matched_query": "circular RNA vaccine therapeutic"
     },
     {
-      "title": "Moderna股价年内暴涨超600%，癌症疫苗前景引发市场狂热 - NAI500",
-      "source": "NAI500",
-      "date": "Tue, 17 Nov 2026 08:17:45 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWlEaWpaV0x2Q0tIRWh5dXNKVy1hV2VOQi1tcjN4WTFUd2U4RXRWMUdKY1poRzI0UEJERkEtem5JcFhVNVUyRlBPQTVwdjFiME44YklkMHpzS1BWb1RJUm0yR0trOHFEeFRqUmNTWWgyell2VTNsMHR1aDUzbXhMejhTZ3BwNGg4Q2ZqMzJwdVBHQ2pVblRYZWtkWnRjT01wd3Exemt6bGVmOG1VYmJseEw4U3BLeUE?oc=5",
-      "snippet": "Moderna股价年内暴涨超600%，癌症疫苗前景引发市场狂热&nbsp;&nbsp;NAI500",
+      "title": "巴西首款mRNA疫苗获批临床试验 有望降低对外技术依赖 - 南美侨报网",
+      "source": "南美侨报网",
+      "date": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORk92S3VNYWVGWXM3LWpidzYxSFVNWkNHWHVzcXM5U05vUlp4eUFsWTFPa1ZDNlJQclp6cldac0hVWGxLMm8tWGFnSDh3eGpFY3d1Q3RrcXN6SjJUaFoyQmJQX095NXItenV6azNmQUtlZ3RHM2o4OHdDaHFZSjNwcEhveWhkVHhLQ0thQW1R?oc=5",
+      "snippet": "巴西首款mRNA疫苗获批临床试验 有望降低对外技术依赖&nbsp;&nbsp;南美侨报网",
       "matched_query": "疫苗 审批 临床试验 2026"
     },
     {
@@ -165,11 +165,11 @@
       "matched_query": "mRNA 疫苗 市场 规模 2026"
     },
     {
-      "title": "Sellas’ cancer vaccine slashes death risk by 41% in late-stage AML study - BioSpace",
-      "source": "BioSpace",
-      "date": "Tue, 17 Nov 2026 14:17:02 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLW5wN0tTQ1hCanJpV05UX2VBT0VPQjE5aUl4dlJHY2FoNnBmY1Y0QmhWUkYzTHBzWjZ0cVJCb3VRVW5seVhtTnBXRlB5Slk4ZzlteGxuaGhqVDJ1UFlaSmNuc3dCcnB3WVJoQ19XZlVZZjRId2x4UkhqQW03a2VoVk90eDBFOWREM2dVcWFyakRDaDRmUjJhVlNjaUJLeVE0dE96U3NCVVF5dk5meFlraTFB?oc=5",
-      "snippet": "Sellas’ cancer vaccine slashes death risk by 41% in late-stage AML study&nbsp;&nbsp;BioSpace",
+      "title": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "date": "Tue, 17 Nov 2026 12:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHp5QS1VOElwWFlEUHNXWTdRenFMZ1NJd2I2NzdBdUJQRkxNaF9yYl9Scmp4RU5EUzhDbHFUX0lTZF9OcTNWTzdSYXJEY3BvemtfZ1ZNS3l1Q3hMVkhhVXh6UmF6Z0FhdEN4YTR5N2ZGbDVMOVIxNnFfbDdjNFREZGU4X0Z1eHNfSlNvdFJjNGZHajdILTBiV0tXNUlYVmNfM3dhWE9uWGRacDVGQ3ZGWkJ3?oc=5",
+      "snippet": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study&nbsp;&nbsp;Fierce Biotech",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
