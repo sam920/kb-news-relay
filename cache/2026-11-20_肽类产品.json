@@ -1,8 +1,8 @@
 {
   "date": "2026-11-20",
   "topic": "肽类产品",
-  "total": 24,
-  "total_raw": 25,
+  "total": 20,
+  "total_raw": 20,
   "items": [
     {
       "title": "‘Selling and marketing snake oil’: The debate over compounded GLP-1s - BioPharma Dive",
@@ -11,14 +11,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVVJkbWJ6dHd5clozMndZbmZQdTI1R1RnWHJJUTQ3dEZMYXQ1a3c0Q052ZnB2dGNqME53d0hQc0QwRndmWlZzZU9pc1hYOUxMRFFmS3FzRnlyZGVnRDY5M0dFSEpydGRvd21WUTc3Y2xDWEVnNjU3b3dqYVI1eng1d0FfWEdqWjNiN1d2eG1TMUhSdFlCRy1j?oc=5",
       "snippet": "‘Selling and marketing snake oil’: The debate over compounded GLP-1s&nbsp;&nbsp;BioPharma Dive",
       "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "Peptide Conjugates And AI Design Reshape Targeted Therapeutics Amid Translational Hurdles - Bioengineer.org",
-      "source": "Bioengineer.org",
-      "date": "Mon, 16 Nov 2026 21:42:42 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnhoYXU0bGxkNVBJemg2Yl9pNlBqWFZqNmUtZDBadFBzUzVsNS1CbkFhdVliNWVGdVlyR3UzQkxJME5FNzBJcHNsMUJDU0dsTGg2ank0X05pSWcxdHVKY1NZa3pQeUxSOWZUZ1FiQ2o4MVl1YTV2ZG5Wdk15UlR0WU1fOWJrOHZXZjFWZk9JR2pIVU5BM2d6cGx4ZE53aU9UQjVEa255a0h5TWpPZE5TMkttZ3c?oc=5",
-      "snippet": "Peptide Conjugates And AI Design Reshape Targeted Therapeutics Amid Translational Hurdles&nbsp;&nbsp;Bioengineer.org",
-      "matched_query": "peptide therapeutic clinical trial"
     },
     {
       "title": "Cleveland Clinic Study Identifies Best Treatment Strategies for Weight Loss After Stopping GLP-1 Drugs - Cleveland Clinic Newsroom",
@@ -45,27 +37,19 @@
       "matched_query": "GLP-1 多肽药物 审批"
     },
     {
-      "title": "US approves first drug for rare genetic neurological disorder - LiveNOW from FOX",
-      "source": "LiveNOW from FOX",
-      "date": "Thu, 19 Nov 2026 23:36:38 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX09GZFhmQ1YzZGp0dzF4Y3huMFZUWGg5YTRuSk43MF9uVjVYa2lfWWg1QzVVSWJScW9peXN6d1pYXzVEWFgxdnpjOE1Jd2c5M3luSkM4RVNRbW8wSHkyWGZ2d0tBeUxyLW9VelFNb0gwcE1oMVpoX1B2ZXBnTXVPdg?oc=5",
-      "snippet": "US approves first drug for rare genetic neurological disorder&nbsp;&nbsp;LiveNOW from FOX",
+      "title": "FDA warning letters target telehealth sellers claiming compounded GLP-1 drugs are the same as Wegovy and Zepbound - Medical Daily",
+      "source": "Medical Daily",
+      "date": "Thu, 19 Nov 2026 02:18:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ2NkMVV6dll1cHEwb0VxOFd2NUlCdDdwMlNVYURPWmJxRkZISnBMVUpoWkVfMFNtbTFad2xiNlRhTHMtY2thRHNnTjhDalE2WXdpQWdadmZWRk5pVGxDalNPMVRLMEZ1Y2VJRUdVMWplUjVoSGR3WkNBcU1CbXYzMHhwY1BXRXUzR3pTUFEzallJWHc?oc=5",
+      "snippet": "FDA warning letters target telehealth sellers claiming compounded GLP-1 drugs are the same as Wegovy and Zepbound&nbsp;&nbsp;Medical Daily",
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
-      "title": "Peptides talk is everywhere: But what does the science say? - Stanford Medicine",
+      "title": "Compounded GLP-1s: Why doctors worry and the FDA is cracking down - Stanford Medicine",
       "source": "Stanford Medicine",
-      "date": "Mon, 10 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVQ3cU4xTG1iTGY0MC1wb1ZENnVHRVF3NWExOVlIb0tqZF9hTFdJT0pvNHFNVUFYV3JNVEJuNUNZRnY3dmQyemUzWEtKWmc0eW96UUY1NXlCQzB4d3NHWVpmbFA0dW03R05ZdEtmWTFqR0hfbm5zaGw0SmNZZ2dvUXVWSEJTZFhKc3RDejVsdw?oc=5",
-      "snippet": "Peptides talk is everywhere: But what does the science say?&nbsp;&nbsp;Stanford Medicine",
-      "matched_query": "peptide therapeutic clinical trial"
-    },
-    {
-      "title": "Can You Keep the Weight off After You Stop Taking Semaglutide or Tirzepatide? - Men's Fitness",
-      "source": "Men's Fitness",
-      "date": "Tue, 17 Nov 2026 16:59:30 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1hYYmduSEpOaW1YTzFhN2VVT3dBTW10NEZDTXVZajdja0c3SDJDdDJvSkxjZlZ0U0FadmplYU5RclZyQUx3eVJFb2VoSzhnSmlsMko3M1kyN1Z6bWJweXZ3X2JLMWlxX1pBbDEwSzd2eUVMOEh0T255TFd0R2lETmNHUWd2TjN6VDhXbndDWV91ekt6RHl6clh3V3I0V2pnX2p6bXRzam1nNVdUOGc?oc=5",
-      "snippet": "Can You Keep the Weight off After You Stop Taking Semaglutide or Tirzepatide?&nbsp;&nbsp;Men's Fitness",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3l0LVMtYU44bU1TWHlJNWFkYmg1Y0s0YUxaWWtUZDF1dkFlNUNEVUR1Rlc2S1U2NF9GdDNWcURlc3NZZWZTa2ZONWZua1d4ekd2TXRTNXRlOFJlOHRPOHBFZnhZcmJ5c3otNlFCUVNmVlRNb3RrV1pfRDdXU1ZOWnlCbXAtUS1xRGF5SWVYck9GdHgyLW56RmtiVTV3UmV0?oc=5",
+      "snippet": "Compounded GLP-1s: Why doctors worry and the FDA is cracking down&nbsp;&nbsp;Stanford Medicine",
       "matched_query": "semaglutide tirzepatide news"
     },
     {
@@ -85,27 +69,19 @@
       "matched_query": "GLP-1 多肽药物 审批"
     },
     {
-      "title": "FDA warning letters target telehealth sellers claiming compounded GLP-1 drugs are the same as Wegovy and Zepbound - Medical Daily",
-      "source": "Medical Daily",
-      "date": "Thu, 19 Nov 2026 02:18:46 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ2NkMVV6dll1cHEwb0VxOFd2NUlCdDdwMlNVYURPWmJxRkZISnBMVUpoWkVfMFNtbTFad2xiNlRhTHMtY2thRHNnTjhDalE2WXdpQWdadmZWRk5pVGxDalNPMVRLMEZ1Y2VJRUdVMWplUjVoSGR3WkNBcU1CbXYzMHhwY1BXRXUzR3pTUFEzallJWHc?oc=5",
-      "snippet": "FDA warning letters target telehealth sellers claiming compounded GLP-1 drugs are the same as Wegovy and Zepbound&nbsp;&nbsp;Medical Daily",
+      "title": "US approves first drug for rare genetic neurological disorder - LiveNOW from FOX",
+      "source": "LiveNOW from FOX",
+      "date": "Thu, 19 Nov 2026 23:36:38 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX09GZFhmQ1YzZGp0dzF4Y3huMFZUWGg5YTRuSk43MF9uVjVYa2lfWWg1QzVVSWJScW9peXN6d1pYXzVEWFgxdnpjOE1Jd2c5M3luSkM4RVNRbW8wSHkyWGZ2d0tBeUxyLW9VelFNb0gwcE1oMVpoX1B2ZXBnTXVPdg?oc=5",
+      "snippet": "US approves first drug for rare genetic neurological disorder&nbsp;&nbsp;LiveNOW from FOX",
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
-      "title": "Peptide Therapies Are Everywhere. What Are They Exactly? - Right as Rain by UW Medicine",
-      "source": "Right as Rain by UW Medicine",
-      "date": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVR0QzNIaWFraXB4SjRJR1dtc2lkTjNXLXFac2Z2STVjMkl6ZDU1RXZOOHMzbjNNeUo5Z1NsOUx6UkIyR0FoYUhVMkhmZm5vdnFISnNTZ0x1SnlnTXlldERJWlh3X0tqbmgwN3Y4aGVCd0xyeEVKSi01QnF1UzQ3aUY2c1dZSU0?oc=5",
-      "snippet": "Peptide Therapies Are Everywhere. What Are They Exactly?&nbsp;&nbsp;Right as Rain by UW Medicine",
-      "matched_query": "peptide therapeutic clinical trial"
-    },
-    {
-      "title": "Compounded GLP-1s: Why doctors worry and the FDA is cracking down - Stanford Medicine",
-      "source": "Stanford Medicine",
-      "date": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3l0LVMtYU44bU1TWHlJNWFkYmg1Y0s0YUxaWWtUZDF1dkFlNUNEVUR1Rlc2S1U2NF9GdDNWcURlc3NZZWZTa2ZONWZua1d4ekd2TXRTNXRlOFJlOHRPOHBFZnhZcmJ5c3otNlFCUVNmVlRNb3RrV1pfRDdXU1ZOWnlCbXAtUS1xRGF5SWVYck9GdHgyLW56RmtiVTV3UmV0?oc=5",
-      "snippet": "Compounded GLP-1s: Why doctors worry and the FDA is cracking down&nbsp;&nbsp;Stanford Medicine",
+      "title": "Can You Keep the Weight off After You Stop Taking Semaglutide or Tirzepatide? - Men's Fitness",
+      "source": "Men's Fitness",
+      "date": "Tue, 17 Nov 2026 16:59:30 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1hYYmduSEpOaW1YTzFhN2VVT3dBTW10NEZDTXVZajdja0c3SDJDdDJvSkxjZlZ0U0FadmplYU5RclZyQUx3eVJFb2VoSzhnSmlsMko3M1kyN1Z6bWJweXZ3X2JLMWlxX1pBbDEwSzd2eUVMOEh0T255TFd0R2lETmNHUWd2TjN6VDhXbndDWV91ekt6RHl6clh3V3I0V2pnX2p6bXRzam1nNVdUOGc?oc=5",
+      "snippet": "Can You Keep the Weight off After You Stop Taking Semaglutide or Tirzepatide?&nbsp;&nbsp;Men's Fitness",
       "matched_query": "semaglutide tirzepatide news"
     },
     {
@@ -125,20 +101,44 @@
       "matched_query": "GLP-1 多肽药物 审批"
     },
     {
-      "title": "Your Questions Answered: GLP-1 Deals, FDA Approvals, and Manufacturing Buildout - Pharmaceutical Executive",
-      "source": "Pharmaceutical Executive",
-      "date": "Wed, 18 Nov 2026 20:29:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSFpORzB3aEFTV3pOUmcxOU5rYk5xV0l1TlBCX0J3YXpqVHJiQ0EzT3BCb0NlNkZiV2x0V3ZOZWhUMlpNQnhnZ1dMM3g0UGdjY1JpY3JHX3pkd29WQ2dhX1hmWUhjaDk0eVhhZTg2dXZqeWtsMThCNDgxUmVnY1BTb3phRWVrZnFQNXRjaURoT0tnNk13S1RCWjNoblJfWnJQX2k5cQ?oc=5",
-      "snippet": "Your Questions Answered: GLP-1 Deals, FDA Approvals, and Manufacturing Buildout&nbsp;&nbsp;Pharmaceutical Executive",
+      "title": "GLP-1s are being tied to unusual side effects — but are they to blame? - Pharma Voice",
+      "source": "Pharma Voice",
+      "date": "Wed, 18 Nov 2026 15:16:33 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWVobm9PeWFQd3hsS1dsbEpTclU2Y1RYVk1MZGk0bG93N0JCbVpjNlB0dHVib180M1dfSG5SOU9aQlVZVXpyLWpGX3ZGR09sVS1rUmxHNWdaQm5QOG9HY0gxaU5TYWpFOWh5ajFpN1g5c2Rfcy00b1MxTk1vMWJ4LXltWjVDamJNVHpzcS1n?oc=5",
+      "snippet": "GLP-1s are being tied to unusual side effects — but are they to blame?&nbsp;&nbsp;Pharma Voice",
       "matched_query": "GLP-1 drug FDA approval"
     },
     {
-      "title": "Semaglutide and Follow-On Peptide Therapeutics: Balancing Innovation, Regulation, and Clinical Outcomes - Cureus",
-      "source": "Cureus",
-      "date": "Sun, 17 May 2026 05:57:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjVhaXpFWUVYdFZ0ejBNd1BaV2dHeWs5MUtGOTJEQ2N5cTRnazFncHU3ZG14MG9LcWFfal80bzZHbUJoSW9OSElYVGl0Y25EY3VQX0lvSmFFc1NZOWxicHNvQjlBN2RYSDF2aHg0RTh2RzRCSVVDdUZxcGVlOWdPQ0Q2UHJCdW1pLWtSM2ZfZjBIRU52QnM0N0FLdmZVQk9zTmViVl9mdFVHTmVjaDgtSEFBWnJHWW1kVFNJZmp5U1JHSzNBLTNrSlpiTWhlS0ZvWFZaTzR3?oc=5",
-      "snippet": "Semaglutide and Follow-On Peptide Therapeutics: Balancing Innovation, Regulation, and Clinical Outcomes&nbsp;&nbsp;Cureus",
-      "matched_query": "peptide therapeutic clinical trial"
+      "title": "Semaglutide vs. Tirzepatide vs. Orforglipron for Weight Loss - U.S. News & World Report",
+      "source": "U.S. News & World Report",
+      "date": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTYzM0U1cW5GWXUxVGtHZjFQMnJLU0hKdVRUNW9wOHNBUUhRZkRza3o1Sk9sdlU3cWdla2tLRVd0MERGLUNyZHMxSUhFbjRTak03TVhjMGgyYW41ZWctZ2xYN1p3YlVjc3JDYjBobm5yTHVrdkhpc3lvV2xPbGp1UWdtaXlVd09hY2c?oc=5",
+      "snippet": "Semaglutide vs. Tirzepatide vs. Orforglipron for Weight Loss&nbsp;&nbsp;U.S. News & World Report",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "Stealth biotech bull - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "date": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjllQzB1b2xvMUVsaTYzejRkMWRHakh0V0FlWkVCTUVSVEU4bWRFQTdYZk1EX09XV05RbHVZZGhjR1ctcVBESlBvMERQTE9KM0MwOUJGdU1ZYk9hUmtGRW9hR1hVREJXbERGOU5oekVxOEg2bkVkNmlMTUJRX3ZCdjlkZWZ5V1h3RnBLOGkyRVpNcjdOdVdVRzNwRWFUN3oxbnBHX1gyYw?oc=5",
+      "snippet": "Stealth biotech bull&nbsp;&nbsp;The Globe and Mail",
+      "matched_query": "GLP-1 obesity diabetes new indication"
+    },
+    {
+      "title": "2024年GLP-1药物发展趋势：降糖减重药内卷，探索五大发展前沿！ - 摩熵医药",
+      "source": "摩熵医药",
+      "date": "Wed, 24 Apr 2024 08:40:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MUmsyWk84dXhLOXdQcXRfUWNpenRLLVdGVHZDWkxSQWs1MzhMR1JRTW1iWkt2MTJsMWhXQW9jMDFOdHFXT05BQTJySF90SmVvbW1pbQ?oc=5",
+      "snippet": "2024年GLP-1药物发展趋势：降糖减重药内卷，探索五大发展前沿！&nbsp;&nbsp;摩熵医药",
+      "matched_query": "GLP-1 多肽药物 审批"
+    },
+    {
+      "title": "US FDA Sees Generics, Not Compounding, As Answer To GLP-1 Costs - insights.citeline.com",
+      "source": "insights.citeline.com",
+      "date": "Mon, 16 Nov 2026 22:36:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMUtWOFc4NGdYcmRyX3pBYmNKYUxYT3BVenE4TnNuX2xqWjRyMHdScFVObzhocF9IYzkwWFlVUUpkZUpJNDhnOHl4WERmM1dMLWZyMnQyWDF5UERob2xRcW1oMG40X09SRmpDR0YtS1ZjUGRCbW1FRzdnaE1icjVBNjkxc2wxNXl0Wl9ZN01kUm04NGR0RUFoRzY0T2RDRzR1T3RrandkcURjTHVJOGpTazRaOGFaQmNkTDlGZEZjQW1IREtDQ0pjOERNd2paRGs4SWh6b1BLeDFTMFNfMURMOF9HUzlrbEJDMkR3Um1xbWEwM056a25r?oc=5",
+      "snippet": "US FDA Sees Generics, Not Compounding, As Answer To GLP-1 Costs&nbsp;&nbsp;insights.citeline.com",
+      "matched_query": "GLP-1 drug FDA approval"
     },
     {
       "title": "Tirzepatide Beats Semaglutide for Weight Loss, Not Safety - Medscape",
@@ -157,44 +157,12 @@
       "matched_query": "GLP-1 obesity diabetes new indication"
     },
     {
-      "title": "2024年GLP-1药物发展趋势：降糖减重药内卷，探索五大发展前沿！ - 摩熵医药",
+      "title": "减重+糖尿病！民为生物口服GLP-1/GIP/GCG多肽新药MWN109片获批临床 - 摩熵医药",
       "source": "摩熵医药",
-      "date": "Wed, 24 Apr 2024 08:40:25 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MUmsyWk84dXhLOXdQcXRfUWNpenRLLVdGVHZDWkxSQWs1MzhMR1JRTW1iWkt2MTJsMWhXQW9jMDFOdHFXT05BQTJySF90SmVvbW1pbQ?oc=5",
-      "snippet": "2024年GLP-1药物发展趋势：降糖减重药内卷，探索五大发展前沿！&nbsp;&nbsp;摩熵医药",
+      "date": "Tue, 13 May 2025 04:06:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3eHllRVlsZHJITTZrcDdzblpqR2JibWFoQVE4SzNOZzFzWldUcjVIUE1zMTFvWkhvZWcwRFlmejl6aktGX1NsNlZlSlpMaGYwclVHOFo4RTA?oc=5",
+      "snippet": "减重+糖尿病！民为生物口服GLP-1/GIP/GCG多肽新药MWN109片获批临床&nbsp;&nbsp;摩熵医药",
       "matched_query": "GLP-1 多肽药物 审批"
-    },
-    {
-      "title": "Survodutide Safety and Results: FDA Approval Status - Healthline",
-      "source": "Healthline",
-      "date": "Thu, 19 Nov 2026 03:15:32 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtM2wxQVQzWEhGd09fR1BKWElKb1U2Y0NXZ3hma1F0UmE3ekRIQVd3YWxxVUVuc3ZmTG95TW5JaE1OenhyamdOTG1tdlZFQjAzRUpwNHpkUXlJeFV3UHVMU0dmRy1FZlhXbDNvVHBIb0dveGFBdkN6WlZB?oc=5",
-      "snippet": "Survodutide Safety and Results: FDA Approval Status&nbsp;&nbsp;Healthline",
-      "matched_query": "GLP-1 drug FDA approval"
-    },
-    {
-      "title": "Can AI tools help identify next-gen peptide therapeutics? - American Medical Association | AMA",
-      "source": "American Medical Association | AMA",
-      "date": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUEotU0VTSndaV09ZN25UcUtCYno1Q0hiNUNsWFRYMkNTd3VrMWtGSFhmQTViOUhOVmdpSGVQY0lqQXNMcmc2bVJQMDVYUmpFQ0p3dmRyYjhRelhnV3hlYVd2Z2wwck1sdzZBaGFVM0swRlpmbnJUOWFjTmpZMWNTWFkxTENubHFHVk9WakdxQy0xaklOU2ZtM3lR?oc=5",
-      "snippet": "Can AI tools help identify next-gen peptide therapeutics?&nbsp;&nbsp;American Medical Association | AMA",
-      "matched_query": "peptide therapeutic clinical trial"
-    },
-    {
-      "title": "Semaglutide vs. Tirzepatide vs. Orforglipron for Weight Loss - Health US News",
-      "source": "Health US News",
-      "date": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTYzM0U1cW5GWXUxVGtHZjFQMnJLU0hKdVRUNW9wOHNBUUhRZkRza3o1Sk9sdlU3cWdla2tLRVd0MERGLUNyZHMxSUhFbjRTak03TVhjMGgyYW41ZWctZ2xYN1p3YlVjc3JDYjBobm5yTHVrdkhpc3lvV2xPbGp1UWdtaXlVd09hY2c?oc=5",
-      "snippet": "Semaglutide vs. Tirzepatide vs. Orforglipron for Weight Loss&nbsp;&nbsp;Health US News",
-      "matched_query": "semaglutide tirzepatide news"
-    },
-    {
-      "title": "What’s next for GLP-1s? - Harvard Gazette",
-      "source": "Harvard Gazette",
-      "date": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95Qkt5dW9VTUNmbTQ1RV9kUl95T0Jzd0V3bHdKZ1djUzdHQjhDSmNXalNHVTd4dnBoOVpZak9YaDhjc3RqQ01mOTNIbTI3T2lWYlhzVXpoQ1hhS1Y3QjdJdWpka1UxWkx4Vlh6bWQ2MUc1MkgzdE1udQ?oc=5",
-      "snippet": "What’s next for GLP-1s?&nbsp;&nbsp;Harvard Gazette",
-      "matched_query": "GLP-1 obesity diabetes new indication"
     }
   ]
 }
