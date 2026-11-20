@@ -2,7 +2,7 @@
   "date": "2026-11-20",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 92,
+  "total_raw": 89,
   "items": [
     {
       "title": "Vaccine Improves Survival in People with Acute Myeloid Leukemia (AML) - Memorial Sloan Kettering Cancer Center",
@@ -85,14 +85,6 @@
       "matched_query": "Pfizer BioNTech LNP patent litigation 2026"
     },
     {
-      "title": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
-      "source": "Reuters",
-      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
-      "snippet": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope&nbsp;&nbsp;Reuters",
-      "matched_query": "vaccine adjuvant China patent authorization"
-    },
-    {
       "title": "$7+ Billion mRNA Vaccines Market Outlook, 2035: Opportunities, Strategies, Challenges - Yahoo Finance UK",
       "source": "Yahoo Finance UK",
       "date": "Wed, 26 Aug 2026 07:00:00 GMT",
@@ -165,11 +157,11 @@
       "matched_query": "mRNA 疫苗 市场 规模 2026"
     },
     {
-      "title": "Sellas vaccine extends survival in blood cancer trial, shares surge - Reuters",
-      "source": "Reuters",
-      "date": "Tue, 17 Nov 2026 14:54:03 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3FEUmx6RWVvS3AzWXBDaDZvTUdmdUo4RjlwWmlrdDEyYUxrNUxVVTFybndQRGExYVA5SWdmWndNZkJkR1pkcVdvdVVtX21qZjNsZUFfd0VnMnRTTjVRTEtVSGpsNHk5R0N5eHFxRlROQmpCYk1TdVl5bm9qZ1AySlVNN1lvUVZYb1FRUVdFWDVUZVJFcExyYWNVb3VQWjZNLXZSNGQyLW9TeEJqWTdWSFJ2eVd6R3VON29KclpPTEFBTk55akk2aQ?oc=5",
-      "snippet": "Sellas vaccine extends survival in blood cancer trial, shares surge&nbsp;&nbsp;Reuters",
+      "title": "Sellas’ cancer vaccine slashes death risk by 41% in late-stage AML study - BioSpace",
+      "source": "BioSpace",
+      "date": "Tue, 17 Nov 2026 14:17:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLW5wN0tTQ1hCanJpV05UX2VBT0VPQjE5aUl4dlJHY2FoNnBmY1Y0QmhWUkYzTHBzWjZ0cVJCb3VRVW5seVhtTnBXRlB5Slk4ZzlteGxuaGhqVDJ1UFlaSmNuc3dCcnB3WVJoQ19XZlVZZjRId2x4UkhqQW03a2VoVk90eDBFOWREM2dVcWFyakRDaDRmUjJhVlNjaUJLeVE0dE96U3NCVVF5dk5meFlraTFB?oc=5",
+      "snippet": "Sellas’ cancer vaccine slashes death risk by 41% in late-stage AML study&nbsp;&nbsp;BioSpace",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
@@ -195,6 +187,14 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFVURFJiWmx1MzJrUEUyRzFaYVVUQWczdG1YU0hXeFJzeDFaOVVpNndENzR0cU5xMjJaaWtBTV8wcVdMX0RsR0xzNWFOSG04aVZrdHJaZWhqRUhQX1RHVDhCWER4dFhlQldfQXlmSTJMTEd1TU5sNTFjYlhabVZfeWtCaGt1MGduSnZDa3A5N3oxUQ?oc=5",
       "snippet": "New-age vaccine adjuvants, their development, and future perspective&nbsp;&nbsp;Frontiers",
       "matched_query": "vaccine adjuvant novel adjuvant system"
+    },
+    {
+      "title": "The recent advances in vaccine adjuvants - Frontiers",
+      "source": "Frontiers",
+      "date": "Mon, 12 May 2025 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkNiVlp6V3cxeTJ3S240UF96RmlEckc2YWhObjZkVVpCd3EyMDhjY2VvMGppZDA2cVZqdEF5cEMxbzBrMnJpcWJkMjFxcGlxMU9ubDhaTnpGS0FrUlIyUDJnWjB4amlldGFoS19VT3ZaOUNPQ2l1S0VwblFEVTFqRzhtekRMT2UxeTZsZnBxVHk1Zw?oc=5",
+      "snippet": "The recent advances in vaccine adjuvants&nbsp;&nbsp;Frontiers",
+      "matched_query": "AS01 AS03 MF59 CpG adjuvant"
     }
   ]
 }
