@@ -2,7 +2,7 @@
   "date": "2026-11-21",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 81,
+  "total_raw": 89,
   "items": [
     {
       "title": "Former Trump Administration Health Adviser Misleads About mRNA Flu Vaccine - FactCheck.org",
@@ -21,11 +21,11 @@
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Recent advance in the development of tuberculosis vaccines in clinical trials and virus-like particle-based vaccine candidates - Frontiers",
-      "source": "Frontiers",
-      "date": "Tue, 13 Feb 2024 09:58:05 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWtBdnBlMkI0aHZvR0phT2NyWXFDZDJKaklkQ0FBWndjLXlKWXJYM25weF9KV1dQbWhjWmpOeVA1LU9fQzFUUWZiMmllRVZ6M0xFYk9QbjF4UVo4VHBVQURSUGlwd1VEMHNqWHlDYW9NNW1YdkloYld3MFZwOVVqeU02U1hjSDVsUUlGbUoxamxMUQ?oc=5",
-      "snippet": "Recent advance in the development of tuberculosis vaccines in clinical trials and virus-like particle-based vaccine candidates&nbsp;&nbsp;Frontiers",
+      "title": "Triple Play: Lilly Acquires Three Developers of Infectious Disease Vaccines for Up-to-$3.8B - Genetic Engineering and Biotechnology News",
+      "source": "Genetic Engineering and Biotechnology News",
+      "date": "Tue, 26 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSWlhZmpyamJ5UkFjU1d4UDBEck1zVGdlMGpaVG54WHNJY1NaS1BEcmloRXJvdm9KSFNxWmEwQjYyWFRUMXJUdFdwTld4V1ROVDdNZFVNYnZWWDVmcHpPM1pIc0JzNUt5V2pYdUI1OW9XQ0tyRk16MU9rbW9FSE42VlM2bjlrWlo2ZlVoSjA0WlJuUDhwb05kNlhoTUZNZHlVN2lWUUpOSlZPTzZ2NVhrWEppTHhNODR5T2ZnUUlGdDJ3M1pXVzNSejNXQ0pxUmprZnF2UEZyeUxOOThC?oc=5",
+      "snippet": "Triple Play: Lilly Acquires Three Developers of Infectious Disease Vaccines for Up-to-$3.8B&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
       "matched_query": "VLP vaccine pipeline"
     },
     {
@@ -37,11 +37,11 @@
       "matched_query": "vaccine adjuvant novel adjuvant system"
     },
     {
-      "title": "Could Expanded Patent Lawsuits Change The Bull Case For BioNTech (BNTX)? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "date": "Fri, 13 Nov 2026 10:14:11 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3drcElIRkJkYU44aTMybC1sMXlFWWtoZTMxX0x3OTJaY3o5TEw0TDBjeHo3empHaC1xMURNTFgwU2lzd3p6bGpqTjJHQmRLS2hoUkFpSDFGX2tOMTJUWXJkOHRxbXBIZTluNThOZUVVOFMtcXhQZERrRG9CUFh4Um1UamV1eTRhc3BaMDU4NWVhR0pXdGhYSmkxbkY5RUU?oc=5",
-      "snippet": "Could Expanded Patent Lawsuits Change The Bull Case For BioNTech (BNTX)?&nbsp;&nbsp;Yahoo Finance",
+      "title": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3V2clF1LUloc1lzRUR2NTJxVFdPOXluTnlQSUI3MjlVVzkzUk9ndkw5WExtZVJUeFg2TktINGV2dnJybTUxNENfaHUwQ0tEVHVaXzFTY3VCYTlabGRhWE5nODlZenZkeWNndnVzZ2Fzd2tmVWRRaEQ1LXBsZS1GTXQ0NGN5ZXJaQlZuRVRiaHk3czgzOUp4ckctMVdndnBtRmdXYXJiZFhERjg?oc=5",
+      "snippet": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas&nbsp;&nbsp;Fierce Pharma",
       "matched_query": "mRNA vaccine patent lipid nanoparticle"
     },
     {
@@ -51,6 +51,14 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eGNjU1RxSFdxWTNqTGRZMk4zUHo1UWFLUW9NbkVCa19GU25EcVlrSFA0eVBmdlhRU19DNU0wMHlPdFI4Ql9uUF9admwtWkdldUF2RFM1SkVxNWFZM0lF?oc=5",
       "snippet": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021&nbsp;&nbsp;Nature",
       "matched_query": "vaccine adjuvant patent"
+    },
+    {
+      "title": "CureVac sues Moderna for patent infringement over COVID-19 vaccines - Reuters",
+      "source": "Reuters",
+      "date": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVXo1ZWNwR3hBbTM4X0tLVTM0bG5wSFZVc0trSnBuMmZUbFZHYXNqQUI1TlJJYklOYzVOQnpyYWVybEREM0RRYm13YTI0QXBhUW9uN0hIcmlsYWo2RTVYZnlhNUhLUERPb205eUhsYnRxclZEd1pGRnVleTAtNXhnajYzSE5MeThOSjlpYWs5eGxJVGtjMFlHMFk4LUgwVkVFaUNRb3d0WDM4ZGtOX3A0clQ4bDNTdVk?oc=5",
+      "snippet": "CureVac sues Moderna for patent infringement over COVID-19 vaccines&nbsp;&nbsp;Reuters",
+      "matched_query": "vaccine patent infringement lawsuit"
     },
     {
       "title": "Blockbuster drugs face a massive patent cliff in 2026 - Drug Discovery News",
@@ -69,12 +77,28 @@
       "matched_query": "Moderna LNP patent settlement Arbutus Genevant"
     },
     {
+      "title": "The mRNA wars are escalating with new claims from Arbutus - JUVE Patent",
+      "source": "JUVE Patent",
+      "date": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1lkODdtbDJyOFlHcGhCaTlBMkZ6dWpZWXFWZzV6bEpPem9ZM1hBSzFucDdfcVFEa1RVdnBhZS1qN3dmdFNXWl9vMklWWjFpQmthMTY3WG1QeHlUeFVjM1pHdlRfMjkyNkxJZ1FkY3ozQTRxamR2cDFXY3p5ZG54ZGwyVktrWlN2aUkzUXdZWEd3WEtMUUpZ?oc=5",
+      "snippet": "The mRNA wars are escalating with new claims from Arbutus&nbsp;&nbsp;JUVE Patent",
+      "matched_query": "Pfizer BioNTech LNP patent litigation 2026"
+    },
+    {
       "title": "$7+ Billion mRNA Vaccines Market Outlook, 2035: Opportunities, Strategies, Challenges - Yahoo Finance UK",
       "source": "Yahoo Finance UK",
       "date": "Wed, 26 Aug 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0lRVkROWHRPaVhWMUFBUkNmeFYwVzhEMXlDSUM5Rmh4LUY4YnRNQlJoV2pjNW43ZFQ3aUxOS3pIVnNweFVtUlBCTnB0VzN5UjhQQ0FJTWMyeXl0eGE2d05VT3VILXRhaFRpdUk4RnBja2VWb21JMzgtTzE4RXRzMU45amJ5dw?oc=5",
       "snippet": "$7+ Billion mRNA Vaccines Market Outlook, 2035: Opportunities, Strategies, Challenges&nbsp;&nbsp;Yahoo Finance UK",
       "matched_query": "mRNA vaccine market size forecast 2026"
+    },
+    {
+      "title": "Japan Approves Updated Self-Amplifying mRNA COVID-19 Vaccine - Contagion Live",
+      "source": "Contagion Live",
+      "date": "Tue, 17 Sep 2024 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOURJTEhpbnFKTTdZS1lGbUxkY19TNkNZU24yYkVIMjVMaFFWWU91blVnUW1HTnhPQlgxck9uUWJLSmItYjU5SlBvRjhBbS01RmRST2N1R01QOVZyTEh6bERVdzJ5M2pkUG81V1A1ZGdFZzI3YzByX3RkcU5hTVBfRHl4aTdsRjhGSmlrYzZlVkh6VFdkYnFzLVVXOA?oc=5",
+      "snippet": "Japan Approves Updated Self-Amplifying mRNA COVID-19 Vaccine&nbsp;&nbsp;Contagion Live",
+      "matched_query": "self-amplifying mRNA vaccine approval"
     },
     {
       "title": "Circular RNA therapeutics: a new class of long-acting RNA medicines for oncology, immunology, and rare diseases - Frontiers",
@@ -85,11 +109,11 @@
       "matched_query": "circular RNA vaccine therapeutic"
     },
     {
-      "title": "巴西首款mRNA疫苗获批临床试验 有望降低对外技术依赖 - 南美侨报网",
-      "source": "南美侨报网",
-      "date": "Fri, 04 Sep 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORk92S3VNYWVGWXM3LWpidzYxSFVNWkNHWHVzcXM5U05vUlp4eUFsWTFPa1ZDNlJQclp6cldac0hVWGxLMm8tWGFnSDh3eGpFY3d1Q3RrcXN6SjJUaFoyQmJQX095NXItenV6azNmQUtlZ3RHM2o4OHdDaHFZSjNwcEhveWhkVHhLQ0thQW1R?oc=5",
-      "snippet": "巴西首款mRNA疫苗获批临床试验 有望降低对外技术依赖&nbsp;&nbsp;南美侨报网",
+      "title": "WT1靶向癌症疫苗III期成功，galinpepimut-S将急性髓系白血病患者中位OS拉至24个月 - 摩熵医药",
+      "source": "摩熵医药",
+      "date": "Thu, 19 Nov 2026 08:54:32 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UajN0STBJRS1mTUNkcTItZU9GYm1ybnNKcWZfc1laOWZkdHhfMEFSbDY2Q3lSUFhlNmMwLVA1UWRyOFhoVHIzd1h2bGE1cnhEaWdoMlFGUQ?oc=5",
+      "snippet": "WT1靶向癌症疫苗III期成功，galinpepimut-S将急性髓系白血病患者中位OS拉至24个月&nbsp;&nbsp;摩熵医药",
       "matched_query": "疫苗 审批 临床试验 2026"
     },
     {
@@ -133,27 +157,27 @@
       "matched_query": "mRNA 疫苗 市场 规模 2026"
     },
     {
-      "title": "FDA Grants RMAT Designation to iSCIB1+ in Advanced Melanoma - CancerNetwork",
-      "source": "CancerNetwork",
-      "date": "Fri, 20 Nov 2026 19:05:35 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmVkZXQ2Mm9aN00yamFmdzhuV19qNjRzNHkzS0lsX3ptSU9HMVdmMk5xd0VZWHdQa3E5ZFRlaFVWLUtrR0VoMldMeVZpLVJEd1hMaU15RmY5ck9lQk9KQ05GVzkzZFlldnZpalZ1b1UyeUZpd2FyQnQtMGpqYXJ0c29wQWNTYXNEWXZfd200SENDcG9sVHlWeA?oc=5",
-      "snippet": "FDA Grants RMAT Designation to iSCIB1+ in Advanced Melanoma&nbsp;&nbsp;CancerNetwork",
+      "title": "Vaccine Improves Survival in People with Acute Myeloid Leukemia (AML) - Memorial Sloan Kettering Cancer Center",
+      "source": "Memorial Sloan Kettering Cancer Center",
+      "date": "Tue, 17 Nov 2026 05:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0FTSmRIc1lWWXRkSTUyNzZqMFVyck1PdmJpT09pODBNMWhOWGtZeVN2VmU0eXVaMmNuWWlraHQtTzdXeFdpSHZWa2xfMHVGczZLRHRTUEIwcU81MXRremJTMEpMcHdfQXp0ampJWGdtM1VaUHVYVFR0XzBxb3pLdjhHcDQyUE1PQllUZXFqdGpRU0Y3d2RZUkRR?oc=5",
+      "snippet": "Vaccine Improves Survival in People with Acute Myeloid Leukemia (AML)&nbsp;&nbsp;Memorial Sloan Kettering Cancer Center",
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "What are the biggest vaccine breakthroughs coming in 2026? We asked five experts - Gavi, the Vaccine Alliance",
-      "source": "Gavi, the Vaccine Alliance",
-      "date": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEEtM285eThTeElBR3JGdzdQb2QzQ3N4Y20xWFlIcGZ5cEIzaUFlNHNQeHZJTVlLbDZzYWZYTDl0dzkyZnRoM2tDZ1lmWU9jaEFhNHZPSl9lbjhaWndWdE94bUFycXY4NUp3S1NOVURySGF3VG1NUkhhYV9GUWNNd19VbWJBaUtkQ2JZLVdxazU1VW93WVdOb2FNT0dTckJRTkNvQjlWcEY?oc=5",
-      "snippet": "What are the biggest vaccine breakthroughs coming in 2026? We asked five experts&nbsp;&nbsp;Gavi, the Vaccine Alliance",
+      "title": "Development of Nipah virus mRNA vaccine for pandemic preparedness - Frontiers",
+      "source": "Frontiers",
+      "date": "Tue, 19 May 2026 09:25:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUZMUkxTR1BPcHJ0T2FCWWtJcU1xelBOZnBRMUNFMTdBMm5SZkZ6QTloRzFfSHVjbzdWVlZLMHc5NVlRT2UtNnhVRFpEUTVKN0lvYmtSeXZIV1ZndVFWU211OUVzMGNRYU9pODZoNmRRT292aFFRd1NJWXVJMVdoZDQ3Q1A0ckJDTUNzY2dZQWN3dw?oc=5",
+      "snippet": "Development of Nipah virus mRNA vaccine for pandemic preparedness&nbsp;&nbsp;Frontiers",
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "AstraZeneca Strengthens Respiratory Illness Pipeline With Acquisition of Icosavax - Pharmaceutical Executive",
+      "title": "Eli Lilly Enters Three Separate Acquisitions Totaling $3.83 Billion - Pharmaceutical Executive",
       "source": "Pharmaceutical Executive",
-      "date": "Tue, 12 Dec 2023 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjJITGgxSElqN1FmWUZRWHJTNEVZb1FXa2NSZko0VXJOMEhZQ1JNMlRySEhxQjRlaE9CTTVXV0ZFbVNhVjcwbWhtQ2FQdUlWUzI3YVhDeUZ1QWh1QmItOHFpQS1kc25fdmY2RlY2ZmJROThQWEdGRWx6WEg0Y285YkxvZVdzRzZDNW1CRzlXeUxvUnBJb1RDWWFHbGVGemtkTUFPUHctblNUTFFYWkdmaHpB?oc=5",
-      "snippet": "AstraZeneca Strengthens Respiratory Illness Pipeline With Acquisition of Icosavax&nbsp;&nbsp;Pharmaceutical Executive",
+      "date": "Tue, 26 May 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXoyRHI3Z1kwM3B3TjRuQ0FOMi02MnpWYlFhYTN5amtuT0pwR2dqSEdYREhfSWwxLVo3cmRqWVNWemc0S0FFelIxZXNmWWdubHZTck1YZzhRQnY1QXZwWHFiNDJpR242ZkYzRzAtN25WLTN4MFZaRzh0X0NTR0hXUUE2UzI?oc=5",
+      "snippet": "Eli Lilly Enters Three Separate Acquisitions Totaling $3.83 Billion&nbsp;&nbsp;Pharmaceutical Executive",
       "matched_query": "VLP vaccine pipeline"
     },
     {
@@ -171,30 +195,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkNiVlp6V3cxeTJ3S240UF96RmlEckc2YWhObjZkVVpCd3EyMDhjY2VvMGppZDA2cVZqdEF5cEMxbzBrMnJpcWJkMjFxcGlxMU9ubDhaTnpGS0FrUlIyUDJnWjB4amlldGFoS19VT3ZaOUNPQ2l1S0VwblFEVTFqRzhtekRMT2UxeTZsZnBxVHk1Zw?oc=5",
       "snippet": "The recent advances in vaccine adjuvants&nbsp;&nbsp;Frontiers",
       "matched_query": "AS01 AS03 MF59 CpG adjuvant"
-    },
-    {
-      "title": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3V2clF1LUloc1lzRUR2NTJxVFdPOXluTnlQSUI3MjlVVzkzUk9ndkw5WExtZVJUeFg2TktINGV2dnJybTUxNENfaHUwQ0tEVHVaXzFTY3VCYTlabGRhWE5nODlZenZkeWNndnVzZ2Fzd2tmVWRRaEQ1LXBsZS1GTXQ0NGN5ZXJaQlZuRVRiaHk3czgzOUp4ckctMVdndnBtRmdXYXJiZFhERjg?oc=5",
-      "snippet": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas&nbsp;&nbsp;Fierce Pharma",
-      "matched_query": "mRNA vaccine patent lipid nanoparticle"
-    },
-    {
-      "title": "UR Discovers New Way to Boost Vaccines, Seeks Patent - University of Rochester",
-      "source": "University of Rochester",
-      "date": "Tue, 03 Aug 2010 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTm5zRmF1RzgwbVE2U0dSZkYtdHM2eWpPUEhyQ3lBUUptXzVqSFpCcEtrcDR5U0hEUWZvQnlOalpCUGVhdURIaDIzaGFBQnpvMmxobHAwNkFJeXdydzVqRGVWYm9UVEg0b1g0dlczMzA0QTRpQ3VfamJhdGp3VFJaMk0zeEp3OExHdmQ5elBqcE9LcFpvc25MQw?oc=5",
-      "snippet": "UR Discovers New Way to Boost Vaccines, Seeks Patent&nbsp;&nbsp;University of Rochester",
-      "matched_query": "vaccine adjuvant patent"
-    },
-    {
-      "title": "Vaccines and patents: how self-interest and artificial scarcity weaken human solidarity - LSE Blogs",
-      "source": "LSE Blogs",
-      "date": "Tue, 09 Feb 2021 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85Y3FoTVhaM0REWkdpTGFBV05fX05ZRF9KWGFaX1dITEd4R05mbnNWYnlHbGh2NnI0XzhyMDIwMXZ2MUxpY1B6Y3BvYlNfYlhvanJjNThuOHdVNGc1MUZTOUh2Nld5bFVkeEFFeVlKYXg?oc=5",
-      "snippet": "Vaccines and patents: how self-interest and artificial scarcity weaken human solidarity&nbsp;&nbsp;LSE Blogs",
-      "matched_query": "vaccine patent expiration"
     }
   ]
 }
