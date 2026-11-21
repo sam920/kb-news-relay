@@ -2,7 +2,7 @@
   "date": "2026-11-21",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 89,
+  "total_raw": 90,
   "items": [
     {
       "title": "Former Trump Administration Health Adviser Misleads About mRNA Flu Vaccine - FactCheck.org",
@@ -45,11 +45,11 @@
       "matched_query": "mRNA vaccine patent lipid nanoparticle"
     },
     {
-      "title": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021 - Nature",
-      "source": "Nature",
-      "date": "Sat, 28 Dec 2024 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eGNjU1RxSFdxWTNqTGRZMk4zUHo1UWFLUW9NbkVCa19GU25EcVlrSFA0eVBmdlhRU19DNU0wMHlPdFI4Ql9uUF9admwtWkdldUF2RFM1SkVxNWFZM0lF?oc=5",
-      "snippet": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021&nbsp;&nbsp;Nature",
+      "title": "Trinity team to repurpose injectable influenza vaccine into nasally delivered option - Trinity College Dublin",
+      "source": "Trinity College Dublin",
+      "date": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByTGVGX2xSdFlBY0lUTFVPckRZWVZWN1BicjFPOS1KZjNDS20yTjZNeGZQSlY2TTVmM01felF1MGRWOWZwOE9CY0R3cWhFLUh0dTdlR0dBUEVtTHNZMUoxRXJlSGw2U1R4LU11RXh3?oc=5",
+      "snippet": "Trinity team to repurpose injectable influenza vaccine into nasally delivered option&nbsp;&nbsp;Trinity College Dublin",
       "matched_query": "vaccine adjuvant patent"
     },
     {
@@ -61,11 +61,11 @@
       "matched_query": "vaccine patent infringement lawsuit"
     },
     {
-      "title": "Blockbuster drugs face a massive patent cliff in 2026 - Drug Discovery News",
-      "source": "Drug Discovery News",
-      "date": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjJzTnVWMm1Sd1hta1loSy1ZQU5oXzdOT09oSHJ2YTY3cjJ5S1Z1RUFiQVEyRGh3azhnWHpSNjAwRzVlODh3aHR3YUNzc0lZaW5pRXhiX2lQcExXdEhaR1BEaWhXcXNwbGxRdFFqNEJwak1LX2hRZ0xvLUJzOU1SeW1aRVdNdWdYeThRaXFfeVU2R2MyV2NEWg?oc=5",
-      "snippet": "Blockbuster drugs face a massive patent cliff in 2026&nbsp;&nbsp;Drug Discovery News",
+      "title": "Pharma Industry Stares Down Biggest Patent Cliff in Decades - WSJ",
+      "source": "WSJ",
+      "date": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0VGbTM5VUNtc0gyckhWZUt1c2otQjlFOTRDQ25nN1JHWkNuYTA3WkdPOFVBWDhCOWhqNzUtVjRyVGFRN09Ddlp4aGotSHdSRXJ6UGE1Q19RM3B6SkhxNmN2LWUzWXR5RW5tazA0UGR2NVk1VXNpaTFMVUdxUzEwWmxZdTFtamNITDJxaVNGYUl6M1d3Qm5JcW55S3dTd1d0bGl6bA?oc=5",
+      "snippet": "Pharma Industry Stares Down Biggest Patent Cliff in Decades&nbsp;&nbsp;WSJ",
       "matched_query": "vaccine patent expiration"
     },
     {
@@ -83,6 +83,14 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1lkODdtbDJyOFlHcGhCaTlBMkZ6dWpZWXFWZzV6bEpPem9ZM1hBSzFucDdfcVFEa1RVdnBhZS1qN3dmdFNXWl9vMklWWjFpQmthMTY3WG1QeHlUeFVjM1pHdlRfMjkyNkxJZ1FkY3ozQTRxamR2cDFXY3p5ZG54ZGwyVktrWlN2aUkzUXdZWEd3WEtMUUpZ?oc=5",
       "snippet": "The mRNA wars are escalating with new claims from Arbutus&nbsp;&nbsp;JUVE Patent",
       "matched_query": "Pfizer BioNTech LNP patent litigation 2026"
+    },
+    {
+      "title": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021 - Nature",
+      "source": "Nature",
+      "date": "Sat, 28 Dec 2024 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eGNjU1RxSFdxWTNqTGRZMk4zUHo1UWFLUW9NbkVCa19GU25EcVlrSFA0eVBmdlhRU19DNU0wMHlPdFI4Ql9uUF9admwtWkdldUF2RFM1SkVxNWFZM0lF?oc=5",
+      "snippet": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021&nbsp;&nbsp;Nature",
+      "matched_query": "vaccine adjuvant China patent authorization"
     },
     {
       "title": "$7+ Billion mRNA Vaccines Market Outlook, 2035: Opportunities, Strategies, Challenges - Yahoo Finance UK",
@@ -187,14 +195,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFVURFJiWmx1MzJrUEUyRzFaYVVUQWczdG1YU0hXeFJzeDFaOVVpNndENzR0cU5xMjJaaWtBTV8wcVdMX0RsR0xzNWFOSG04aVZrdHJaZWhqRUhQX1RHVDhCWER4dFhlQldfQXlmSTJMTEd1TU5sNTFjYlhabVZfeWtCaGt1MGduSnZDa3A5N3oxUQ?oc=5",
       "snippet": "New-age vaccine adjuvants, their development, and future perspective&nbsp;&nbsp;Frontiers",
       "matched_query": "vaccine adjuvant novel adjuvant system"
-    },
-    {
-      "title": "The recent advances in vaccine adjuvants - Frontiers",
-      "source": "Frontiers",
-      "date": "Mon, 12 May 2025 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkNiVlp6V3cxeTJ3S240UF96RmlEckc2YWhObjZkVVpCd3EyMDhjY2VvMGppZDA2cVZqdEF5cEMxbzBrMnJpcWJkMjFxcGlxMU9ubDhaTnpGS0FrUlIyUDJnWjB4amlldGFoS19VT3ZaOUNPQ2l1S0VwblFEVTFqRzhtekRMT2UxeTZsZnBxVHk1Zw?oc=5",
-      "snippet": "The recent advances in vaccine adjuvants&nbsp;&nbsp;Frontiers",
-      "matched_query": "AS01 AS03 MF59 CpG adjuvant"
     }
   ]
 }
