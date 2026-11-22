@@ -2,7 +2,7 @@
   "date": "2026-11-22",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 86,
+  "total_raw": 90,
   "items": [
     {
       "title": "Former Trump Administration Health Adviser Misleads About mRNA Flu Vaccine - FactCheck.org",
@@ -13,11 +13,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "How the mRNA Flu Vaccine Compares to Traditional Shots - Johns Hopkins Bloomberg School of Public Health",
-      "source": "Johns Hopkins Bloomberg School of Public Health",
-      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDJ0TV9LRU0xQ0xxVFVsTEtsMmM0b3IwVGFFRzMxT1R0UE1kT0xpZV9BNnhURkpUUUtRS21uRFdpd1BJeVZqdkdxZ2dyT0k3X1BGaFEwSUh6cmZtR1pCNnc2QnMxUUs5eGw0dnlSeWtWdk9JV2R1TDR6R2dlUjlKeFo5UkswOTIxWS1NaVUxSWIwZw?oc=5",
-      "snippet": "How the mRNA Flu Vaccine Compares to Traditional Shots&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public Health",
+      "title": "Making mRNA in Latin America: Brazil’s new vaccine platform heads into human trials - CEPI",
+      "source": "CEPI",
+      "date": "Wed, 28 Oct 2026 10:01:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTZROWFLOHNMLU5YLVNMdmpIZ2c3VGc2VWNmQmdwVHZMT1A0bmdqbW5DdnYtVk9VUDE2YnA0eWRNdl9pa0JvcGYwN2N5TnNjSl9sXzdKdXhEeG80a2QyXzd1WjNZV3k2dm9nSW45ckFXRWVFdVBYdzVycFFPaWFWNjJnLThFbFBGLVkxRDdocUtOa2Q3N3ZuRHRzejdNN0xfZUEtTnlIRHhqVldDQzRPMEpkdw?oc=5",
+      "snippet": "Making mRNA in Latin America: Brazil’s new vaccine platform heads into human trials&nbsp;&nbsp;CEPI",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -45,12 +45,20 @@
       "matched_query": "mRNA vaccine patent lipid nanoparticle"
     },
     {
-      "title": "Trinity team to repurpose injectable influenza vaccine into nasally delivered option - Trinity College Dublin",
-      "source": "Trinity College Dublin",
-      "date": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByTGVGX2xSdFlBY0lUTFVPckRZWVZWN1BicjFPOS1KZjNDS20yTjZNeGZQSlY2TTVmM01felF1MGRWOWZwOE9CY0R3cWhFLUh0dTdlR0dBUEVtTHNZMUoxRXJlSGw2U1R4LU11RXh3?oc=5",
-      "snippet": "Trinity team to repurpose injectable influenza vaccine into nasally delivered option&nbsp;&nbsp;Trinity College Dublin",
+      "title": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021 - Nature",
+      "source": "Nature",
+      "date": "Sat, 28 Dec 2024 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eGNjU1RxSFdxWTNqTGRZMk4zUHo1UWFLUW9NbkVCa19GU25EcVlrSFA0eVBmdlhRU19DNU0wMHlPdFI4Ql9uUF9admwtWkdldUF2RFM1SkVxNWFZM0lF?oc=5",
+      "snippet": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021&nbsp;&nbsp;Nature",
       "matched_query": "vaccine adjuvant patent"
+    },
+    {
+      "title": "CureVac sues Moderna for patent infringement over COVID-19 vaccines - Reuters",
+      "source": "Reuters",
+      "date": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVXo1ZWNwR3hBbTM4X0tLVTM0bG5wSFZVc0trSnBuMmZUbFZHYXNqQUI1TlJJYklOYzVOQnpyYWVybEREM0RRYm13YTI0QXBhUW9uN0hIcmlsYWo2RTVYZnlhNUhLUERPb205eUhsYnRxclZEd1pGRnVleTAtNXhnajYzSE5MeThOSjlpYWs5eGxJVGtjMFlHMFk4LUgwVkVFaUNRb3d0WDM4ZGtOX3A0clQ4bDNTdVk?oc=5",
+      "snippet": "CureVac sues Moderna for patent infringement over COVID-19 vaccines&nbsp;&nbsp;Reuters",
+      "matched_query": "vaccine patent infringement lawsuit"
     },
     {
       "title": "Pharma Industry Stares Down Biggest Patent Cliff in Decades - WSJ",
@@ -77,19 +85,11 @@
       "matched_query": "Pfizer BioNTech LNP patent litigation 2026"
     },
     {
-      "title": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021 - Nature",
-      "source": "Nature",
-      "date": "Sat, 28 Dec 2024 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eGNjU1RxSFdxWTNqTGRZMk4zUHo1UWFLUW9NbkVCa19GU25EcVlrSFA0eVBmdlhRU19DNU0wMHlPdFI4Ql9uUF9admwtWkdldUF2RFM1SkVxNWFZM0lF?oc=5",
-      "snippet": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021&nbsp;&nbsp;Nature",
-      "matched_query": "vaccine adjuvant China patent authorization"
-    },
-    {
-      "title": "$7+ Billion mRNA Vaccines Market Outlook, 2035: Opportunities, Strategies, Challenges - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "date": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0lRVkROWHRPaVhWMUFBUkNmeFYwVzhEMXlDSUM5Rmh4LUY4YnRNQlJoV2pjNW43ZFQ3aUxOS3pIVnNweFVtUlBCTnB0VzN5UjhQQ0FJTWMyeXl0eGE2d05VT3VILXRhaFRpdUk4RnBja2VWb21JMzgtTzE4RXRzMU45amJ5dw?oc=5",
-      "snippet": "$7+ Billion mRNA Vaccines Market Outlook, 2035: Opportunities, Strategies, Challenges&nbsp;&nbsp;Yahoo Finance UK",
+      "title": "RNA QC Kits Market To 2035: Mrna Vaccine Release Testing Demand Supports Forward Growth - News and Statistics - IndexBox",
+      "source": "IndexBox",
+      "date": "Sun, 22 Nov 2026 13:31:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMERzUnVDbkRyRHpQZjR2QkxoSnRGcTJvYzFWTTV2NTVzQTV3TEJhVlBXZDljVDgwRHl3akxWb29ZLUhIZTlBd0llZzlYSTdnNGo5dVhZZW5JSTU4V1FUUjM0T1VXaHEzUlF2bzNaQlJiUkxTTTRGQ0pVVGNOUm5PcVI4TzcwMlRCYzhPWWhFMU10V1pxSFBOYWpkdFV1TjNRSTdlcmVnMVNGNVVyNmFVUjBYclY1cUMzQUE?oc=5",
+      "snippet": "RNA QC Kits Market To 2035: Mrna Vaccine Release Testing Demand Supports Forward Growth - News and Statistics&nbsp;&nbsp;IndexBox",
       "matched_query": "mRNA vaccine market size forecast 2026"
     },
     {
@@ -109,11 +109,11 @@
       "matched_query": "circular RNA vaccine therapeutic"
     },
     {
-      "title": "巴西首款mRNA疫苗获批临床试验 有望降低对外技术依赖 - 南美侨报网",
-      "source": "南美侨报网",
-      "date": "Fri, 04 Sep 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORk92S3VNYWVGWXM3LWpidzYxSFVNWkNHWHVzcXM5U05vUlp4eUFsWTFPa1ZDNlJQclp6cldac0hVWGxLMm8tWGFnSDh3eGpFY3d1Q3RrcXN6SjJUaFoyQmJQX095NXItenV6azNmQUtlZ3RHM2o4OHdDaHFZSjNwcEhveWhkVHhLQ0thQW1R?oc=5",
-      "snippet": "巴西首款mRNA疫苗获批临床试验 有望降低对外技术依赖&nbsp;&nbsp;南美侨报网",
+      "title": "WT1靶向癌症疫苗III期成功，galinpepimut-S将急性髓系白血病患者中位OS拉至24个月 - 摩熵医药",
+      "source": "摩熵医药",
+      "date": "Thu, 19 Nov 2026 08:54:32 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UajN0STBJRS1mTUNkcTItZU9GYm1ybnNKcWZfc1laOWZkdHhfMEFSbDY2Q3lSUFhlNmMwLVA1UWRyOFhoVHIzd1h2bGE1cnhEaWdoMlFGUQ?oc=5",
+      "snippet": "WT1靶向癌症疫苗III期成功，galinpepimut-S将急性髓系白血病患者中位OS拉至24个月&nbsp;&nbsp;摩熵医药",
       "matched_query": "疫苗 审批 临床试验 2026"
     },
     {
@@ -133,11 +133,11 @@
       "matched_query": "疫苗佐剂 新型佐剂"
     },
     {
-      "title": "GIL 2026 | 威斯津生物宋相容博士：tLNP平台驱动in vivo CAR-T临床转化探索 - frostchina.com",
-      "source": "frostchina.com",
-      "date": "Thu, 27 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUFrN21iS29Xa0w3N2dia1VBUFd3TEZBWWR4djRUR3RYcllHbmpzU2FUSlBoTjJxVXliTXVrTXlpVXNPX0NBSF9Rc1MzMEdadWhEZFIyYzB6VFhELWpUdEZReFFYSmRRSzRJalB2aWF5Vjg2dkNDTFNNVU5nVjlKZw?oc=5",
-      "snippet": "GIL 2026 | 威斯津生物宋相容博士：tLNP平台驱动in vivo CAR-T临床转化探索&nbsp;&nbsp;frostchina.com",
+      "title": "新概念疫苗佐剂为疫苗技术“换芯” - 科学网—新闻",
+      "source": "科学网—新闻",
+      "date": "Fri, 28 Mar 2025 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CcXhoRklUMXpCWHlWVWpPUXpQam1RUFhXcVBESEZhUW00MkxHeDlBZmRfRGswbGFCejY3ZVpKSDhtbVZ3MmVmejNqMFkwRGdmSmxpNm4tUktaTTR0ZXpNb2tNMk4?oc=5",
+      "snippet": "新概念疫苗佐剂为疫苗技术“换芯”&nbsp;&nbsp;科学网—新闻",
       "matched_query": "疫苗 佐剂 专利 授权 2026"
     },
     {
@@ -149,11 +149,11 @@
       "matched_query": "mRNA 疫苗 专利 诉讼"
     },
     {
-      "title": "RNA聚合酶市场展望2035：mRNA管线扩张推动GMP级需求加速 - 新闻和统计 - IndexBox",
+      "title": "RNA质控试剂盒市场展望至2035年：mRNA疫苗放行检测需求支撑增长 - 新闻和统计 - IndexBox",
       "source": "IndexBox",
-      "date": "Fri, 20 Nov 2026 04:56:04 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ09oX0Z2cnFqU0d0aUJNZ3gyeHlPVDIxVENydS1MUFQzOFR3cGd2dDl1bVNweEQ0b283M0ZxM0hNUVJvQTRoSHFwMXJPU3I2bmJvbHdNZ2J3Ql9tUlJrWGhEckx1RjdhNGtBdVpfTVFNYWsyTG1mVUstNXFSRFB1bkx6X2pnTzF0cW9MWUg2eHJ0ZnZlVWxiYVlaRlJlYzFJNVJDVW1MVl9lQ1JBeHl4czhCd0YydHRGRnRsT2ZYZUNMZlBNSjh3?oc=5",
-      "snippet": "RNA聚合酶市场展望2035：mRNA管线扩张推动GMP级需求加速 - 新闻和统计&nbsp;&nbsp;IndexBox",
+      "date": "Sun, 22 Nov 2026 13:31:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZU5ZRVVhQ0RPVjI0MG5Qb3d6cVNGRlZOOU5oSGlWTW1kOGNGQTVmN2lLNTNUaWUwMExFem1aVk1MMXIyRlhxRUJBUFE0ZGh6UkR5WnhBQTRFaTZSZXlTTzRnMjhGSi1pMXFINXAzUko5Zm5wUG1OSktaY3lzS0FybkRxa1U3RHNVMnRFV1JJRlNCWlpwNGFGblBCMFRPTFliRXU0dXRMSWJjRWIxZWljT28xZG9sTklWalVNd0xORmlVLVU5?oc=5",
+      "snippet": "RNA质控试剂盒市场展望至2035年：mRNA疫苗放行检测需求支撑增长 - 新闻和统计&nbsp;&nbsp;IndexBox",
       "matched_query": "mRNA 疫苗 市场 规模 2026"
     },
     {
@@ -165,11 +165,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "What are the biggest vaccine breakthroughs coming in 2026? We asked five experts - Gavi, the Vaccine Alliance",
-      "source": "Gavi, the Vaccine Alliance",
-      "date": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEEtM285eThTeElBR3JGdzdQb2QzQ3N4Y20xWFlIcGZ5cEIzaUFlNHNQeHZJTVlLbDZzYWZYTDl0dzkyZnRoM2tDZ1lmWU9jaEFhNHZPSl9lbjhaWndWdE94bUFycXY4NUp3S1NOVURySGF3VG1NUkhhYV9GUWNNd19VbWJBaUtkQ2JZLVdxazU1VW93WVdOb2FNT0dTckJRTkNvQjlWcEY?oc=5",
-      "snippet": "What are the biggest vaccine breakthroughs coming in 2026? We asked five experts&nbsp;&nbsp;Gavi, the Vaccine Alliance",
+      "title": "How the mRNA Flu Vaccine Compares to Traditional Shots - Johns Hopkins Bloomberg School of Public Health",
+      "source": "Johns Hopkins Bloomberg School of Public Health",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDJ0TV9LRU0xQ0xxVFVsTEtsMmM0b3IwVGFFRzMxT1R0UE1kT0xpZV9BNnhURkpUUUtRS21uRFdpd1BJeVZqdkdxZ2dyT0k3X1BGaFEwSUh6cmZtR1pCNnc2QnMxUUs5eGw0dnlSeWtWdk9JV2R1TDR6R2dlUjlKeFo5UkswOTIxWS1NaVUxSWIwZw?oc=5",
+      "snippet": "How the mRNA Flu Vaccine Compares to Traditional Shots&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public Health",
       "matched_query": "mRNA vaccine new development"
     },
     {
