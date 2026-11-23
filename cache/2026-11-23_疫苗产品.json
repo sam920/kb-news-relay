@@ -2,7 +2,7 @@
   "date": "2026-11-23",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 85,
+  "total_raw": 90,
   "items": [
     {
       "title": "Former Trump Administration Health Adviser Misleads About mRNA Flu Vaccine - FactCheck.org",
@@ -13,11 +13,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "How the mRNA Flu Vaccine Compares to Traditional Shots - Johns Hopkins Bloomberg School of Public Health",
-      "source": "Johns Hopkins Bloomberg School of Public Health",
-      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDJ0TV9LRU0xQ0xxVFVsTEtsMmM0b3IwVGFFRzMxT1R0UE1kT0xpZV9BNnhURkpUUUtRS21uRFdpd1BJeVZqdkdxZ2dyT0k3X1BGaFEwSUh6cmZtR1pCNnc2QnMxUUs5eGw0dnlSeWtWdk9JV2R1TDR6R2dlUjlKeFo5UkswOTIxWS1NaVUxSWIwZw?oc=5",
-      "snippet": "How the mRNA Flu Vaccine Compares to Traditional Shots&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public Health",
+      "title": "Making mRNA in Latin America: Brazil’s new vaccine platform heads into human trials - CEPI",
+      "source": "CEPI",
+      "date": "Wed, 28 Oct 2026 10:01:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTZROWFLOHNMLU5YLVNMdmpIZ2c3VGc2VWNmQmdwVHZMT1A0bmdqbW5DdnYtVk9VUDE2YnA0eWRNdl9pa0JvcGYwN2N5TnNjSl9sXzdKdXhEeG80a2QyXzd1WjNZV3k2dm9nSW45ckFXRWVFdVBYdzVycFFPaWFWNjJnLThFbFBGLVkxRDdocUtOa2Q3N3ZuRHRzejdNN0xfZUEtTnlIRHhqVldDQzRPMEpkdw?oc=5",
+      "snippet": "Making mRNA in Latin America: Brazil’s new vaccine platform heads into human trials&nbsp;&nbsp;CEPI",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -43,6 +43,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3V2clF1LUloc1lzRUR2NTJxVFdPOXluTnlQSUI3MjlVVzkzUk9ndkw5WExtZVJUeFg2TktINGV2dnJybTUxNENfaHUwQ0tEVHVaXzFTY3VCYTlabGRhWE5nODlZenZkeWNndnVzZ2Fzd2tmVWRRaEQ1LXBsZS1GTXQ0NGN5ZXJaQlZuRVRiaHk3czgzOUp4ckctMVdndnBtRmdXYXJiZFhERjg?oc=5",
       "snippet": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas&nbsp;&nbsp;Fierce Pharma",
       "matched_query": "mRNA vaccine patent lipid nanoparticle"
+    },
+    {
+      "title": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021 - Nature",
+      "source": "Nature",
+      "date": "Sat, 28 Dec 2024 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eGNjU1RxSFdxWTNqTGRZMk4zUHo1UWFLUW9NbkVCa19GU25EcVlrSFA0eVBmdlhRU19DNU0wMHlPdFI4Ql9uUF9admwtWkdldUF2RFM1SkVxNWFZM0lF?oc=5",
+      "snippet": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021&nbsp;&nbsp;Nature",
+      "matched_query": "vaccine adjuvant patent"
     },
     {
       "title": "CureVac sues Moderna for patent infringement over COVID-19 vaccines - Reuters",
@@ -75,14 +83,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1lkODdtbDJyOFlHcGhCaTlBMkZ6dWpZWXFWZzV6bEpPem9ZM1hBSzFucDdfcVFEa1RVdnBhZS1qN3dmdFNXWl9vMklWWjFpQmthMTY3WG1QeHlUeFVjM1pHdlRfMjkyNkxJZ1FkY3ozQTRxamR2cDFXY3p5ZG54ZGwyVktrWlN2aUkzUXdZWEd3WEtMUUpZ?oc=5",
       "snippet": "The mRNA wars are escalating with new claims from Arbutus&nbsp;&nbsp;JUVE Patent",
       "matched_query": "Pfizer BioNTech LNP patent litigation 2026"
-    },
-    {
-      "title": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021 - Nature",
-      "source": "Nature",
-      "date": "Sat, 28 Dec 2024 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eGNjU1RxSFdxWTNqTGRZMk4zUHo1UWFLUW9NbkVCa19GU25EcVlrSFA0eVBmdlhRU19DNU0wMHlPdFI4Ql9uUF9admwtWkdldUF2RFM1SkVxNWFZM0lF?oc=5",
-      "snippet": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021&nbsp;&nbsp;Nature",
-      "matched_query": "vaccine adjuvant China patent authorization"
     },
     {
       "title": "RNA QC Kits Market To 2035: Mrna Vaccine Release Testing Demand Supports Forward Growth - News and Statistics - IndexBox",
@@ -133,19 +133,19 @@
       "matched_query": "疫苗佐剂 新型佐剂"
     },
     {
-      "title": "GIL 2026 | 威斯津生物宋相容博士：tLNP平台驱动in vivo CAR-T临床转化探索 - frostchina.com",
-      "source": "frostchina.com",
-      "date": "Thu, 27 Aug 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUFrN21iS29Xa0w3N2dia1VBUFd3TEZBWWR4djRUR3RYcllHbmpzU2FUSlBoTjJxVXliTXVrTXlpVXNPX0NBSF9Rc1MzMEdadWhEZFIyYzB6VFhELWpUdEZReFFYSmRRSzRJalB2aWF5Vjg2dkNDTFNNVU5nVjlKZw?oc=5",
-      "snippet": "GIL 2026 | 威斯津生物宋相容博士：tLNP平台驱动in vivo CAR-T临床转化探索&nbsp;&nbsp;frostchina.com",
+      "title": "新概念疫苗佐剂为疫苗技术“换芯” - 科学网—新闻",
+      "source": "科学网—新闻",
+      "date": "Fri, 28 Mar 2025 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CcXhoRklUMXpCWHlWVWpPUXpQam1RUFhXcVBESEZhUW00MkxHeDlBZmRfRGswbGFCejY3ZVpKSDhtbVZ3MmVmejNqMFkwRGdmSmxpNm4tUktaTTR0ZXpNb2tNMk4?oc=5",
+      "snippet": "新概念疫苗佐剂为疫苗技术“换芯”&nbsp;&nbsp;科学网—新闻",
       "matched_query": "疫苗 佐剂 专利 授权 2026"
     },
     {
-      "title": "制药史上最高?! Moderna 22.5亿美元解新冠疫苗LNP专利诉讼 - 中国医药创新促进会",
-      "source": "中国医药创新促进会",
-      "date": "Mon, 09 Mar 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WVXNfWkdwZ2xOaTlmYUNMaWdGSTFDVVgwQ3lma3dTODZTY09jeUNkQlNBUE1zdWI3ZDhpWU5aV2wyeGxwYTBaNzEtSWdoUU9LZGMwbEgyZEdkNjJZSFZnQ3RmQXE0cDFOQV9CUGNMWTJjYnpZcHFZWWhn?oc=5",
-      "snippet": "制药史上最高?! Moderna 22.5亿美元解新冠疫苗LNP专利诉讼&nbsp;&nbsp;中国医药创新促进会",
+      "title": "mRNA癌症疫苗点燃默沙东想象力 “后K药时代”找到新解法？ - mrjjxw.com",
+      "source": "mrjjxw.com",
+      "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CTkF3eW5qSjEyVEtqdVBFMGVUTTJhMWNMOWh0VjhjamNjQ0dSNkwtUnJfekNJNFVwV29VRUNCcHhLQkZUZHpRMlJPbDdMN1dHbTEwdGNrZHZuUkhnRnZBYllocXFxZw?oc=5",
+      "snippet": "mRNA癌症疫苗点燃默沙东想象力 “后K药时代”找到新解法？&nbsp;&nbsp;mrjjxw.com",
       "matched_query": "mRNA 疫苗 专利 诉讼"
     },
     {
@@ -165,19 +165,19 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "What are the biggest vaccine breakthroughs coming in 2026? We asked five experts - Gavi, the Vaccine Alliance",
-      "source": "Gavi, the Vaccine Alliance",
-      "date": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEEtM285eThTeElBR3JGdzdQb2QzQ3N4Y20xWFlIcGZ5cEIzaUFlNHNQeHZJTVlLbDZzYWZYTDl0dzkyZnRoM2tDZ1lmWU9jaEFhNHZPSl9lbjhaWndWdE94bUFycXY4NUp3S1NOVURySGF3VG1NUkhhYV9GUWNNd19VbWJBaUtkQ2JZLVdxazU1VW93WVdOb2FNT0dTckJRTkNvQjlWcEY?oc=5",
-      "snippet": "What are the biggest vaccine breakthroughs coming in 2026? We asked five experts&nbsp;&nbsp;Gavi, the Vaccine Alliance",
+      "title": "How the mRNA Flu Vaccine Compares to Traditional Shots - Johns Hopkins Bloomberg School of Public Health",
+      "source": "Johns Hopkins Bloomberg School of Public Health",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDJ0TV9LRU0xQ0xxVFVsTEtsMmM0b3IwVGFFRzMxT1R0UE1kT0xpZV9BNnhURkpUUUtRS21uRFdpd1BJeVZqdkdxZ2dyT0k3X1BGaFEwSUh6cmZtR1pCNnc2QnMxUUs5eGw0dnlSeWtWdk9JV2R1TDR6R2dlUjlKeFo5UkswOTIxWS1NaVUxSWIwZw?oc=5",
+      "snippet": "How the mRNA Flu Vaccine Compares to Traditional Shots&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public Health",
       "matched_query": "mRNA vaccine new development"
     },
     {
-      "title": "Eli Lilly’s Vaccine Acquisitions Signal a Strategy of Growth in New Areas - MedCity News",
-      "source": "MedCity News",
-      "date": "Tue, 26 May 2026 07:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbVV1Y0xweFBjUXRueGNsblhUNXZYRVRsMk1zVU5jb2QxeUVtdFVZY3ZGb3EtZEZCME1qUXZEeGpVS0JzZ1ZPTXdZZ1ZNYm9WbkIyd1Jxc0RVV0ptdTQ1Y3RRRnJmUnJIZm9LSHNadXhiMTlCYUpEZFBmaFNGSFo3dl9ZVHdwNW9GWi1vRkhaYmlxYm1uOFo1TmNZYXB6RVdEXzF6OVFkbkNDMjVRNkhLcWFGYkl5dGphRkNQeDVYWGZNd3NXenpnd3Z4TTM?oc=5",
-      "snippet": "Eli Lilly’s Vaccine Acquisitions Signal a Strategy of Growth in New Areas&nbsp;&nbsp;MedCity News",
+      "title": "Recent advance in the development of tuberculosis vaccines in clinical trials and virus-like particle-based vaccine candidates - Frontiers",
+      "source": "Frontiers",
+      "date": "Tue, 13 Feb 2024 09:58:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWtBdnBlMkI0aHZvR0phT2NyWXFDZDJKaklkQ0FBWndjLXlKWXJYM25weF9KV1dQbWhjWmpOeVA1LU9fQzFUUWZiMmllRVZ6M0xFYk9QbjF4UVo4VHBVQURSUGlwd1VEMHNqWHlDYW9NNW1YdkloYld3MFZwOVVqeU02U1hjSDVsUUlGbUoxamxMUQ?oc=5",
+      "snippet": "Recent advance in the development of tuberculosis vaccines in clinical trials and virus-like particle-based vaccine candidates&nbsp;&nbsp;Frontiers",
       "matched_query": "VLP vaccine pipeline"
     },
     {
