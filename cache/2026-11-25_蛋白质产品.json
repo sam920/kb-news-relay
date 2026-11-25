@@ -1,7 +1,200 @@
 {
   "date": "2026-11-25",
   "topic": "蛋白质产品",
-  "total": 0,
-  "total_raw": 0,
-  "items": []
+  "total": 24,
+  "total_raw": 79,
+  "items": [
+    {
+      "title": "Invivyd plans FDA run for COVID-19 preventative, teeing up ‘new era for immunization’ - BioSpace",
+      "source": "BioSpace",
+      "date": "Mon, 23 Nov 2026 14:49:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGczS0stMm5weXZ6N2ZicklSN3ZlWUlWQ0htN0hZaXQ1U2RSVVdDWnBxY2hibHN3VGV4LUE2RW1KaDR0dWpCTHBEaUtsZGh5alkza1VTcG81OGNzRldST1dFanp4NWdSYlYxNERFQW54Z0puVHJGc1ZwZ0xlZ21kNEp2OV9fMDNPcU40U2hmU0FYa0ZRRkpaU01UVUE0elJKakxwQ1g1Tm01dko2MDhRTUlLYlZqcjlhVUE1a1RQRUk4UQ?oc=5",
+      "snippet": "Invivyd plans FDA run for COVID-19 preventative, teeing up ‘new era for immunization’&nbsp;&nbsp;BioSpace",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "The clinical trial landscape of bispecific antibodies in non-small cell lung cancer: mechanistic trends and developmental strategies - Frontiers",
+      "source": "Frontiers",
+      "date": "Mon, 10 Aug 2026 07:02:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkxaY0lMdGtPS2IxWXFQcC11TmtuSnFGUmcwOHNCbVdaMEJ2TEJOSVh0OFdNcUV3NGVTcC1LV3R0UGtHUDJPZjhvQWYxRkE1Mk1HSzl4YjdfSHFPUGZ6ZWJIb1hkS2lISFphc1hIa1pMYV9xcV9MM3huT0VpY1ZsQ1hfYUdPYzRpQU90TFRmM3Fmempr?oc=5",
+      "snippet": "The clinical trial landscape of bispecific antibodies in non-small cell lung cancer: mechanistic trends and developmental strategies&nbsp;&nbsp;Frontiers",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "Experimental antibody-drug conjugate shows promising initial activity in head and neck cancers - Medical Xpress",
+      "source": "Medical Xpress",
+      "date": "Thu, 19 Nov 2026 13:30:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkFwQWo2RURKbzZJQjA3SVYzQ0FlYjA0eVFtRG1sRHNtSDJMQm1iMy1XWTZjY1gxUWtLTDBnWkQxZi1UQnRDbkozM0x5VHVici1vYVJ0ekpUcVJmY2N2SDktMGI5aVNKOG1NNDliSnl1NHFlSXBRQ0NuOTZEMm93aVJBSUt1U2FPNkFuaDZR?oc=5",
+      "snippet": "Experimental antibody-drug conjugate shows promising initial activity in head and neck cancers&nbsp;&nbsp;Medical Xpress",
+      "matched_query": "ADC antibody drug conjugate news"
+    },
+    {
+      "title": "CHO, HeLa and HEK293: Comparing key cell lines for drug discovery and biologic development - BioTechniques",
+      "source": "BioTechniques",
+      "date": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenBTX29uR1VJVjVFajZlXzRXTW53RzBldkNBOFh1OS00TDg1cWc0LUI5anZUU3lFZmlDYzV6czItengwYm5hTjA3X0g1TGFWeWpZWi1nLWFRYVpIRmtlVkNKWmNYSTByRWlzLUJ2YV9vYmtMVldOT2I5Q2taQnItaGhXNldlTkUxU2c0cm51d3ZfSnA1VkNYOTJjQmk0NXFRbHRQb2Z0dnJyM0NTaEN4NnU2QlZmMzVlY0swMkZ3dG5sUjVrNkZyVWl4RVRYejAyajJTYzEzcC1nZU1xS2xjTkNLaEtvdDJDYUIyZUxDbGVDeDFF?oc=5",
+      "snippet": "CHO, HeLa and HEK293: Comparing key cell lines for drug discovery and biologic development&nbsp;&nbsp;BioTechniques",
+      "matched_query": "recombinant protein therapeutic approval"
+    },
+    {
+      "title": "Amneal obtains European approval of Xolair biosimilar - Drug Store News",
+      "source": "Drug Store News",
+      "date": "Tue, 24 Nov 2026 13:52:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkw3R1B2VmNUZk0yeU9CXzNTUlZYQzNyRl9IOHJRb1gxbmRETmFXLW5OQnNhUG04ajNMRjE2eUM1SndoVGFkUmxhZ3FFZDJYREpYc2lBRFlxMVhmMXJvWGNqZzVVM0RoSDZSaWJlTnlBYkhCcm9TYzUtVDZqMWxIN2Zn?oc=5",
+      "snippet": "Amneal obtains European approval of Xolair biosimilar&nbsp;&nbsp;Drug Store News",
+      "matched_query": "biosimilar approval"
+    },
+    {
+      "title": "Now There’s a GLP-1 in Chocolate Form - WIRED",
+      "source": "WIRED",
+      "date": "Tue, 24 Nov 2026 11:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JaEt4UFE1NUZkOFNaYVdYZTNQM1dITmxZaXFYb05BbW1lZldEZFlHVTFIdWVNNlhkUGExYkNkNUQyZjZBakRoeW9iZnJYdW5QblkzbXdBbWlEaE5OTVFLdzBRQjZTdFNPMUk1ak1nYVFVTk0?oc=5",
+      "snippet": "Now There’s a GLP-1 in Chocolate Form&nbsp;&nbsp;WIRED",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Compounded GLP-1s: Why doctors worry and the FDA is cracking down - Stanford Medicine",
+      "source": "Stanford Medicine",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3l0LVMtYU44bU1TWHlJNWFkYmg1Y0s0YUxaWWtUZDF1dkFlNUNEVUR1Rlc2S1U2NF9GdDNWcURlc3NZZWZTa2ZONWZua1d4ekd2TXRTNXRlOFJlOHRPOHBFZnhZcmJ5c3otNlFCUVNmVlRNb3RrV1pfRDdXU1ZOWnlCbXAtUS1xRGF5SWVYck9GdHgyLW56RmtiVTV3UmV0?oc=5",
+      "snippet": "Compounded GLP-1s: Why doctors worry and the FDA is cracking down&nbsp;&nbsp;Stanford Medicine",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "The next frontier of peptide therapeutics: from targeted conjugates (PDC/ODC) to AI-driven safety-by-design - Frontiers",
+      "source": "Frontiers",
+      "date": "Wed, 28 Oct 2026 09:18:43 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2tDUGxacHc1QzNQZ0tHOE1TbVZCWkRqOVgtUlV6bE52ZkRLNjUtZ1ZWMmp4LWg5Zmo4eGd0YnZBeTVFemwtbWpnc0NxOUc3U1ZONVJjcXoySmYxRTRJM2llVjVuN29YV2EwYzhqeXZuZ1g1d0xqT1dveDNEb2IyaXRRamRzRXpxazRjdzNvd3A1MVU3?oc=5",
+      "snippet": "The next frontier of peptide therapeutics: from targeted conjugates (PDC/ODC) to AI-driven safety-by-design&nbsp;&nbsp;Frontiers",
+      "matched_query": "peptide therapeutic clinical trial"
+    },
+    {
+      "title": "The Future of Genus Patenting Strategies for Antibodies Post- Amgen - IPWatchdog",
+      "source": "IPWatchdog",
+      "date": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHlGS0N6SV9MUHRoM0MybzNyeHluc2pTVUlVLVRKTHAxZmlCcl9wZUktZGJnNXFISmVuaG9MWlZSWXRmM0JISTZhcWMzeEk0dkRpb2hwNHlVUVM5Z2dqS0pBV2xFdndsTm9MRERSNFJuS0pORkV5ZDBvcDQxRzE5RUZFMU14TEo1S0NuNFlmWVRjejgz?oc=5",
+      "snippet": "The Future of Genus Patenting Strategies for Antibodies Post- Amgen&nbsp;&nbsp;IPWatchdog",
+      "matched_query": "antibody patent litigation"
+    },
+    {
+      "title": "AMGEN SECURES PATHWAY FOR U.S. LAUNCH OF BIOSIMILAR TO OPDIVO® FOLLOWING SETTLEMENT AGREEMENT - Amgen",
+      "source": "Amgen",
+      "date": "Tue, 24 Nov 2026 21:18:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1gwTndwZVlTdzFNNDBfVm5lLTlEVU93RkhnOXZTWUVkN3MySDFtb3k0SkZUZFl0UzE2MnJOeEdPUzVDYmtOTUkwNHFZNnl0bGdYSjNwSTdnb0Vtb1BMaHZsRWI5Q2o0SHJ1UTNyaGpYd0lmMVQ4OTdGM0ZKNFRHaGx4THZoSFZHMzdCV09HTHpYZFlvckg0TjdOdXRlR1NrX01hT19FNVVtc3J6c0ZLTjhiOGozM1BmajMxWUhJNXIwWjY4VVd4d1dNRmJXTkFpeGNWcnJHNy1Xcy1pSXpv?oc=5",
+      "snippet": "AMGEN SECURES PATHWAY FOR U.S. LAUNCH OF BIOSIMILAR TO OPDIVO® FOLLOWING SETTLEMENT AGREEMENT&nbsp;&nbsp;Amgen",
+      "matched_query": "biosimilar patent settlement"
+    },
+    {
+      "title": "The ADC patent cliff: a turning point for rare cancer treatment｜Beyond Biotech - finance.biggo.com",
+      "source": "finance.biggo.com",
+      "date": "Fri, 20 Nov 2026 21:58:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwNEtNVW1KT3drd3BWTmg1VE5jay1Hb3l1d093UmllN29MeTFCY0RnN0U0dUVSeW9HOWtrWTRVa0RFNmhmbkZxVFBqc0h6VDVRSUNaZnA4OEgxMTVhN0xV?oc=5",
+      "snippet": "The ADC patent cliff: a turning point for rare cancer treatment｜Beyond Biotech&nbsp;&nbsp;finance.biggo.com",
+      "matched_query": "ADC patent dispute"
+    },
+    {
+      "title": "专访伟杰信生物创始人罗昊澍：告别技术追随，未来五年中国动物创新药将迎来关键窗口期 - 京报网",
+      "source": "京报网",
+      "date": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yRFhhVW9fT2E5ZGsxdzBab0pHS2lVWmJfTFoxQThTQ0cyUG5iUHJqVmg2d1pEQVk2czJoN291TjIySTB4V0FmenRFbEVONXQxc3N6amZlWFdGYzJJNVhfdXpBNTNMNUNzX3NfWkJIY1FsQQ?oc=5",
+      "snippet": "专访伟杰信生物创始人罗昊澍：告别技术追随，未来五年中国动物创新药将迎来关键窗口期&nbsp;&nbsp;京报网",
+      "matched_query": "重组蛋白 抗体 专利 授权"
+    },
+    {
+      "title": "浙江医药(600216):浙江医药关于注射用NCB005获得药物临床试验批准通知书 - 中财网",
+      "source": "中财网",
+      "date": "Mon, 23 Nov 2026 10:07:13 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ybzdvSmx3RlU1aDVwU3pEZ2tUZV9LVEdMRExBbVZ5aXdOTG9SZU9KYXlPbnZ6LXVFUjJLOEVoQ0VmMGN1dVI4bldrcXRCSHR6dWFYdVNR?oc=5",
+      "snippet": "浙江医药(600216):浙江医药关于注射用NCB005获得药物临床试验批准通知书&nbsp;&nbsp;中财网",
+      "matched_query": "抗体药物 审批 临床 2026"
+    },
+    {
+      "title": "生物类似药集采申报在即，百亿市场竞争格局或生变丨健解 - 东方财富网",
+      "source": "东方财富网",
+      "date": "Mon, 23 Nov 2026 07:55:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80Vy10X2xfWkU2V3RUQmFwZlJkb2lDMnQ5TXQ3Z3hkd1YxM3hhWENXVXlUY0dsOXN1Zk9KSVZXSklmWmhWWVh6ZGFrYmRvcUd5emVHdGRVaXU4MFFUbndkUVdnaHpUQQ?oc=5",
+      "snippet": "生物类似药集采申报在即，百亿市场竞争格局或生变丨健解&nbsp;&nbsp;东方财富网",
+      "matched_query": "生物类似药 上市 进展"
+    },
+    {
+      "title": "AI改写生命规则！斯坦福突破引爆A股，重组蛋白赛道强势拉升 - 中金在线",
+      "source": "中金在线",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrWTRYM0ltNW9QWFpQek9PdUgtMUZPY0lBRDQxcmRfRGY1b25BN1M3NUo4Z2c3dXVfajIyNkVyVnY1eHl6ZWlXZlF5a290bGhUa0gxc2xhTzJmZmVVSmpSYUpqWkUzOGFB?oc=5",
+      "snippet": "AI改写生命规则！斯坦福突破引爆A股，重组蛋白赛道强势拉升&nbsp;&nbsp;中金在线",
+      "matched_query": "重组蛋白 药物 研发"
+    },
+    {
+      "title": "翰宇药业HY3003获FDA临床许可！国产GLP-1/GIP/GCGR三重激动剂出海提速，减重效果优于替尔泊肽 - 摩熵医药",
+      "source": "摩熵医药",
+      "date": "Mon, 09 Nov 2026 07:34:53 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxRWpwSzRiMW16Z2xPaEtGMWxnNEdfX3UtZ0YxaDl3emNjanJsWEtuakFlTkk3RkdLNnJtSlZKajQzR0l0MGNVOUZlaTItNUZzYmVtdkdISQ?oc=5",
+      "snippet": "翰宇药业HY3003获FDA临床许可！国产GLP-1/GIP/GCGR三重激动剂出海提速，减重效果优于替尔泊肽&nbsp;&nbsp;摩熵医药",
+      "matched_query": "GLP-1 多肽药物 审批"
+    },
+    {
+      "title": "FDA Approves Livsayis, Regeneron's First siRNA Therapy for Myasthenia Gravis - Pharmaceutical Executive",
+      "source": "Pharmaceutical Executive",
+      "date": "Thu, 19 Nov 2026 16:34:30 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHdMRjVKLU1teGVnSkExVER0bEsxWFZDZHhxUnRNcWZmOWx1aFQ0QTl3SUJsYld1c2Yyc0NXMlVIZ3JYelUwb0xqNjh2Q3p6VzRJdnVpaUk1Tk0tbGVwcFg1LUh5aW1ISmdFTTVVNFhSaHh4U0t5SlZ4eTllLXZXWlkxd1FiRW5OTWUzTFRqY29vRWJ1?oc=5",
+      "snippet": "FDA Approves Livsayis, Regeneron's First siRNA Therapy for Myasthenia Gravis&nbsp;&nbsp;Pharmaceutical Executive",
+      "matched_query": "monoclonal antibody FDA approval"
+    },
+    {
+      "title": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial - Nature",
+      "source": "Nature",
+      "date": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9md0l5T1h6ZmJLRWtlVXUwRTRQZVNabmJvTnkzcUh0QXdjLTFpR3dMeHhHU1BMSEM1T0R0NlozcEY3SFpOSkNQdlpncDNxVGIxdEhrTDVXd3RIZ0FRYnZZ?oc=5",
+      "snippet": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial&nbsp;&nbsp;Nature",
+      "matched_query": "bispecific antibody clinical trial"
+    },
+    {
+      "title": "Study Identifies Serious Infection Risks Linked to Antibody-Drug Conjugates - The ASCO Post",
+      "source": "The ASCO Post",
+      "date": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDB1V3NwUTkzYlgyVFEwWHZjc3ZieUxyMFRNWDk3MkIzM3l1S0dobzhlVElfbVBMU20wcGlINDNhSWd2eFpnRGlUY2xWUVNlekh3OFFSRlhHZl9BaHBwdnpkTk85LWpOdFRFSkVseGptYUg2anp5RTkxRzJKY3FQQmZWTndNdWM5T0NCdWdwWnR3VUxNRzk5X0dFeGdKRmFqNzFld09UWTZfYXVEeDNfLW9B?oc=5",
+      "snippet": "Study Identifies Serious Infection Risks Linked to Antibody-Drug Conjugates&nbsp;&nbsp;The ASCO Post",
+      "matched_query": "ADC antibody drug conjugate news"
+    },
+    {
+      "title": "Unlocking cell surface protein research with site-specific labeling - BioSpace",
+      "source": "BioSpace",
+      "date": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnpkOHk1MERTV1NwSHMxN21oc3hWS1NpNnhwVS1RMHlWeDhRakxyemtGNGYtUmhPUjloZC1Wam42blctaVFMaXFOdHg1dzRud2RvcThLLUpPNHlmbV80Tzc5SjdnV0lsYkI1UXgtZ1NsZ1VrVGdvUVZXQ0dxams2Y094LXhrQXBfUzVjVW9vSTJjbHpRZTM4?oc=5",
+      "snippet": "Unlocking cell surface protein research with site-specific labeling&nbsp;&nbsp;BioSpace",
+      "matched_query": "recombinant protein therapeutic approval"
+    },
+    {
+      "title": "Secukinumab biosimilar approval to intensify competition in IL-17A inhibitor class in China - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "date": "Fri, 20 Nov 2026 09:43:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDBEYUF5YzhhLXJlTThEZWhnblA3WGlSUGxzZ05CYWJhWGVWODNjQ2VsZWhoOXJXSDNkSmNVR0RDcG1vbWpSd2lGdVFQVFpOcURJMkJqZ3c5SkFzTHVRZXM5bzR2TkZUdm95bjNVQ0lyV1hMMV92Njc1ZU5QbnYtRU12UTZkbVZ4Z0NCYm4zMkRGQ3VJTFFCOVRSbTVzZndzWjQwM29BdzZUeHZpOEJET0dSZHpkLV9mbXJkaXV2R0lzbTB6clNjT1dqbDJRdU5Ca0pWLTdMQQ?oc=5",
+      "snippet": "Secukinumab biosimilar approval to intensify competition in IL-17A inhibitor class in China&nbsp;&nbsp;The Pharma Letter",
+      "matched_query": "biosimilar approval"
+    },
+    {
+      "title": "DW News. . Drugs used for weight loss like Ozempic, Wegovy, and Mounjaro are changing how people spend their money beyond food purchases — and causing a ripple effect across other industries. Even if you may not be taking GLP-1 injections to shed kil - Facebook",
+      "source": "Facebook",
+      "date": "Mon, 23 Nov 2026 09:29:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMjE3VktqSXpaM3JBNXJaRjk2LVhFbXZXVmhMMks5ZkFPUUJWWjJSaGZkRFVrcHZEMUEzR3FBTjduY3ZaSE12dGdnemJacFZVVkVwWVZfQzR4ei02NkhWZWpIanQ5NC1NXy11V2d0QTFnYnBlR3R0eUZzQlZmTHA5NjZPUWc0VnFxQ3p6dnNHQV92RF9vdW5vMWltTk5WclJkMk1JajZCR1ktd3FneE1OQlZrT3BwRkFyVkdfRGk1ellNUVBVYi1kYkF4cUFjMkEzTElzMkpaLS1jaE1yRG9QbzRB?oc=5",
+      "snippet": "DW News. . Drugs used for weight loss like Ozempic, Wegovy, and Mounjaro are changing how people spend their money beyond food purchases — and causing a ripple effect across other industries. Even if you may not be taking GLP-1 injections to shed kil&nbsp;&nbsp;Facebook",
+      "matched_query": "GLP-1 drug FDA approval"
+    },
+    {
+      "title": "Tirzepatide Beats Semaglutide for Weight Loss, Not Safety - Medscape",
+      "source": "Medscape",
+      "date": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc0U0N0NsSTJlc010d0dkUWdiYTE0LWFMbk96cjhIOWNrUlhvUWpXSVRCbVNIZHZBYUx3aW5TYllkQkNEM0ZTcHVFQl9lcHVianptNl9kaHBoYUozaWw1NWRmdlRfRzF3eWlQTDJ0SDlwUEdCYTZteWRQOUlHWS1Va3A5MjVnalJBRlpXSHplR293VGdKZXo5T1NWUFpfb19jQkNhanNsUQ?oc=5",
+      "snippet": "Tirzepatide Beats Semaglutide for Weight Loss, Not Safety&nbsp;&nbsp;Medscape",
+      "matched_query": "semaglutide tirzepatide news"
+    },
+    {
+      "title": "Peptide Therapies Are Everywhere. What Are They Exactly? - Right as Rain by UW Medicine",
+      "source": "Right as Rain by UW Medicine",
+      "date": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVR0QzNIaWFraXB4SjRJR1dtc2lkTjNXLXFac2Z2STVjMkl6ZDU1RXZOOHMzbjNNeUo5Z1NsOUx6UkIyR0FoYUhVMkhmZm5vdnFISnNTZ0x1SnlnTXlldERJWlh3X0tqbmgwN3Y4aGVCd0xyeEVKSi01QnF1UzQ3aUY2c1dZSU0?oc=5",
+      "snippet": "Peptide Therapies Are Everywhere. What Are They Exactly?&nbsp;&nbsp;Right as Rain by UW Medicine",
+      "matched_query": "peptide therapeutic clinical trial"
+    }
+  ]
 }
