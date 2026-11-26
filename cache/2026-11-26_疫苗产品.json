@@ -2,7 +2,7 @@
   "date": "2026-11-26",
   "topic": "疫苗产品",
   "total": 24,
-  "total_raw": 93,
+  "total_raw": 87,
   "items": [
     {
       "title": "Biotech firm predicts its antibody injections could compete with COVID vaccines - CIDRAP",
@@ -34,7 +34,7 @@
       "date": "Wed, 19 Jul 2023 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CaWRJVHJvX203X2hmbkRYZjctek9GQlVJSF9reUpCcXF6bWpuZzEyWGtwTzVPVUtVUFdLQnlDbExFU25oS0ItbXRQbmdqWjIySzFwV0JmTHB0cDZnbGVj?oc=5",
       "snippet": "Vaccine adjuvants: mechanisms and platforms - Signal Transduction and Targeted Therapy&nbsp;&nbsp;Nature",
-      "matched_query": "vaccine adjuvant novel adjuvant system"
+      "matched_query": "AS01 AS03 MF59 CpG adjuvant"
     },
     {
       "title": "What Do Pfizer (PFE) Investors Need To Know About The New Patent Lawsuits? - Yahoo Finance",
@@ -43,14 +43,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2VCRkFvXzhPWEVMeDZhSnRLRkJqVmplcUdFT3Y5TzlyWTQwYldfZXpNOW01RFZ2WHdJTHRsby13akxha3JEQml0R01TbmpQeW1xY1A0ZEJuaVZmc3pGSXpaVUU3dEptR2NPYXNmNUtjTE0zMEY4N0RPV2VjaS1DVXVCd1dlMmphRHUwaGF1NDNJTGpIbTZrdw?oc=5",
       "snippet": "What Do Pfizer (PFE) Investors Need To Know About The New Patent Lawsuits?&nbsp;&nbsp;Yahoo Finance",
       "matched_query": "mRNA vaccine patent lipid nanoparticle"
-    },
-    {
-      "title": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021 - Nature",
-      "source": "Nature",
-      "date": "Sat, 28 Dec 2024 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eGNjU1RxSFdxWTNqTGRZMk4zUHo1UWFLUW9NbkVCa19GU25EcVlrSFA0eVBmdlhRU19DNU0wMHlPdFI4Ql9uUF9admwtWkdldUF2RFM1SkVxNWFZM0lF?oc=5",
-      "snippet": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021&nbsp;&nbsp;Nature",
-      "matched_query": "vaccine adjuvant patent"
     },
     {
       "title": "CureVac sues Moderna for patent infringement over COVID-19 vaccines - Reuters",
@@ -77,11 +69,19 @@
       "matched_query": "Moderna LNP patent settlement Arbutus Genevant"
     },
     {
-      "title": "RNA QC Kits Market To 2035: Mrna Vaccine Release Testing Demand Supports Forward Growth - News and Statistics - IndexBox",
-      "source": "IndexBox",
-      "date": "Sun, 22 Nov 2026 13:31:05 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMERzUnVDbkRyRHpQZjR2QkxoSnRGcTJvYzFWTTV2NTVzQTV3TEJhVlBXZDljVDgwRHl3akxWb29ZLUhIZTlBd0llZzlYSTdnNGo5dVhZZW5JSTU4V1FUUjM0T1VXaHEzUlF2bzNaQlJiUkxTTTRGQ0pVVGNOUm5PcVI4TzcwMlRCYzhPWWhFMU10V1pxSFBOYWpkdFV1TjNRSTdlcmVnMVNGNVVyNmFVUjBYclY1cUMzQUE?oc=5",
-      "snippet": "RNA QC Kits Market To 2035: Mrna Vaccine Release Testing Demand Supports Forward Growth - News and Statistics&nbsp;&nbsp;IndexBox",
+      "title": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021 - Nature",
+      "source": "Nature",
+      "date": "Sat, 28 Dec 2024 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eGNjU1RxSFdxWTNqTGRZMk4zUHo1UWFLUW9NbkVCa19GU25EcVlrSFA0eVBmdlhRU19DNU0wMHlPdFI4Ql9uUF9admwtWkdldUF2RFM1SkVxNWFZM0lF?oc=5",
+      "snippet": "Enhancing antibody levels and T cell activity of quadrivalent influenza vaccine by combining it with CpG HP021&nbsp;&nbsp;Nature",
+      "matched_query": "vaccine adjuvant China patent authorization"
+    },
+    {
+      "title": "mRNA Therapeutics Market Size to Hit USD 83.49 Billion by 2035 - BioSpace",
+      "source": "BioSpace",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYkh1OUZybE9pRlZnZ0pQejIyTGJqcHB3V2tYNDNpX1VRWjh3bDBYUnF5a3VTREpHY3RWN0ltWVlKTlJuaFlGdlVLNnFjR2lEQXFxd3NYQTBNdXRoWGFZQmtKTVVobzFSZ2NGeUVGSVJZZU9YZElvT1FObGJTTzZ0WkJtQVZHa0duakV2TDlGcFdZTmR5Nk5XbVZzV3lxQUk0dmY1UQ?oc=5",
+      "snippet": "mRNA Therapeutics Market Size to Hit USD 83.49 Billion by 2035&nbsp;&nbsp;BioSpace",
       "matched_query": "mRNA vaccine market size forecast 2026"
     },
     {
@@ -133,11 +133,11 @@
       "matched_query": "疫苗 佐剂 专利 授权 2026"
     },
     {
-      "title": "跨欧洲长臂管辖禁令！UPC认定BioNTech、辉瑞等侵权 - Sohu",
-      "source": "Sohu",
-      "date": "Mon, 16 Nov 2026 12:24:04 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdGX25IVUJ3azk1T1N4RWcyZ2VoT3hqbVA2bDhzMW10bS1SZGc0V0NRY0paMWZpNmpoRG1xYjZ6c3AteDZCWEMtNS11Qm5HVGt3NmZtUy1relVCbk5mZGxjdFpEVWlLcm9peVk5c1U0RHM2YWJRR0E4b0hDVXZLa1NtTEZXdFJMNG5DZA?oc=5",
-      "snippet": "跨欧洲长臂管辖禁令！UPC认定BioNTech、辉瑞等侵权&nbsp;&nbsp;Sohu",
+      "title": "制药史上最高?! Moderna 22.5亿美元解新冠疫苗LNP专利诉讼 - 中国医药创新促进会",
+      "source": "中国医药创新促进会",
+      "date": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WVXNfWkdwZ2xOaTlmYUNMaWdGSTFDVVgwQ3lma3dTODZTY09jeUNkQlNBUE1zdWI3ZDhpWU5aV2wyeGxwYTBaNzEtSWdoUU9LZGMwbEgyZEdkNjJZSFZnQ3RmQXE0cDFOQV9CUGNMWTJjYnpZcHFZWWhn?oc=5",
+      "snippet": "制药史上最高?! Moderna 22.5亿美元解新冠疫苗LNP专利诉讼&nbsp;&nbsp;中国医药创新促进会",
       "matched_query": "mRNA 疫苗 专利 诉讼"
     },
     {
@@ -157,11 +157,11 @@
       "matched_query": "vaccine FDA approval clinical trial"
     },
     {
-      "title": "Making mRNA in Latin America: Brazil’s new vaccine platform heads into human trials - CEPI",
-      "source": "CEPI",
-      "date": "Wed, 28 Oct 2026 10:01:49 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTZROWFLOHNMLU5YLVNMdmpIZ2c3VGc2VWNmQmdwVHZMT1A0bmdqbW5DdnYtVk9VUDE2YnA0eWRNdl9pa0JvcGYwN2N5TnNjSl9sXzdKdXhEeG80a2QyXzd1WjNZV3k2dm9nSW45ckFXRWVFdVBYdzVycFFPaWFWNjJnLThFbFBGLVkxRDdocUtOa2Q3N3ZuRHRzejdNN0xfZUEtTnlIRHhqVldDQzRPMEpkdw?oc=5",
-      "snippet": "Making mRNA in Latin America: Brazil’s new vaccine platform heads into human trials&nbsp;&nbsp;CEPI",
+      "title": "How the mRNA Flu Vaccine Compares to Traditional Shots - Johns Hopkins Bloomberg School of Public Health",
+      "source": "Johns Hopkins Bloomberg School of Public Health",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDJ0TV9LRU0xQ0xxVFVsTEtsMmM0b3IwVGFFRzMxT1R0UE1kT0xpZV9BNnhURkpUUUtRS21uRFdpd1BJeVZqdkdxZ2dyT0k3X1BGaFEwSUh6cmZtR1pCNnc2QnMxUUs5eGw0dnlSeWtWdk9JV2R1TDR6R2dlUjlKeFo5UkswOTIxWS1NaVUxSWIwZw?oc=5",
+      "snippet": "How the mRNA Flu Vaccine Compares to Traditional Shots&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public Health",
       "matched_query": "mRNA vaccine new development"
     },
     {
@@ -171,14 +171,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSWlhZmpyamJ5UkFjU1d4UDBEck1zVGdlMGpaVG54WHNJY1NaS1BEcmloRXJvdm9KSFNxWmEwQjYyWFRUMXJUdFdwTld4V1ROVDdNZFVNYnZWWDVmcHpPM1pIc0JzNUt5V2pYdUI1OW9XQ0tyRk16MU9rbW9FSE42VlM2bjlrWlo2ZlVoSjA0WlJuUDhwb05kNlhoTUZNZHlVN2lWUUpOSlZPTzZ2NVhrWEppTHhNODR5T2ZnUUlGdDJ3M1pXVzNSejNXQ0pxUmprZnF2UEZyeUxOOThC?oc=5",
       "snippet": "Triple Play: Lilly Acquires Three Developers of Infectious Disease Vaccines for Up-to-$3.8B&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
       "matched_query": "VLP vaccine pipeline"
-    },
-    {
-      "title": "New-age vaccine adjuvants, their development, and future perspective - Frontiers",
-      "source": "Frontiers",
-      "date": "Fri, 24 Feb 2023 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFVURFJiWmx1MzJrUEUyRzFaYVVUQWczdG1YU0hXeFJzeDFaOVVpNndENzR0cU5xMjJaaWtBTV8wcVdMX0RsR0xzNWFOSG04aVZrdHJaZWhqRUhQX1RHVDhCWER4dFhlQldfQXlmSTJMTEd1TU5sNTFjYlhabVZfeWtCaGt1MGduSnZDa3A5N3oxUQ?oc=5",
-      "snippet": "New-age vaccine adjuvants, their development, and future perspective&nbsp;&nbsp;Frontiers",
-      "matched_query": "vaccine adjuvant novel adjuvant system"
     },
     {
       "title": "The recent advances in vaccine adjuvants - Frontiers",
@@ -195,6 +187,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3V2clF1LUloc1lzRUR2NTJxVFdPOXluTnlQSUI3MjlVVzkzUk9ndkw5WExtZVJUeFg2TktINGV2dnJybTUxNENfaHUwQ0tEVHVaXzFTY3VCYTlabGRhWE5nODlZenZkeWNndnVzZ2Fzd2tmVWRRaEQ1LXBsZS1GTXQ0NGN5ZXJaQlZuRVRiaHk3czgzOUp4ckctMVdndnBtRmdXYXJiZFhERjg?oc=5",
       "snippet": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas&nbsp;&nbsp;Fierce Pharma",
       "matched_query": "mRNA vaccine patent lipid nanoparticle"
+    },
+    {
+      "title": "No evidence vaccines cause peanut allergies - AFP Fact Check",
+      "source": "AFP Fact Check",
+      "date": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83NHJVU1NULU9nWlJBcE5yeTFjdGNySnVRWWhKWWt5bzUwZ2pUMVhpWUVmdzhOMTRILTlDN285X2FYa2JWYTZiZFVkZEd5TzNGbm1XWmxLVDc?oc=5",
+      "snippet": "No evidence vaccines cause peanut allergies&nbsp;&nbsp;AFP Fact Check",
+      "matched_query": "vaccine adjuvant patent"
     }
   ]
 }
